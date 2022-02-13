@@ -1,42 +1,28 @@
 [
     {
-		"title": "Planet Cloud Gaming",
-		"description": "A Indian cloud gaming is here with Planet Cloud Gaming. Have you ever imagined playing Gta 5, Cyberpunk 2077, RDR2 etc High end graphic on your smartphone? Now that’s possible, Planet Cloud Gaming is a cloud gaming platform you can actually play on, PC games are hosted and streamed by Planet Cloud Gaming. They’re playable instantly, on android, soon for ios and smart tv , with no downloads required.",
-		"price": 50.0,
-		"discount": 40.0,
-		"type": "2 Hours",
+		"title": "Prime Video",
+		"description": "Prime Video Streaming Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after complete the payment we will provide your order in Order Section within 15~30 minutes.",
+		"price": 8.0,
+		"discount": 5.0,
+		"type": ["DAY", "WEEK"],
 		"image": "https://i.ibb.co/374BxT4/circle-icon.png",
 		"stock": "Stock",
-		"category": "Gaming",
+		"category": "Entertainment",
 		"id": 1,
 		"color": "blue",
-		"coin": 600,
 		"info": "LT1FyaNFFkc"
 	},
 	{
-		"title": "Planet Cloud Gaming",
-		"description": "A Indian cloud gaming is here with Planet Cloud Gaming. Have you ever imagined playing Gta 5, Cyberpunk 2077, RDR2 etc High end graphic on your smartphone? Now that’s possible, Planet Cloud Gaming is a cloud gaming platform you can actually play on, PC games are hosted and streamed by Planet Cloud Gaming. They’re playable instantly, on android, soon for ios and smart tv , with no downloads required.",
-		"price": 170.0,
+		"title": "Netflix",
+		"description": "Netflix Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 10.0,
 		"discount": 160.0,
-		"type": "24 Hours",
+		"type": ["DAY", "WEEK"],
 		"image": "https://i.ibb.co/374BxT4/circle-icon.png",
 		"stock": "Stock",
 		"category": "Gaming",
 		"id": 2,
 		"color": "blue",
-		"coin": 6000,
 		"info": "LT1FyaNFFkc"
-	},
-	{
-		"title": "Parsec Gaming",
-		"description": "Parsec Gaming on Gaming GPU server provide by us, you can choose for which time period you want to use this is for PC and Android Gamepad Users, our dream to provide best to you, after payment complete we provide you credential in Order Section within 15~30 minutes.",
-		"price": 3100,
-		"image": "https://i.ibb.co/nLBq8n8/parsec.png",
-		"stock": "Stock",
-		"id": 3,
-		"type": "Monthly",
-		"color": "blue",
-		"coin": 75000,
-		"info": "SlF4SGLK16o"
 	}
 ]
