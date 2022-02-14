@@ -15,8 +15,8 @@
 	{
 		"title": "Netflix",
 		"description": "Netflix Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
-		"price": 10.0,
-		"discount": 160.0,
+		"price": 20.0,
+		"discount": 10.0,
 		"type": "DAY",
 		"image": "https://i.ibb.co/H2wjGBk/netflix.png",
 		"stock": "Stock",
