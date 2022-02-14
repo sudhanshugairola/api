@@ -15,8 +15,8 @@
 	{
 	        "title": "Prime Video",
 		"description": "Prime Video Streaming Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after complete the payment we will provide your order in Order Section within 15~30 minutes.",
-		"price": 8.0,
-		"discount": 5.0,
+		"price": 30.0,
+		"discount": 20.0,
 		"type": "Week",
 		"image": "https://i.ibb.co/JKhDy3z/prime.png",
 		"stock": "Stock",
