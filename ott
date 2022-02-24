@@ -21,7 +21,7 @@
 		"image": "https://i.ibb.co/JKhDy3z/prime.png",
 		"stock": "Stock",
 		"category": "Entertainment",
-		"id": 1,
+		"id": 2,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -34,7 +34,7 @@
 		"image": "https://i.ibb.co/H2wjGBk/netflix.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 3,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -47,7 +47,7 @@
 		"image": "https://i.ibb.co/H2wjGBk/netflix.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 4,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -60,7 +60,7 @@
 		"image": "https://i.ibb.co/pJ8VF8q/U4-Op2-KW-removebg-preview.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 5,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -72,7 +72,7 @@
 		"image": "https://i.ibb.co/pJ8VF8q/U4-Op2-KW-removebg-preview.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 6,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -85,7 +85,7 @@
 		"image": "https://i.ibb.co/dWcKqFF/sonyliv-removebg-preview.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 7,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	},
@@ -98,7 +98,7 @@
 		"image": "https://i.ibb.co/dWcKqFF/sonyliv-removebg-preview.png",
 		"stock": "Stock",
 		"category": "Gaming",
-		"id": 2,
+		"id": 8,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
 	}
