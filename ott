@@ -75,5 +75,31 @@
 		"id": 2,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
+	},
+	{
+		"title": "Sonyliv",
+		"description": "SonyLiv Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 10.0,
+		"discount": 5.0,
+		"type": "Day",
+		"image": "https://i.ibb.co/dWcKqFF/sonyliv-removebg-preview.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 2,
+		"color": "blue",
+		"info": "LT1FyaNFFkc"
+	},
+	{
+		"title": "Sonyliv",
+		"description": "Hotstar Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 20.0,
+		"discount": 10.0,
+		"type": "Week",
+		"image": "https://i.ibb.co/dWcKqFF/sonyliv-removebg-preview.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 2,
+		"color": "blue",
+		"info": "LT1FyaNFFkc"
 	}
 ]
