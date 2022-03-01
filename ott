@@ -101,5 +101,31 @@
 		"id": 8,
 		"color": "blue",
 		"info": "LT1FyaNFFkc"
+	},
+	{
+		"title": "Zee5",
+		"description": "Zee5 Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 7.0,
+		"discount": 3.0,
+		"type": "Day",
+		"image": "https://i.ibb.co/tZtCJQY/ZEE5-1.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 9,
+		"color": "blue",
+		"info": "LT1FyaNFFkc"
+	},
+	{
+		"title": "Zee5",
+		"description": "Zee5 Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 15.0,
+		"discount": 10.0,
+		"type": "Week",
+		"image": "https://i.ibb.co/tZtCJQY/ZEE5-1.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 10,
+		"color": "blue",
+		"info": "LT1FyaNFFkc"
 	}
 ]
