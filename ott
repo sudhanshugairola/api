@@ -10,7 +10,7 @@
 		"category": "Entertainment",
 		"id": 1,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "t4B2Zs_pdc4"
 	},
 	{
 	        "title": "Prime Video",
@@ -23,7 +23,7 @@
 		"category": "Entertainment",
 		"id": 2,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "t4B2Zs_pdc4"
 	},
 	{
 		"title": "Netflix",
@@ -36,10 +36,10 @@
 		"category": "Gaming",
 		"id": 3,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "null"
 	},
 	{
-		"title": "Netflix",
+		"title": "Netflix Pc",
 		"description": "Netflix Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
 		"price": 50.0,
 		"discount": 20.0,
@@ -49,7 +49,7 @@
 		"category": "Gaming",
 		"id": 4,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "null"
 	},
 	{
 		"title": "Hotstar",
@@ -62,7 +62,7 @@
 		"category": "Gaming",
 		"id": 5,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "0UfxzcpOiXM"
 	},
 	{
 		"title": "Hotstar",
@@ -74,7 +74,7 @@
 		"category": "Gaming",
 		"id": 6,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "0UfxzcpOiXM"
 	},
 	{
 		"title": "Sonyliv",
@@ -87,7 +87,7 @@
 		"category": "Gaming",
 		"id": 7,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "l1waYzjShOk"
 	},
 	{
 		"title": "Sonyliv",
@@ -100,7 +100,7 @@
 		"category": "Gaming",
 		"id": 8,
 		"color": "blue",
-		"info": "LT1FyaNFFkc"
+		"info": "l1waYzjShOk"
 	},
 	{
 		"title": "Zee5",
@@ -113,7 +113,7 @@
 		"category": "Gaming",
 		"id": 9,
 		"color": "blue",
-		"info": "null"
+		"info": "ElvROICqueE"
 	},
 	{
 		"title": "Zee5",
@@ -126,6 +126,6 @@
 		"category": "Gaming",
 		"id": 10,
 		"color": "blue",
-		"info": "null"
+		"info": "ElvROICqueE"
 	}
 ]
