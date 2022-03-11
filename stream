@@ -58,29 +58,6 @@
 	    "genres": "Science Fiction, Adventure, Comedy",
 	    "releaseDate": "2022",
 	    "cast": "Ryan Reynolds, Walker Scobell, Mark Ruffalo... more"
-	},
-	{
-	    "id": "6",
-	    "name": "Lucifer",
-	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
-	    "ageRestriction": "16",
-	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-	    "genres": "Crime, Sci-Fi & Fantasy",
-	    "releaseDate": "2016",
-	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
-	},
-	{
-	    "id": "7",
-	    "name": "Lucifer",
-	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
-	    "ageRestriction": "16",
-	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-	    "genres": "Crime, Sci-Fi & Fantasy",
-	    "releaseDate": "2016",
-	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
 	}
+	
 ]
