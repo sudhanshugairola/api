@@ -6,10 +6,10 @@
 	    "ageRestriction": "13",
 	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
 	    "series": "not",
-	    "thumbnailImageId": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ddc60674-6635-4389-99b5-bf33dfe9f049/deugz5i-7c2e848a-cdc4-4085-b625-34c5f9025428.png",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
 	    "genres": "Action, Comedy, Crime, Thriller",
 	    "releaseDate": "2021",
-	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt"
+	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
 	},
 	{
 	    "id": "2",
@@ -21,6 +21,66 @@
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
 	    "genres": "Crime, Sci-Fi & Fantasy",
 	    "releaseDate": "2016",
-	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt"
+	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
+	},
+	{
+	    "id": "3",
+	    "name": "Vikings: Valhalla",
+	    "description": "In this sequel to "Vikings," a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
+	    "ageRestriction": "18",
+	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg",
+	    "genres": "Action & Adventure, Drama, War & Politics",
+	    "releaseDate": "2022",
+	    "cast": "Sam Corlett, Leo Suter, Jóhannes Haukur Jóhannesson... more"
+	},
+	{
+	    "id": "4",
+	    "name": "Money Heist",
+	    "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+	    "ageRestriction": "16",
+	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+	    "genres": "Crime, Drama",
+	    "releaseDate": "2017",
+	    "cast": "Úrsula Corberó, Álvaro Morte, Itziar Ituño... more"
+	},
+	{
+	    "id": "5",
+	    "name": "The Adam Project",
+	    "description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
+	    "ageRestriction": "13",
+	    "video": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sI3hQMTyrF9F8jU1qA8qPHLKCgG.jpg",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+	    "genres": "Science Fiction, Adventure, Comedy",
+	    "releaseDate": "2022",
+	    "cast": "Ryan Reynolds, Walker Scobell, Mark Ruffalo... more"
+	},
+	{
+	    "id": "6",
+	    "name": "Lucifer",
+	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+	    "ageRestriction": "16",
+	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+	    "genres": "Crime, Sci-Fi & Fantasy",
+	    "releaseDate": "2016",
+	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
+	},
+	{
+	    "id": "7",
+	    "name": "Lucifer",
+	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+	    "ageRestriction": "16",
+	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+	    "genres": "Crime, Sci-Fi & Fantasy",
+	    "releaseDate": "2016",
+	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
 	}
 ]
