@@ -6,16 +6,6 @@
 	    "ageRestriction": "13",
 	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
 	    "series": "not",
-	    "seriess":[
-            {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "OP"
-            },
-            {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "SP"
-            }
-        ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
 	    "genres": "Action, Comedy, Crime, Thriller",
 	    "releaseDate": "2021",
