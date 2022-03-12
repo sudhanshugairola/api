@@ -19,8 +19,7 @@
 	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
 	    "series": "yes",
         "seriess":[
-            {
-                "1": [
+	[
                     {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -31,10 +30,9 @@
                     "stitle": "The King of Demon",
                     "stime": ""
                 }
-            ]
-            },
+            ],
             {
-                "2": [
+                 [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -62,7 +60,7 @@
 	    "series": "yes",
         "seriess":[
             {
-                "1": [
+               [
                     {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -76,7 +74,7 @@
             ]
             },
             {
-                "2": [
+                [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -104,7 +102,7 @@
 	    "series": "yes",
         "seriess":[
             {
-                "1": [
+                 [
                     {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -118,7 +116,7 @@
             ]
             },
             {
-                "2": [
+                 [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
