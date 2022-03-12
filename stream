@@ -20,12 +20,32 @@
 	    "series": "yes",
         "seriess":[
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "OP"
+                "1": [
+                    {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             },
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "SP"
+                "2": [
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             }
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
@@ -42,12 +62,32 @@
 	    "series": "yes",
         "seriess":[
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "OP"
+                "1": [
+                    {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             },
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "SP"
+                "2": [
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             }
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg",
@@ -64,12 +104,32 @@
 	    "series": "yes",
         "seriess":[
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "OP"
+                "1": [
+                    {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             },
             {
-                "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
-                "sdescription": "SP"
+                "2": [
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The Rise of Rich",
+                    "stime": ""
+                },
+                {
+                    "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
+                    "stitle": "The King of Demon",
+                    "stime": ""
+                }
+            ]
             }
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
