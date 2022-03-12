@@ -31,7 +31,6 @@
                     "stime": ""
                 }
             ],
-            {
                  [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
@@ -44,7 +43,6 @@
                     "stime": ""
                 }
             ]
-            }
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
 	    "genres": "Crime, Sci-Fi & Fantasy",
@@ -59,7 +57,7 @@
 	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
 	    "series": "yes",
         "seriess":[
-            {
+            
                [
                     {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
@@ -71,10 +69,8 @@
                     "stitle": "The King of Demon",
                     "stime": ""
                 }
-            ]
-            },
-            {
-                [
+            ], 
+              [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -86,7 +82,7 @@
                     "stime": ""
                 }
             ]
-            }
+            
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg",
 	    "genres": "Action & Adventure, Drama, War & Politics",
@@ -101,7 +97,7 @@
 	    "video": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
 	    "series": "yes",
         "seriess":[
-            {
+            
                  [
                     {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
@@ -113,10 +109,8 @@
                     "stitle": "The King of Demon",
                     "stime": ""
                 }
-            ]
-            },
-            {
-                 [
+            ],
+            [
                 {
                     "svideos": "https://onedrive.live.com/download?cid=8377F4AF5241F9CB&resid=8377F4AF5241F9CB%21106&authkey=AMSOCwZYd7xihYI",
                     "stitle": "The Rise of Rich",
@@ -128,7 +122,7 @@
                     "stime": ""
                 }
             ]
-            }
+            
         ],
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
 	    "genres": "Crime, Drama",
