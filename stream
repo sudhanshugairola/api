@@ -1,6 +1,5 @@
 [
     {
-	    "id": "1",
 	    "name": "Red Notice",
 	    "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
 	    "ageRestriction": "13",
@@ -12,7 +11,6 @@
 	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
 	},
 	{
-	    "id": "2",
 	    "name": "Lucifer",
 	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
 	    "ageRestriction": "16",
@@ -50,7 +48,6 @@
 	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more"
 	},
 	{
-	    "id": "3",
 	    "name": "Vikings: Valhalla",
 	    "description": "In this sequel to Vikings, a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
 	    "ageRestriction": "18",
@@ -90,7 +87,6 @@
 	    "cast": "Sam Corlett, Leo Suter, Jóhannes Haukur Jóhannesson... more"
 	},
 	{
-	    "id": "4",
 	    "name": "Money Heist",
 	    "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
 	    "ageRestriction": "16",
@@ -130,7 +126,6 @@
 	    "cast": "Úrsula Corberó, Álvaro Morte, Itziar Ituño... more"
 	},
 	{
-	    "id": "5",
 	    "name": "The Adam Project",
 	    "description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
 	    "ageRestriction": "13",
