@@ -72,20 +72,20 @@
 	    "name": "Vikings: Valhalla",
 	    "description": "In this sequel to Vikings, a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
 	    "ageRestriction": "18",
-	    "video": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sp=r&st=2022-03-22T16:51:04Z&se=2022-03-23T00:51:04Z&spr=https&sv=2020-08-04&sr=b&sig=ru1U79wkhIq7%2BDep80au0YQfUY07%2BwNxKMDUIJxO6eE%3D",
+	    "video": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupx&se=2030-03-14T02:22:10Z&st=2022-03-13T18:22:10Z&spr=https,http&sig=lR%2FHjQWCtiwqEc4tHpIpuhhYjCjNzcHAtGT79ZuRBVc%3D",
 	    "series": "yes",
 	    "subtitle": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.CC.en.srt",
         "seriess":[
             
                [
                     {
-                    "svideos": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sp=r&st=2022-03-22T16:51:04Z&se=2022-03-23T00:51:04Z&spr=https&sv=2020-08-04&sr=b&sig=ru1U79wkhIq7%2BDep80au0YQfUY07%2BwNxKMDUIJxO6eE%3D",
+                    "svideos": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupx&se=2030-03-14T02:22:10Z&st=2022-03-13T18:22:10Z&spr=https,http&sig=lR%2FHjQWCtiwqEc4tHpIpuhhYjCjNzcHAtGT79ZuRBVc%3D",
                     "stitle": "The Rise of Valhalla s1",
                     "stime": "",
 		    "ssubtitle": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.CC.en.srt"
                 },
                 {
-                    "svideos": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sp=r&st=2022-03-22T16:51:04Z&se=2022-03-23T00:51:04Z&spr=https&sv=2020-08-04&sr=b&sig=ru1U79wkhIq7%2BDep80au0YQfUY07%2BwNxKMDUIJxO6eE%3D",
+                    "svideos": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.mp4?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupx&se=2030-03-14T02:22:10Z&st=2022-03-13T18:22:10Z&spr=https,http&sig=lR%2FHjQWCtiwqEc4tHpIpuhhYjCjNzcHAtGT79ZuRBVc%3D",
                     "stitle": "The King of Valhalla s1",
 		    "ssubtitle": "https://streamflix.blob.core.windows.net/streamflix/Vking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.CC.en.srt",
                     "stime": ""
