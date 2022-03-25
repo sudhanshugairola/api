@@ -127,5 +127,31 @@
 		"id": 10,
 		"color": "blue",
 		"info": "ElvROICqueE"
+	},
+	{
+		"title": "Cricket(IPL)",
+		"description": "The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 7.0,
+		"discount": 5.0,
+		"type": "Day",
+		"image": "https://i.ibb.co/MR5Lcw6/ipl.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 11,
+		"color": "blue",
+		"info": "ElvROICqueE"
+	},
+	{
+		"title": "Cricket(IPL)",
+		"description": "The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007, after payment complete we provide your order in Order Section within 15~30 minutes.",
+		"price": 150.0,
+		"discount": 50.0,
+		"type": "Season",
+		"image": "https://i.ibb.co/MR5Lcw6/ipl.png",
+		"stock": "Stock",
+		"category": "Gaming",
+		"id": 12,
+		"color": "blue",
+		"info": "ElvROICqueE"
 	}
 ]
