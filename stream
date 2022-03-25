@@ -63,7 +63,8 @@
                     "svideos": "https://streamflix.blob.core.windows.net/streamflix/Money Heist_S01E01_Episode 1.mp4?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupx&se=2030-03-14T02:22:10Z&st=2022-03-13T18:22:10Z&spr=https,http&sig=lR%2FHjQWCtiwqEc4tHpIpuhhYjCjNzcHAtGT79ZuRBVc%3D",
                     "stitle": "The King of Lucifer s3 last",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-                    "stime": "https://streamflix.blob.core.windows.net/streamflix/Lucifer_S01E01_Pilot.English (CC).srt"
+                    "stime": ""
+		    "ssubtitle": "https://streamflix.blob.core.windows.net/streamflix/Lucifer_S01E01_Pilot.English (CC).srt"
                 }
             ]
         ],
