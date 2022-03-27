@@ -17,38 +17,38 @@
 	    "name": "Lucifer",
 	    "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
 	    "ageRestriction": "16",
-	    "video": "lucifer/[S6.Ep4] Lucifer - Pin the Tail on the Daddy (2).mp4",
+	    "video": "/lucifer/[S6.Ep4] Lucifer - Pin the Tail on the Daddy (2).mp4",
 	    "series": "yes",
-	    "subtitle": "lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt",
+	    "subtitle": "/lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt",
         "seriess":[
 	[
                     {
-                    "svideos": "lucifer/Lucifer_S01E01_Pilot_1.mkv",
+                    "svideos": "/lucifer/Lucifer_S01E01_Pilot_1.mkv",
                     "stitle": "The Rise of Lucifer 1",
                     "stime": "",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
+		    "ssubtitle": "/lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
                 },
                 {
-                    "svideos": "lucifer/[S6.Ep4] Lucifer - Pin the Tail on the Daddy (2).mp4",
+                    "svideos": "/lucifer/[S6.Ep4] Lucifer - Pin the Tail on the Daddy (2).mp4",
                     "stitle": "The King of Lucifer 2",
                     "stime": "",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
+		    "ssubtitle": "/lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
                 },
 		{
                     "svideos": "Money Heist_S01E01_Episode 1.mp4",
                     "stitle": "The Rise of Lucifer 3",
                     "stime": "",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
+		    "ssubtitle": "/lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
                 },
                 {
-                    "svideos": "lucifer/Lucifer_S01E01_Pilot_1.mkv",
+                    "svideos": "/lucifer/Lucifer_S01E01_Pilot_1.mkv",
                     "stitle": "The King of Lucifer 4",
                     "stime": "",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
+		    "ssubtitle": "/lucifer/Lucifer_S01E01_Pilot.English%20(CC).srt"
                 }
             ],
                  [
@@ -79,24 +79,24 @@
 	    "name": "Vikings: Valhalla",
 	    "description": "In this sequel to Vikings, a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
 	    "ageRestriction": "18",
-	    "video": "viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
+	    "video": "/viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
 	    "series": "yes",
-	    "subtitle": "viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt",
+	    "subtitle": "/viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt",
         "seriess":[
             
                [
                     {
-                    "svideos": "viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
+                    "svideos": "/viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
                     "stitle": "The Rise of Valhalla s1",
                     "stime": "",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt"
+		    "ssubtitle": "/viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt"
                 },
                 {
-                    "svideos": "viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
+                    "svideos": "/viking/-S1.Ep1- Vikings - Valhalla - The Greenlanders.mp4",
                     "stitle": "The King of Valhalla s1",
 		    "simage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-		    "ssubtitle": "viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt",
+		    "ssubtitle": "/viking/-S1.Ep1-%20Vikings%20-%20Valhalla%20-%20The%20Greenlanders.CC.en.srt",
                     "stime": ""
                 }
             ], 
