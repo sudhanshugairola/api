@@ -52,7 +52,7 @@
 		"info": "null"
 	},
 	{
-		"title": "Hotstar",
+		"title": "Hotstar Premium IPL",
 		"description": "Hotstar Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies and TV shows and cricket, after payment complete we provide your order in Order Section within 15~30 minutes.",
 		"price": 10.0,
 		"discount": 5.0,
@@ -65,7 +65,7 @@
 		"info": "0UfxzcpOiXM"
 	},
 	{
-		"title": "Hotstar",
+		"title": "Hotstar Premium IPL",
 		"description": "Hotstar Streaming Subscription With time limit Subscription with 1 Screens 4k HD, This is one of most popular platform for movies, cricket and TV shows, after payment complete we provide your order in Order Section within 15~30 minutes.",
 		"price": 20.0,
 		"type": "Week",
@@ -127,31 +127,5 @@
 		"id": 10,
 		"color": "blue",
 		"info": "ElvROICqueE"
-	},
-	{
-		"title": "Cricket(IPL)",
-		"description": "The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007, after payment complete we provide your order in Order Section within 15~30 minutes.",
-		"price": 7.0,
-		"discount": 5.0,
-		"type": "Day",
-		"image": "https://i.ibb.co/MR5Lcw6/ipl.png",
-		"stock": "Stock",
-		"category": "Gaming",
-		"id": 11,
-		"color": "blue",
-		"info": "xtPGRc4RmPA"
-	},
-	{
-		"title": "Cricket(IPL)",
-		"description": "The Indian Premier League (IPL) is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007, after payment complete we provide your order in Order Section within 15~30 minutes.",
-		"price": 150.0,
-		"discount": 50.0,
-		"type": "Season",
-		"image": "https://i.ibb.co/MR5Lcw6/ipl.png",
-		"stock": "Stock",
-		"category": "Gaming",
-		"id": 12,
-		"color": "blue",
-		"info": "x5db4WxNlCQ"
 	}
 ]
