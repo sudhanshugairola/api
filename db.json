@@ -40,7 +40,7 @@
 		"info": "SlF4SGLK16o"
 	},
 	{
-		"title": "Azure RDP CC Made",
+		"title": "Azure Normal RDP",
 		"description": "Azure Cloud Computing RDP for 1 month and our warrenty for replacement is 14 days and other services pay as you go for 1 month only after end up of rdp you can renew it, In pay as you go you can use according your need you pay to azure only what you use for how much time, next price may extented which server you want to use, this is normal rdp price, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 780.0,
 		"discount": 777.0,
@@ -54,7 +54,7 @@
 		"info": ""
 	},
 	{
-		"title": "AWS Account",
+		"title": "AWS Portal",
 		"description": "AWS Cloud Computing With 1 year Subscription, it come with limit 1 vcpu and 1 gb ram or if you want to use more than given limit so you lose your AWS cloud in between 7 to 14 days around or you should pay for what you use from prevent to termination of account, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 430.0,
 		"discount": 427.0,
@@ -82,7 +82,7 @@
 		"info": ""
 	},
 	{
-		"title": "Shadow Account",
+		"title": "Shadow Cloud",
 		"description": "Shadow Cloud Gaming With 1 Month Play-Time, Shadow provides you user GUI interface with windows it is full brutal gaming server rather than others provider you can play unlimited hours (day and night) with all software are pre-installed so your work only to play, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 2250.0,
 		"discount": 2200.0,
@@ -96,7 +96,7 @@
 		"info": ""
 	},
 	{
-		"title": "Google Cloud Account",
+		"title": "Google Cloud Platform",
 		"description": "Google Cloud Computing With 90 Days Subscription Rewarded with 300 dollar credit, this is one of most trending and full resources cloud service which provide cheap resources then others, you can use every resources for GPU instance you want to request to google for approving, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 2050.0,
 		"image": "https://i.ibb.co/rw0dKR4/google.png",
@@ -109,7 +109,7 @@
 		"info": ""
 	},
 	{
-		"title": "Netflix 1 Month Account",
+		"title": "Netflix 1 Month",
 		"description": "Netflix Streaming Subscription With 1 Month Subscription with 4 Screens 4k HD With No Email Password Change, This is one of most popular platform for movies and TV shows, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 450.0,
 		"image": "https://i.ibb.co/H2wjGBk/netflix.png",
@@ -122,7 +122,7 @@
 		"info": ""
 	},
 	{
-		"title": "Prime Video 1 Month Account",
+		"title": "Prime Video 1 Month",
 		"description": "Prime Video Streaming With 1 Month Subscription with 4 Screens 4k HD, This is one of most popular platform for movies and TV shows, after complete the payment we will provide your account credential in Order Section within 15~30 minutes.",
 		"price": 60.0,
 		"image": "https://i.ibb.co/JKhDy3z/prime.png",
@@ -135,8 +135,8 @@
 		"info": ""
 	},
 	{
-		"title": "Prime Video 1 Year Account",
-		"description": "Prime Video Streaming With 1 Year Subscription with 4 Screens 4k HD, This is one of most popular platform for movies and TV shows, after complete the payment we will provide your account credential in Order Section within 15~30 minutes.",
+		"title": "Prime Video 6 months",
+		"description": "Prime Video Streaming With 6 months Subscription with 4 Screens 4k HD, This is one of most popular platform for movies and TV shows, after complete the payment we will provide your account credential in Order Section within 15~30 minutes.",
 		"price": 260.0,
 		"image": "https://i.ibb.co/JKhDy3z/prime.png",
 		"stock": "Stock",
@@ -149,7 +149,7 @@
 	},
 	{
 		"title": "Private Gaming Server",
-		"description": "HTG present a unique showcase pack in which we provide special monster gaming server with all ultimate gaming functionality like local region server means there is very low latency so our users can access games in smooth manner, our server are specially made for youtubers and also for individuals with specification of 6 vcpus+56 gb ram with M60 GPU further you can demand different specification for your comfort, we provide full month gameplay in this private server.",
+		"description": "Planet Cloud present a unique showcase pack in which we provide special monster gaming server with all ultimate gaming functionality like local region server means there is very low latency so our users can access games in smooth manner, our server are specially made for youtubers and also for individuals with specification of 6 vcpus+56 gb ram with M60 GPU further you can demand different specification for your comfort, we provide full month gameplay in this private server.",
 		"price": 4050.0,
 		"discount": 3000.0,
 		"image": "https://i.ibb.co/Z1JG8kc/transparent-cloud-computing-technical-infrastructure-for-data-center-location5ea6de5cc06254-70284481.png",
