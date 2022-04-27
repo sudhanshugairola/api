@@ -3,13 +3,12 @@
       "name": "Player 1 Jos",
       "ip": "20.204.41.36"
     },
-{
-      "name": "Player 2 null",
-      "ip": "23.97.52.203"
-    },
 {     
       "name": "Player 3 Har",
       "ip": "20.205.152.73"
+    },
+{
+      "name": "Player 2 null",
+      "ip": "23.97.52.203"
     }
-    
     ]
