@@ -48,7 +48,7 @@
 	    "name": "Army of Thieves",
 	    "description": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
 	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Army of Thieve/Army of Thieves.mkv",
+	    "video": "/Hollywood Movies/Army of Thieves/Army of Thieves.mkv",
 	    "series": "not",
 	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
 	    "genres": "Crime, Comedy",
@@ -118,23 +118,6 @@
         "time":"2h 5m",
         "subtitle":"/Hollywood Movies/Fifty shades of grey/Fifty Shades of Grey.English (CC).srt"
 	},
-
-
-    {
-	    "name": "Joker",
-	    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Joker/Joker.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-	    "genres": "Crime, Thriller, Drama",
-	    "releaseDate": "2019",
-	    "trailer": "https://www.imdb.com/video/vi1723318041?playlistId=tt7286456?ref_=ext_shr_lnk",
-	    "cast": "Joaquin Phoenix,Robert De Niro,Zazie Beetz... more",
-        "time":"2h 2m",
-        "subtitle":"/Hollywood Movies/Joker/Joker.English (CC).srt"
-	},
-
 
     {
 	    "name": "Murder Mystery",
@@ -215,7 +198,7 @@
 
 
     {
-	    "name": "The kissing booth",
+	    "name": "The Kissing booth",
 	    "description": "When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The kissing booth/The Kissing Booth.mkv",
@@ -2219,152 +2202,152 @@
     "name": "Locke & Key ",
     "description": "Three siblings who move into their ancestral estate after their father's gruesome murder discover their new home's magical keys, which must be used in their stand against an evil creature who wants the keys and their powers.",
     "ageRestriction": "18",
-    "video": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E01_Welcome to Matheson.mkv",
+    "video": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E01_Welcome to Matheson.mkv",
     "series": "yes",
-    "subtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E01_Welcome to Matheson.English (CC).srt",
+    "subtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E01_Welcome to Matheson.English (CC).srt",
      "seriess":[
          [
                     {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E01_Welcome to Matheson.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E01_Welcome to Matheson.mkv",
                          "stitle": "1.Welcome to Matheson",
                          "stime": "56m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3aQxWBhfxB08Pv0rXPNnmJhEYf1.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E01_Welcome to Matheson.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E01_Welcome to Matheson.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E02_Trapper _ Keeper.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E02_Trapper _ Keeper.mkv",
                          "stitle": "2.Trapper / Keeper",
                          "stime": "50m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2vEUzm3vaCZSC8L7WOG3lS0PmP4.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E02_Trapper _ Keeper.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E02_Trapper _ Keeper.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E03_Head Games.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E03_Head Games.mkv",
                          "stitle": "3.Head Games",
                          "stime": "44m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pvEe6mNzJgGNECIsNFnAqukkJaC.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E03_Head Games.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E03_Head Games.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E04_The Keepers of the Keys.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E04_The Keepers of the Keys.mkv",
                          "stitle": "4.The Keepers of the Keys",
                          "stime": "43m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mEZvsY8Qzzxcxe5xsDDubVw60bd.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E04_The Keepers of the Keys.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E04_The Keepers of the Keys.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E05_Family Tree.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E05_Family Tree.mkv",
                          "stitle": "5.Family Tree",
                          "stime": "49m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vlpNdso1dFehmythMyMAOEfGc0C.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E05_Family Tree.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E05_Family Tree.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E06_The Black Door.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E06_The Black Door.mkv",
                          "stitle": "6.The Black Door",
                          "stime": "47m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qiheoQ7HhOq8kZFGi6XeUqSkX25.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E06_The Black Door.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E06_The Black Door.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E07_Dissection.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E07_Dissection.mkv",
                          "stitle": "7.Dissection",
                          "stime": "43m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7UvvfTQ2ie1pWYCOZkEzfBH9Izm.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E07_Dissection.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E07_Dissection.English (CC).srt"
                      },
                      {
-                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E08_Ray of F_king Sunshine.mkv",
+                         "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E08_Ray of F_king Sunshine.mkv",
                          "stitle": "8.Ray of F**king Sunshine",
                          "stime": "48m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/laf4SFRzAUBFoNgWYQwSjANfsV5.jpg",
-                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E08_Ray of F_king Sunshine.English (CC).srt"
+                         "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E08_Ray of F_king Sunshine.English (CC).srt"
                      },
                      {
-                        "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E09_Echoes.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E09_Echoes.mkv",
                         "stitle": "9.Echoes",
                         "stime": "49m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c9agEEKcC3pkeR5OzDlXU8mcKjp.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E09_Echoes.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E09_Echoes.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 1/Locke & Key_S01E10_Crown of Shadows.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 1/Locke and Key_S01E10_Crown of Shadows.mkv",
                         "stitle": "10.Crown of Shadows",
                         "stime": "40m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jwXRm6S6pPkawgBPnZwr4FXHehE.jpg ",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke & Key_S01E10_Crown of Shadows.English (CC).srt"
+                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jwXRm6S6pPkawgBPnZwr4FXHehE.jpg",
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 1/Locke and Key_S01E10_Crown of Shadows.English (CC).srt"
                     }
             ],
             [
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E01_The Premiere.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E01_The Premiere.mkv",
                         "stitle": "1.The Premiere",
                         "stime": "53m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/XQTE5RmMh4foxCO5DQA8o0YmZB.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E01_The Premiere.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E01_The Premiere.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E02_The Head and the Heart.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E02_The Head and the Heart.mkv",
                         "stitle": "2.The Head and the Heart",
                         "stime": "49m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3c2dzU3HeY6SYztCRrLCThsG7fd.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E02_The Head and the Heart.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E02_The Head and the Heart.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E03_Small World.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E03_Small World.mkv",
                         "stitle": "3.Small World",
                         "stime": "51m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eDTOGmryRZYvoYhLV1SPEmlvWIM.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E03_Small World.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E03_Small World.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E04_Forget Me Not.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E04_Forget Me Not.mkv",
                         "stitle": "4.Forget Me Not",
                         "stime": "49m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2aczVxEAToSRn93vq1ajxvkhEbu.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E04_Forget Me Not.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E04_Forget Me Not.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E05_Past is Prologue.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E05_Past is Prologue.mkv",
                         "stitle": "5.Past is Prologue",
                         "stime": "52m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xX2DpWTf2dgYGGmbfpp2uis525G.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E05_Past is Prologue.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E05_Past is Prologue.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E06_The Maze.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E06_The Maze.mkv",
                         "stitle": "6.The Maze",
                         "stime": "43m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/shI8xP2jILiwNSeSmtcJzdB76UN.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E06_The Maze.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E06_The Maze.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E07_Best Laid Plans.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E07_Best Laid Plans.mkv",
                         "stitle": "7.Best Laid Plans",
                         "stime": "46m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uAhZUK0To4mZpOQ8cHe52QY8JiB.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E07_Best Laid Plans.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E07_Best Laid Plans.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E08_Irons in the Fire.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E08_Irons in the Fire.mkv",
                         "stitle": "8.Irons in the Fire",
                         "stime": "49m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nLaNbD6VlqdyhAJCEex8W7qs6UU.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E08_Irons in the Fire.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E08_Irons in the Fire.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E09_Alpha & Omega.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E09_Alpha & Omega.mkv",
                         "stitle": "9.Alpha & Omega",
                         "stime": "49m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tTNJp4wW2dDvY6dYvY72Fs0PX9F.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E09_Alpha & Omega.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E09_Alpha & Omega.English (CC).srt"
                     },
                     {
-                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke & Key_S02E10_Cliffhanger.mkv",
+                        "svideos": "/Hollywood series/Locke and Key/season 2/Locke and Key_S02E10_Cliffhanger.mkv",
                         "stitle": "10.Cliffhanger",
                         "stime": "46m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ms6gsaGcCdOApInjixbTlYR5aWJ.jpg",
-                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke & Key_S02E10_Cliffhanger.English (CC).srt"
+                        "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E10_Cliffhanger.English (CC).srt"
                     }
          ]
         ],
