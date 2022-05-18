@@ -88,7 +88,65 @@
     "subtitle":"/Hindi_Movies/Dasvi/Dasvi.English.srt"
 },
 
+{
+    "name": "Raw(Hindi)",
+    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+    "ageRestriction": "13",
+    "video": "/Hindi_Movies/Raw beast/Raw (Hindi).mkv",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q0rwuEILTOyXPcQtOGlQrMqrpB2.jpg",
+    "genres": "Action, Thriller, Crime,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+    "cast": "Vijay,Pooja Hegde... more",
+    "time":"2h 42m",
+    "subtitle":"/Hindi_Movies/Raw beast/Raw (Hindi).English.srt"
+    },
 
+    {
+    "name": "Beast(Tamil)",
+    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+    "ageRestriction": "13",
+    "video": "/Tamil/Beast/Beast.mkv",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q0rwuEILTOyXPcQtOGlQrMqrpB2.jpg",
+    "genres": "Action, Thriller, Crime,Tamil",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+    "cast": "Vijay,Pooja Hegde... more",
+    "time":"2h 42m",
+    "subtitle":"/Tamil/Beast/Beast.English.srt"
+    },
+
+    {
+    "name": "Beast(Telgu)",
+    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+    "ageRestriction": "13",
+    "video": "/Telgu/Beast/Beast (Telugu).mkv",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q0rwuEILTOyXPcQtOGlQrMqrpB2.jpg",
+    "genres": "Action, Thriller, Crime,Telgu",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+    "cast": "Vijay,Pooja Hegde... more",
+    "time":"2h 42m",
+    "subtitle":"/Telgu/Beast/Beast (Telugu).English.srt"
+    },
+
+    {
+    "name": "Beast(Malayalam)",
+    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+    "ageRestriction": "13",
+    "video": "/Malayalam/Beast/Beast (Malayalam).mkv",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q0rwuEILTOyXPcQtOGlQrMqrpB2.jpg",
+    "genres": "Action, Thriller, Crime,Malayalam",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+    "cast": "Vijay,Pooja Hegde... more",
+    "time":"2h 42m",
+    "subtitle":"/Malayalam/Beast/Beast (Malayalam).English.srt"
+    },
 {
     "name": "Dhamaka",
     "description": "When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.",
