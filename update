@@ -1,7 +1,7 @@
 {
-  "versionCode":3,
-  "versionName":"1.0.0",
+  "versionCode":4,
+  "versionName":"1.0.1",
   "contentText":"Please update your app",
   "minSupport":2,
-  "url":"https://onedrive.live.com/download?cid=49E79FA0B737A96F&resid=49E79FA0B737A96F%21832&authkey=AGznFgxtgL6Tvpc"
+  "url":"https://api.onedrive.com/v1.0/shares/s!Am-pN7egn-dJhkIUFph2Y684ykUm/root/content"
 }
