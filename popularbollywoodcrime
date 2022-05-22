@@ -1,5 +1,20 @@
 [  
 
+   {
+    "name": "RRR",
+    "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+    "ageRestriction": "13",
+    "video": "/Hindi_Movies/RRR/RRR.mp4",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg",
+    "genres": "Action, Dramas, History, War,Hindi,Indian",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
+    "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
+    "time":"3h 7m",
+    "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
+  },
+
   {
     "name": "Raw(Hindi)",
     "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
