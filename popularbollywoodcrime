@@ -1,6 +1,21 @@
 [  
 
    {
+    "name": "K.G.F: Chapter 2",
+    "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "ageRestriction": "13",
+    "video": "/Hindi_Movies/Kgf chapter 2/kgf chapter 2.mkv",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg",
+    "genres": "Action, Drama,Hindi,Indian",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi481411609/?playlistId=tt10698680?ref_=ext_shr_lnk",
+    "cast": "Yash,Sanjay Dutt,Srinidhi Shetty... more",
+    "time":"2h 48m",
+    "subtitle":"/Hindi_Movies/Kgf chapter 2/kgf chapter 2.en.srt"
+  },
+
+   {
     "name": "RRR",
     "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
     "ageRestriction": "13",
