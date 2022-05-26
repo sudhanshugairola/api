@@ -1,6 +1,240 @@
 [   
     
     {
+        "name": "You",
+        "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+        "ageRestriction": "16",
+        "video": "/Popular on netflix/You/season 1/[S1.Ep1] You - Pilot.mp4",
+        "series": "yes",
+        "subtitle":"[S1.Ep1] You - Pilot.CC.en.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep1] You - Pilot.mp4",
+                             "stitle": "1.Pilot",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3CgYr4VuHAAr9wLyuOBR70fFM6x.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep1] You - Pilot.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep2] You - The Last Nice Guy in New York.mp4",
+                             "stitle": "2.The Last Nice Guy in New York",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eVvZgwINfvIS1It48kNgTQWvgpK.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep2] You - The Last Nice Guy in New York.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep3] You - Maybe.mp4",
+                             "stitle": "3.Maybe",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ZxT1HSfobIFPxZd1MijPgDCbq5.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep3] You - Maybe.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep4] You - The Captain.mp4",
+                             "stitle": "4.The Captain",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jaBWtADJWScWGNcyab3SKCFLjQk.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep4] You - The Captain.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep5] You - Living with the Enemy.mp4",
+                             "stitle": "5.Living with the Enemy",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oDMcdmF5YjwExj1kvGu6crw068D.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep5] You - Living with the Enemy.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep6] You - Amour Fou.mp4",
+                             "stitle": "6.Amour Fou",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/45RQQQ5s5YqXMvcu5vPop4fA0Gi.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep6] You - Amour Fou.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep7] You - Everythingship.mp4",
+                             "stitle": "7.Everythingship",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5HMkgygtvmayX9ujr8Z5h6TEu4i.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep7] You - Everythingship.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 1/[S1.Ep8] You - You Got Me, Babe.mp4",
+                             "stitle": "8.You Got Me Babe",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yFRKl9B0oEgCZNr5bt6IHXxKjlJ.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep8] You - You Got Me, Babe.CC.en.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/You/season 1/[S1.Ep9] You - Candace.mp4",
+                            "stitle": "9.Candace",
+                            "stime": "45m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sYzUZ18wmRox49fFP8kbFOHSiAl.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep9] You - Candace.CC.en.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/You/season 1/[S1.Ep10] You - Bluebeard's Castle.mp4",
+                            "stitle": "10.Bluebeard's Castle",
+                            "stime": "49m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rGmEpjRGlVZOGhqACrAQRVRRCo.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 1/[S1.Ep10] You - Bluebeard's Castle.CC.en.srt"
+                        }
+             ],
+                        
+             [
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep1] You - A Fresh Start.mp4",
+                             "stitle": "1.A Fresh Start",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vro1jm1ZiJQsokvzyf20qC3uChP.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep1] You - A Fresh Start.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep2] You - Just the Tip.mp4",
+                             "stitle": "2.Just the Tip",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4cySeaiNrzpJXWQM0wm0fuYGgGa.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep2] You - Just the Tip.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep3] You - What Are Friends For.mp4",
+                             "stitle": "3.What Are Friends For?",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lJInp6LWt9tckirwiOIIk5b9qTY.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep3] You - What Are Friends For.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep4] You - The Good, the Bad, & the Hendy.mp4",
+                             "stitle": "4.The Good, the Bad, & the Hendy",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4vRe8GzMLbsvUc1I8aHORFembmN.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep4] You - The Good, the Bad, & the Hendy.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep5] You - Have a Good Wellkend, Joe!.mp4",
+                             "stitle": "5.Have a Good Wellkend, Joe!",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/onLtRkecoxmG1GHMKGQS6Zn7eBi.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep5] You - Have a Good Wellkend, Joe!.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep6] You - Farewell, My Bunny.mp4",
+                             "stitle": "6.Farewell, My Bunny",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hDiiOBXUWzIfOOsJPKLeHTinKdF.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep6] You - Farewell, My Bunny.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep7] You - Ex-istential Crisis.mp4",
+                             "stitle": "7.Ex-istential Crisis",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sbjHwfDyJS8b9fLUT86robMPt4S.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep7] You - Ex-istential Crisis.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 2/[S2.Ep8] You - Fear and Loathing in Beverly Hills.mp4",
+                             "stitle": "8.Fear and Loathing in Beverly Hills",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aKpADenVFOoeDyNsLEQ93REPEq1.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep8] You - Fear and Loathing in Beverly Hills.CC.en.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/You/season 2/[S2.Ep9] You - P.I. Joe.mp4",
+                            "stitle": "9.P.I. Joe",
+                            "stime": "44m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fUzNrC3tzV7e0hvC8Yprtdh2DWE.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep9] You - P.I. Joe.CC.en.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/You/season 2/[S2.Ep10] You - Love, Actually.mp4",
+                            "stitle": "10.Love, Actually",
+                            "stime": "49m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gj9LBjR675W67qJjYKo4TxAvGMl.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 2/[S2.Ep10] You - Love, Actually.CC.en.srt"
+                        }
+             ],
+                       
+             [
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep1] You - And They Lived Happily Ever After.mp4",
+                             "stitle": "1.And They Lived Happily Ever After",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4jQrDHArxHo2Kmh55gWlzhm7mpK.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep1] You - And They Lived Happily Ever After.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep2] You - So I Married an Axe Murderer.mp4",
+                             "stitle": "2.So I Married an Axe Murderer",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1Co5v4HX2tFcvwXMJWJqGM19A7t.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep2] You - So I Married an Axe Murderer.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep3] You - Missing White Woman Syndrome.mp4",
+                             "stitle": "3.Missing White Woman Syndrome",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c0zS6SuX9Yv1bOeAqOca1ceHuNr.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep3] You - Missing White Woman Syndrome.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep4] You - Hands Across Madre Linda.mp4",
+                             "stitle": "4.Hands Across Madre Linda",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5BJ4wNRyQjWYrCjr92kAOhSPFxP.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep4] You - Hands Across Madre Linda.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep5] You - Into the Woods.mp4",
+                             "stitle": "5.Into the Woods",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/19LZNO4kw69O9i6a4gkt9UNl6of.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep5] You - Into the Woods.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep6] You - W.O.M.B..mp4",
+                             "stitle": "6.W.O.M.B.",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pqdU1sx5yFwHvUllRYAOQLr4Pdn.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep6] You - W.O.M.B..CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep7] You - We're All Mad Here.mp4",
+                             "stitle": "7.We're All Mad Here",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hh5MR4FFNhI8QOm5exubYhNaO2v.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep7] You - We're All Mad Here.CC.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/You/season 3/[S3.Ep8] You - Swing and a Miss.mp4",
+                             "stitle": "8.Swing and a Miss",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7AVod6ByyfcYZDHbDDlg6X33L4e.jpg",
+                             "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep8] You - Swing and a Miss.CC.en.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/You/season 3/[S3.Ep9] You - Red Flag.mp4",
+                            "stitle": "9.Red Flag",
+                            "stime": "47m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aoTrlzBar5dn9TuLyBcX9FCNyXJ.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep9] You - Red Flag.CC.en.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/You/season 3/[S3.Ep10] You - What Is Love.mp4",
+                            "stitle": "10.What Is Love?",
+                            "stime": "58m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6vW2jWed5jzz2GhU1lu8JCKJoJf.jpg",
+                            "ssubtitle":"/Popular on netflix/You/season 3/[S3.Ep10] You - What Is Love.CC.en.srt"
+                        }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxIdKGEjagaLs5kMjw92kAHmopH.jpg",
+        "genres": "Mystery, Crime, Dramas,Hindi,Hindi,Hollywood,English",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3619668761/?playlistId=tt7335184?ref_=ext_shr_lnk",
+        "cast": "Penn Badgley,Victoria Pedretti...more"
+    },
+    
+    {
     "name": "Vikings: Valhalla",
     "description": "In this sequel to Vikings,a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
     "ageRestriction": "18",
