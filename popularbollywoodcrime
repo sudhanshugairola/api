@@ -1,18 +1,34 @@
 [  
+
    {
-	    "name": "Jersey",
-	    "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Jersey/Jersey.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
-	    "genres": "Drama,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi4038640153/?ref_=ext_shr_lnk",
-	    "cast": "Shahid Kapoor,Mrunal Thakur... more",
-       "time":"2h 55m",
-       "subtitle":"/Hindi_Movies/Jersey/Jersey.English.srt"
-	},
+    "name": "Gangubai Kathiawadi",
+    "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
+    "ageRestriction": "16",
+    "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+    "genres": "Crime, Dramas,Indian,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi3439772441/?ref_=ext_shr_lnk",
+    "cast": "Alia Bhatt,Ajay Devgn... more",
+    "time":"2h 37m",
+    "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
+   },
+   
+   {
+    "name": "Jersey",
+    "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
+    "ageRestriction": "13",
+    "video": "/Hindi_Movies/Jersey/Jersey.mp4",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
+    "genres": "Drama,Hindi,Indian",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi4038640153/?ref_=ext_shr_lnk",
+    "cast": "Shahid Kapoor,Mrunal Thakur... more",
+    "time":"2h 55m",
+    "subtitle":"/Hindi_Movies/Jersey/Jersey.English.srt"
+   },
    {
     "name": "K.G.F: Chapter 2",
     "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
