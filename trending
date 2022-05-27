@@ -477,8 +477,7 @@
   "cast": "Jennifer Connelly,Daveed Diggs,Mickey Sumner...more"
        },
 
-  
-   {
+      {
     "name": "Stranger Things",
     "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
     "ageRestriction": "16",
@@ -666,11 +665,62 @@
                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg",
                  "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E08_Chapter Eight_ The Battle of Starcourt.English (CC).srt"
              }
+         ],
+         [
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.mp4",
+                "stitle": "1.Chapter One: The Hellfire Club",
+                "stime": "1h 16m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cmCOUjjQ1TfCh1Gj9V4IFAd2XNu.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.mp4",
+                "stitle": "2.Chapter Two: Vecna's Curse",
+                "stime": "1h 15m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/87Nf1zlBkqMoDI1U8HKjhfMzRfE.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.mp4",
+                "stitle": "3.Chapter Three: The Monster and the Superhero",
+                "stime": "1h 3m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/byWi2lewbn5POEyU93EqwujIjty.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.mp4",
+                "stitle": "4.Chapter Four: Dear Billy",
+                "stime": "1h 17m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nhvf6ehzeKCuqPfMSKNhRrRsotD.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.mp4",
+                "stitle": "5.Chapter Five: The Nina Project",
+                "stime": "1h 14m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qpYggM5hj59q7h8rDv3GRI195W9.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.mp4",
+                "stitle": "6.Chapter Six: The Dive",
+                "stime": "1h 13m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qUMe6SUPkH30rxI9aTqGBXGEtuE.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.mp4",
+                "stitle": "7.Chapter Seven: The Massacre at Hawkins Lab",
+                "stime": "1h 38m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qCNQuBaxcgN26e79kLAofWV8LP6.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.CC.en.srt"
+            }
          ]
          
         ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
-    "genres": "Drama, Mystery, Sci-Fi & Fantasy",
+     "thumbnailImageId": "https://www.themoviedb.org/t/p/w130_and_h195_bestv2/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "genres": "Dramas, Mystery, Sci-Fi & Fantasy,Hollywood,English,Hindi",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi1386398233/?playlistId=tt4574334?ref_=ext_shr_lnk",
     "cast": "Millie Bobby Brown,Finn Wolfhard...more"
