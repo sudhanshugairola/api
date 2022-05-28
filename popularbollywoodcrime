@@ -14,6 +14,20 @@
     "time":"2h 37m",
     "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
    },
+   {
+    "name": "Toolsidas Junor",
+    "description": "a young boy seeks to matser the game of snooker to defend his father legacy after a humiliating loss. but first he ill need help from a hardened pro.",
+    "ageRestriction": "16",
+    "video": "/Hindi_Movies/Toolsidas Junior/Toolsidas Junior.mp4",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fCXMgoS1P5vmCDHHuFBulvswR7M.jpg",
+    "genres": "Crime, Dramas,Indian,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
+    "cast": "Alia Bhatt,Ajay Devgn... more",
+    "time":"2h 10m",
+    "subtitle":"/Hindi_Movies/Toolsidas Junior/Toolsidas Junior.en.srt"
+   },
    
    {
     "name": "Jersey",
