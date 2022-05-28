@@ -1,7 +1,7 @@
 {
-  "versionCode":9,
-  "versionName":"1.0.6",
-  "contentText":"Please update your app",
+  "versionCode":10,
+  "versionName":"1.0.7",
+  "contentText":"Please update your app for new feature and improvements",
   "minSupport":2,
-  "url":"https://api.onedrive.com/v1.0/shares/s!Asv5QVKv9HeDgS3OGRmPx2sIcL8d/root/content"
+  "url":"https://api.onedrive.com/v1.0/shares/s!Asv5QVKv9HeDgS4dm0eUg8TLd2ZH/root/content"
 }
