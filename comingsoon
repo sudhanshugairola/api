@@ -1,20 +1,5 @@
 [
     {
-	    "name": "STRANGER THINGS",
-	    "description": "This hair-raising but heartwarming adventure has won critical praise and numerous awards,including seven Emmys and three Kids' choice Awards.",
-	    "ageRestriction": "13",
-	    "video": "",
-	    "series": "yes",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w130_and_h195_bestv2/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
-	    "genres": "Nostalgic,Ominous,Sci-Fi-TV,Notable Soundtrack",
-	    "releaseDate": "MAY 27",
-	    "trailer": "https://streamflix.blob.core.windows.net/comingsoon/1.mp4?sp=r&st=2022-05-21T05:47:42Z&se=2070-05-21T13:47:42Z&spr=https&sv=2020-08-04&sr=c&sig=JxJHQGSvWpa88fo5V1qEKMHlctZl3ktll2aFYpctSjk%3D",
-	    "cast": "... more",
-        "time":"2h 27m",
-        "subtitle":"Vol. 1 Coming May 27;Vol. 2 Coming July 1"
-	},
-
-    {
 	    "name": "PEAKY BLINDERS",
 	    "description": "A brutal,working-class gang,named for the razor blades they sewed into their caps to slash enemies,vies for power in Birmingham,England.",
 	    "ageRestriction": "16",
