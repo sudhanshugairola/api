@@ -1,21 +1,5 @@
 [  
-
-   {
-    "name": "Gangubai Kathiawadi",
-    "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
-    "ageRestriction": "16",
-    "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
-    "genres": "Crime, Dramas,Indian,Hindi",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
-    "cast": "Alia Bhatt,Ajay Devgn... more",
-    "time":"2h 10m",
-    "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
-   },
-   
-   {
+     {
     "name": "Toolsidas Junior",
     "description": "a young boy seeks to matser the game of snooker to defend his father legacy after a humiliating loss. but first he ill need help from a hardened pro.",
     "ageRestriction": "16",
@@ -30,6 +14,21 @@
     "subtitle":"/Hindi_Movies/Toolsidas Junior/Toolsidas Junior.en.srt"
    },
    
+   {
+    "name": "Gangubai Kathiawadi",
+    "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
+    "ageRestriction": "16",
+    "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
+    "series": "not",
+    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+    "genres": "Crime, Dramas,Indian,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
+    "cast": "Alia Bhatt,Ajay Devgn... more",
+    "time":"2h 10m",
+    "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
+   },
+
    {
     "name": "Jersey",
     "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
