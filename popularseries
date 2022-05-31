@@ -1,4 +1,78 @@
-[   
+[    
+    {
+        "name": "Welcome to Eden",
+        "description": "Are you happy? With this question, Zoa and four other attractive young people, very active on social networks, are invited to the most exclusive party in history on a secret island, organized by the brand of a new drink. What begins as an exciting journey will soon become the journey of a lifetime. But paradise is not really what it seems - Welcome to Eden.",
+        "ageRestriction": "16",
+        "video": "/Popular on netflix/welcome eden/[S1.Ep1] Welcome to Eden - The Trip of Your Life.mp4",
+        "series": "yes",
+        "subtitle":"[S1.Ep1] Welcome to Eden - The Trip of Your Life.en.srt",
+         "seriess":[
+             [
+                             {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep1] Welcome to Eden - The Trip of Your Life.mp4",
+                             "stitle": "1.The Trip of Your Life",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6wWY0V5DhGjFELO6GMBNc7UzkB8.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep1] Welcome to Eden - The Trip of Your Life.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep2] Welcome to Eden - Evaluation.mp4",
+                             "stitle": "2.Evaluation",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pFGg5vWsJR6agAgKKvkYNYzrMmT.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep2] Welcome to Eden -Evaluation.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep3] Welcome to Eden - Farewell Party.mp4",
+                             "stitle": "3.Farewell Party",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yJh6cAyM27aLfUq3o7Qh8OnFXhT.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep3] Welcome to Eden - Farewell Party.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep4] Welcome to Eden - The Other Shore.mp4",
+                             "stitle": "4.The Other Shore",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mfpLthJEygrsB9jXreSeSms9eVd.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep4] Welcome to Eden - The Other Shore.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep5] Welcome to Eden - Storm.mp4",
+                             "stitle": "5.Storm",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Am0sDEwD1x6qlD4Hs543prTWVK5.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep5] Welcome to Eden - Storm.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep6] Welcome to Eden - Rebellion.mp4",
+                             "stitle": "6.Rebellion",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cKwv8eLe1gfsA34WHUkCQK4dA9A.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep5] Weicome to Eden - Evaluation.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep7] Welcome to Eden - Lilith.mp4",
+                             "stitle": "7.Lilith",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2fdJ6vVdNUBRDYafYBpqXJLj2lb.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep7] Welcome to Eden - Lilith.en.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/welcome eden/[S1.Ep8] Welcome to Eden - The Trip Back.mp4",
+                             "stitle": "8.The Trip Back",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mHWChXDWFT7T9rb5XWP6mOftvG.jpg",
+                             "ssubtitle":"/Popular on netflix/welcome eden/[S1.Ep8] Welcome to Eden - The Trip Back.en.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kZO0mtTHAgg9QVscLVtwCcQ7Hgx.jpg",
+        "genres": "Action & Adventure",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3198927385/?playlistId=tt13457822?ref_=ext_shr_lnk",
+        "cast": "Amaia Salamanca,Amaia Aberasturi...more"
+       },
+     
      {
         "name": "Love, Death & Robots",
         "description": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
