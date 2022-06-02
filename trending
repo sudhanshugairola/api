@@ -243,9 +243,207 @@
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
   
-  
-  
     {
+        "name": "Who Killed Sara?",
+        "description": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep1] Who Killed Sara - It Wasn't a Mistake.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep1] Who Killed Sara - It Wasn't a Mistake.en.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep1] Who Killed Sara - It Wasn't a Mistake.mp4",
+                             "stitle": "1.It Wasn't a Mistake",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/art0ztYTWnbIrxWFSV5FAIZxTM6.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep1] Who Killed Sara - It Wasn't a Mistake.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep2] Who Killed Sara - Bad People.mp4",
+                             "stitle": "2.Bad People",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2DNdvIeWUsmGoM0R6dLDsvBig1i.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep2] Who Killed Sara - Bad People.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep3] Who Killed Sara - Love, Sara.mp4",
+                             "stitle": "3.Love, Sara",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pzYvI9UmHvjljl1CL7gbPbMLFPQ.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep3] Who Killed Sara - Love, Sara.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep4] Who Killed Sara - The Monster in the Family.mp4",
+                             "stitle": "4.The Monster in the Family",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wrHe8InPUgHTflZPiWo1hNfKbTd.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep4] Who Killed Sara - The Monster in the Family.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep5] Who Killed Sara - Life Insurance.mp4",
+                             "stitle": "5.Life Insurance",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1qngzip8UEaSlxMRXvcpPtHAi3l.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep5] Who Killed Sara - Life Insurance.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep6] Who Killed Sara - Hunting.mp4",
+                             "stitle": "6.Hunting",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qYBObDtSftuz4azGfqCGAT8GuL8.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep6] Who Killed Sara - Hunting.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep7] Who Killed Sara - Fear and Guilt.mp4",
+                             "stitle": "7.Fear and Guilt",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xhMgH9MjFNnaaSkvY7OfsYLX2la.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep7] Who Killed Sara - Fear and Guilt.en.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep8] Who Killed Sara - Where Dreams Become Reality.mp4",
+                             "stitle": "8.Where Dreams Become Reality",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4gQQ9pPEnPZB9Y1qe3X8UrVKOly.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep8] Who Killed Sara - Where Dreams Become Reality.en.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep9] Who Killed Sara - Watch the World Burn.mp4",
+                            "stitle": "9.Watch the World Burn",
+                            "stime": "41m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uF8ilMiAOfoxhJHT51qjILOkGPr.jpg",
+                            "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep9] Who Killed Sara - Watch the World Burn.en.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Who Killed Sara/season 1/[S1.Ep10] Who Killed Sara - Two Graves.mp4",
+                            "stitle": "10.Two Graves",
+                            "stime": "45m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vtAq0imdWkOhjxfjIjRFyXj71JE.jpg",
+                            "ssubtitle":"/Hollywood series/Who Killed Sara/season 1/[S1.Ep10] Who Killed Sara - Two Graves.en.srt"
+                        }
+             ],
+                        
+             [
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E01_The Two Faces of Sara.mp4",
+                             "stitle": "1.The Two Faces of Sara",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/e4trSBrjwNXFUgDBnO4IfMHdKLm.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E01_The Two Faces of Sara.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E02_Blood on Their Hands.mp4",
+                             "stitle": "2.Blood on Their Hands",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ujaV90xvXH23GuJ1YHZ2DGR7Eh0.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E02_Blood on Their Hands.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E03_Collapse.mp4",
+                             "stitle": "3.Collapse",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gmVxbZUcQNzlShrR2NKCFG3RVay.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E03_Collapse.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E04_It_s All on You.mp4",
+                             "stitle": "4.It's All on You",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x4gHQTvv1gxPDfPcNlXnL7zqvmM.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E04_It_s All on You.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E05_The Dead Speak.mp4",
+                             "stitle": "5.The Dead Speak",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fhJ4H3npDBhcAZLt8a7vtRo2RWk.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E05_The Dead Speak.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E06_This Is Personal.mp4",
+                             "stitle": "6.This Is Personal",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uI17izj7qp1tcoYwVZZqR6Zma2E.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E06_This Is Personal.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E07_We Were Never Friends.mp4",
+                             "stitle": "7.We Were Never Friends",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hwL2tqWjmccPzDZyvRewM636S72.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E07_We Were Never Friends.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E08_I Killed Sara.mp4",
+                             "stitle": "8.I Killed Sara",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ymg3E0PjHzgfaFzMS3kecZ0ilze.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 2/Who Killed Sara_S02E08_I Killed Sara.English (CC).srt"
+                         }
+  
+             ],
+                       
+             [
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E01_Presumed Dead.mp4",
+                             "stitle": "1.Presumed Dead",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/368x6DSZjk4k0Vn5I1B1VH77FjR.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E01_Presumed Dead.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E02_Medusa Complex.mp4",
+                             "stitle": "2.Medusa Complex",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/co5CCqAEFhRj7br4Y4owlBb28zm.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E02_Medusa Complex.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E03_Dead or Alive.mp4",
+                             "stitle": "3.Dead or Alive",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xHLyMo7vpMLy8a2qkYQd1mkVFpX.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E03_Dead or Alive.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E04_Welcome to the Medusa Center.mp4",
+                             "stitle": "4.Welcome to the Medusa Center",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a5fHcMrfUZUQjy4Ky4i2ytykyC2.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E04_Welcome to the Medusa Center.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E05_Lab Rats.mp4",
+                             "stitle": "5.Lab Rats",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/icp5JkT1ViEzfI3l6b4D4VdGuae.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E05_Lab Rats.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E06_What Happened to Sara.mp4",
+                             "stitle": "6.What Happened to Sara",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rgg6GE86HVDUxDd4fvYfoo4k10P.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E06_What Happened to Sara.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E07_What Did You Do, Sara.mp4",
+                             "stitle": "7.What Did You Do, Sara?",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vGbRfNZy6wDK75aKORHKx1s6x2E.jpg",
+                             "ssubtitle":"/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E07_What Did You Do, Sara.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg",
+        "genres": "Drama, Crime, Mystery,Hindi,Hollywood,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1269482009/?ref_=ext_shr_lnk",
+        "cast": "Manolo Cardona,Carolina Miranda...more"
+       },
+       
+      {
         "name": "Snowpiercer",
         "description": "Set more than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
         "ageRestriction": "18",
