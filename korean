@@ -90,6 +90,177 @@
             "subtitle":"/K drama/The Call/The Call.English (CC).srt"
         },
         
+        {
+        "name": "Girl from Nowhere",
+        "description": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+        "ageRestriction": "13+",
+        "video": "/K drama/Girl from Nowhere/season 1/",
+        "series": "yes",
+        "subtitle":"K drama/Girl from Nowhere/season 1/",
+         "seriess":[
+             [
+                             {
+                             "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E01_The Ugly Truth.mp4",
+                             "stitle": "1.Ugly Truth",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWZlYjEwY2QtOGIxNi00OTRlLWEzYmEtYzc0NmIxYzc2MWZiXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E01_The Ugly Truth.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E02_Apologies.mp4",
+                                "stitle": "2.Apologies",
+                                "stime": "41m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BOTI2ZmM0NWItYTVjZC00N2U2LThhYzAtZDI3ZWEzYzY4ZTM2XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E02_Apologies.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E03_Trophy.mp4",
+                                "stitle": "3.Trophy",
+                                "stime": "50m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BNDQzNTMyMTYtZWY3MC00NGMzLTkxZDItM2NjZTI2NzhiODc2XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E03_Trophy.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E04_Hi-So.mp4",
+                                "stitle": "4.Hi-So",
+                                "stime": "48m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BYmFlMmYyNWUtZDJkNi00N2M0LWEwZDUtYzJmZGU2YTk1MmJkXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR15,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E04_Hi-So.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E05_Social Love.mp4",
+                                "stitle": "5.Social Love",
+                                "stime": "37m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZWFjM2E1MjQtODUyNC00ZGJmLTkyNDMtYjc0YTRmOGNmYjllXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E05_Social Love.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E06_Wonderwall Part 1.mp4",
+                                "stitle": "6.Wonderwall Part 1",
+                                "stime": "39m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BMzlkMDE5YzMtNDM0MS00YzQ5LTljMTYtNGY0MmQxYzcwMmFiXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E06_Wonderwall Part 1.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E07_Wonderwall Part 2.mp4",
+                                "stitle": "7.Wonderwall Part 2",
+                                "stime": "38m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BNmEwZTliNjItZTc1ZS00M2IwLWI0MWMtOTVkZTc2Y2IxMjM4XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E07_Wonderwall Part 2.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E08_Lost and Found.mp4",
+                                "stitle": "8.Lost & Found",
+                                "stime": "43m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BMzBjZjVjZTItYzRkOC00OWU0LWJmZDctOTljMTZjNjVjMDI4XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E08_Lost and Found.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E09_Trap.mp4",
+                                "stitle": "9.Trap",
+                                "stime": "47m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZjUwMzRhYzgtZTMwNy00MjNiLThiZWYtNTM3ODQ3OGZkMDlkXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E09_Trap.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E10_Thank You Teacher.mp4",
+                                "stitle": "10.Thank You, Teacher",
+                                "stime": "41m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BYmRmYWQ5OWMtOTQzOC00ZjAyLWI5MTktOTMyOGE0MmUxZTA2XkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E10_Thank You Teacher.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E11_The Rank.mp4",
+                                "stitle": "11.The Rank",
+                                "stime": "38m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BNGE1MTkxOGUtY2QwNC00ZmRhLWI4ZjEtZGFiMmEwNDNjMDVmXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E11_The Rank.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 1/Girl from Nowhere_S01E12_BFF Part 1.mp4",
+                                "stitle": "12.BFF Part 1",
+                                "stime": "41m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZDJiMmJhNjMtMWE2OC00ZTNlLTkxZmEtYTA1NWQwOWMyYzBmXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_UX224_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E12_BFF Part 1.English (CC).srt"
+                             },
+                             {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S01E13_BFF Part 2.mp4",
+                                "stitle": "13.BFF Part 2",
+                                "stime": "37m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BYzZmOTk4ZDctMzAwNC00YjkwLWE0OTMtOGFlYzljY2ZhNDFlXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"K drama/Cinderella and the Four Knights/season 1/Girl from Nowhere_S01E13_BFF Part 2.English (CC).srt"
+                             }
+                             
+                 ],
+                          
+                 [
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E01_Pregnant.mp4",
+                                "stitle": "1.Pregnant",
+                                "stime": "48m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BNTM1NGM1M2ItNDNjZi00MGMxLTkyNjEtNTJjYzJhYjgyZDIzXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E01_Pregnant.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E02_True Love.mp4",
+                                "stitle": "2.True Love",
+                                "stime": "38m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BMzdjMjEzZDEtMGMwZC00NTcxLTk5MjAtNzQwZDk5NTI5YzkzXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E02_True Love.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E03_Minnie and the Four Bodies.mp4",
+                                "stitle": "3.Minnie and the Four Bodies",
+                                "stime": "44m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BYjFmNmFkMDQtZDNkNi00NGU4LWE3NTgtNzA2NzVjNmNkZDlkXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E03_Minnie and the Four Bodies.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E04_Yuri.mp4",
+                                "stitle": "4.Yuri",
+                                "stime": "42m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BM2U3OGYxYWEtNDVlMy00ZDM4LWI0MDItYmFlNzEyNTZiNWVlXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E04_Yuri.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E05_SOTUS.mp4",
+                                "stitle": "5.SOTUS",
+                                "stime": "46m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZjM5ZjQ0OWQtMTZhYS00MjJiLWE0NWYtMzdlYjhjMzRiNWRmXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E05_SOTUS.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E06_Liberation.mp4",
+                                "stitle": "6.Liberation",
+                                "stime": "48m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZjkzNTQ1Y2QtZTNjNy00NGI4LWJiZWEtMDA2YjUzODdjMzBiXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E06_Liberation.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E07_JennyX.mp4",
+                                "stitle": "7.JennyX",
+                                "stime": "49m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BMWY2YzY1YTQtMDhmYy00MDIzLTllZTgtYjQxMzE0ZDllYzRiXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E07_JennyX.English (CC).srt"
+                            },
+                            {
+                                "svideos": "/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E08_The Judgement.mp4",
+                                "stitle": "8.The Judgement",
+                                "stime": "43m",
+                                "simage": "https://m.media-amazon.com/images/M/MV5BZWViZWFiOTEtOTgwNy00YTI4LWI5NDItMjFkMDA2YjAwZWVkXkEyXkFqcGdeQXVyNTI4ODg2Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                "ssubtitle":"/K drama/Girl from Nowhere/season 2/Girl from Nowhere_S02E08_The Judgement.English (CC).srt"
+                            }
+                            
+                ]
+
+                    ],
+                 "thumbnailImageId": "https://www.imdb.com/title/tt8824648/mediaviewer/rm1697759745/?ref_=tt_ov_i",
+                "genres": "Comedy, Drama, Family",
+                "releaseDate": "2021",
+                "trailer": "https://www.imdb.com/video/vi1737669145/?ref_=ext_shr_lnk",
+                "cast": "Chicha Amatayakul, Kunchanuj Kengkarnka, Chonnikan Netjui, ...more"
+       },
+               
        {
         "name": "Cinderella and the Four Knights",
         "description": "A young girl who lives with her cruel stepmother and sister, accidentally meets 3 young and rich cousins who live a luxury life in a big mansion and is hired by the boys grandpa to look after their bad behavior.",
