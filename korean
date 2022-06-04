@@ -89,7 +89,82 @@
             "time":"2h 27m",
             "subtitle":"/K drama/The Call/The Call.English (CC).srt"
         },
-        
+        {
+                "name": "Goedam",
+                "description": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+                "ageRestriction": "13+",
+                "video": "/K drama/Goedam/season 1/",
+                "series": "yes",
+                "subtitle":"K drama/Goedam/season 1/",
+                 "seriess":[
+                     [
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E01_Crack.mp4",
+                                     "stitle": "1.Crack",
+                                     "stime": "8m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BNDlmZWRkZGUtNGRkNC00ZGRlLTllMzYtNmQwYzczODRmZGI5XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E01_Crack.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E02_Destination.mp4",
+                                     "stitle": "2.Destination",
+                                     "stime": "8m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BYWU4ZmUzMmUtOWJkYi00NjI1LWJmZjItYjZmMDA0MTA0NWI2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E02_Destination.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E03_Special Guest.mp4",
+                                     "stitle": "3.",
+                                     "stime": "9m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BM2UxZDI1YjQtMmYyYi00MjU5LWEwZTctY2Q5MWQ3NGNkY2VjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E03_Special Guest.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E04_Curiosity.mp4",
+                                     "stitle": "4.",
+                                     "stime": "7m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BZTA1NjQ3ZmItZDkwYi00MmNkLTkyNTMtMDA3NmM0MWJkOGMwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E04_Curiosity.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E05_Red Shoes.mp4",
+                                     "stitle": "5.",
+                                     "stime": "7m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BNjgyYmQwNGYtMmY1NC00M2MxLWI4MDEtOGNlMjAyNzM0MTIwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E05_Red Shoes.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E06_Dimension.mp4",
+                                     "stitle": "6.",
+                                     "stime": "10m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BM2QxYzY1MTQtYzhlNi00ZDI0LTg3MTUtMWQ0YmI3ZDFjZDJkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E06_Dimension.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E07_Threshold.mp4",
+                                     "stitle": "7.",
+                                     "stime": "8m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BNTI0ZDZiZmEtMjFmOS00MDBjLWE2ODItYWQ0MjZiYWU5NGVlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E07_Threshold.English.srt"
+                                     },
+                                     {
+                                     "svideos": "/K drama/Goedam/season 1/Goedam_S01E08_Birth.mp4",
+                                     "stitle": "8.",
+                                     "stime": "15m",
+                                     "simage": "https://m.media-amazon.com/images/M/MV5BNjdkODlmNzctZGUyMC00OTk0LTg3MjMtM2M0NGY2YTE4NmFkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                     "ssubtitle":"K drama/Goedam/season 1/Goedam_S01E08_Birth.English.srt"
+                                     }
+                                    
+                         ]
+                         
+                    ],
+                    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fxjyM73M9AEWk1uIEgPadvr9sZr.jpg",
+                   "genres": "short , Horror, mystery",
+                   "releaseDate": "2020",
+                   "trailer": "no",
+                   "cast": "Song Chae-yoon, Han Ga-Rim, Jung Young-ki, Joo Bo-bi ...more"
+        },
+                  
         {
         "name": "Girl from Nowhere",
         "description": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
