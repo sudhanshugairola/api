@@ -89,7 +89,140 @@
             "time":"2h 27m",
             "subtitle":"/K drama/The Call/The Call.English (CC).srt"
         },
+        
         {
+                    "name": "Guardian_ The Lonely and Great God",
+                    "description": "In his quest for a bride to break his immortal curse, Dokkaebi, a 939-year-old guardian of souls, meets a grim reaper and a sprightly student with a tragic past.",
+                    "ageRestriction": "13+",
+                    "video": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E01_Episode 1.mkv",
+                    "series": "yes",
+                    "subtitle":"K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E01_Episode 1.English.srt",
+                     "seriess":[
+                         [
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E01_Episode 1.mkv",
+                                         "stitle": "1.Episode 1",
+                                         "stime": "1h 28m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BZmY3OWQ3MTgtNjcyNi00NmVlLTg5OTEtOGE1MmZhNDNlZTljXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E01_Episode 1.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E02_Episode 2.mkv",
+                                         "stitle": "2.Episode 2",
+                                         "stime": "1h 17m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BNTAyMmY4NjctZjM4Yy00NDhjLThkNzUtZTMwY2UzNDBmYTQxXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E03_Episode 3.mkv",
+                                         "stitle": "3.Episode 3",
+                                         "stime": "1h 22m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BODQ5ZTU0YmYtZWQ1OC00MWRjLTkyMjEtOWZjYjY4Nzk3Y2RjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E03_Episode 3.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E04_Episode 4.mkv",
+                                         "stitle": "4.Episode 4",
+                                         "stime": "1h 2m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BMjMyZjNhOTUtOWU2Yi00YjA2LWE1N2QtZTg4YmI3Y2Y0MDI3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E04_Episode 4.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E05_Episode 5.mkv",
+                                         "stitle": "5.Episode 5",
+                                         "stime": "1h 7m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BNzE1OTY2MGUtODUyYy00NGYwLWEyZDEtZTkxM2FjNjU4YmY3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E05_Episode 5.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E06_Episode 6.mkv",
+                                         "stitle": "6.Episode 6",
+                                         "stime": "1h 16m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BOWQyZTRjMmQtOWQxNS00NDQ5LWE4ODUtN2I1ODM1NDQ2YjI0L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UY126_CR3,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E06_Episode 6.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E07_Episode 7.mkv",
+                                         "stitle": "7.Episode 7",
+                                         "stime": "1h 14m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BOWUwYWM5ZjEtNzBjNS00MzhjLWFkOTktNDIxNWY5YzFkMDY0L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E07_Episode 7.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E08_Episode 8.mkv",
+                                         "stitle": "8.Episode 8",
+                                         "stime": "1h 12m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BZTYyZmVjZTktMWVjMC00MDdjLTk3MGYtNDQ0NjFlNTMxZDY0L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E08_Episode 8.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E09_Episode 9.mkv",
+                                         "stitle": "9.Episode 9",
+                                         "stime": "1h 18m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BY2NjZDVmODQtN2E5Yy00NTY5LTk4MmEtYTUwZmFkY2IxNzVlL2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E09_Episode 9.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E10_Episode 10.mkv",
+                                         "stitle": "10.Episode 10",
+                                         "stime": "1h 16m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BMGU2OWJjMmMtYTk1ZC00NDUxLWI0YmUtYmY1M2E5MjFkZjkzL2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UY126_CR35,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E10_Episode 10.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E11_Episode 11.mkv",
+                                         "stitle": "11.Episode 11",
+                                         "stime": "1h 14m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BNGNhZWNkZmItNzJlZS00NTEzLWE2ODQtMDhhYzdjMTJmNDdlL2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UY126_UX224_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E11_Episode 11.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E12_Episode 12.mkv",
+                                         "stitle": "12.Episode 12",
+                                         "stime": "1h 23m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BMDkzYzlhM2ItNjQzYi00YTE5LWE4MmYtYTJhNmNmYjgyNWZiL2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E12_Episode 12.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E13_Episode 13.mkv",
+                                         "stitle": "13.Episode 13",
+                                         "stime": "1h 24m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BYTMyZWFmZGUtMjk5Ny00MTA0LTk4NzMtNzFjYjgwYTQyMWY2L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTU1Njk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E13_Episode 13.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E14_Episode 14.mkv",
+                                         "stitle": "14.Episode 14",
+                                         "stime": "1h 15m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BNDVmYTRlOTQtMDMzNi00ODhlLTg3NmItZjQyZTVjOTQwNTEwXkEyXkFqcGdeQXVyNzI2NTM5OTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E14_Episode 14.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E15_Episode 15.mkv",
+                                         "stitle": "15.Episode 15",
+                                         "stime": "1h 3m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BMjA5NGE2NDgtYTIyNi00YzQ0LWE2N2YtZmM5OTExNjhmNTVlXkEyXkFqcGdeQXVyNjI1MDAxMzY@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E15_Episode 15.English.srt"
+                                         },
+                                         {
+                                         "svideos": "/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E16_Episode 16.mkv",
+                                         "stitle": "16.Episode 16",
+                                         "stime": "1h 13m",
+                                         "simage": "https://m.media-amazon.com/images/M/MV5BMGVkYmNlMmUtN2Y2ZC00MWE3LTg2YjItZDk0YWRiYjlmMTMyXkEyXkFqcGdeQXVyNjk1NzQzMjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                         "ssubtitle":"/K drama/Guardian_ The Lonely and Great God/season 1/Guardian_ The Lonely and Great God_S01E16_Episode 16.English.srt"
+                                         }
+
+                             ]
+                             
+                        ],
+                        "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/c2gon6zbqzL73DOl8mPQMMUJXvE.jpg",
+                       "genres": "Drama, Sci-Fi & Fantasy",
+                       "releaseDate": "2016",
+                       "trailer": "https://www.imdb.com/video/vi1955250457/?ref_=ext_shr_lnk",
+                       "cast": "Gong Yoo, Kim Go-eun, Yook Sung-jae, Lee El ...more"
+          },
+                      
+          {
                 "name": "Goedam",
                 "description": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
                 "ageRestriction": "13",
