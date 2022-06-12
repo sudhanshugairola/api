@@ -1,4 +1,186 @@
-[    
+[   
+
+       {
+        "name": "Spartacus",
+        "description": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+        "ageRestriction": "18",
+        "video": "/Popular on netflix/Spartacus/season 1/Spartacus S01E01.mkv",
+        "series": "yes",
+        "subtitle":"/Popular on netflix/Spartacus/season 1/01 - The Red Serpent.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E01.mkv",
+                             "stitle": "1.The Red Serpent",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qI6Jqj0DFhcRef3sw0BMpbiD6Su.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/01 - The Red Serpent.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E02.mkv",
+                             "stitle": "2.Sacramentum Gladiatorum",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jDWc5kb5ltRQMAm7b9Ulgek1o0V.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/02 - Sacramentum Gladiatorum.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E03.mkv",
+                             "stitle": "3.Legends",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bMi8eH99uaUc1nVf0zpPMchtKvX.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/03 - Legends.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E04.mkv",
+                             "stitle": "4.The Thing in the Pit",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jetqjzZJrHTnjxgvJ2wGq4No3i2.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/04 - The Thing in the Pit.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E05.mkv",
+                             "stitle": "5.Shadow Games",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zhDXK5PhvhqC4ddvzfyOvVVpEZg.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/05 - Shadow Games.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E06.mkv",
+                             "stitle": "6.Delicate Things",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j6ccekuLquQiSByYSfhV3D5bGBB.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/06 - Delicate Things.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E07.mkv",
+                             "stitle": "7.Great and Unfortunate Things",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1529LeRk5O5UnTnAoRdzhSfqWpd.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/07 - Great and Unfortunate Things.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E08.mkv",
+                             "stitle": "8.Mark of the Brotherhood",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zWvNIwn25ykxoud3TkqqEFiMqaE.jpg",
+                             "ssubtitle":"/Popular on netflix/Spartacus/season 1/08 - Mark of the Brotherhood.srt"
+                         },                         
+                         {
+                            "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E09.mkv",
+                            "stitle": "9.Whore",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zCzGx5NUhGnNwnyVUjBxEYgIB3.jpg",
+                            "ssubtitle":"/Popular on netflix/Spartacus/season 1/09 - Whore.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E10.mkv",
+                            "stitle": "10.Party Favors",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xNTLU8s8ZW8KIP1cAHbCuL8CxJV.jpg",
+                            "ssubtitle":"/Popular on netflix/Spartacus/season 1/10 - Party Favors.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E11.mkv",
+                            "stitle": "11.Old Wounds",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vMeiLwSxbuUTNBlUKRxIdlydOUK.jpg",
+                            "ssubtitle":"/Popular on netflix/Spartacus/season 1/11 - Old Wounds.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E12.mkv",
+                            "stitle": "12.Revelations",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oJiP0fmxT4FoTxnkGQUUvZX9CYe.jpg",
+                            "ssubtitle":"/Popular on netflix/Spartacus/season 1/12 - Revelations.srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Spartacus/season 1/Spartacus S01E13.mkv",
+                            "stitle": "13.Kill Them All",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bx70Pngw8zXgTNeAe8vvwVIwDkK.jpg",
+                            "ssubtitle":"/Popular on netflix/Spartacus/season 1/13 - Kill Them All.srt"
+                        }
+             ],
+             [
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E01.mkv",
+                    "stitle": "1.Fugitivus",
+                    "stime": "53m",
+                    "si53mage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qwdciQFqiNXMGZwKTOHqWecHC4I.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E01.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E02.mkv",
+                    "stitle": "2.A Place in This World",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c4iMsaTxJ5BJwAkHDnP9jgkPUtf.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E02.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E03.mkv",
+                    "stitle": "3.The Greater Good",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3saqcNvbdUMvRUQlpmXGB594brw.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E03.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E04.mkv",
+                    "stitle": "4.Empty Hands",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wHCbTIs4vCOCFnOyWOSCUG80K6n.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E04.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E05.mkv",
+                    "stitle": "5.Libertus",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j8FVekfm2fLrdp0eWUAT47zISpJ.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E05.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E06.mkv",
+                    "stitle": "6.Chosen Path",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gOGygBNahZPtKrO3d3uE4Uu83L3.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E06.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E07.mkv",
+                    "stitle": "7.Sacramentum",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xq3h4ywxJW56i26KGDXU9jH1WPK.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E07.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E08.mkv",
+                    "stitle": "8.Balance",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ryfOXC3UD7AQvWSwUPcfcFDSmKj.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E08.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E09.mkv",
+                    "stitle": "9.Monsters",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/puHV4bLKRJGYkV7pIcpUIVRL1rr.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E09.srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E010.mkv",
+                    "stitle": "10.Wrath of the Gods",
+                    "stime": "53m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4d10gKe13Qa8S0Crb5eiLkjf51y.jpg",
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E010.srt"
+                }
+    ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg",
+        "genres": "Dramas,Romance,historical,Hollywood,English",
+        "releaseDate": "2010",
+        "trailer": "https://www.imdb.com/video/vi4046494745/?ref_=ext_shr_lnk",
+        "cast": "Manu Bennett,Lucy Lawless,Liam McIntyre...more"
+    },
+       
     {
         "name": "Welcome to Eden",
         "description": "Are you happy? With this question, Zoa and four other attractive young people, very active on social networks, are invited to the most exclusive party in history on a secret island, organized by the brand of a new drink. What begins as an exciting journey will soon become the journey of a lifetime. But paradise is not really what it seems - Welcome to Eden.",
