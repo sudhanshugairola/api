@@ -1,4 +1,80 @@
-[
+[   
+
+     {
+	    "name": "6 Underground",
+	    "description": "After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/6 Underground/6 Underground.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+	    "genres": "Action, Thriller, Comedy,Hollywood,English,Hindi",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi3994337049/?ref_=ext_shr_lnk",
+	    "cast": "Ryan Reynolds,Mélanie Laurent... more",
+        "time":"2h 8m",
+        "subtitle":"/Hollywood Movies/6 Underground/6 Underground.English (CC).srt"
+    },
+
+    {
+	    "name": "Monster Hunter",
+	    "description": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Monster Hunter/Monster Hunter.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+	    "genres": "Action, Fantasy, Adventure,Hollywood,English,Hindi",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi3780559129/?ref_=ext_shr_lnk",
+	    "cast": "Milla Jovovich,Tony Jaa... more",
+        "time":"1h 44m",
+        "subtitle":"/Hollywood Movies/Monster Hunter/Monster Hunter.English (CC).srt"
+    },
+
+    {
+	    "name": "Project Power",
+	    "description": "An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Project Power/Project Power.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+	    "genres": "Action, Crime, Science Fiction,Hollywood,English,Hindi",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi3557670425/?ref_=ext_shr_lnk",
+	    "cast": "Jamie Foxx,Joseph Gordon-Levitt... more",
+        "time":"h 53m",
+        "subtitle":"/Hollywood Movies/Project Power/Project Power.English (CC).srt"
+    },
+
+    {
+	    "name": "Dracula Untold",
+	    "description": "Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire, Dracula.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Dracula Untold/Dracula Untold.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+	    "genres": "Horror, Action, Dramas, Fantasy, War,Hollywood,English,Hindi",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi210742297/?ref_=ext_shr_lnk",
+	    "cast": "Luke Evans,Dominic Cooper... more",
+        "time":"1h 32m",
+        "subtitle":"/Hollywood Movies/Dracula Untold/Dracula Untold.English (CC).srt"
+    },
+
+    {
+	    "name": "R.I.P.D.",
+	    "description": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/R_I_P_D/R_I_P_D.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg",
+	    "genres": "Fantasy, Action, Comedy, Crime,Hollywood,English,Hindi",
+	    "releaseDate": "2013",
+	    "trailer": "https://www.imdb.com/video/vi1741202969/?ref_=ext_shr_lnk",
+	    "cast": "Jeff Bridges,Ryan Reynolds... more",
+        "time":"2h 27m",
+        "subtitle":"/Hollywood Movies/R_I_P_D/R_I_P_D.English (CC).srt"
+    },
+    
     {
 		"name": "The Adam Project",
 		"description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
