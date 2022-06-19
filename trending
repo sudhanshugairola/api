@@ -1,4 +1,409 @@
-[   
+[    
+
+    {
+	    "name": "Interceptor",
+	    "description": "A U.S. Army Captain uses her years of tactical training to save humanity from sixteen nuclear missiles launched at the U.S. as a violent attack threatens her remote missile interceptor station.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Interceptor/Interceptor.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg",
+	    "genres": "Action, Thriller, Adventure,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2157822489/?ref_=ext_shr_lnk",
+	    "cast": "Elsa Pataky,Luke Bracey... more",
+        "time":"1h 38m",
+        "subtitle":"/Hollywood Movies/Interceptor/Interceptor.English (CC).srt"
+    },
+
+    {
+	    "name": "Assassin's Creed",
+	    "description": "Through unlocked genetic memories that allow him to relive the adventures of his ancestor in 15th century Spain, Callum Lynch discovers he's a descendant of the secret 'Assassins' society. After gaining incredible knowledge and skills, he is now poised to take on the oppressive Knights Templar in the present day.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Assassin_s Creed/Assassin_s Creed.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ne5LmY2zq2dTG8TDGJOrCB4IbRy.jpg",
+	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
+	    "releaseDate": "2016",
+	    "trailer": "https://www.imdb.com/video/vi3387733017/?ref_=ext_shr_lnk",
+	    "cast": "Michael Fassbender,Marion Cotillard... more",
+        "time":"1h 55m",
+        "subtitle":"/Hollywood Movies/Assassin_s Creed/Assassin_s Creed.English (CC).srt"
+    },
+
+    {
+	    "name": "Spider-Man: No Way Home",
+	    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi1035584025/?ref_=ext_shr_lnk",
+	    "cast": "Tom Holland,Zendaya... more",
+        "time":"2h 28m",
+        "subtitle":"/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.English (CC).srt"
+    },
+
+    {
+	    "name": "Spiderhead",
+	    "description": "A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spiderhead/Spiderhead.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+	    "genres": "Science Fiction, Thriller,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi646890009/?ref_=ext_shr_lnk",
+	    "cast": "Chris Hemsworth,Miles Teller... more",
+        "time":"1h 47m",
+        "subtitle":"/Hollywood Movies/Spiderhead/Spiderhead.English (CC).srt"
+    },
+
+    {
+	    "name": "Battleship",
+	    "description": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Battleship/Battleship.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg",
+	    "genres": "Thriller, Action, Adventure, Science Fiction,Hollywood,English",
+	    "releaseDate": "2012",
+	    "trailer": "https://www.imdb.com/video/vi2907283737/?ref_=ext_shr_lnk",
+	    "cast": "Taylor Kitsch,Tadanobu Asano... more",
+        "time":"2h 11m",
+        "subtitle":"/Hollywood Movies/Battleship/Battleship.English (CC).srt"
+    },
+
+    {
+	    "name": "Snow White and the Huntsman",
+	    "description": "After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Snow White and the Huntsman/Snow White and the Huntsman.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xUNnFwO7XfjvrQ2hFfIlPTwqzDk.jpg",
+	    "genres": "Adventure, Fantasy, Dramas,Hollywood,English",
+	    "releaseDate": "2012",
+	    "trailer": "https://www.imdb.com/video/vi2494275609/?ref_=ext_shr_lnk",
+	    "cast": "Kristen Stewart,Chris Hemsworth... more",
+        "time":"2h 7m",
+        "subtitle":"/Hollywood Movies/Snow White and the Huntsman/Snow White and the Huntsman.English (CC).srt"
+    },
+
+    {
+	    "name": "Wanted",
+	    "description": "Doormat Wesley Gibson discovers that his recently murdered father - who Wesley never knew - belonged to a secret guild of assassins. After a leather-clad sexpot drafts Wesley into the society, he hones his innate killing skills and turns avenger.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Wanted/Wanted.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rTvUr2ESdZ1Ht5zNbgUNmNEHyUT.jpg",
+	    "genres": "Action, Thriller, Crime,Hollywood,English",
+	    "releaseDate": "2008",
+	    "trailer": "https://www.imdb.com/video/vi4289790233/?ref_=ext_shr_lnk",
+	    "cast": "James McAvoy,Angelina Jolie... more",
+        "time":"1h 50m",
+        "subtitle":"/Hollywood Movies/Wanted/Wanted.English (CC).srt"
+    },
+
+    {
+	    "name": "Triple Frontier",
+	    "description": "Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Triple Frontier/Triple Frontier.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+	    "genres": "Action, Thriller, Crime, Adventure,English,Hollywood",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi768064025/?ref_=ext_shr_lnk",
+	    "cast": "Ben Affleck,Oscar Isaac... more",
+        "time":"2h 5m",
+        "subtitle":"/Hollywood Movies/Triple Frontier/Triple Frontier.English (CC).srt"
+    },
+
+    {
+	    "name": "Lucy",
+	    "description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Lucy/Lucy.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+	    "genres": "Action, Science Fiction",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi2092674329/?ref_=ext_shr_lnk",
+	    "cast": "Scarlett Johansson,Morgan Freeman... more",
+        "time":"1h 29m",
+        "subtitle":"/Hollywood Movies/Lucy/Lucy.English (CC).srt"
+    },
+
+    {
+	    "name": "Seventh Son",
+	    "description": "John Gregory, who is a seventh son of a seventh son and also the local spook, has protected the country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't?",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Seventh Son/Seventh Son.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7Q8DfXSjcFSSQDOxz1Sk865wNqI.jpg",
+	    "genres": "Adventure, Fantasy, Dramas,Hollywood,English",
+	    "releaseDate": "2015",
+	    "trailer": "https://www.imdb.com/video/vi2475141401/?ref_=ext_shr_lnk",
+	    "cast": "Jeff Bridges,Julianne Moore... more",
+        "time":"1h 42m",
+        "subtitle":"/Hollywood Movies/Seventh Son/Seventh Son.English (CC).srt"
+    },
+    
+    {
+	    "name": "The Old Guard",
+	    "description": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The Old Guard/The Old Guard.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+	    "genres": "Action, Fantasy, Dramas,Hollywood,English",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi1193131545/?ref_=ext_shr_lnk",
+	    "cast": "Charlize Theron,Matthias Schoenaerts... more",
+        "time":"2h 5m",
+        "subtitle":"/Hollywood Movies/The Old Guard/The Old Guard.English (CC).srt"
+    },
+    
+    {
+	    "name": "San Andreas",
+	    "description": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/San Andreas/San Andreas.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+	    "genres": "Action, Dramas, Thriller,Hollywood,English",
+	    "releaseDate": "2015",
+	    "trailer": "https://www.imdb.com/video/vi395358233/?ref_=ext_shr_lnk",
+	    "cast": "Dwayne Johnson,Alexandra Daddario... more",
+        "time":"1h 54m",
+        "subtitle":"/Hollywood Movies/San Andreas/San Andreas.English (CC).srt"
+    },
+    
+    {
+	    "name": "Edge of Tomorrow",
+	    "description": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Edge of Tomorrow/Edge of Tomorrow.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uUHvlkLavotfGsNtosDy8ShsIYF.jpg",
+	    "genres": "Action, Science Fiction,Hollywood,English",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi3591679257/?ref_=ext_shr_lnk",
+	    "cast": "Tom Cruise,Emily Blunt... more",
+        "time":"1h 53m",
+        "subtitle":"/Hollywood Movies/Edge of Tomorrow/Edge of Tomorrow.English (CC).srt"
+    },
+
+    {
+	    "name": "2012",
+	    "description": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build arks to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/2012/2012.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8i1xFqcItT6GKEbY6VDbFnxe7sJ.jpg",
+	    "genres": "Action, Adventure, Science Fiction",
+	    "releaseDate": "2009",
+	    "trailer": "https://www.imdb.com/video/vi3444113945/?ref_=ext_shr_lnk",
+	    "cast": "John Cusack,Amanda Peet... more",
+        "time":"2h 38m",
+        "subtitle":"/Hollywood Movies/2012/2012.English (CC).srt"
+    },
+    
+    {
+	    "name": "Mowgli: Legend of the Jungle",
+	    "description": "A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Mowgli_ Legend of the Jungle/Mowgli_ Legend of the Jungle.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
+	    "genres": "Adventure, Dramas,Hollywood,English",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi4076255769/?ref_=ext_shr_lnk",
+	    "cast": "Rohan Chand,Christian Bale... more",
+        "time":"1h 45m",
+        "subtitle":"/Hollywood Movies/Mowgli_ Legend of the Jungle/Mowgli_ Legend of the Jungle.English (CC).srt"
+    },
+
+    {
+	    "name": "The Mummy: Tomb of the Dragon Emperor",
+	    "description": "Archaeologist Rick O'Connell travels to China, pitting him against an emperor from the 2,000-year-old Han dynasty who's returned from the dead to pursue a quest for world domination. This time, O'Connell enlists the help of his wife and son to quash the so-called 'Dragon Emperor' and his abuse of supernatural power.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The Mummy_ Tomb of the Dragon Emperor/The Mummy_ Tomb of the Dragon Emperor.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg",
+	    "genres": "Adventure, Action, Fantasy,Hollywood,English",
+	    "releaseDate": "2008",
+	    "trailer": "https://www.imdb.com/video/vi3930372889/?ref_=ext_shr_lnk",
+	    "cast": "Brendan Fraser,Maria Bello... more",
+        "time":"1h 52m",
+        "subtitle":"/Hollywood Movies/The Mummy_ Tomb of the Dragon Emperor/The Mummy_ Tomb of the Dragon Emperor.srt"
+    },
+
+    {
+	    "name": "The Wandering Earth",
+	    "description": "When the Sun begins to expand in such a way that it will inevitably engulf and destroy the Earth in a hundred years, united mankind finds a way to avoid extinction by propelling the planet out of the Solar System using gigantic engines, moving it to a new home located four light years away, an epic journey that will last thousands of years.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The Wandering Earth/The Wandering Earth.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/woo56L6LYYoM89DYBCU2C6LO1at.jpg",
+	    "genres": "Science Fiction, Action, Dramas,Chinese,English",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi2657663513/?ref_=ext_shr_lnk",
+	    "cast": "Qu Chuxiao,Li Guangjie... more",
+        "time":"2h 6m",
+        "subtitle":"/Hollywood Movies/The Wandering Earth/The Wandering Earth.English (CC).srt"
+    },
+
+    {
+	    "name": "Red Dawn",
+	    "description": "A city in Washington state awakens to the surreal sight of foreign paratroopers dropping from the sky—shockingly, the U.S. has been invaded and their hometown is the initial target. Quickly and without warning, the citizens find themselves prisoners and their town under enemy occupation. Determined to fight back, a group of young patriots seek refuge in the surrounding woods, training and reorganizing themselves into a guerrilla group of fighters.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Red Dawn/Red Dawn.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aHdxKDX36NOEYE2NyAyP7ThuAcm.jpg",
+	    "genres": "Action, Thriller, Crime,Hollywood,English",
+	    "releaseDate": "2012",
+	    "trailer": "https://www.imdb.com/video/vi3511591961/?ref_=ext_shr_lnk",
+	    "cast": "Chris Hemsworth,Josh Peck... more",
+        "time":"1h 33m",
+        "subtitle":"/Hollywood Movies/Red Dawn/Red Dawn.English (CC).srt"
+    },
+
+    {
+	    "name": "American Assassin",
+	    "description": "Following the murder of his fiancée, Mitch Rapp trains under the instruction of Cold War veteran Stan Hurley. The pair then is enlisted to investigate a wave of apparently random attacks on military and civilian targets.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/American Assassin/American Assassin.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
+	    "genres": "Action, Thriller, Crime,Hollywood,English",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi1743501593/?ref_=ext_shr_lnk",
+	    "cast": "Dylan O'Brien,Michael Keaton... more",
+        "time":"1h 52m",
+        "subtitle":"/Hollywood Movies/American Assassin/American Assassin.English (CC).srt"
+    },
+
+    {
+	    "name": "Ouija: Origin of Evil",
+	    "description": "In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Ouija_ Origin of Evil/Ouija_ Origin of Evil.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",
+	    "genres": "Horror, Thriller,Hollywood,English",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi2695083545/?ref_=ext_shr_lnk",
+	    "cast": "Elizabeth Reaser,Lulu Wilson... more",
+        "time":"1h 39m",
+        "subtitle":"/Hollywood Movies/Ouija_ Origin of Evil/Ouija_ Origin of Evil.srt"
+    },
+
+    {
+	    "name": "The Conjuring",
+	    "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Conjuring/The Conjuring.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+	    "genres": "Horror, Thriller,English,Hollywood",
+	    "releaseDate": "2013",
+	    "trailer": "https://www.imdb.com/video/vi3819874585/?ref_=ext_shr_lnk",
+	    "cast": "Vera Farmiga,Patrick Wilson... more",
+        "time":"1h 52m",
+        "subtitle":"/Hollywood Movies/The Conjuring/The Conjuring.English (CC).srt"
+    },
+
+    {
+	    "name": "The Nun",
+	    "description": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Nun/The Nun.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+	    "genres": "Horror, Mystery, Thriller,English,Hollywood",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi2039200537/?ref_=ext_shr_lnk",
+	    "cast": "Demián Bichir,Taissa Farmiga... more",
+        "time":"1h 36m",
+        "subtitle":"/Hollywood Movies/The Nun/The Nun.English (CC).srt"
+    },
+
+    {
+	    "name": "Annabelle",
+	    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Annabelle/Annabelle.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/a9iL3FIwLrympRyiL5v0tAkwrvX.jpg",
+	    "genres": "Horror,English,Hollywood",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi3319573529/?ref_=ext_shr_lnk",
+	    "cast": "Annabelle Wallis,Ward Horton... more",
+        "time":"1h 39m",
+        "subtitle":"/Hollywood Movies/Annabelle/Annabelle.English (CC).srt"
+    },
+
+    {
+	    "name": "The Conjuring 2",
+	    "description": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Conjuring 2/The Conjuring 2.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+	    "genres": "Horror, Thriller,English,Hollywood",
+	    "releaseDate": "2016",
+	    "trailer": "https://www.imdb.com/video/vi4116952345/?ref_=ext_shr_lnk",
+	    "cast": "Patrick Wilson,Vera Farmiga... more",
+        "time":"2h 14m",
+        "subtitle":"/Hollywood Movies/The Conjuring 2/The Conjuring 2.English (CC).srt"
+    },
+
+    {
+	    "name": "Veronica",
+	    "description": "Madrid, June 1991. After celebrating a session of Ouija with her friends, Verónica is besieged by dangerous supernatural presences that threaten to harm her entire family.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Veronica/Veronica.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wpBT3BYs3JZkN8pK951beb9cCOc.jpg",
+	    "genres": "Horror, Thriller,English,Hollywood",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi3209281305/?ref_=ext_shr_lnk",
+	    "cast": "Sandra Escacena,Bruna González... more",
+        "time":"1h 45m",
+        "subtitle":"/Hollywood Movies/Veronica/Veronica.English (CC).srt"
+    },
+
+    {
+	    "name": "The Possession",
+	    "description": "A young girl buys an antique box at a yard sale, unaware that inside the collectible lives a malicious ancient spirit. The girl's father teams with his ex-wife to find a way to end the curse upon their child.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Possession/The Possession.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/loZYdcmgvnonHtH0XH0RI7rm8iA.jpg",
+	    "genres": "Horror, Thriller,English,Hollywood",
+	    "releaseDate": "2012",
+	    "trailer": "https://www.imdb.com/video/vi4006257177/?ref_=ext_shr_lnk",
+	    "cast": "Jeffrey Dean Morgan,Kyra Sedgwick... more",
+        "time":"1h 32m",
+        "subtitle":"/Hollywood Movies/The Possession/The Possession.English (CC).srt"
+    },
+
+    {
+	    "name": "Fear Street Part 1:1994",
+	    "description": "After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Fear Street Part 1_ 1994/Fear Street Part 1_ 1994.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+	    "genres": "Mystery, Horror,English,Hollywood",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi3826696217/?ref_=ext_shr_lnk",
+	    "cast": "Kiana Madeira,Olivia Scott Welch... more",
+        "time":"1h 47m",
+        "subtitle":"/Hollywood Movies/Fear Street Part 1_ 1994/Fear Street Part 1_ 1994.English (CC).srt"
+     },
 
      {
 	    "name": "6 Underground",
@@ -318,6 +723,361 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
+	
+         {
+    "name": "First Kill",
+    "description": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill.",
+    "ageRestriction": "16",
+    "video": "/Hollywood series/First Kill/season 1/First Kill_S01E01_First Kiss.mp4",
+    "series": "yes",
+    "subtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E01_First Kiss.English (CC).srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E01_First Kiss.mp4",
+                         "stitle": "1.First Kiss",
+                         "stime": "48m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bGyfx6OaNGT3jKWdpS62Nj4u41p.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E01_First Kiss.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E02_First Blood.mp4",
+                         "stitle": "2.First Blood",
+                         "stime": "53m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXW63qEoGoSA1jYjDtZn0GVQ60j.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E02_First Blood.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E03_First Fight.mp4",
+                         "stitle": "3.First Fight",
+                         "stime": "46m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bD08zkBbvSHrqJJbtULFNVJHd36.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E03_First Fight.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E04_First Date.mp4",
+                         "stitle": "4.First Date",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3mNqA0XGlvOgnYX2yXII9KtL5aj.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E04_First Date.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E05_First Love.mp4",
+                         "stitle": "5.First Love",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3GMfL8iP12obxOS2SlcwnTCdRYu.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E05_First Love.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E06_First Severing.mp4",
+                         "stitle": "6.First Severing",
+                         "stime": "53m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6f9qll6Orjp3BZuQhCczlyxR2dn.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E06_First Severing.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E07_First Goodbye.mp4",
+                         "stitle": "7.First Goodbye",
+                         "stime": "45m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9zfwvrvTPdNN4iqA1oqioSVdIOC.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E07_First Goodbye.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/First Kill/season 1/First Kill_S01E08_First Betrayal.mp4",
+                         "stitle": "8.First Betrayal",
+                         "stime": "1h",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8AepWeRpgSqq3nk6kYBX0gtbyof.jpg",
+                         "ssubtitle":"/Hollywood series/First Kill/season 1/First Kill_S01E08_First Betrayal.English (CC).srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/70yK1hRyyQiwqstpMTHZCpcnP7.jpg",
+    "genres": "Dramas, Mystery,Hollywood,English,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi3771908633/?ref_=ext_shr_lnk",
+    "cast": "Sarah Catherine Hook,Imani Lewis...more"
+   },
+	
+      {
+        "name": "Peaky Blinders",
+        "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "ageRestriction": "18",
+        "video": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.English (CC).srt",
+         "seriess":[
+             [
+                             {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.mkv",
+                             "stitle": "1.Episode 1",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tplu6cXP312IN5rrT5K81zFZpMd.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E02_Episode 2.mkv",
+                             "stitle": "2.Episode 2",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E03_Episode 3.mkv",
+                             "stitle": "3.Episode 3",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E04_Episode 4.mkv",
+                             "stitle": "4.Episode 4",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E05_Episode 5.mkv",
+                             "stitle": "5.Episode 5",
+                             "stime": "56m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/11HGUikej3bARNmp44vEnkBel5K.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E06_Episode 6.mkv",
+                             "stitle": "6.Episode 6",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E06_Episode 6.English (CC).srt"
+                         }
+             ],
+                     [
+                             {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E01_Episode 1.mkv",
+                             "stitle": "1.Episode 1",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E02_Episode 2.mkv",
+                             "stitle": "2.Episode 2",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E03_Episode 3.mkv",
+                             "stitle": "3.Episode 3",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E04_Episode 4.mkv",
+                             "stitle": "4.Episode 4",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E05_Episode 5.mkv",
+                             "stitle": "5.Episode 5",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/trUVc4nroLCWayW1Bl61uieY1ET.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E06_Episode 6.mkv",
+                             "stitle": "6.Episode 6",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E06_Episode 6.English (CC).srt"
+                         }
+             ],
+                     [
+                             {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E01_Episode 1.mkv",
+                             "stitle": "1.Episode 1",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E02_Episode 2.mkv",
+                             "stitle": "2.Episode 2",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E03_Episode 3.mkv",
+                             "stitle": "3.Episode 3",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uo1SiLstmK9KFSHUh3tT9yVUofq.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E04_Episode 4.mkv",
+                             "stitle": "4.Episode 4",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E05_Episode 5.mkv",
+                             "stitle": "5.Episode 5",
+                             "stime": "56m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4A168wOqSidu25pOmC7a0vLITkP.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E06_Episode 6.mkv",
+                             "stitle": "6.Episode 6",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E06_Episode 6.English (CC).srt"
+                         }
+             ],
+                     [
+                             {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E01_The Noose.mkv",
+                             "stitle": "1.The Noose",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E01_The Noose.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E02_Heathens.mkv",
+                             "stitle": "2.Heathens",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cXslOUj3dI481fLi96XraGFpul4.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E02_Heathens.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E03_Blackbird.mkv",
+                             "stitle": "3.Blackbird",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E03_Blackbird.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E04_Dangerous.mkv",
+                             "stitle": "4.Dangerous",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E04_Dangerous.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E05_The Duel.mkv",
+                             "stitle": "5.The Duel",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E05_The Duel.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E06_The Company.mkv",
+                             "stitle": "6.The Company",
+                             "stime": "56m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E06_The Company.English (CC).srt"
+                         }
+             ],
+                     [
+                             {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E01_Black Tuesday.mkv",
+                             "stitle": "1.Black Tuesday",
+                             "stime": "56m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fIgGfj0YWWH2rsS5XVtOjGdC5G2.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E01_Black Tuesday.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E02_Black Cats.mkv",
+                             "stitle": "2.Black Cats",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E02_Black Cats.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E03_Strategy.mkv",
+                             "stitle": "3.Strategy",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E03_Strategy.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E04_The Loop.mkv",
+                             "stitle": "4.The Loop",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9o9Obi0uzcAksnocm14AViXhYZu.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E04_The Loop.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E05_The Shock.mkv",
+                             "stitle": "5.The Shock",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E05_The Shock.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E06_Mr Jones.mkv",
+                             "stitle": "6.Mr Jones",
+                             "stime": "1h 5m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",
+                             "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E06_Mr Jones.English (CC).srt"
+                         }
+             ],
+             [
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E01_Black Day.mp4",
+                    "stitle": "1.Black Day",
+                    "stime": "55m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qCmmKG9He0lIp7RITOxbqzOfURF.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E01_Black Day.English (CC).srt"
+                },
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E02_Black Shirt.mp4",
+                    "stitle": "2.Black Shirt",
+                    "stime": "59m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E02_Black Shirt.English (CC).srt"
+                },
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E03_Gold.mp4",
+                    "stitle": "3.Gold",
+                    "stime": "55m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E03_Gold.English (CC).srt"
+                },
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E04_Sapphire.mp4",
+                    "stitle": "4.Sapphire",
+                    "stime": "58m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/53RBnbWROENe9wnT13tfOl2t3lg.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E04_Sapphire.English (CC).srt"
+                },
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E05_The Road to Hell.mp4",
+                    "stitle": "5.The Road to Hell",
+                    "stime": "59m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pLYq28eSV8zierLtoywFGATOmJw.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E05_The Road to Hell.English (CC).srt"
+                },
+                {
+                    "svideos": "/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E06_Lock and Key.mp4",
+                    "stitle": "6.Lock and Key",
+                    "stime": "1h 19m",
+                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg",
+                    "ssubtitle":"/Hollywood series/Peaky Blinders/season 6/Peaky Blinders_S06E06_Lock and Key.English (CC).srt"
+                }
+            ]
+    
+            ],
+         "thumbnailImageId": "https://www.jguru.com/wp-content/uploads/2021/07/Peaky-Blinders-Season-6-Plot.jpg",
+        "genres": "Dramas, Crime,Hollywood,English",
+        "releaseDate": "2013",
+        "trailer": "https://www.imdb.com/video/vi4265067289/?playlistId=tt2442560?ref_=ext_shr_lnk",
+        "cast": "Cillian Murphy,Paul Anderson...more"
+    },
   
     {
         "name": "Who Killed Sara?",
@@ -5059,242 +5819,6 @@
     "releaseDate": "2017",
     "trailer": "https://www.imdb.com/video/vi1303560729/?playlistId=tt5071412?ref_=ext_shr_lnk",
     "cast": "Jason Bateman,Laura Linney...more"
-   },
-
-   {
-    "name": "Peaky Blinders",
-    "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
-    "ageRestriction": "18",
-    "video": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.mkv",
-    "series": "yes",
-    "subtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.English (CC).srt",
-     "seriess":[
-         [
-                         {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.mkv",
-                         "stitle": "1.Episode 1",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tplu6cXP312IN5rrT5K81zFZpMd.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E01_Episode 1.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E02_Episode 2.mkv",
-                         "stitle": "2.Episode 2",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E02_Episode 2.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E03_Episode 3.mkv",
-                         "stitle": "3.Episode 3",
-                         "stime": "55m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E03_Episode 3.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E04_Episode 4.mkv",
-                         "stitle": "4.Episode 4",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E04_Episode 4.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E05_Episode 5.mkv",
-                         "stitle": "5.Episode 5",
-                         "stime": "56m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/11HGUikej3bARNmp44vEnkBel5K.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E05_Episode 5.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E06_Episode 6.mkv",
-                         "stitle": "6.Episode 6",
-                         "stime": "54m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 1/Peaky Blinders_S01E06_Episode 6.English (CC).srt"
-                     }
-         ],
-                 [
-                         {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E01_Episode 1.mkv",
-                         "stitle": "1.Episode 1",
-                         "stime": "59m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E01_Episode 1.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E02_Episode 2.mkv",
-                         "stitle": "2.Episode 2",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E02_Episode 2.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E03_Episode 3.mkv",
-                         "stitle": "3.Episode 3",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E03_Episode 3.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E04_Episode 4.mkv",
-                         "stitle": "4.Episode 4",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E04_Episode 4.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E05_Episode 5.mkv",
-                         "stitle": "5.Episode 5",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/trUVc4nroLCWayW1Bl61uieY1ET.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E05_Episode 5.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E06_Episode 6.mkv",
-                         "stitle": "6.Episode 6",
-                         "stime": "59m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 2/Peaky Blinders_S02E06_Episode 6.English (CC).srt"
-                     }
-         ],
-                 [
-                         {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E01_Episode 1.mkv",
-                         "stitle": "1.Episode 1",
-                         "stime": "55m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E01_Episode 1.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E02_Episode 2.mkv",
-                         "stitle": "2.Episode 2",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E02_Episode 2.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E03_Episode 3.mkv",
-                         "stitle": "3.Episode 3",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uo1SiLstmK9KFSHUh3tT9yVUofq.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E03_Episode 3.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E04_Episode 4.mkv",
-                         "stitle": "4.Episode 4",
-                         "stime": "54m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E04_Episode 4.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E05_Episode 5.mkv",
-                         "stitle": "5.Episode 5",
-                         "stime": "56m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4A168wOqSidu25pOmC7a0vLITkP.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E05_Episode 5.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E06_Episode 6.mkv",
-                         "stitle": "6.Episode 6",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 3/Peaky Blinders_S03E06_Episode 6.English (CC).srt"
-                     }
-         ],
-                 [
-                         {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E01_The Noose.mkv",
-                         "stitle": "1.The Noose",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E01_The Noose.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E02_Heathens.mkv",
-                         "stitle": "2.Heathens",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cXslOUj3dI481fLi96XraGFpul4.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E02_Heathens.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E03_Blackbird.mkv",
-                         "stitle": "3.Blackbird",
-                         "stime": "59m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E03_Blackbird.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E04_Dangerous.mkv",
-                         "stitle": "4.Dangerous",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E04_Dangerous.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E05_The Duel.mkv",
-                         "stitle": "5.The Duel",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E05_The Duel.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E06_The Company.mkv",
-                         "stitle": "6.The Company",
-                         "stime": "56m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 4/Peaky Blinders_S04E06_The Company.English (CC).srt"
-                     }
-         ],
-                 [
-                         {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E01_Black Tuesday.mkv",
-                         "stitle": "1.Black Tuesday",
-                         "stime": "56m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fIgGfj0YWWH2rsS5XVtOjGdC5G2.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E01_Black Tuesday.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E02_Black Cats.mkv",
-                         "stitle": "2.Black Cats",
-                         "stime": "58m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9ajQxbY28xuFPUoPfNXH2f8Cyi4.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E02_Black Cats.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E03_Strategy.mkv",
-                         "stitle": "3.Strategy",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E03_Strategy.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E04_The Loop.mkv",
-                         "stitle": "4.The Loop",
-                         "stime": "57m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9o9Obi0uzcAksnocm14AViXhYZu.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E04_The Loop.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E05_The Shock.mkv",
-                         "stitle": "5.The Shock",
-                         "stime": "55m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E05_The Shock.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E06_Mr Jones.mkv",
-                         "stitle": "6.Mr Jones",
-                         "stime": "1h 5m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",
-                         "ssubtitle":"/Hollywood series/Peaky Blinders/season 5/Peaky Blinders_S05E06_Mr Jones.English (CC).srt"
-                     }
-         ]
-        ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
-    "genres": "Drama, Crime",
-    "releaseDate": "2013",
-    "trailer": "https://www.imdb.com/video/vi4265067289/?playlistId=tt2442560?ref_=ext_shr_lnk",
-    "cast": "Cillian Murphy,Paul Anderson...more"
    },
 
    {
