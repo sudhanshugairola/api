@@ -1,4 +1,65 @@
 [  
+
+    {
+	    "name": "Galwakdi",
+	    "description": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Galwakdi 2022/Galwakdi 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2ehzcGwWz7ZLsPrNawvfb2oTXnD.jpg",
+	    "genres": "Dramas, Comedy, Romance,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1647362841/?ref_=ext_shr_lnk",
+	    "cast": "Tarsem Jassar,Wamiqa Gabbi... more",
+        "time":"2h 10m",
+        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
+    },
+    
+    {
+	    "name": "Pushpa: The Rise - Part 1",
+	    "description": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Pushpa/Pushpa.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kKDnGklCDRK8hrFGH4pLr7ZDA33.jpg",
+	    "genres": "Action, Dramas, Thriller,Hindi,Indian,South",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi3325018905/?ref_=ext_shr_lnk",
+	    "cast": "Allu Arjun,Rashmika Mandanna... more",
+        "time":"2h 59m",
+        "subtitle":"/Hindi_Movies/Pushpa/Pushpa.srt"
+    },
+
+    {
+	    "name": "The Kashmir Files",
+	    "description": "Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.",
+	    "ageRestriction": "18",
+	    "video": "/Hindi_Movies/The Kashmir Files/The Kashmir Files.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k079zl4TcFVK0n5CypQeYqSkwdU.jpg",
+	    "genres": "Thriller, History, Dramas,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3112747545/?ref_=ext_shr_lnk",
+	    "cast": "Mithun Chakraborty,Anupam Kher,Darshan Kumaar... more",
+        "time":"2h 50m",
+        "subtitle":"/Hindi_Movies/The Kashmir Files/The Kashmir Files.srt"
+    },
+    
+    {
+	    "name": "Check",
+	    "description": "Aditya is a death row prisoner facing charges of terrorism. His only hope for living lies in the game of chess",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/check/Check 2022.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7uWWCPFDE1ZqfzZuqEr5aRq18bn.jpg",
+	    "genres": "Crime, Thriller,Hindi,Indian,South",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi1246937369/?ref_=ext_shr_lnk",
+	    "cast": "Nithiin,Rakul Preet Singh... more",
+        "time":"2h 20m",
+        "subtitle":"/Hindi_Movies/check/Check 2022.srt"
+     },
+	
      {
 	    "name": "Saunkan Saunkne",
 	    "description": "A couple married for more than 6 years loses hope for a child. On insistence of his wife he marries her sister. Shortly small squabbles between the two wives lead to comic situation and fun begins.",
@@ -599,8 +660,125 @@
     "time":"1h 35m",
     "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
 },
-    
 
+   {
+    "name": "She",
+    "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
+    "ageRestriction": "18",
+    "video": "/Indian drama/She/season 1/She_S01E01_The Pickup.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/She/season 1/She_S01E01_The Pickup.English (CC).srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/She/season 1/She_S01E01_The Pickup.mkv",
+                         "stitle": "1.The Pickup",
+                         "stime": "32m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6Shb2xru17hewujx1Qp2HZb6c3k.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E01_The Pickup.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E02_The Proposal.mkv",
+                         "stitle": "2.The Proposal",
+                         "stime": "37m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/78LRRdYRdoq1VIHyO640q7UaQug.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E02_The Proposal.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E03_The Pawn_s Move.mkv",
+                         "stitle": "3.The Pawn's Move",
+                         "stime": "36m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ei4zoJz81lwavDlDFbbDtP2xglV.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E03_The Pawn_s Move.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E04_Night Walk.mkv",
+                         "stitle": "4.Night Walk",
+                         "stime": "43m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/unguaAqbZdDS2ZhH9CzFmqWfT1a.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E04_Night Walk.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E05_It_s Time.mkv",
+                         "stitle": "5.It's Time",
+                         "stime": "31m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ex9D8AMtIMH3YmIgBXPgNYE0xd.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E05_It_s Time.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E06_The Promise.mkv",
+                         "stitle": "6.The Promise",
+                         "stime": "34m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fDu4ccdGDLZfzZeTH3Ew6HhZyzC.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E06_The Promise.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/She/season 1/She_S01E07_Devil_s Share.mkv",
+                         "stitle": "7.Devil's Share",
+                         "stime": "39m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a1K8WyzFDGzArq4cGil1D1yEkxp.jpg",
+                         "ssubtitle":"/Indian drama/She/season 1/She_S01E07_Devil_s Share.English (CC).srt"
+                     }
+         ],
+         [
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E01_The Test.mp4",
+                "stitle": "1.The Test",
+                "stime": "47m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4LGe9wJawky4hKfgKqycx9325sf.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E01_The Test.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E02_The Tightrope.mp4",
+                "stitle": "2.The Tightrope",
+                "stime": "47m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5Ww7ZPvkhlBBHR6vSkDwuzCuTL7.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E02_The Tightrope.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E03_The Devil_s Double.mp4",
+                "stitle": "3.The Devil's Double",
+                "stime": "45m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jFBHDPEQLas0hSL6VIiX6QxjleF.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E03_The Devil_s Double.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E04_Samsara.mp4",
+                "stitle": "4.Samsara",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5Yb88yeoQtccbEFHwsC68KqPboi.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E04_Samsara.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E05_Karma Cola.mp4",
+                "stitle": "5.Karma Cola",
+                "stime": "39m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gtBcfDqRoa0PRcIj33t2ip51lHr.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E05_Karma Cola.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E06_Dark Seduction.mp4",
+                "stitle": "6.Dark Seduction",
+                "stime": "51m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1E80Zzq7b4vqLP5j98c1G0ehBCD.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E06_Dark Seduction.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/She/season 2/She_S02E07_The Switch.mp4",
+                "stitle": "7.The Switch",
+                "stime": "51m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zWSJT6Xx6XyVL3GcVhrkV9WLqqF.jpg",
+                "ssubtitle":"/Indian drama/She/season 2/She_S02E07_The Switch.English.srt"
+            }
+        ]
+
+        ],
+     "thumbnailImageId": "https://www.themoviedb.org/t/p/w220_and_h330_face/9E0SwQPvaMStoSCWGefXXjWhpXL.jpg",
+    "genres": "Crime, Dramas,Hindi,Indian",
+    "releaseDate": "2020",
+    "trailer": "https://www.imdb.com/video/vi1353235993?playlistId=tt11905720?ref_=ext_shr_lnk",
+    "cast": "Aaditi Pohankar,Vijay Varma...more"
+   },
 
 {
         "name": "Aranyak",
@@ -1091,73 +1269,6 @@
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi4271749913?playlistId=tt6077448?ref_=ext_shr_lnk",
         "cast": "Saif Ali Khan,Chittaranjan Tripathy,Nawazuddin Siddiqui,Pankaj Tripathi...more"
-       },
-
-       {
-        "name": "She",
-        "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
-        "ageRestriction": "18",
-        "video": "/Indian drama/She/season 1/She_S01E01_The Pickup.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/She/season 1/She_S01E01_The Pickup.English (CC).srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/She/season 1/She_S01E01_The Pickup.mkv",
-                             "stitle": "1.The Pickup",
-                             "stime": "32m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6Shb2xru17hewujx1Qp2HZb6c3k.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E01_The Pickup.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E02_The Proposal.mkv",
-                             "stitle": "2.The Proposal",
-                             "stime": "37m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/78LRRdYRdoq1VIHyO640q7UaQug.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E02_The Proposal.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E03_The Pawn_s Move.mkv",
-                             "stitle": "3.The Pawn's Move",
-                             "stime": "36m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ei4zoJz81lwavDlDFbbDtP2xglV.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E03_The Pawn_s Move.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E04_Night Walk.mkv",
-                             "stitle": "4.Night Walk",
-                             "stime": "43m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/unguaAqbZdDS2ZhH9CzFmqWfT1a.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E04_Night Walk.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E05_It_s Time.mkv",
-                             "stitle": "5.It's Time",
-                             "stime": "31m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ex9D8AMtIMH3YmIgBXPgNYE0xd.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E05_It_s Time.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E06_The Promise.mkv",
-                             "stitle": "6.The Promise",
-                             "stime": "34m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fDu4ccdGDLZfzZeTH3Ew6HhZyzC.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E06_The Promise.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/She/season 1/She_S01E07_Devil_s Share.mkv",
-                             "stitle": "7.Devil's Share",
-                             "stime": "39m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a1K8WyzFDGzArq4cGil1D1yEkxp.jpg",
-                             "ssubtitle":"/Indian drama/She/season 1/She_S01E07_Devil_s Share.English (CC).srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w7LgKmvUf6C67gMnQYWvQjgJdqm.jpg",
-        "genres": "Crime, Dramas,Hindi,Indian",
-        "releaseDate": "2020",
-        "trailer": "https://www.imdb.com/video/vi1353235993?playlistId=tt11905720?ref_=ext_shr_lnk",
-        "cast": "Aaditi Pohankar,Vijay Varma...more"
        },
 
        {
