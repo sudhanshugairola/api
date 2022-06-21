@@ -1,5 +1,547 @@
 [   
-
+            {
+        "name": "Game of Thrones",
+        "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "ageRestriction": "18",
+        "video": "/Popular on netflix/Game of thrones/season 1/episode 1.mp4",
+        "series": "yes",
+        "subtitle":"/Popular on netflix/Game of thrones/season 1/episode 1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 1.mp4",
+                             "stitle": "1.Winter Is Coming",
+                             "stime": "1h 2m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xIfvIM7YgkADTrqp23rm3CLaOVQ.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 2.mp4",
+                             "stitle": "2.The Kingsroad",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/icjOgl5F9DhysOEo6Six2Qfwcu2.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 3.mp4",
+                             "stitle": "3.Lord Snow",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4vCYVtIhiYSUry1lviA7CKPUB5Z.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1episode 3.srt/"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 4.mp4",
+                             "stitle": "4.Cripples, Bastards, and Broken Things",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 5.mp4",
+                             "stitle": "5.The Wolf and the Lion",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5fDE2RqYXySfvYNdOOhOsdFl8ZA.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 6.mp4",
+                             "stitle": "6.A Golden Crown",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6FcfWGFlDyWZ2JvQi8uvkxbDx1z.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 7.mp4",
+                             "stitle": "7.You Win or You Die",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5ZNrAvoNAG9scYHgxLVyozypOmV.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 1/episode 8.mp4",
+                             "stitle": "8.The Pointy End",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/imjEc0gD9djHOlsJX00l08TaaGp.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 1/episode 9.mp4",
+                            "stitle": "9.Baelor",
+                            "stime": "56m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3pcFXQOKHnZhRkGCQ7Y8HRB1v8V.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 1/episode 10.mp4",
+                            "stitle": "10.Fire and Blood",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7GhSiFhXOg81AevNQWrX6DOEL1U.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 1/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 1.mp4",
+                             "stitle": "1.The North Remembers",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 2.mp4",
+                             "stitle": "2.The Night Lands",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nfjHsU0klJxvCbdCVZhaJ95LcHz.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 3.mp4",
+                             "stitle": "3.What is Dead May Never Die",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/neKkHgfX7dgi4E47GKT7bYciq93.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 4.mp4",
+                             "stitle": "4.Garden of Bones",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4j2j97GFao2NX4uAtMbr0Qhx2K2.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 5.mp4",
+                             "stitle": "5.The Ghost of Harrenhal",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mNGiYtGMALX8I6ceSjCBjlBzc49.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 6.mp4",
+                             "stitle": "6.The Old Gods and the New",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bxToPOtlk77Wkxsas0mMgtjvzXS.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 7.mp4",
+                             "stitle": "7.A Man Without Honor",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bCDklRxVetx1COP4zXLLnXMS2S0.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 2/episode 8.mp4",
+                             "stitle": "8.The Prince of Winterfell",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 2/episode 9.mp4",
+                            "stitle": "9.Blackwater",
+                            "stime": "55m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lhhTVz2DSCgxbCzMoyJjsAkHabW.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 2/episode 10.mp4",
+                            "stitle": "10.Valar Morghulis",
+                            "stime": "1h 3m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 2/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 1.mp4",
+                             "stitle": "1.Valar Dohaeris",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ZerJvXQXcM3tygHRkPTDbbK0hw.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 2.mp4",
+                             "stitle": "2.Dark Wings, Dark Words",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 3.mp4",
+                             "stitle": "3.Walk of Punishment",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/u2DZ4uvnM46KpAb2RPc5TM9tZJq.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 4.mp4",
+                             "stitle": "4.And Now His Watch Is Ended",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/70aEf9rvNPdqh4QGPSzEp6BB4Q.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 5.mp4",
+                             "stitle": "5.Kissed by Fire",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/41CekEZyGvNLTJIJy7BqFDTitcC.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 6.mp4",
+                             "stitle": "6.The Climb",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a5ifsts2r9znJO1xQ1NnuYqdbM2.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 7.mp4",
+                             "stitle": "7.The Bear and the Maiden Fair",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/27NIMz6XTGcZM0jsI1gk0BNjHvM.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 3/episode 8.mp4",
+                             "stitle": "8.Second Sons",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tcMJKDYcnljkYHxhQpe85JIPJ48.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 3/episode 9.mp4",
+                            "stitle": "9.The Rains of Castamere",
+                            "stime": "51m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/27NyMAUv5Yfb3pyd3kFy9Ge7n8s.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 3/episode 10.mp4",
+                            "stitle": "10.Mhysa",
+                            "stime": "1h 3m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yeQwl3ZN8ZMqGvifMGWz2oCEPZ5.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 3/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 1.mp4",
+                             "stitle": "1.Two Swords",
+                             "stime": "1h 1m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mA7XXz9qHjsXqXHDDyFKPm4SOTv.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 2.mp4",
+                             "stitle": "2.The Lion and the Rose",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6pgwx0zsv253RFVy8d3R4bEK3zM.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 3.mp4",
+                             "stitle": "3.Breaker of Chains",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 4.mp4",
+                             "stitle": "4.Oathkeeper",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fbo6BnHrgr2wTc0m2gYPeylls8z.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 5.mp4",
+                             "stitle": "5.First of His Name",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3mfiQVDOZc0xJceSDypi2Wk8xj9.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 6.mp4",
+                             "stitle": "6.The Laws of Gods and Men",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 7.mp4",
+                             "stitle": "7.Mockingbird",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r7u0uELPyDkNnBZzAFVvw1XJKo5.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 4/episode 8.mp4",
+                             "stitle": "8.The Mountain and the Viper",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/exdPjUiilNFUV8uUSiBBhsanAwa.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 4/episode 9.mp4",
+                            "stitle": "9.The Watchers on the Wall",
+                            "stime": "51m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/90jIL7o1zVMWNiXUUFDQnisgEq7.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 4/episode 10.mp4",
+                            "stitle": "10.The Children",
+                            "stime": "1h 7m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dEvyoz6NrUGH3nyphu43hAzT1VE.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 4/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 1.mp4",
+                             "stitle": "1.The Wars to Come",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pVTafj1pKhXh5aGZItOSDtgBZuc.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 2.mp4",
+                             "stitle": "2.The House of Black and White",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pVTafj1pKhXh5aGZItOSDtgBZuc.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 3.mp4",
+                             "stitle": "3.High Sparrow",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5b6eUi2w12ao24ug8cL5QqJFKig.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 4.mp4",
+                             "stitle": "4.Sons of the Harpy",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eaHkOeGsaznmgru8z3ECiosZAAh.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 5.mp4",
+                             "stitle": "5.Kill the Boy",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6OBLxmCseaeLwpKO9wN3oqPMDHQ.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 6.mp4",
+                             "stitle": "6.Unbowed, Unbent, Unbroken",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/siGoOvAqTTyojNHpfR8wilIoBjf.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 7.mp4",
+                             "stitle": "7.The Gift",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2pqCgrvrQM8uIwbH8id3sgq1vvl.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 5/episode 8.mp4",
+                             "stitle": "8.Hardhome",
+                             "stime": "1h 1m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zIrSrXU4zOArlVYnXFxxfKDYYY2.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 5/episode 9.mp4",
+                            "stitle": "9.The Dance of Dragons",
+                            "stime": "53m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j7oyJI76rmn83WrczewkiqO5hh6.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 5/episode 10.mp4",
+                            "stitle": "10.Mother's Mercy",
+                            "stime": "1h 1m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b5dIepsIO3robQSe18fWmsQe37R.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 5/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 1.mp4",
+                             "stitle": "1.The Red Woman",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uDoT2XbIX5MRVak7NvFV2BpyNCJ.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 2.mp4",
+                             "stitle": "2.Home",
+                             "stime": "57m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9JlZ6sOXf4nodwWYvoM5zCJIGm9.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 3.mp4",
+                             "stitle": "3.Oathbreaker",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dNp7HBQbwKlgX76fwqM6SWUo5tU.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 4.mp4",
+                             "stitle": "4.Book of the Stranger",
+                             "stime": "1h 1m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ieuk4jZv1vFi8yxrGiL1wrtRT7P.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 5.mp4",
+                             "stitle": "5.The Door",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5513iUxanL6LmgVM12jkkFaWBqJ.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 6.mp4",
+                             "stitle": "6.https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k01MUth8Xm2y79nvsQ3UF25SN9w.jpg",
+                             "stime": "53m",
+                             "simage": "Blood of My Blood",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 7.mp4",
+                             "stitle": "7.The Broken Man",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pGYURx0nKsYcSNrRpmnJ5BaHcKs.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 6/episode 8.mp4",
+                             "stitle": "8.No One",
+                             "stime": "1h 1m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dhCHD1rxgSnO0pdd4Rk0wqgTkTP.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 8.srt"
+                         },                        
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 6/episode 9.mp4",
+                            "stitle": "9.Battle of the Bastards",
+                            "stime": "1h 1m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m0hIejSC1W82IjNg4hTfIDN4jd9.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 9.srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Game of thrones/season 6/episode 10.mp4",
+                            "stitle": "10.The Winds of Winter",
+                            "stime": "1h 11m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8qgIcKTOKeAHlJMjGyPHl3IHjcU.jpg",
+                            "ssubtitle":"/Popular on netflix/Game of thrones/season 6/episode 10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 1.mp4",
+                             "stitle": "1.Dragonstone",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 2.mp4",
+                             "stitle": "2.Stormborn",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dVf1gfi80js9qyxm78479o4RNUr.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 3.mp4",
+                             "stitle": "3.The Queen's Justice",
+                             "stime": "1h 3m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fnSJ2l2lPl7RVQuiftiL90QZG7l.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 4.mp4",
+                             "stitle": "4.The Spoils of War",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dVhIfcaonwROdVJH93tZDjFOtlM.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 5.mp4",
+                             "stitle": "5.Eastwatch",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 6.mp4",
+                             "stitle": "6.Beyond the Wall",
+                             "stime": "1h 10m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/odrg1ren7j3HnggIKuKuSMfyOsg.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 7/episode 7.mp4",
+                             "stitle": "7.The Dragon and the Wolf",
+                             "stime": "1h 22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4AkiRsZDWjX1Udot25EDsGROu9E.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 7/episode 7.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 1.mp4",
+                             "stitle": "1.Winterfell",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aeLFDgp0J9140lS4nWUgZZRK6Rp.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 2.mp4",
+                             "stitle": "2.A Knight of the Seven Kingdoms",
+                             "stime": "59m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 3.mp4",
+                             "stitle": "3.The Long Night",
+                             "stime": "1h 22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k69MmmwXIy1ywEQDZME4des9aRJ.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 4.mp4",
+                             "stitle": "4.The Last of the Starks",
+                             "stime": "1h 19m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qe508xwVVO7cF2oWzfJp52StkTk.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 5.mp4",
+                             "stitle": "5.The Bells",
+                             "stime": "1h 19m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Game of thrones/season 8/episode 6.mp4",
+                             "stitle": "6.The Iron Throne",
+                             "stime": "1h 20m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4OzrS6dv4Yx8PmJfknwmtY6jME6.jpg",
+                             "ssubtitle":"/Popular on netflix/Game of thrones/season 8/episode 6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w220_and_h330_face/44rw2cOQrgUthZMhp3eibpXVy9p.jpg",
+        "genres": "Sci-Fi & Fantasy, Dramas, Action & Adventure,Hollywood,English,Hindi,Adult,Bold",
+        "releaseDate": "2011",
+        "trailer": "https://www.imdb.com/video/vi59490329/?ref_=ext_shr_lnk",
+        "cast": "Kit Harington,Emilia Clarke,Peter Dinklage...more"
+       },
+       
        {
         "name": "Spartacus",
         "description": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment",
