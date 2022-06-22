@@ -1,5 +1,19 @@
 [  
-
+    {
+	    "name": "Bhool Bhulaiyaa 2",
+	    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
+	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
+	    "cast": "Tabu,Kartik Aaryan,Kiara Advani... more",
+        "time":"2h 5m",
+        "subtitle":"/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.srt"
+     },
+	
     {
 	    "name": "Galwakdi",
 	    "description": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
