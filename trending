@@ -1,4 +1,78 @@
 [    
+     {
+	    "name": "The Weekend Away",
+	    "description": "When her best friend vanishes during a girls' trip to Croatia, Beth races to figure out what happened. But each clue yields another unsettling deception.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Weekend Away/The Weekend Away.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg",
+	    "genres": "Thriller, Mystery,Dramas,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi537838361/?ref_=ext_shr_lnk",
+	    "cast": "Leighton Meester,Christina Wolfe... more",
+        "time":"1h 30m",
+        "subtitle":"/Hollywood Movies/The Weekend Away/The Weekend Away.English (CC).srt"
+    },
+
+    {
+	    "name": "Dangerous Lies",
+	    "description": "After losing her waitressing job, Katie Franklin takes a job as a caretaker to a wealthy elderly man in his sprawling, empty Chicago estate. The two grow close, but when he unexpectedly passes away and names Katie as his sole heir, she and her husband Adam are pulled into a complex web of lies, deception, and murder. If she's going to survive, Katie will have to question everyone's motives — even the people she loves.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Dangerous Lies/Dangerous Lies.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m85QIC42laGfLDxW7DzIFDrWogP.jpg",
+	    "genres": "Thriller, Dramas,Hollywood,English",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi787594777/?ref_=ext_shr_lnk",
+	    "cast": "Camila Mendes,Jessie T. Usher... more",
+        "time":"1h 36m",
+        "subtitle":"/Hollywood Movies/Dangerous Lies/Dangerous Lies.English (CC).srt"
+    },
+
+    {
+	    "name": "Eli",
+	    "description": "A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Eli/Eli.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg",
+	    "genres": "Horror, Thriller,English,Hollywood,Dramas",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi3028795161/?ref_=ext_shr_lnk",
+	    "cast": "Charlie Shotwell,Lili Taylor... more",
+        "time":"1h 38m",
+        "subtitle":"/Hollywood Movies/Eli/Eli.English (CC).srt"
+    },
+
+    {
+	    "name": "Outside the Wire",
+	    "description": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Outside the Wire/Outside the Wire.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+	    "genres": "Thriller, Action, Science Fiction,Hollywood,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi1275511065/?ref_=ext_shr_lnk",
+	    "cast": "Anthony Mackie,Damson Idris... more",
+        "time":"1h 56m",
+        "subtitle":"/Hollywood Movies/Outside the Wire/Outside the Wire.English (CC).srt"
+    },
+
+    {
+	    "name": "The Babysitter",
+	    "description": "When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Babysitter/The Babysitter.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg",
+	    "genres": "Comedy, Horror,Hollywood,English",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi3949508889/?ref_=ext_shr_lnk",
+	    "cast": "Judah Lewis,Samara Weaving... more",
+        "time":"1h 25m",
+        "subtitle":"/Hollywood Movies/The Babysitter/The Babysitter.English (CC).srt"
+    },
 
     {
 	    "name": "Interceptor",
