@@ -798,6 +798,94 @@
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
 	
+	       {
+        "name": "The Lincoln Lawyer",
+        "description": "Sidelined after an accident, hotshot Los Angeles lawyer Mickey Haller restarts his career — and his trademark Lincoln — when he takes on a murder case.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E01_He Rides Again.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E01_He Rides Again.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E01_He Rides Again.mp4",
+                             "stitle": "1.He Rides Again",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9dACm4UlmiHK73Lyy1AfFvNRzxY.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E01_He Rides Again.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E02_The Magic Bullet.mp4",
+                             "stitle": "2.The Magic Bullet",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zOIwp00TaHtiXBTPVfj4Z7hzhmz.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E02_The Magic Bullet.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E03_Momentum..mp4",
+                             "stitle": "3.Momentum",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sosU3MTjEYFwsq3mvlXwrFMTmo4.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E03_Momentum..English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E04_Chaos Theory.mp4",
+                             "stitle": "4.Chaos Theory",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9tApK2x52dYXrck2CJStweyyfYs.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E04_Chaos Theory.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E05_Twelve Lemmings in a Box.mp4",
+                             "stitle": "5.Twelve Lemmings in a Box",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tXdojecJPEyYgCK7bxbRSF5k4TY.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E05_Twelve Lemmings in a Box.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E06_Bent.mp4",
+                             "stitle": "6.Bent",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mKzdkFVtDxPCbWZQDTNMkbzxlea.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E06_Bent.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E07_Lemming Number Seven.mp4",
+                             "stitle": "7.Lemming Number Seven",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fRAOgrh1rqBdchEfFLWneL0eLxE.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E07_Lemming Number Seven.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E08_The Magic Bullet Redux.mp4",
+                             "stitle": "8.The Magic Bullet Redux",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3UBWmFpEw5kJF3025SXjz52W8Ov.jpg",
+                             "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E08_The Magic Bullet Redux.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E09_The Uncanny Valley.mp4",
+                            "stitle": "9.The Uncanny Valley",
+                            "stime": "55m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fiij9OVKfVxBXSu5Cbrub7uSbiF.jpg",
+                            "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E09_The Uncanny Valley.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E10_The Brass Verdict.mp4",
+                            "stitle": "10.The Brass Verdict",
+                            "stime": "56m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Ll13A3gC9ArftiGX7quyZPElWe.jpg",
+                            "ssubtitle":"/Hollywood series/The Lincoln Lawyer/season 1/The Lincoln Lawyer_S01E10_The Brass Verdict.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+        "genres": "Dramas,Crime,Hollywood,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2376319513/?ref_=ext_shr_lnk",
+        "cast": "Manuel Garcia-Rulfo,Neve Campbell...more"
+       },
+	
          {
     "name": "First Kill",
     "description": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter — and both are ready to make their first kill.",
