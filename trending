@@ -798,7 +798,99 @@
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
 	
-	       {
+	{
+                                    "name": "Ginny & Georgia",
+                                    "description": "Ginny Miller, an angsty fifteen-year-old, often feels more mature than her thirty-year-old mother, the irresistible and dynamic Georgia Miller.",
+                                    "ageRestriction": "13+",
+                                    "video": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E01_Pilot.mp4",
+                                    "series": "yes",
+                                    "subtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E01_Pilot.English (CC).srt",
+                                     "seriess":[
+                                         [
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E02_It_s a Face Not a Mask.mp4",
+                                                         "stitle": "1.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BMmFhMTcyYTgtNmU1MC00MTEzLWFkMDMtMzRlMGY4MzRkMDUzXkEyXkFqcGdeQXVyNzkzMzEyMjY@._V1_UY126_UX224_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E01_Pilot.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E02_It_s a Face Not a Mask.mp4",
+                                                         "stitle": "2.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BNDg3ZGQzYjgtOGQyZC00NDEwLWIyOGQtMzVlOWI1Y2U5Mzc1XkEyXkFqcGdeQXVyNzkzMzEyMjY@._V1_UY126_UX224_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E02_It_s a Face Not a Mask.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E03_Next Level Rich People Sh_t.mp4",
+                                                         "stitle": "3.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BODM5ODI0ZDUtZWI0OC00NzIzLTljNjgtZjI5YTk3ZjMwMDhhXkEyXkFqcGdeQXVyNzkzMzEyMjY@._V1_UY126_UX224_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E03_Next Level Rich People Sh_t.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E04_Lydia Bennet Is Hundo a Feminist.mp4",
+                                                         "stitle": "4.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BYTMwOTNhMWYtMzk0Zi00YmQzLThlNjYtYzdhMDhlNDMxZmNlXkEyXkFqcGdeQXVyNzkzMzEyMjY@._V1_UY126_UX224_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E04_Lydia Bennet Is Hundo a Feminist.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E05_Boo, Bitch.mp4",
+                                                         "stitle": "5.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BN2U0ZDRjMjUtZjljNi00NmQxLWJiYjUtYWMyZDQ4MDM2ZWE0XkEyXkFqcGdeQXVyNDk0MTI1MDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E05_Boo, Bitch.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E06_I’m Triggered.mp4",
+                                                         "stitle": "6.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BYjhjZDQwODktMGRlNS00N2NkLWFhMjctMzFiMmUwNTY4NzIzXkEyXkFqcGdeQXVyNDk0MTI1MDg@._V1_UY126_CR16,0,224,126_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E06_I’m Triggered.English (CC).srt"
+                                                         },
+                                                        {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E07_Happy Sweet Sixteen, Jerk.mp4",
+                                                         "stitle": "7.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BOGM1M2ZjMDctMzFiNy00ZmM2LWIyZWMtMGExZjM0ODUwNzkwXkEyXkFqcGdeQXVyNDk0MTI1MDg@._V1_UY126_CR11,0,224,126_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E07_Happy Sweet Sixteen, Jerk.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E08_Check One, Check Other.mp4",
+                                                         "stitle": "8.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BM2EwOWE3NWQtM2FkNS00OGRiLWFjZTctM2QyYzJlMmQ1MWIwXkEyXkFqcGdeQXVyNDk0MTI1MDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E08_Check One, Check Other.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E09_Feelings Are Hard.mp4",
+                                                         "stitle": "9.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BNDJlMzczYzAtYzQ0MS00MDZmLThmMTQtOWNiNGE5Mzc2MDJkXkEyXkFqcGdeQXVyNzkzMzEyMjY@._V1_UY126_UX224_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E09_Feelings Are Hard.English (CC).srt"
+                                                         },
+                                                         {
+                                                         "svideos": "/Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E10_The Worst Betrayal Since Jordyn and Kylie.mp4",
+                                                         "stitle": "10.",
+                                                         "stime": "1h m",
+                                                         "simage": "https://m.media-amazon.com/images/M/MV5BNDc5YmYxMTItMTdhOC00ZTM0LWIyMjMtMDVhMmE0NmMyNzZjXkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                                                         "ssubtitle":"Hollywood series/Ginny & Georgia/season 1/Ginny & Georgia_S01E10_The Worst Betrayal Since Jordyn and Kylie.English (CC).srt"
+                                                         }
+                                                         
+                                                         
+                                             ]
+                                             
+                                        ],
+                                        "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/e4aqizYQ8eeTGNZMq6WiFfqoZbz.jpg",
+                                       "genres": "Comedy, Drama ",
+                                       "releaseDate": "2021",
+                                       "trailer": "https://www.imdb.com/video/vi3295002905/?ref_=ext_shr_lnk",
+                                       "cast": "Antonia Gentry,Brianne Howey,Mason Temple...more"
+},
+				      
+				      
+{
         "name": "The Lincoln Lawyer",
         "description": "Sidelined after an accident, hotshot Los Angeles lawyer Mickey Haller restarts his career — and his trademark Lincoln — when he takes on a murder case.",
         "ageRestriction": "16",
