@@ -676,67 +676,67 @@
 },
 
 {
-                                "name": "Mai_ A Mother_s Rage",
-                                "description": "Upon accidentally killing a mafia leader, a middle-aged woman is unwittingly swept into the underworld, where her cult slowly gains renown.",
-                                "ageRestriction": "13+",
-                                "video": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.mp4",
-                                "series": "yes",
-                                "subtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt",
-                                 "seriess":[
-                                     [
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.mp4",
-                                                     "stitle": "Episode 1",
-                                                     "stime": "46m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BNjA2YmY2ZTUtMjBhOS00MTQ2LThlOTktY2UwMjYyM2IwMjAxXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR10,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indain drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt"
-                                                     },
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E02_Episode 2.mp4",
-                                                     "stitle": "Episode2.",
-                                                     "stime": "44m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BMTg0M2I4YjQtN2ZjYS00ZTcwLTk1N2QtMjQ1MTY0ZTkxNzJhXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR11,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E02_Episode 2.English.srt"
-                                                     },
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E03_Episode 3.mp4",
-                                                     "stitle": "Episode 3.",
-                                                     "stime": "42m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BZDdkMmEyMjQtMDgyZC00ZWZkLWFhNDUtYmIxNzFmNTI3YzgyXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR10,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E03_Episode 3.English.srt"
-                                                     },
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E04_Episode 4.mp4",
-                                                     "stitle": "Episode 4.",
-                                                     "stime": "51m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BOWZhZDE2NDgtMTFlMS00MDRhLWI3YmMtMTA4YTg4YzQxZDBlXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E04_Episode 4.English.srt"
-                                                     },
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E05_Episode 5.mp4",
-                                                     "stitle": "Episode 5.",
-                                                     "stime": "47m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BZDQzMzNjYTEtN2RiZi00YzI0LWFhNjItM2UyNTBlNDUyYjIzXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR8,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E05_Episode 5.English.srt"
-                                                     },
-                                                     {
-                                                     "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E06_Episode 6.mp4",
-                                                     "stitle": "Episode 6.",
-                                                     "stime": "54m",
-                                                     "simage": "https://m.media-amazon.com/images/M/MV5BMmY4MmQ0ZDUtZTY5Yi00YjgxLWFhNjYtYTVkN2E5ZDQzMThiXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR7,0,224,126_AL_.jpg",
-                                                     "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E06_Episode 6.English.srt"
-                                                     }
-                                                    
-                                                     
-                                         ]
-                                         
-                                    ],
-                                    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9MwIx1sJjq6xl1bwiDrOv2NEYkC.jpg",
-                                   "genres": "Crime, Drama, Mystery",
-                                   "releaseDate": "2022",
-                                   "trailer": "https://www.imdb.com/video/vi3897344793/?ref_=ext_shr_lnk",
-                                   "cast": "Sakshi Tanwar,Wamiqa Gabbi,Anant Vidhaat Sharma...more"
-   },
+    "name": "Mai: A Mother's Rage",
+    "description": "Upon accidentally killing a mafia leader, a middle-aged woman is unwittingly swept into the underworld, where her cult slowly gains renown.",
+    "ageRestriction": "13",
+    "video": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.mp4",
+    "series": "yes",
+    "subtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.mp4",
+                         "stitle": "Episode 1",
+                         "stime": "46m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNjA2YmY2ZTUtMjBhOS00MTQ2LThlOTktY2UwMjYyM2IwMjAxXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR10,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indain drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt"
+                         },
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E02_Episode 2.mp4",
+                         "stitle": "Episode2.",
+                         "stime": "44m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMTg0M2I4YjQtN2ZjYS00ZTcwLTk1N2QtMjQ1MTY0ZTkxNzJhXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR11,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E02_Episode 2.English.srt"
+                         },
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E03_Episode 3.mp4",
+                         "stitle": "Episode 3.",
+                         "stime": "42m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZDdkMmEyMjQtMDgyZC00ZWZkLWFhNDUtYmIxNzFmNTI3YzgyXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR10,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E03_Episode 3.English.srt"
+                         },
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E04_Episode 4.mp4",
+                         "stitle": "Episode 4.",
+                         "stime": "51m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOWZhZDE2NDgtMTFlMS00MDRhLWI3YmMtMTA4YTg4YzQxZDBlXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E04_Episode 4.English.srt"
+                         },
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E05_Episode 5.mp4",
+                         "stitle": "Episode 5.",
+                         "stime": "47m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZDQzMzNjYTEtN2RiZi00YzI0LWFhNjItM2UyNTBlNDUyYjIzXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR8,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E05_Episode 5.English.srt"
+                         },
+                         {
+                         "svideos": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E06_Episode 6.mp4",
+                         "stitle": "Episode 6.",
+                         "stime": "54m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMmY4MmQ0ZDUtZTY5Yi00YjgxLWFhNjYtYTVkN2E5ZDQzMThiXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR7,0,224,126_AL_.jpg",
+                         "ssubtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E06_Episode 6.English.srt"
+                         }
+                        
+                         
+             ]
+             
+        ],
+        "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9MwIx1sJjq6xl1bwiDrOv2NEYkC.jpg",
+       "genres": "Crime, Dramas, Mystery,Indian,Hindi",
+       "releaseDate": "2022",
+       "trailer": "https://www.imdb.com/video/vi3897344793/?ref_=ext_shr_lnk",
+       "cast": "Sakshi Tanwar,Wamiqa Gabbi,Anant Vidhaat Sharma...more"
+},
 				  
    {
     "name": "She",
