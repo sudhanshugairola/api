@@ -1,4 +1,5 @@
-[   
+[      
+
        {
         "name": "Game of Thrones",
         "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
@@ -1101,6 +1102,167 @@
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3198927385/?playlistId=tt13457822?ref_=ext_shr_lnk",
         "cast": "Amaia Salamanca,Amaia Aberasturi...more"
+       },
+       
+            {
+        "name": "Outer Banks",
+        "description": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+        "ageRestriction": "16",
+        "video": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E01_Pilot.mp4",
+        "series": "yes",
+        "subtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E01_Pilot.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E01_Pilot.mp4",
+                             "stitle": "1.Pilot",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wRB24gaHLhBK2OA2MNLuOTj12n9.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E01_Pilot.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E02_The Lucky Compass.mp4",
+                             "stitle": "2.The Lucky Compass",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5C2hKSh8Hhlhrbew3CQ8WhLYYdx.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E02_The Lucky Compass.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E03_The Forbidden Zone.mp4",
+                             "stitle": "3.The Forbidden Zone",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fq4xfbhnhOCzFea0ZcaTpNmz6N5.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E03_The Forbidden Zone.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E04_Spy Games.mp4",
+                             "stitle": "4.Spy Games",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d6JvZCAjg8oIZpMzeVfLfbrEyE5.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E04_Spy Games.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E05_Midsummers.mp4",
+                             "stitle": "5.Midsummers",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uc9SolFUftnLjh5CzxwP5Z4hlKJ.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E05_Midsummers.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E06_Parcel 9.mp4",
+                             "stitle": "6.Parcel 9",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mc8l4f8CnKJsSNz7tosurEBi3R0.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E06_Parcel 9.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E07_Dead Calm.mp4",
+                             "stitle": "7.Dead Calm",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lmeYvnEr1xNWNAOSaJOEHwwgZBE.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E07_Dead Calm.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E08_The Runway.mp4",
+                             "stitle": "8.The Runway",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2OSp6ntJD1hj7Gpu8y7hVlcTYFv.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E08_The Runway.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E09_The Bell Tower.mp4",
+                            "stitle": "9.The Bell Tower",
+                            "stime": "52m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qzgVjMDHSoYRXfwBYMGokscwgn8.jpg",
+                            "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E09_The Bell Tower.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E10_The Phantom.mp4",
+                            "stitle": "10.The Phantom",
+                            "stime": "57m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yqX8JDvGKlgiZ6mvuc78gnQc5cM.jpg",
+                            "ssubtitle":"/Popular on netflix/Outer Banks/season 1/Outer Banks_S01E10_The Phantom.English (CC).srt"
+                        }
+             ],
+                        
+             [
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E01_The Gold.mp4",
+                             "stitle": "1.The Gold",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cwelHOreb6fSskjmVZ9iQXzuNjl.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E01_The Gold.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E02_The Heist.mp4",
+                             "stitle": "2.The Heist",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t29KIIJIlkdfR1VSLFcvI3MHLL4.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E02_The Heist.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E03_Prayers.mp4",
+                             "stitle": "3.Prayers",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rfwHyzC8S6BzL7m7TWdC3gbsgEl.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E03_Prayers.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E04_Homecoming.mp4",
+                             "stitle": "4.Homecoming",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k0MrvsJWOXtBDgmz0caImShsTC1.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E04_Homecoming.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E05_The Darkest Hour.mp4",
+                             "stitle": "5.The Darkest Hour",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sbymbH8TQTbQ4SpPYuMLnMm6P1b.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E05_The Darkest Hour.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E06_My Druthers.mp4",
+                             "stitle": "6.My Druthers",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/y9g6utTfg7im5yuQQ3HibQ3X2Eq.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E06_My Druthers.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E07_The Bonfire.mp4",
+                             "stitle": "7.The Boufire",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/u5Cqe0P2nEW2r1zdzzSe8tLWwQZ.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E07_The Bonfire.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E08_The Cross.mp4",
+                             "stitle": "8.The Cross",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/h1MjIGDELyWpjSQxNm7rpZi5yO0.jpg",
+                             "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E08_The Cross.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E09_Trapped.mp4",
+                            "stitle": "9.Trapped",
+                            "stime": "49m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aqrUaSEXMRc4nXjoA8c2d4fpD6R.jpg",
+                            "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E09_Trapped.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E10_The Coastal Venture.mp4",
+                            "stitle": "10.The Coastal Venture",
+                            "stime": "1h 1m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x1fTloW79BxhMif7i94AGfzsZLK.jpg",
+                            "ssubtitle":"/Popular on netflix/Outer Banks/season 2/Outer Banks_S02E10_The Coastal Venture.English (CC).srt"
+                        }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+        "genres": "Action & Adventure, Dramas,Mystery,Hindi,Hollywood,English",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi1577828377/?playlistId=tt10293938?ref_=ext_shr_lnk",
+        "cast": "Chase Stokes,Madelyn Cline...more"
        },
      
      {
