@@ -963,8 +963,9 @@
                                                "releaseDate": "2019",
                                                "trailer": "https://www.imdb.com/video/vi3015623449/?ref_=ext_shr_lnk",
                                                "cast": "Katee Sackhoff,Justin Chatwin, Elizabeth Faith Ludlow ...more"
-                                              },
-	  {
+        },
+	{
+	  
     "name": "The Umbrella Academy",
     "description": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
     "ageRestriction": "16",
