@@ -1,4 +1,5 @@
 [  
+    
     {
 	    "name": "Bhool Bhulaiyaa 2",
 	    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.",
@@ -266,6 +267,36 @@
     "time":"2h 27m",
     "subtitle":"/Hindi_Movies/Badhaai_do/Badhaai Do.English.srt"
 },
+
+    {
+	    "name": "Once Again",
+	    "description": "After a chance phone call leads to daily conversations, a widowed restaurant owner and a lonely film actor plan to finally meet in person.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Once Again/Once Again.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rVmtLeXqh66Xo91DckVX9B9t9aD.jpg",
+	    "genres": "Dramas, Romance,Hindi,Indian",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi514177561/?ref_=ext_shr_lnk",
+	    "cast": "Neeraj Kabi,Shefali Shah... more",
+        "time":"1h 41m",
+        "subtitle":"/Hindi_Movies/Once Again/Once Again.English.srt"
+	},
+    
+    {
+	    "name": "Super Deluxe",
+	    "description": "An unfaithful newly-wed wife, an estranged father, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+	    "ageRestriction": "16",
+	    "video": "/Tamil/Super Deluxe/Super Deluxe.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6N346GcTUjhYa0InIiGHW61Zo3O.jpg",
+	    "genres": "Comedy, Thriller, Dramas,Hindi,Indian",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi4115839513/?ref_=ext_shr_lnk",
+	    "cast": "Vijay Sethupathi,Samantha Ruth Prabhu... more",
+        "time":"2h 56m",
+        "subtitle":"/Tamil/Super Deluxe/Super Deluxe.English (CC).srt"
+	},
 
 {
     "name": "Bareilly Ki Barfi",
