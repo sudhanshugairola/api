@@ -89,6 +89,66 @@
             "time":"2h 27m",
             "subtitle":"/K drama/The Call/The Call.English (CC).srt"
         },
+        
+            {
+        "name": "Money Heist: Korea - Joint Economic Area",
+        "description": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
+        "ageRestriction": "16",
+        "video": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E01_Episode 1.mp4",
+        "series": "yes",
+        "subtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E01_Episode 1.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E01_Episode 1.mp4",
+                             "stitle": "1.Episode 1",
+                             "stime": "1h 18m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fABG8ubGumTnYVCkK63zo1wwCq4.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E02_Episode 2.mp4",
+                             "stitle": "2.Episode 2",
+                             "stime": "1h 14m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pBzlxP4kaUJooeMxklkorxSxDWn.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E03_Episode 3.mp4",
+                             "stitle": "3.Episode 3",
+                             "stime": "1h 8m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nRMmJtqMjTw8xTBOkiINI1Q5a3O.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E04_Episode 4.mp4",
+                             "stitle": "4.Episode 4",
+                             "stime": "1h 11m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/siA5cgw8eKwRcDc3ElOfp0VyFyP.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E05_Episode 5.mp4",
+                             "stitle": "5.Episode 5",
+                             "stime": "1h 4m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ssvIMgVViBl8gwdk9ca8Mz3DY6R.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E06_Episode 6.mp4",
+                             "stitle": "6.Episode 6",
+                             "stime": "1h 4m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ihkXgaUxNq1fTuZzdMuhSid3Am.jpg",
+                             "ssubtitle":"/K drama/Money Heist_ Korea - Joint Economic Area/season 1/Money Heist_ Korea - Joint Economic Area_S01E06_Episode 6.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bnfTPTTytrZZ9Aw6hoOQdojiaKo.jpg",
+        "genres": "Action & Adventure, Crime, Dramas, Mystery,Korean,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1860485657/?ref_=ext_shr_lnk",
+        "cast": "Yoo Ji-tae,Yunjin Kim...more"
+       },
                                          
          {  
          
