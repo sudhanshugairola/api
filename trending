@@ -1,76 +1,75 @@
 [      
-       
-              {
+      {
         "name": "Man Vs Bee",
         "description": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
         "ageRestriction": "13",
-        "video": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.mp4",
+        "video": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.mp4",
         "series": "yes",
-        "subtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt",
+        "subtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt",
          "seriess":[
              [
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.mp4",
                              "stitle": "1.Chapter 1",
                              "stime": "19m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zGCIQ1hCOqM7bnaTFmGLZkYpuCm.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E02_Chapter 2.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E02_Chapter 2.mp4",
                              "stitle": "2.Chapter 2",
                              "stime": "11m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yJGVrdTDIdq1QywGtjIqtNws4T1.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E02_Chapter 2.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E02_Chapter 2.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E03_Chapter 3.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E03_Chapter 3.mp4",
                              "stitle": "3.Chapter 3",
                              "stime": "12m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/XiA0jk9JEejUHHyLOMdw0nT9NK.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E03_Chapter 3.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E03_Chapter 3.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E04_Chapter 4.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E04_Chapter 4.mp4",
                              "stitle": "4.Chapter 4",
                              "stime": "11m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mRb2RmbzVIlRtA75wpQXhSktBVS.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E04_Chapter 4.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E04_Chapter 4.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E05_Chapter 5.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E05_Chapter 5.mp4",
                              "stitle": "5.Chapter 5",
                              "stime": "10m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sJ235WZhZ2NGVgJ5Ocp4Gjqi6zo.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E05_Chapter 5.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E05_Chapter 5.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E06_Chapter 6.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E06_Chapter 6.mp4",
                              "stitle": "6.Chapter 6",
                              "stime": "10m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3UNHcgYNyoag3wQrDW9JatgG2x.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E06_Chapter 6.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E06_Chapter 6.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E07_Chapter 7.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E07_Chapter 7.mp4",
                              "stitle": "7.Chapter 7",
                              "stime": "11m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hNCkZfGQ4SEVnwasei9L2zMbSGX.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E07_Chapter 7.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E07_Chapter 7.English (CC).srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E08_Chapter 8.mp4",
+                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E08_Chapter 8.mp4",
                              "stitle": "8.Chapter 8",
                              "stime": "12m",
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jloXVy8orTHlAuST8dioOI3hyNE.jpg",
-                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E08_Chapter 8.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E08_Chapter 8.English (CC).srt"
                          },
                          {
-                            "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E09_Chapter 9.mp4",
+                            "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E09_Chapter 9.mp4",
                             "stitle": "9.Chapter 9",
                             "stime": "12m",
                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9HYJ05Ak2eYhpWtOtgF4P3uoW6M.jpg",
-                            "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E09_Chapter 9.English (CC).srt"
+                            "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E09_Chapter 9.English (CC).srt"
                          }
              ]
             ],
@@ -79,7 +78,7 @@
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
         "cast": "Rowan Atkinson,Jing Lusi...more"
-       },
+    },
 
        {
         "name": "Chilling Adventures of Sabrina",
