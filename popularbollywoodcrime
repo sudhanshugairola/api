@@ -1,4 +1,19 @@
-[  
+[   
+
+     {
+	    "name": "Anek",
+	    "description": "Amid the turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Anek/Anek.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fIHF8WrZpoomx0QSVTe74NeYGUD.jpg",
+	    "genres": "Action, Thriller,Hindi,Indian,Dramas",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3433021977/?ref_=ext_shr_lnk",
+	    "cast": "Ayushmann Khurrana,Andrea Kevichusa... more",
+        "time":"2h 28m",
+        "subtitle":"/Hindi_Movies/Anek/Anek.en.srt"
+    },
     
     {
 	    "name": "Bhool Bhulaiyaa 2",
