@@ -1,5 +1,363 @@
-[    
-         {
+[      
+       
+              {
+        "name": "Man Vs Bee",
+        "description": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
+        "ageRestriction": "13",
+        "video": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.mp4",
+                             "stitle": "1.Chapter 1",
+                             "stime": "19m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zGCIQ1hCOqM7bnaTFmGLZkYpuCm.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E02_Chapter 2.mp4",
+                             "stitle": "2.Chapter 2",
+                             "stime": "11m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yJGVrdTDIdq1QywGtjIqtNws4T1.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E02_Chapter 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E03_Chapter 3.mp4",
+                             "stitle": "3.Chapter 3",
+                             "stime": "12m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/XiA0jk9JEejUHHyLOMdw0nT9NK.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E03_Chapter 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E04_Chapter 4.mp4",
+                             "stitle": "4.Chapter 4",
+                             "stime": "11m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mRb2RmbzVIlRtA75wpQXhSktBVS.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E04_Chapter 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E05_Chapter 5.mp4",
+                             "stitle": "5.Chapter 5",
+                             "stime": "10m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sJ235WZhZ2NGVgJ5Ocp4Gjqi6zo.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E05_Chapter 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E06_Chapter 6.mp4",
+                             "stitle": "6.Chapter 6",
+                             "stime": "10m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3UNHcgYNyoag3wQrDW9JatgG2x.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E06_Chapter 6.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E07_Chapter 7.mp4",
+                             "stitle": "7.Chapter 7",
+                             "stime": "11m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hNCkZfGQ4SEVnwasei9L2zMbSGX.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E07_Chapter 7.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E08_Chapter 8.mp4",
+                             "stitle": "8.Chapter 8",
+                             "stime": "12m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jloXVy8orTHlAuST8dioOI3hyNE.jpg",
+                             "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E08_Chapter 8.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E09_Chapter 9.mp4",
+                            "stitle": "9.Chapter 9",
+                            "stime": "12m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9HYJ05Ak2eYhpWtOtgF4P3uoW6M.jpg",
+                            "ssubtitle":"/Hollywood series/Man Vs Bee/series 1/Man Vs Bee_S01E09_Chapter 9.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/74kkM7E5IymHl7ZS4XugP6YT3zU.jpg",
+        "genres": "Comedy, Dramas,Hollywood,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
+        "cast": "Rowan Atkinson,Jing Lusi...more"
+       },
+
+       {
+        "name": "Chilling Adventures of Sabrina",
+        "description": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.mp4",
+                             "stitle": "1.Chapter One: October Country",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/TVbcxugpawR90swvDVoySY42VN.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E02_Chapter Two_ The Dark Baptism.mp4",
+                             "stitle": "2.Chapter Two: The Dark Baptism",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3Io45fOaXQAqK0HQyuVk5MziIFz.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E02_Chapter Two_ The Dark Baptism.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E03_Chapter Three_ The Trial of Sabrina Spellman.mp4",
+                             "stitle": "3.Chapter Three: The Trial of Sabrina Spellman",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kaeTW67jouU1kWeGaJbkhlOcIyB.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E03_Chapter Three_ The Trial of Sabrina Spellman.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E04_Chapter Four_ Witch Academy.mp4",
+                             "stitle": "4.Chapter Four: Witch Academy",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXHRZ5wT1scwp9qxlBryTG08OiT.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E04_Chapter Four_ Witch Academy.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E05_Chapter Five_ Dreams in a Witch House.mp4",
+                             "stitle": "5.Chapter Five: Dreams in a Witch House",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ebWX6dvAGeY9FlIfnFl1s1usQyw.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E05_Chapter Five_ Dreams in a Witch House.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E06_Chapter Six_ An Exorcism in Greendale.mp4",
+                             "stitle": "6.Chapter Six: An Exorcism in Greendale",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4yJKGhLLmqPAXqkO8SrI2P83F8l.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E06_Chapter Six_ An Exorcism in Greendale.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E07_Chapter Seven_ Feast of Feasts.mp4",
+                             "stitle": "7.Chapter Seven: Feast of Feasts",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/o699hi5kp74dEMFnlzzlfaUe9sz.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E07_Chapter Seven_ Feast of Feasts.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E08_Chapter Eight_ The Burial.mp4",
+                             "stitle": "8.Chapter Eight: The Burial",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jHuNicP9mUaGNVQXbaGqMDp0Dyo.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E08_Chapter Eight_ The Burial.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E09_Chapter Nine_ The Returned Man.mp4",
+                            "stitle": "9.Chapter Nine: The Returned Man",
+                            "stime": "m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/udP96Cu3Xx6KYxduZnD5gUOwBN7.jpg",
+                            "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E09_Chapter Nine_ The Returned Man.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E10_Chapter Ten_ The Witching Hour.mp4",
+                            "stitle": "10.Chapter Ten: The Witching Hour",
+                            "stime": "m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6NzrfbZvLx0c4O9iKNpieBuBSAX.jpg",
+                            "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E10_Chapter Ten_ The Witching Hour.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E11_Chapter Eleven_ A Midwinter_s Tale.mp4",
+                            "stitle": "11.Chapter Eleven: A Midwinter's Tale",
+                            "stime": "m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tkI5uqh7wrZZknPZbjdgNf62gK7.jpg",
+                            "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E11_Chapter Eleven_ A Midwinter_s Tale.English (CC).srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E01_Chapter Twelve_ _The Epiphany.mp4",
+                             "stitle": "1.Chapter Twelve: The Epiphany",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cSZwt4xLhcs4HCVspZ0jwUr9inb.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E01_Chapter Twelve_ _The Epiphany.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E02_Chapter Thirteen_ _The Passion of Sabrina Spellman.mp4",
+                             "stitle": "2.Chapter Thirteen: The Passion of Sabrina Spellman",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yXrnPrmejqBShKClpJIWFAeyB7q.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E02_Chapter Thirteen_ _The Passion of Sabrina Spellman.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E03_Chapter Fourteen_ _Lupercalia.mp4",
+                             "stitle": "3.Chapter Fourteen: Lupercalia",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2BTsf1rLMu4PK9L0c1rYIE20I8F.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E03_Chapter Fourteen_ _Lupercalia.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E04_Chapter Fifteen_ _Doctor Cerberus_s House of Horror.mp4",
+                             "stitle": "4.Chapter Fifteen: Doctor Cerberbus's House of Horror",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9mmysPbVU94QxdGuHAxDsvPMWvh.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E04_Chapter Fifteen_ _Doctor Cerberus_s House of Horror.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E05_Chapter Sixteen_ Blackwood.mp4",
+                             "stitle": "5.Chapter Sixteen: Blackwood",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x30IOfK7HUWq000dpaDRDRlCFVE.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E05_Chapter Sixteen_ Blackwood.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E06_Chapter Seventeen_ The Missionaries.mp4",
+                             "stitle": "6.Chapter Seventeen: The Missionaries",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1GnkAjnaRktU1poaHVp9rzy5qK.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E06_Chapter Seventeen_ The Missionaries.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E07_Chapter Eighteen_ The Miracles of Sabrina Spellman.mp4",
+                             "stitle": "7.Chapter Eighteen: The Miracles of Sabrina Spellman",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gOjTapEgud7brZ6vc7s8Fnnw32W.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E07_Chapter Eighteen_ The Miracles of Sabrina Spellman.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E08_Chapter Nineteen_ The Mandrake.mp4",
+                             "stitle": "8.Chapter Nineteen: The Mandrake",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lerfiEmSl5QxQPbWDF1YazZy9OQ.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E08_Chapter Nineteen_ The Mandrake.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E09_Chapter Twenty_ The Mephisto Waltz.mp4",
+                            "stitle": "9.Chapter Twenty: Mephisto Waltz",
+                            "stime": "m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/djAr9lb07eV3uhhBYd9Q7YfmBP9.jpg",
+                            "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E09_Chapter Twenty_ The Mephisto Waltz.English (CC).srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.mp4",
+                             "stitle": "1.Chapter Twenty-One: The Hellbound Heart",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rNES4xyZE5m6Ey7QUeIFP4ABzLz.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.mp4",
+                             "stitle": "2.Chapter Twenty-Two: Drag Me to Hell",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5KamSGZfkoNLP1tt7DbHpSjbVm0.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.mp4",
+                             "stitle": "3.Chapter Twenty-Three: Heavy Is the Crown",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jCJhRfEL7A5QtdLkwBOSShPUVTE.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.mp4",
+                             "stitle": "4.Chapter Twenty-Four: The Hare Moon",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iOFMMP6NDYl6DQXmnMjrUa5UzFN.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.mp4",
+                             "stitle": "5.Chapter Twenty-Five: The Devil Within",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bwv2GbZUgXlAIUguHIa5cZBLPBc.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.mp4",
+                             "stitle": "6.Chapter Twenty-Six: All of Them Witches",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/etl75GyDSKTYmawpGxyG901zsTt.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.mp4",
+                             "stitle": "7.Chapter Twenty-Seven: The Judas Kiss",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c41eOe0Ie242RgD67lkyqiItC2X.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.mp4",
+                             "stitle": "8.Chapter Twenty-Eight: Sabrina Is Legend",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tfGR8bWvc2vH9TZqyjniuLmsgm5.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.English (CC).srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.mp4",
+                             "stitle": "1.Chapter Twenty-Nine: The Eldritch Dark",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eelLr2X1sbLP1hFCXhpbSspsXM5.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.mp4",
+                             "stitle": "2.Chapter Thirty: The Uninvited",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jXMxcgUQPa5z7WPtxLrOsS62CXE.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.mp4",
+                             "stitle": "3.Chapter Thirty-One: The Weird",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/psqJyTVdz3ecWSOvdFahj4Gocf6.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.mp4",
+                             "stitle": "4.Chapter Thirty-Two: The Imp Of The Perverse",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zUuU32lBakTlldtPEFK2b81VeAR.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.mp4",
+                             "stitle": "5.Chapter Thirty-Three: Deus Ex Machina",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lRTby9TRu3rqef3hOKNTjHqT3JR.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.mp4",
+                             "stitle": "6.Chapter Thirty-Four: The Returned",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xinDM7cMVeCg4EI6apKctI6Or5U.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.mp4",
+                             "stitle": "7.Chapter Thirty-Five: The Endless",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2XeWy983rK9EoLM2BPV7fmgtRUz.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.mp4",
+                             "stitle": "8.Chapter Thirty-Six: At The Mountains Of Madness",
+                             "stime": "m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5rwsv1Qovbleyz8D4YpR66APw9F.jpg",
+                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+        "genres": "Mystery, Sci-Fi & Fantasy, Dramas,Hollywood,English,Horror",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3795697945/?ref_=ext_shr_lnk",
+        "cast": "Kiernan Shipka,Ross Lynch...more"
+       },
+
+        {
 	    "name": "Through My Window",
 	    "description": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
 	    "ageRestriction": "16",
