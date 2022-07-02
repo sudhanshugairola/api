@@ -994,6 +994,269 @@
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
 	
+	      {
+    "name": "Stranger Things",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "ageRestriction": "16",
+    "video": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
+    "series": "yes",
+    "subtitle": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt",
+     "seriess":[
+         [
+                    {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
+                         "stitle": "1.Chapter One: The Vanishing of Will Byers",
+                         "stime": "49m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E02_Chapter Two_ The Weirdo on Maple Street.mkv",
+                         "stitle": "2.Chapter Two: The Weirdo on Maple Street",
+                         "stime": "56m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E02_Chapter Two_ The Weirdo on Maple Street.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E03_Chapter Three_ Holly, Jolly.mkv",
+                         "stitle": "3.Chapter Three: Holly, Jolly",
+                         "stime": "52m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5snULpWQWp7aqFto7UbRcEkEyyS.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E03_Chapter Three_ Holly, Jolly.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E04_Chapter Four_ The Body.mkv",
+                         "stitle": "4.Chapter Four: The Body",
+                         "stime": "51m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/60wmC1e20HV8gu688GAhsWxqxPx.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E04_Chapter Four_ The Body.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E05_Chapter Five_ The Flea and the Acrobat.mkv",
+                         "stitle": "5.Chapter Five: The Flea and the Acrobat",
+                         "stime": "53m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E05_Chapter Five_ The Flea and the Acrobat.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E06_Chapter Six_ The Monster.mkv",
+                         "stitle": "6.Chapter Six: The Monster",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lNS6qycyucewz3duTr1tf1LU688.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E06_Chapter Six_ The Monster.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E07_Chapter Seven_ The Bathtub.mkv",
+                         "stitle": "7.Chapter Seven: The Bathtub",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mkZzUTNWYfGwRH2f1TzlRgouypa.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E07_Chapter Seven_ The Bathtub.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E08_Chapter Eight_ The Upside Down.mkv",
+                         "stitle": "8.Chapter Eight: The Upside Down",
+                         "stime": "55m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg",
+                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E08_Chapter Eight_ The Upside Down.English (CC).srt"
+                     }
+         ],
+         [
+            {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E01_Chapter One_ MADMAX.mkv",
+                 "stitle": "1.Chapter One: MADMAX",
+                 "stime": "48m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E01_Chapter One_ MADMAX.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E02_Chapter Two_ Trick or Treat, Freak.mkv",
+                 "stitle": "2.Chapter Two: Trick or Treat, Freak",
+                 "stime": "56m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oGMZxF4yivOSCGZTMgiDD2Ye2Hi.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E02_Chapter Two_ Trick or Treat, Freak.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E03_Chapter Three_ The Pollywog.mkv",
+                 "stitle": "3.Chapter Three: The Pollywog",
+                 "stime": "51m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tN2H3oZozRqO3OsXEGLfsUHMlIY.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E03_Chapter Three_ The Pollywog.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E04_Chapter Four_ Will the Wise.mkv",
+                 "stitle": "4.Chapter Four: Will the Wise",
+                 "stime": "46m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E04_Chapter Four_ Will the Wise.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E05_Chapter Five_ Dig Dug.mkv",
+                 "stitle": "5.Chapter Five: Dig Dug",
+                 "stime": "58m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/westZSpDwRPjxG2eBWIT7utDcnL.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E05_Chapter Five_ Dig Dug.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E06_Chapter Six_ The Spy.mkv",
+                 "stitle": "6.Chapter Six: The Spy",
+                 "stime": "52m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d90nCiTEACFEUd3fcX8DrLBi5DL.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E06_Chapter Six_ The Spy.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E07_Chapter Seven_ The Lost Sister.mkv",
+                 "stitle": "7.Chapter Seven: The Lost Sister",
+                 "stime": "45m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E07_Chapter Seven_ The Lost Sister.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E08_Chapter Eight_ The Mind Flayer.mkv",
+                 "stitle": "8.Chapter Eight: The Mind Flayer",
+                 "stime": "48m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k3cEwGAWSWbkauYBHSdFnEdalkb.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E08_Chapter Eight_ The Mind Flayer.English (CC).srt"
+             },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E09_Chapter Nine_ The Gate.mkv",
+                "stitle": "9.Chapter Nine: The Gate",
+                "stime": "1h 2m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wqwAsocYrxl7MtHiY8ZAsIxrX5v.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E09_Chapter Nine_ The Gate.English (CC).srt"
+            }
+         ],
+         [
+            {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E01_Chapter One_ Suzie, Do You Copy.mkv",
+                 "stitle": "1.Chapter One: Suzie, Do You Copy?",
+                 "stime": "50m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E01_Chapter One_ Suzie, Do You Copy.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E02_Chapter Two_ The Mall Rats.mkv",
+                 "stitle": "2.Chapter Two: The Mall Rats",
+                 "stime": "50m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qDlMvdlRGzIGtKYdV9lktEUM4vj.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E02_Chapter Two_ The Mall Rats.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E03_Chapter Three_ The Case of the Missing Lifeguard.mkv",
+                 "stitle": "3.Chapter Three: The Case of the Missing Lifeguard",
+                 "stime": "49m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oxfQSyylp90cdwOVvCoUvWAW8od.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E03_Chapter Three_ The Case of the Missing Lifeguard.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E04_Chapter Four_ The Sauna Test.mkv",
+                 "stitle": "4.Chapter Four: The Sauna Test",
+                 "stime": "52m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bFRuAb0q7MN0RiJdo0RDMPSjLsK.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E04_Chapter Four_ The Sauna Test.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E05_Chapter Five_ The Flayed.mkv",
+                 "stitle": "5.Chapter Five: The Flayed",
+                 "stime": "52m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E05_Chapter Five_ The Flayed.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E06_Chapter Six_ E Pluribus Unum.mkv",
+                 "stitle": "6.Chapter Six: E Pluribus Unum",
+                 "stime": "59m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E06_Chapter Six_ E Pluribus Unum.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E07_Chapter Seven_ The Bite.mkv",
+                 "stitle": "7.Chapter Seven: The Bite",
+                 "stime": "55m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E07_Chapter Seven_ The Bite.English (CC).srt"
+             },
+             {
+                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E08_Chapter Eight_ The Battle of Starcourt.mkv",
+                 "stitle": "8.Chapter Eight: The Battle of Starcourt",
+                 "stime": "1h 17m",
+                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg",
+                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E08_Chapter Eight_ The Battle of Starcourt.English (CC).srt"
+             }
+         ],
+         [
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.mp4",
+                "stitle": "1.Chapter One: The Hellfire Club",
+                "stime": "1h 16m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cmCOUjjQ1TfCh1Gj9V4IFAd2XNu.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.mp4",
+                "stitle": "2.Chapter Two: Vecna's Curse",
+                "stime": "1h 15m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/87Nf1zlBkqMoDI1U8HKjhfMzRfE.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.mp4",
+                "stitle": "3.Chapter Three: The Monster and the Superhero",
+                "stime": "1h 3m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/byWi2lewbn5POEyU93EqwujIjty.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.mp4",
+                "stitle": "4.Chapter Four: Dear Billy",
+                "stime": "1h 17m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nhvf6ehzeKCuqPfMSKNhRrRsotD.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.mp4",
+                "stitle": "5.Chapter Five: The Nina Project",
+                "stime": "1h 14m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qpYggM5hj59q7h8rDv3GRI195W9.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.mp4",
+                "stitle": "6.Chapter Six: The Dive",
+                "stime": "1h 13m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qUMe6SUPkH30rxI9aTqGBXGEtuE.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.mp4",
+                "stitle": "7.Chapter Seven: The Massacre at Hawkins Lab",
+                "stime": "1h 38m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qCNQuBaxcgN26e79kLAofWV8LP6.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.CC.en.srt"
+            },
+	                {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep8] Stranger Things - Chapter Eight - Papa.mp4",
+                "stitle": "8.Chapter Eight: Papa",
+                "stime": "1h 25m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sdNa4Z49RTZDkezFAMg00hciFZZ.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep8] Stranger Things - Chapter Eight - Papa.CC.en.srt"
+            },
+            {
+                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep9] Stranger Things - Chapter Nine - The Piggyback.mp4",
+                "stitle": "9.Chapter Nine: The Piggyback",
+                "stime": "2h 30m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fvoa0Hosu4yK7TUiHglV8TvjMUB.jpg",
+                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep9] Stranger Things - Chapter Nine - The Piggyback.CC.en.srt"
+            }
+         ]
+         
+        ],
+     "thumbnailImageId": "https://www.themoviedb.org/t/p/original/uKYUR8GPkKRCksczYDJb3pwZauo.jpg",
+    "genres": "Dramas, Mystery, Sci-Fi & Fantasy,Hollywood,English,Hindi",
+    "releaseDate": "2019",
+    "trailer": "https://www.imdb.com/video/vi1386398233/?playlistId=tt4574334?ref_=ext_shr_lnk",
+    "cast": "Millie Bobby Brown,Finn Wolfhard...more"
+   },
+	
 	 {
         "name": "Man Vs Bee",
         "description": "A man finds himself at war with a bee while house-sitting a luxurious mansion. Who will win, and what irreparable damage will be done in the process?",
@@ -3165,255 +3428,6 @@
   "trailer": "https://www.imdb.com/video/vi3286221593/?playlistId=tt6156584?ref_=ext_shr_lnk",
   "cast": "Jennifer Connelly,Daveed Diggs,Mickey Sumner...more"
        },
-
-      {
-    "name": "Stranger Things",
-    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-    "ageRestriction": "16",
-    "video": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
-    "series": "yes",
-    "subtitle": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt",
-     "seriess":[
-         [
-                    {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
-                         "stitle": "1.Chapter One: The Vanishing of Will Byers",
-                         "stime": "49m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E02_Chapter Two_ The Weirdo on Maple Street.mkv",
-                         "stitle": "2.Chapter Two: The Weirdo on Maple Street",
-                         "stime": "56m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E02_Chapter Two_ The Weirdo on Maple Street.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E03_Chapter Three_ Holly, Jolly.mkv",
-                         "stitle": "3.Chapter Three: Holly, Jolly",
-                         "stime": "52m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5snULpWQWp7aqFto7UbRcEkEyyS.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E03_Chapter Three_ Holly, Jolly.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E04_Chapter Four_ The Body.mkv",
-                         "stitle": "4.Chapter Four: The Body",
-                         "stime": "51m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/60wmC1e20HV8gu688GAhsWxqxPx.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E04_Chapter Four_ The Body.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E05_Chapter Five_ The Flea and the Acrobat.mkv",
-                         "stitle": "5.Chapter Five: The Flea and the Acrobat",
-                         "stime": "53m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E05_Chapter Five_ The Flea and the Acrobat.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E06_Chapter Six_ The Monster.mkv",
-                         "stitle": "6.Chapter Six: The Monster",
-                         "stime": "47m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lNS6qycyucewz3duTr1tf1LU688.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E06_Chapter Six_ The Monster.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E07_Chapter Seven_ The Bathtub.mkv",
-                         "stitle": "7.Chapter Seven: The Bathtub",
-                         "stime": "42m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mkZzUTNWYfGwRH2f1TzlRgouypa.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E07_Chapter Seven_ The Bathtub.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E08_Chapter Eight_ The Upside Down.mkv",
-                         "stitle": "8.Chapter Eight: The Upside Down",
-                         "stime": "55m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg",
-                         "ssubtitle":"/Hollywood series/Stranger things/season 1/Stranger Things_S01E08_Chapter Eight_ The Upside Down.English (CC).srt"
-                     }
-         ],
-         [
-            {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E01_Chapter One_ MADMAX.mkv",
-                 "stitle": "1.Chapter One: MADMAX",
-                 "stime": "48m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E01_Chapter One_ MADMAX.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E02_Chapter Two_ Trick or Treat, Freak.mkv",
-                 "stitle": "2.Chapter Two: Trick or Treat, Freak",
-                 "stime": "56m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oGMZxF4yivOSCGZTMgiDD2Ye2Hi.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E02_Chapter Two_ Trick or Treat, Freak.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E03_Chapter Three_ The Pollywog.mkv",
-                 "stitle": "3.Chapter Three: The Pollywog",
-                 "stime": "51m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tN2H3oZozRqO3OsXEGLfsUHMlIY.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E03_Chapter Three_ The Pollywog.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E04_Chapter Four_ Will the Wise.mkv",
-                 "stitle": "4.Chapter Four: Will the Wise",
-                 "stime": "46m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E04_Chapter Four_ Will the Wise.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E05_Chapter Five_ Dig Dug.mkv",
-                 "stitle": "5.Chapter Five: Dig Dug",
-                 "stime": "58m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/westZSpDwRPjxG2eBWIT7utDcnL.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E05_Chapter Five_ Dig Dug.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E06_Chapter Six_ The Spy.mkv",
-                 "stitle": "6.Chapter Six: The Spy",
-                 "stime": "52m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d90nCiTEACFEUd3fcX8DrLBi5DL.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E06_Chapter Six_ The Spy.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E07_Chapter Seven_ The Lost Sister.mkv",
-                 "stitle": "7.Chapter Seven: The Lost Sister",
-                 "stime": "45m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E07_Chapter Seven_ The Lost Sister.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E08_Chapter Eight_ The Mind Flayer.mkv",
-                 "stitle": "8.Chapter Eight: The Mind Flayer",
-                 "stime": "48m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k3cEwGAWSWbkauYBHSdFnEdalkb.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E08_Chapter Eight_ The Mind Flayer.English (CC).srt"
-             },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 2/Stranger Things_S02E09_Chapter Nine_ The Gate.mkv",
-                "stitle": "9.Chapter Nine: The Gate",
-                "stime": "1h 2m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wqwAsocYrxl7MtHiY8ZAsIxrX5v.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 2/Stranger Things_S02E09_Chapter Nine_ The Gate.English (CC).srt"
-            }
-         ],
-         [
-            {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E01_Chapter One_ Suzie, Do You Copy.mkv",
-                 "stitle": "1.Chapter One: Suzie, Do You Copy?",
-                 "stime": "50m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E01_Chapter One_ Suzie, Do You Copy.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E02_Chapter Two_ The Mall Rats.mkv",
-                 "stitle": "2.Chapter Two: The Mall Rats",
-                 "stime": "50m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qDlMvdlRGzIGtKYdV9lktEUM4vj.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E02_Chapter Two_ The Mall Rats.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E03_Chapter Three_ The Case of the Missing Lifeguard.mkv",
-                 "stitle": "3.Chapter Three: The Case of the Missing Lifeguard",
-                 "stime": "49m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oxfQSyylp90cdwOVvCoUvWAW8od.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E03_Chapter Three_ The Case of the Missing Lifeguard.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E04_Chapter Four_ The Sauna Test.mkv",
-                 "stitle": "4.Chapter Four: The Sauna Test",
-                 "stime": "52m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bFRuAb0q7MN0RiJdo0RDMPSjLsK.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E04_Chapter Four_ The Sauna Test.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E05_Chapter Five_ The Flayed.mkv",
-                 "stitle": "5.Chapter Five: The Flayed",
-                 "stime": "52m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E05_Chapter Five_ The Flayed.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E06_Chapter Six_ E Pluribus Unum.mkv",
-                 "stitle": "6.Chapter Six: E Pluribus Unum",
-                 "stime": "59m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E06_Chapter Six_ E Pluribus Unum.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E07_Chapter Seven_ The Bite.mkv",
-                 "stitle": "7.Chapter Seven: The Bite",
-                 "stime": "55m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E07_Chapter Seven_ The Bite.English (CC).srt"
-             },
-             {
-                 "svideos": "/Hollywood series/Stranger things/season 3/Stranger Things_S03E08_Chapter Eight_ The Battle of Starcourt.mkv",
-                 "stitle": "8.Chapter Eight: The Battle of Starcourt",
-                 "stime": "1h 17m",
-                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg",
-                 "ssubtitle":"/Hollywood series/Stranger things/season 3/Stranger Things_S03E08_Chapter Eight_ The Battle of Starcourt.English (CC).srt"
-             }
-         ],
-         [
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.mp4",
-                "stitle": "1.Chapter One: The Hellfire Club",
-                "stime": "1h 16m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cmCOUjjQ1TfCh1Gj9V4IFAd2XNu.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep1] Stranger Things - Chapter One - The Hellfire Club.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.mp4",
-                "stitle": "2.Chapter Two: Vecna's Curse",
-                "stime": "1h 15m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/87Nf1zlBkqMoDI1U8HKjhfMzRfE.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep2] Stranger Things - Chapter Two - Vecna's Curse.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.mp4",
-                "stitle": "3.Chapter Three: The Monster and the Superhero",
-                "stime": "1h 3m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/byWi2lewbn5POEyU93EqwujIjty.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep3] Stranger Things - Chapter Three - The Monster and the Superhero.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.mp4",
-                "stitle": "4.Chapter Four: Dear Billy",
-                "stime": "1h 17m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nhvf6ehzeKCuqPfMSKNhRrRsotD.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep4] Stranger Things - Chapter Four - Dear Billy.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.mp4",
-                "stitle": "5.Chapter Five: The Nina Project",
-                "stime": "1h 14m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qpYggM5hj59q7h8rDv3GRI195W9.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep5] Stranger Things - Chapter Five - The Nina Project.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.mp4",
-                "stitle": "6.Chapter Six: The Dive",
-                "stime": "1h 13m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qUMe6SUPkH30rxI9aTqGBXGEtuE.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep6] Stranger Things - Chapter Six - The Dive.CC.en.srt"
-            },
-            {
-                "svideos": "/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.mp4",
-                "stitle": "7.Chapter Seven: The Massacre at Hawkins Lab",
-                "stime": "1h 38m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qCNQuBaxcgN26e79kLAofWV8LP6.jpg",
-                "ssubtitle":"/Hollywood series/Stranger things/season 4/[S4.Ep7] Stranger Things - Chapter Seven - The Massacre at Hawkins Lab.CC.en.srt"
-            }
-         ]
-         
-        ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/original/uKYUR8GPkKRCksczYDJb3pwZauo.jpg",
-    "genres": "Dramas, Mystery, Sci-Fi & Fantasy,Hollywood,English,Hindi",
-    "releaseDate": "2019",
-    "trailer": "https://www.imdb.com/video/vi1386398233/?playlistId=tt4574334?ref_=ext_shr_lnk",
-    "cast": "Millie Bobby Brown,Finn Wolfhard...more"
-   },
 
    {
     "name": "Sweet Tooth",
