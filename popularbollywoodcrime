@@ -1,4 +1,20 @@
 [    
+
+      {
+	    "name": "Major(Hindi)",
+	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Major/Major.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://i.ibb.co/Jq9Q1BG/g-V2bg-Gn0-JWRnflt6u9o4d-B5btrf.jpg",
+	    "genres": "Action, History, Drama,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2173092377/?ref_=ext_shr_lnk",
+	    "cast": "Adivi Sesh,Sobhita Dhulipala,Prakash Raj... more",
+            "time":"2h 29m",
+            "subtitle":"/Hindi_Movies/Major/Major.English.srt"
+     },
+     
      {
 	    "name": "Major(Telugu)",
 	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
