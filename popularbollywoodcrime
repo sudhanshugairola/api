@@ -1,4 +1,19 @@
 [    
+      
+          {
+	    "name": "Love Goals",
+	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AmN1EdNRzpwLMzQSPkIFtIVbsxk.jpg",
+	    "genres": "Comedy, Drama, Romance,Hindi,Indian,Tamil,Telugu,South",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3621634585/?ref_=ext_shr_lnk",
+	    "cast": "Jitendra Kumar,Arushi Sharma... more",
+        "time":"2h 27m",
+        "subtitle":"/Hindi_Movies/Love Goals/Love Goals.English.srt"
+	},
 
       {
 	    "name": "Major(Hindi)",
