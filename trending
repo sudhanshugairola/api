@@ -1337,6 +1337,66 @@
         "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
         "cast": "Rowan Atkinson,Jing Lusi...more"
     },
+    
+        {
+        "name": "Moon Knight",
+        "description": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Moon Knight/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Moon Knight/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e.mkv",
+                             "stitle": "1.The Goldfish Problem",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uA81REU7p7bniOQfplpbGIMWCe.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e2.mkv",
+                             "stitle": "2.Summon the Suit",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e3.mkv",
+                             "stitle": "3.The Friendly Type",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2TuF6ZbrUzvH1xcvFHZHIITwFiA.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e4.mkv",
+                             "stitle": "4.The Tomb",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e5.mkv",
+                             "stitle": "5.Asylum",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sYnW3wMnmAYK9SHtsOGqVFlZNde.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Moon Knight/season 1/s1e6.mkv",
+                             "stitle": "6.Gods and Monsters",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/owNx8ZoryZZzp6WYqmTV9Umf1bQ.jpg",
+                             "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/YksR65as1ppF2N48TJAh2PLamX.jpg",
+        "genres": "Action & Adventure, Sci-Fi & Fantasy, Mystery,English,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi321897241/?ref_=ext_shr_lnk",
+        "cast": "Oscar Isaac,Ethan Hawke...more"
+       },
 
        {
         "name": "Chilling Adventures of Sabrina",
