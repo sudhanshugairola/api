@@ -1397,6 +1397,322 @@
         "trailer": "https://www.imdb.com/video/vi321897241/?ref_=ext_shr_lnk",
         "cast": "Oscar Isaac,Ethan Hawke...more"
        },
+       
+           {
+        "name": "Manifest",
+        "description": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Manifest/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Manifest/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e1.mkv",
+                             "stitle": "1.Pilot",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fFirzr3lHUjTXeACGIWmaahPydo.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e2.mkv",
+                             "stitle": "2.Reentry",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9ceGj46UVmG8W9B4Z1oiiIew5w8.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e3.mkv",
+                             "stitle": "3.Turbulence",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kAeJOecCqgHHDHQEpNEunHqvjWE.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e4.mkv",
+                             "stitle": "4.Unclaimed Baggage",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3R6zqVb4v3CWCQQmlagFIcLkqqV.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e5.mkv",
+                             "stitle": "5.Connecting Flights",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jpIl5X9JfUvLI01BTzxhx8qCcBJ.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e6.mkv",
+                             "stitle": "6.Off Radar",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6601H35PBPCj1bjSIaEeEAWNb2Y.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e7.mkv",
+                             "stitle": "7.S.N.A.F.U.",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ij9lTHPmVwEaanF1ShN84YY3Z5d.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 1/s1e8.mkv",
+                             "stitle": "8.Point of No Return",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lUFk2TYXKPZKtbu8vxkYuHqDIFs.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e9.mkv",
+                            "stitle": "9.Dead Reckoning",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yGJKe1YRb4LeHNzZA20ZGObU6kq.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e10.mkv",
+                            "stitle": "10.Crosswinds",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zcFmv1Bc40p4mBDO493pHmPwpcx.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e11.mkv",
+                            "stitle": "11.Contrails",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6VXES8xwUwpf9ChX87dZP02byQR.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e12.mkv",
+                            "stitle": "12.Vanishing Point",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/psks21SgKAHUtaXadRKrrTifctQ.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e13.mkv",
+                            "stitle": "13.Cleared for Approach",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bdbSopVq0BbqfNuVO7S9BDEk0t4.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e14.mkv",
+                            "stitle": "14.Upgrade",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/p14Ys9JzA4aYgM7yig7ynjILYkf.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e15.mkv",
+                            "stitle": "15.Hard Landing",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sNdtzr6t3hNxt7tprgC8uD2cXzj.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 1/s1e16.mkv",
+                            "stitle": "16.Estimated Time of Departure",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cVNgieayhYH35RVnNEYhw9EAwBW.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 1/s1e16.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e1.mkv",
+                             "stitle": "1.Fasten Your Seatbelts",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uxeYwRWvKa66LFKK5dqj5yPLV0h.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e2.mkv",
+                             "stitle": "2.Grounded",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/prmX51ZHMMoDhKH1t0TEUNjxVGg.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e3.mkv",
+                             "stitle": "3.False Horizon",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXVyqFFb4DixdL6PkFxBmSKYwIB.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e4.mkv",
+                             "stitle": "4.Black Box",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vvNsTer2CG7OkVDCyNoVru2LnaR.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e5.mkv",
+                             "stitle": "5.Coordinated Flight",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nzg3q6uIjV1N5ELSTQ2epa7G07u.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e6.mkv",
+                             "stitle": "6.Return Trip",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dGHHkqSP45GinfwXvfrF9hn8qXM.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e7.mkv",
+                             "stitle": "7.Emergency Exit",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3TQCpmmPbiGUKO4OkEAPhQdd5Bp.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 2/s2e8.mkv",
+                             "stitle": "8.Carry On",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4QEzv8clMpsrq9HyzzBMFYtpZkE.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 2/s2e9.mkv",
+                            "stitle": "9.Airplane Bottles",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nhfazUEFaMef7hX8pH28nv9Dbvb.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 2/s2e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 2/s2e10.mkv",
+                            "stitle": "10.Course Deviation",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/esqGAolgHlsE2PBMqO3qvpeQGK1.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 2/s2e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 2/s2e11.mkv",
+                            "stitle": "11.Unaccompanied Minors",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tRC4UaJIdlZyvM2kkeRtTiFAAs4.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 2/s2e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 2/s2e12.mkv",
+                            "stitle": "12.Call Sign",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jQOTkXzI4yBBQexPKqPcz9whFIk.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 2/s2e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 2/s2e13.mkv",
+                            "stitle": "13.Icing Conditions",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r0QmCpuj133WbgCo9PLUqbqeOfR.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 2/s2e13.srt"
+                         }
+             ],
+             [
+                          {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e1.mkv",
+                             "stitle": "1.Tailfin",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mXwCIgBnpHdmMPu7RIUNwqXQM4v.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e2.mkv",
+                             "stitle": "2.Deadhead",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/egN2d0Hf56Kkr430OHbquSXdkag.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e3.mkv",
+                             "stitle": "3.Wingman",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rvYpjbXnJ4fKy8zBH7EY0uHQGxM.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e4.mkv",
+                             "stitle": "4.Tailspin",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hSaMUhiih3eR3F2BXv5UgK5jWUU.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e5.mkv",
+                             "stitle": "5.Water Landing",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pY3rFSOfFPCZhkALhS0Uvs8pPKX.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e6.mkv",
+                             "stitle": "6.Graveyard Spiral",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yVIYAHVtaqF783lQ74NDb8Dbx85.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e7.mkv",
+                             "stitle": "7.Precious Cargo",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lISo7FNzH23f1v6pMLaUGop6YIo.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Manifest/season 3/s3e8.mkv",
+                             "stitle": "8.Destination Unknown",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vIYBXSzpboMrZt7TNVvnW37FHbH.jpg",
+                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 3/s3e9.mkv",
+                            "stitle": "9.Bogey",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8V57C3B25CXYBk4ZcK7wdpRSeB4.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 3/s3e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 3/s3e10.mkv",
+                            "stitle": "10.Compass Calibration",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hfYj7EWei4oW5MieIKAbHJ02cld.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 3/s3e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 3/s3e11.mkv",
+                            "stitle": "11.Duty Free",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/u4qHleM5ukRCG8tKhXR8QzQXIHf.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 3/s3e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 3/s3e12.mkv",
+                            "stitle": "12.Mayday (1)",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/soRaCSIKg4IGCXxd9h8U8UXfWO1.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 3/s3e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Manifest/season 3/s3e13.mkv",
+                            "stitle": "13.Mayday (2)",
+                            "stime": "42m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/A7VlxcPDdQXzoWZTMOsPWQEMVVf.jpg",
+                            "ssubtitle":"/Hollywood series/Manifest/season 3/s3e13.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg",
+        "genres": "Drama, Mystery, Sci-Fi & Fantasy",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3001334553/?ref_=ext_shr_lnk",
+        "cast": "Melissa Roxburgh,Parveen Kaur...more"
+       },
 
        {
         "name": "Chilling Adventures of Sabrina",
