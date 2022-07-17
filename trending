@@ -2073,13 +2073,14 @@
     "trailer": "https://www.imdb.com/video/vi772128281/?playlistId=tt1312171?ref_=ext_shr_lnk",
     "cast": "Elliot Page,Tom Hopper...more"
    },
+   
    {
         "name": "Virgin River",
         "description": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and who she finds.",
         "ageRestriction": "13",
-        "video": "/Hollywood series/Virgin Rive/season 1/Virgin River_S01E01_Carry On.mp4",
+        "video": "/Hollywood series/Virgin River/season 1/Virgin River_S01E01_Carry On.mp4",
         "series": "yes",
-        "subtitle":"Hollywood series/Virgin Rive/season 1/Virgin River_S01E01_Carry On.English (CC).srt",
+        "subtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E01_Carry On.English (CC).srt",
          "seriess":[
              [
                              {
@@ -2087,70 +2088,70 @@
                              "stitle": "1.Carry On",
                              "stime": "48m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMDE3ZGUxNDMtNTg3NC00MWRkLTk0MzItMzA1ZDUxNTgwODkyXkEyXkFqcGdeQXVyMTA5NzM1MTcw._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E01_Carry On.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E01_Carry On.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E02_Lost.mp4",
                              "stitle": "2.Lost",
                              "stime": "43m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMGU2ODMwNmQtY2QxMy00ZjkyLWFkYzUtYWQ4MmU3OTcyMWMzXkEyXkFqcGdeQXVyMTA5NzM1MTcw._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E02_Lost.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E02_Lost.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E03_ and Found.mp4",
                              "stitle": "3. and Found",
                              "stime": "49m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BNTJiNDFlMjQtNmEzZC00NzAwLWJhMjItNDExOTcyY2EyYWZiXkEyXkFqcGdeQXVyMTI0Njk2Nzk0._V1_UY126_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E03_ and Found.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E03_ and Found.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E04_A Wounded Heart.mp4",
                              "stitle": "4.A Wounded Heart",
                              "stime": "42m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BM2VmY2E2N2MtNmJkYy00MDM5LTgyNWItZDNlNGQ2OWZlMDZhXkEyXkFqcGdeQXVyMTI0Njk2Nzk0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E04_A Wounded Heart.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E04_A Wounded Heart.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E05_Under Fire.mp4",
                              "stitle": "5.Under Fire",
                              "stime": "44m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYWRkNzc0MzQtZGJhOC00MTcyLThmMTUtMDU1ZDc3Y2VlODgxXkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR14,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E05_Under Fire.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E05_Under Fire.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E06_Let_s Mingle.mp4",
                              "stitle": "6.Let_s Mingle",
                              "stime": "44m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMGQ0ZTZjMjYtYjQyYy00N2ViLWI0NjctNWZkZTQzYjBiMzQ0XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E06_Let_s Mingle.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E06_Let_s Mingle.English (CC).srt"
                              },
                             {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E07_If Truth Be Told.mp4",
                              "stitle": "7.If Truth Be Told",
                              "stime": "42m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMDVmMzRiMDItOWViOS00ZDM5LTgyNjYtMDhhMGI3Mjc2NGM2XkEyXkFqcGdeQXVyMjA0MjE2NjI@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E07_If Truth Be Told.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E07_If Truth Be Told.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E08_Into the Light.mp4",
                              "stitle": "8.Into the Light",
                              "stime": "42m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BOGQ2ZDQzNmYtNTJhZS00ZjUxLWFhNDktZGU4ZjkyMTVhMDZkXkEyXkFqcGdeQXVyNzA5NTYxMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E08_Into the Light.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E08_Into the Light.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1Virgin River_S01E09_Everybody Has a Secret.mp4/",
                              "stitle": "9.Everybody Has a Secret",
                              "stime": "42m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BNzQ4M2I5ODQtZGI2NS00MWEyLWFkMWEtYmExMDk4NmUzM2M2XkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR13,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E09_Everybody Has a Secret.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E09_Everybody Has a Secret.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Virgin River/season 1/Virgin River_S01E10_Unexpected Endings.mp4",
                              "stitle": "10.Unexpected Endings",
                              "stime": "45m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BZTcyYzI2NmItMzQ3MC00ODMzLWE5ZmMtZTZiMjE1ZTE0MTQ5XkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR14,0,224,126_AL_.jpg",
-                             "ssubtitle":"Hollywood series/Virgin River/season 1/Virgin River_S01E10_Unexpected Endings.English (CC).srt"
+                             "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E10_Unexpected Endings.English (CC).srt"
                              }                          
      ],
 
@@ -2160,70 +2161,70 @@
                     "stitle": "1.New Beginnings",
                     "stime": "45m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BYmRlYjNiMTAtYjM1OS00YWM1LTkyMjgtZTNlZmE5N2U3NDdlXkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E01_New Beginnings.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E01_New Beginnings.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E02_Taken by Surprise.mp4",
                     "stitle": "2.Taken by Surprise",
                     "stime": "44m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BNTNmYzYyNDEtYWRmNC00NzRiLWE1ZDMtNzc2OGZkYjI4MzQ5XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR11,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E02_Taken by Surprise.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E02_Taken by Surprise.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E03_The Morning After.mp4",
                     "stitle": "3.The Morning After",
                     "stime": "44m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BZDA2NzE4NWUtY2U3Mi00NzQwLThlYTktODQ0OGM2ZDkwOTAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E03_The Morning After.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E03_The Morning After.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E04_Rumor Has It.mp4",
                     "stitle": "4.Rumor Has It",
                     "stime": "44m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMWY2ZWZkMjQtN2JlNS00Zjk0LWE1OWQtMzg3NGEwNTBiMTAwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E04_Rumor Has It.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E04_Rumor Has It.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E05_Can’t Let Go.mp4",
                     "stitle": "5.Can’t Let Go",
                     "stime": "48m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BYWJkZDc1NzItNzU1YS00ZmI3LTg3NzItMDM0NTliNzQ1OTE4XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E05_Can’t Let Go.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E05_Can’t Let Go.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E06_Out of the Past.mp4",
                     "stitle": "6.Out of the Past",
                     "stime": "45m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMTIyMGI3NzQtMjg1MS00YzQ2LWFiMTAtYThkZjA2YTRlMTE5XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E06_Out of the Past.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E06_Out of the Past.English (CC).srt"
                     },
                    {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E07_Breaking Point.mp4",
                     "stitle": "7.Breaking Point",
                     "stime": "41m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMWRlNzM0N2MtYzE4Yy00NGRmLTlhOTYtNDNiMTMwMjRlMzQ2XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E07_Breaking Point.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E07_Breaking Point.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E08_Blindspots.mp4",
                     "stitle": "8.Blindspots",
                     "stime": "41m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMjM0ODhiMzAtYmEzMS00ZjZjLTg2NTQtZWRmMDA3M2Q1OWU0XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E08_Blindspots.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E08_Blindspots.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E09_Hazards Ahead.mp4",
                     "stitle": "9.Hazards Ahead",
                     "stime": "44m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BYWZkMGU1NTEtYTE2OC00ZGJmLWE1OWQtYmU2ZDdkZDUzZGUwXkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR16,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E09_Hazards Ahead.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E09_Hazards Ahead.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E10_Blown Away.mp4",
                     "stitle": "10.Blown Away",
                     "stime": "45m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMzJmNDhlY2UtYTYyZi00ZGNlLWI5NTktOTRjYjUxNjVlYjU0XkEyXkFqcGdeQXVyMTMwMDc1NzI3._V1_UY126_CR6,0,224,126_AL_.jpg",
-                    "ssubtitle":"Hollywood series/Virgin River/season 2/Virgin River_S02E10_Blown Away.English (CC).srt"
+                    "ssubtitle":"/Hollywood series/Virgin River/season 2/Virgin River_S02E10_Blown Away.English (CC).srt"
                     }
         ], 
 
@@ -2233,70 +2234,70 @@
             "stitle": "1.Where There_s Smoke",
             "stime": "44m",
             "simage": "https://m.media-amazon.com/images/M/MV5BYWU0MWNiMzAtOTY0YS00ZDliLTk3YjEtZDEwZWQwNGEyYzZiXkEyXkFqcGdeQXVyODk3NTc3ODk@._V1_UY126_CR18,0,224,126_AL_.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E01_Where There_s Smoke.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E01_Where There_s Smoke.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E02_Sticky Feet.mp4",
             "stitle": "2.Sticky Feet",
             "stime": "42m",
             "simage": "https://m.media-amazon.com/images/M/MV5BMTc4YTJhNGMtZDk0ZC00MTZiLTkxZWEtNWE4MDlkYmY3NDFjXkEyXkFqcGdeQXVyODk3NTc3ODk@._V1_UY126_CR21,0,224,126_AL_.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E02_Sticky Feet.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E02_Sticky Feet.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E03_Spare Parts and Broken Hearts.mp4",
             "stitle": "3.Spare Parts and Broken Hearts",
             "stime": "46m",
             "simage": "https://m.media-amazon.com/images/M/MV5BMTBhOTIxNTMtOTE3NS00MDFmLWIzZDEtYTk0ZGZkZWRiMTRiXkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR13,0,224,126_AL_.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E04_Take My Breath Away.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E04_Take My Breath Away.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E04_Take My Breath Away.mp4",
             "stitle": "4.Take My Breath Away",
             "stime": "48m",
             "simage": "https://m.media-amazon.com/images/M/MV5BMGFkMWJlODItN2U2Ni00OWE3LWE2NmItZTY5MTY1ZmU0ZTExXkEyXkFqcGdeQXVyODk3NTc3ODk@._V1_UY126_CR17,0,224,126_AL_.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E04_Take My Breath Away.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E04_Take My Breath Away.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E05_Kindling.mp4",
             "stitle": "5.Kindling",
             "stime": "45m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hJVZ4RhxmqHQMIaC78GIuvcMYYN.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E05_Kindling.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E05_Kindling.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E06_Jack and Jill.mp4",
             "stitle": "6.Jack and Jill",
             "stime": "42m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tpJnNrvEjzXwesG2V8dHS39mmrS.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E06_Jack and Jill.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E06_Jack and Jill.English (CC).srt"
             },
            {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E07_Split.mp4",
             "stitle": "7.Split",
             "stime": "44m",
             "simage": "https://m.media-amazon.com/images/M/MV5BNTA4MjE0MTktMzIxYi00ZDBjLTk4ZDktZDMyYTUxNzY0Y2ZhXkEyXkFqcGdeQXVyODk3NTc3ODk@._V1_UY126_CR22,0,224,126_AL_.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E07_Split.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E07_Split.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E08_Life and Death.mp4",
             "stitle": "8.Life and Death",
             "stime": "44m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/34P9n8hlEx4bMzGHg0EAS5ssovM.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E08_Life and Death.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E08_Life and Death.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E09_The Sun Also Rises.mp4",
             "stitle": "9.The Sun Also Rises",
             "stime": "48m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9tU2Z1Y8UgMXuOwHt73AjvgUqSf.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E09_The Sun Also Rises.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E09_The Sun Also Rises.English (CC).srt"
             },
             {
             "svideos": "/Hollywood series/Virgin River/season 3/Virgin River_S03E10_A Wedding, No Funeral and a Baby.mp4",
             "stitle": "10.A Wedding, No Funeral and a Baby",
             "stime": "42m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vcp7cgoezlAThn5L2Bgaxxk8LXi.jpg",
-            "ssubtitle":"Hollywood series/Virgin River/season 3/Virgin River_S03E10_A Wedding, No Funeral and a Baby.English (CC).srt"
+            "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E10_A Wedding, No Funeral and a Baby.English (CC).srt"
             }           
      ]                
    ],
