@@ -994,6 +994,80 @@
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
 	},
 	
+	    {
+        "name": "Resident Evil",
+        "description": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets. Based on the horror franchise.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Resident Evil/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Resident Evil/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e1.mp4",
+                             "stitle": "1.Welcome to New Raccoon City",
+                             "stime": "1h",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDAzMmYyNzAtYmYxYy00MjQ5LWIyYjktYjQwNDJmYTY5MTM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e2.mkv",
+                             "stitle": "2.The Devil You Know",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2IzMjMzYzktZDk4NC00NWFmLThmNDQtZWY1NGJlY2E5NGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e3.mkv",
+                             "stitle": "3.The Light",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYThiOGI3Y2MtYjdhNC00ZjY5LWI0MTAtODc3MTAyYjhjNjQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e4.mkv",
+                             "stitle": "4.The Turn",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTY2MTA0ZDEtNTQ4Ny00OTI0LWIyZTUtNDY4ZWFiMTVlZWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e5.mkv",
+                             "stitle": "5.Home Movies",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzQ2NDYxZDktMjA1Ni00MGM3LTkxOGUtOTAzZDBhYjMxOTZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e6.mkv",
+                             "stitle": "6.Someone's Little Girl",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNThmMzc0MzYtOTg0Zi00ZGIxLThiM2QtZTNmMTNjN2E2YjdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e7.mkv",
+                             "stitle": "7.Parasite",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjMzZmVjZmEtNTRhZS00NmVlLTk1OGUtOThkZDA2YzQwMTcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Resident Evil/season 1/s1e8.mkv",
+                             "stitle": "8.Revelations",
+                             "stime": "1h 1m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzdiNmJmYWMtNTEyMC00ZmYyLWE4NWItZjRhYWVlY2FhOGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Resident Evil/season 1/s1e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q2IlzP9bQNDdGLlX9jtms5MaOCh.jpg",
+        "genres": " Sci-Fi & Fantasy, Dramas,Hollywood,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi803848729/?ref_=ext_shr_lnk",
+        "cast": "Ella Balinska,Lance Reddick...more"
+       },
+	
 	      {
     "name": "Stranger Things",
     "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -1250,7 +1324,7 @@
          ]
          
         ],
-     "thumbnailImageId": "https://i.ibb.co/s9rLChf/o-Mk-VNuj-GNm-Gmf-Ne-Hwxc-UF6mnc-QJ.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
     "genres": "Dramas, Mystery, Sci-Fi & Fantasy,Hollywood,English,Hindi",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi1386398233/?playlistId=tt4574334?ref_=ext_shr_lnk",
@@ -1270,68 +1344,68 @@
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.mp4",
                              "stitle": "1.Chapter 1",
                              "stime": "19m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zGCIQ1hCOqM7bnaTFmGLZkYpuCm.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGViYWQwNDItODgxMy00ZTkxLThiYWQtN2RkMzNlNTAwMzFiXkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E01_Chapter 1.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E02_Chapter 2.mp4",
                              "stitle": "2.Chapter 2",
                              "stime": "11m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yJGVrdTDIdq1QywGtjIqtNws4T1.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWQxOWQ1NzAtYTNjMy00ZGIyLWEyNmItNTBmZTlmOTMyNmI4XkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E02_Chapter 2.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E03_Chapter 3.mp4",
                              "stitle": "3.Chapter 3",
                              "stime": "12m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/XiA0jk9JEejUHHyLOMdw0nT9NK.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWNiZTUwOWYtM2VjYi00ZGYwLTg1NmEtNWQwNDMwNjc2NmViXkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E03_Chapter 3.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E04_Chapter 4.mp4",
                              "stitle": "4.Chapter 4",
                              "stime": "11m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mRb2RmbzVIlRtA75wpQXhSktBVS.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjhmOTRmYWMtNzk1MS00YWE3LWJhN2MtYjc5MWZiMGFhN2E3XkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpgg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E04_Chapter 4.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E05_Chapter 5.mp4",
                              "stitle": "5.Chapter 5",
                              "stime": "10m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sJ235WZhZ2NGVgJ5Ocp4Gjqi6zo.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzEzNzZhYzItZjVjMi00YzMwLTk1NDAtOWNjZDdlOTZiOTU3XkEyXkFqcGdeQXVyMTMwMTcxNjk1._V1_UY126_CR4,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E05_Chapter 5.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E06_Chapter 6.mp4",
                              "stitle": "6.Chapter 6",
                              "stime": "10m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3UNHcgYNyoag3wQrDW9JatgG2x.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjc3MDkxMzEtNDAzNi00ODQyLWFhNDgtYTJjMzVlNzk0Mjg1XkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E06_Chapter 6.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E07_Chapter 7.mp4",
                              "stitle": "7.Chapter 7",
                              "stime": "11m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hNCkZfGQ4SEVnwasei9L2zMbSGX.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2M4MDYzODctMTZlMC00MTgzLWFjZmQtMjgzM2I2YWU0NWI0XkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E07_Chapter 7.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E08_Chapter 8.mp4",
                              "stitle": "8.Chapter 8",
                              "stime": "12m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jloXVy8orTHlAuST8dioOI3hyNE.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDRhM2Q2YzUtMWZiMy00YTMzLWIzODgtNWZjZGY4YzMxYmVmXkEyXkFqcGdeQXVyMTMwMTcxNjk1._V1_UY126_CR4,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E08_Chapter 8.English (CC).srt"
                          },
                          {
                             "svideos": "/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E09_Chapter 9.mp4",
                             "stitle": "9.Chapter 9",
                             "stime": "12m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9HYJ05Ak2eYhpWtOtgF4P3uoW6M.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDdkNzhmYjYtNDNmOS00YWVhLWExODUtNGE2MWM5NWRiNDdjXkEyXkFqcGdeQXVyNjUzMTgyOTU@._V1_UY126_UX224_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Man Vs Bee/season 1/Man Vs Bee_S01E09_Chapter 9.English (CC).srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/74kkM7E5IymHl7ZS4XugP6YT3zU.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_FMjpg_UX1000_.jpg",
         "genres": "Comedy, Dramas,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
@@ -1351,47 +1425,47 @@
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e1.mkv",
                              "stitle": "1.The Goldfish Problem",
                              "stime": "48m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uA81REU7p7bniOQfplpbGIMWCe.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGIyNmExYmEtMWQ0Mi00ZTRlLTk2ODItMzIzNTFiNDQ2OWE1XkEyXkFqcGdeQXVyMTE1OTA5ODA4._V1_UY126_CR39,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e1.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e2.mkv",
                              "stitle": "2.Summon the Suit",
                              "stime": "53m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjc4NjFiNzctYWU1Yy00MzI3LTg1MjEtNjkxZjFhNmI3MDUxXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e2.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e3.mkv",
                              "stitle": "3.The Friendly Type",
                              "stime": "53m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2TuF6ZbrUzvH1xcvFHZHIITwFiA.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDIxMTY4YWYtNjI1YS00M2M5LTkwNjUtNjRkMGRhNDgzMjY2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY126_CR38,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e3.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e4.mkv",
                              "stitle": "4.The Tomb",
                              "stime": "54m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGRhNmEyOTUtZDcyZC00MzQ5LWI3ODEtZjBkNDdhZGNiYzBkXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e4.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e5.mkv",
                              "stitle": "5.Asylum",
                              "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sYnW3wMnmAYK9SHtsOGqVFlZNde.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGNiZjdiOTctN2MyNS00ZDc4LThjOTYtZTIyNzVhZDBjOWVmXkEyXkFqcGdeQXVyNjcwNDg5MzM@._V1_UY126_CR2,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e5.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Moon Knight/season 1/s1e6.mkv",
                              "stitle": "6.Gods and Monsters",
                              "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/owNx8ZoryZZzp6WYqmTV9Umf1bQ.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2JhNjA3YTgtYWQ5OC00NGYzLTgyM2MtMjc0NWMwZjk5ZTZmXkEyXkFqcGdeQXVyNDQwODY1NTY@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Moon Knight/season 1/s1e6.srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/YksR65as1ppF2N48TJAh2PLamX.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg",
         "genres": "Action & Adventure, Sci-Fi & Fantasy, Mystery,English,Hollywood",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi321897241/?ref_=ext_shr_lnk",
@@ -1411,112 +1485,112 @@
                              "svideos": "/Hollywood series/Manifest/season 1/s1e1.mkv",
                              "stitle": "1.Pilot",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fFirzr3lHUjTXeACGIWmaahPydo.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzg3OGY1ZmYtN2E3Yy00YzNiLThjZWEtYjZkMzNhMDcyNzE5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e1.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e2.mkv",
                              "stitle": "2.Reentry",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9ceGj46UVmG8W9B4Z1oiiIew5w8.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWNmMDFkODYtYWE5MC00ZjJkLTlmMWQtMjFmY2RjNTkxOWM3XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e2.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e3.mkv",
                              "stitle": "3.Turbulence",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kAeJOecCqgHHDHQEpNEunHqvjWE.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGYzMjFkMmItYjc4My00Njc5LWFkODgtMzY1ZWRlNDNhYzY5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e3.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e4.mkv",
                              "stitle": "4.Unclaimed Baggage",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3R6zqVb4v3CWCQQmlagFIcLkqqV.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDRjYWNjYTItNGI5ZS00NjMyLThiM2UtOTJhNDA1OTM2Y2M2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e4.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e5.mkv",
                              "stitle": "5.Connecting Flights",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jpIl5X9JfUvLI01BTzxhx8qCcBJ.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDYzZWViNjktMGQzNS00YmU0LWEwMGQtM2UwZTJmNjFkN2VhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e5.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e6.mkv",
                              "stitle": "6.Off Radar",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6601H35PBPCj1bjSIaEeEAWNb2Y.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjI0NjMwM2ItMTczMC00ZGRiLTgwYWUtNmFmOWNjNDUyN2RmXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e6.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e7.mkv",
                              "stitle": "7.S.N.A.F.U.",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ij9lTHPmVwEaanF1ShN84YY3Z5d.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmJjOWEzNTItNmJhZi00MDRlLWJjYTQtYTU2YWM5NmU0MmIyXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e7.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 1/s1e8.mkv",
                              "stitle": "8.Point of No Return",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lUFk2TYXKPZKtbu8vxkYuHqDIFs.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGQ1Y2MwODAtNWJiOS00ZDNhLTg4MTgtYzQwYjc3ZWJkODBkXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 1/s1e8.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e9.mkv",
                             "stitle": "9.Dead Reckoning",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yGJKe1YRb4LeHNzZA20ZGObU6kq.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTVjYTRkOTUtMzE0ZC00NzU2LWE3YTktYWQwNWFmY2E3YzBjXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e9.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e10.mkv",
                             "stitle": "10.Crosswinds",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zcFmv1Bc40p4mBDO493pHmPwpcx.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTBjNmM1YTUtMTVkOS00MWVlLWE5NjItYjQ1N2YxZGZkMzE2XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e10.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e11.mkv",
                             "stitle": "11.Contrails",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6VXES8xwUwpf9ChX87dZP02byQR.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTk5ZmRkMjYtZTBiOS00ZTQ4LWFiN2ItNTA5MGFjODc4NWE1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e11.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e12.mkv",
                             "stitle": "12.Vanishing Point",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/psks21SgKAHUtaXadRKrrTifctQ.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzMxMzMyMDMtNzdhYi00M2Y5LThkODEtY2JlMzNlNmE3OGE4XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e12.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e13.mkv",
                             "stitle": "13.Cleared for Approach",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bdbSopVq0BbqfNuVO7S9BDEk0t4.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjMxZWEyMWUtMDM1My00NGRhLTk3MDctNDg0MmJiOTVkMTkyXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e13.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e14.mkv",
                             "stitle": "14.Upgrade",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/p14Ys9JzA4aYgM7yig7ynjILYkf.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWZhY2ZhM2YtMTRmYS00M2M0LThiMjAtNGQ0MTAwMWQ4NDljXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e14.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e15.mkv",
                             "stitle": "15.Hard Landing",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sNdtzr6t3hNxt7tprgC8uD2cXzj.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODVkNTdiNjMtYzVkZS00ZTVhLTljOTctOTllNGRhOGJkOWJkXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e15.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 1/s1e16.mkv",
                             "stitle": "16.Estimated Time of Departure",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cVNgieayhYH35RVnNEYhw9EAwBW.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzE3OWZjMTgtYmIzNS00NDYzLTk0YTktZjA3NjJlMGNiZTFhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 1/s1e16.srt"
                          }
              ],
@@ -1525,91 +1599,91 @@
                              "svideos": "/Hollywood series/Manifest/season 2/s2e1.mkv",
                              "stitle": "1.Fasten Your Seatbelts",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uxeYwRWvKa66LFKK5dqj5yPLV0h.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmE4MDQ0NTktZmQ5ZC00MTU3LTg0NzEtMDgwMjJlY2I0Mjk0XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e1.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e2.mkv",
                              "stitle": "2.Grounded",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/prmX51ZHMMoDhKH1t0TEUNjxVGg.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGZiNzAwMmYtOWY5Yi00NjgwLTllYzgtZGFmNmE3Y2EwNzMyXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e2.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e3.mkv",
                              "stitle": "3.False Horizon",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXVyqFFb4DixdL6PkFxBmSKYwIB.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjk2OGM0MmEtZjM3NC00NjU2LTk2ZDQtNmMyYTBkZmUxNmMxXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e3.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e4.mkv",
                              "stitle": "4.Black Box",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vvNsTer2CG7OkVDCyNoVru2LnaR.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTRkNWExODktMmNkYS00YmMyLWFhOGEtYjE3NmViNTE0NTY2XkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e4.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e5.mkv",
                              "stitle": "5.Coordinated Flight",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nzg3q6uIjV1N5ELSTQ2epa7G07u.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2IxZTFlMTAtNzFmZS00YmYyLTgxYzYtYzJiOTY2YzQ5NjE3XkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e5.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e6.mkv",
                              "stitle": "6.Return Trip",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dGHHkqSP45GinfwXvfrF9hn8qXM.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDY0YWRjOTQtYzdhMi00YzA3LWEyMWUtYmVkM2EzNjUwODFkXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e6.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e7.mkv",
                              "stitle": "7.Emergency Exit",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3TQCpmmPbiGUKO4OkEAPhQdd5Bp.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDQ4YzU1M2ItZGZmZi00MWRkLTg5NmUtMjg5MGFkNzI1MTFlXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e7.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 2/s2e8.mkv",
                              "stitle": "8.Carry On",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4QEzv8clMpsrq9HyzzBMFYtpZkE.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWNiZGVjODEtYjg0NC00Mzg0LWE3ODEtMzhmOTZkNTdmMDhhXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 2/s2e8.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 2/s2e9.mkv",
                             "stitle": "9.Airplane Bottles",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nhfazUEFaMef7hX8pH28nv9Dbvb.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYzJkYzNkMWUtZmQyZi00MGIxLWFjMTUtOGM0MWFmOTQ4OTZhXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e9.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 2/s2e10.mkv",
                             "stitle": "10.Course Deviation",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/esqGAolgHlsE2PBMqO3qvpeQGK1.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzc1MmRhNmMtYWVjZC00MGVkLWEzMDEtOWM2MzhjZjBhZWIwXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e10.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 2/s2e11.mkv",
                             "stitle": "11.Unaccompanied Minors",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tRC4UaJIdlZyvM2kkeRtTiFAAs4.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjJhOGYwMjktZGM0Ny00NzZkLWI4ODUtYzU1YmMwZWEzZmE1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e11.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 2/s2e12.mkv",
                             "stitle": "12.Call Sign",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jQOTkXzI4yBBQexPKqPcz9whFIk.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGZhNzQxMzUtNjQ3OS00M2FkLTgyOWItNzFlYWU5ZGM4MTA4XkEyXkFqcGdeQXVyNTI4MjkxMDE@._V1_UY126_UX224_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e12.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 2/s2e13.mkv",
                             "stitle": "13.Icing Conditions",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r0QmCpuj133WbgCo9PLUqbqeOfR.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDUzZWUwNTEtYzVhYS00YTRiLTk5YjktNWQxYzg0M2IwMTg3XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 2/s2e13.srt"
                          }
              ],
@@ -1618,96 +1692,96 @@
                              "svideos": "/Hollywood series/Manifest/season 3/s3e1.mkv",
                              "stitle": "1.Tailfin",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mXwCIgBnpHdmMPu7RIUNwqXQM4v.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWFiZmE5NmEtNWI5ZS00NzFiLWFlZjMtNDk1M2I2ZjcwNjYyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e1.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e2.mkv",
                              "stitle": "2.Deadhead",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/egN2d0Hf56Kkr430OHbquSXdkag.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTg1NzNkNTItMjc0Mi00NGMxLWFiZWEtNjFjZmJhYTBjNzgxXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e2.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e3.mkv",
                              "stitle": "3.Wingman",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rvYpjbXnJ4fKy8zBH7EY0uHQGxM.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGY4ZTRmMzItZmNhNC00N2RhLTljNzYtNDQ3OGM1MTIxNDU2XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e3.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e4.mkv",
                              "stitle": "4.Tailspin",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hSaMUhiih3eR3F2BXv5UgK5jWUU.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2Q2NjVmM2QtMGJlMS00ZGE2LTg3ZTQtYWY5ZTRlYmVhM2QxXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e4.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e5.mkv",
                              "stitle": "5.Water Landing",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pY3rFSOfFPCZhkALhS0Uvs8pPKX.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDRlZmEzYmEtODFmOC00Y2I1LWIxZGUtMDNlN2IzMGE0NjJkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e5.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e6.mkv",
                              "stitle": "6.Graveyard Spiral",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yVIYAHVtaqF783lQ74NDb8Dbx85.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmJiMzU4YWEtMTk2Zi00ZTE1LTlhMWEtMWMzMDM1NmViOGJiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e6.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e7.mkv",
                              "stitle": "7.Precious Cargo",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lISo7FNzH23f1v6pMLaUGop6YIo.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmYxNGEwYTYtOTY5Yy00Zjg3LTg4MTUtMTQ0ZGVjNTkzMmYwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e7.srt"
                          },
                          {
                              "svideos": "/Hollywood series/Manifest/season 3/s3e8.mkv",
                              "stitle": "8.Destination Unknown",
                              "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vIYBXSzpboMrZt7TNVvnW37FHbH.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDQzNzJjZTQtZjg5NC00MmY4LWE2MjctYzYxNDRiNjU5MzdkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Manifest/season 3/s3e8.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 3/s3e9.mkv",
                             "stitle": "9.Bogey",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8V57C3B25CXYBk4ZcK7wdpRSeB4.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMjBmZDhkOTktZDM0My00MjBmLWIyNjEtM2E2NTc4YTIzNWJhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e9.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 3/s3e10.mkv",
                             "stitle": "10.Compass Calibration",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hfYj7EWei4oW5MieIKAbHJ02cld.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDQyMGY4ZGYtNTBlYS00N2FiLWE3MzItOTE3MGFhNjlhOTliXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e10.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 3/s3e11.mkv",
                             "stitle": "11.Duty Free",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/u4qHleM5ukRCG8tKhXR8QzQXIHf.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWQ5NzAzY2MtZjJkYi00YWQyLWI1NDQtNTBlOTU5ZDE3Y2I1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e11.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 3/s3e12.mkv",
                             "stitle": "12.Mayday (1)",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/soRaCSIKg4IGCXxd9h8U8UXfWO1.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTg1ZjNlNzEtZWMzNi00N2U4LWFiMjYtNTIwMGZkZTcxODE3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e12.srt"
                          },
                          {
                             "svideos": "/Hollywood series/Manifest/season 3/s3e13.mkv",
                             "stitle": "13.Mayday (2)",
                             "stime": "42m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/A7VlxcPDdQXzoWZTMOsPWQEMVVf.jpg",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMWNlZTAxM2ItZDZkZi00ZTM0LWE5OWMtMzU3NmExNmIyMDMyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Manifest/season 3/s3e13.srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
         "genres": "Drama, Mystery, Sci-Fi & Fantasy",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi3001334553/?ref_=ext_shr_lnk",
@@ -1726,78 +1800,78 @@
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.mp4",
                              "stitle": "1.Chapter One: October Country",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/TVbcxugpawR90swvDVoySY42VN.jpg",
+                             "stime": "1h 2m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM4OTA4ODk2MF5BMl5BanBnXkFtZTgwODkwMjUzNjM@._V1_UY126_CR26,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E01_Chapter One_ October Country.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E02_Chapter Two_ The Dark Baptism.mp4",
                              "stitle": "2.Chapter Two: The Dark Baptism",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3Io45fOaXQAqK0HQyuVk5MziIFz.jpg",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM1MjI0NTA5MV5BMl5BanBnXkFtZTgwMDI4NTIzNjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E02_Chapter Two_ The Dark Baptism.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E03_Chapter Three_ The Trial of Sabrina Spellman.mp4",
                              "stitle": "3.Chapter Three: The Trial of Sabrina Spellman",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kaeTW67jouU1kWeGaJbkhlOcIyB.jpg",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTcwNDY1OTE3MV5BMl5BanBnXkFtZTgwMDgwODk1NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E03_Chapter Three_ The Trial of Sabrina Spellman.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E04_Chapter Four_ Witch Academy.mp4",
                              "stitle": "4.Chapter Four: Witch Academy",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXHRZ5wT1scwp9qxlBryTG08OiT.jpg",
+                             "stime": "1h",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjI0ZDU0NGItYmRmMi00ODAxLTliODctZTBiYzllN2YwMDNmXkEyXkFqcGdeQXVyMTE0NjI5MjQ5._V1_UY126_CR27,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E04_Chapter Four_ Witch Academy.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E05_Chapter Five_ Dreams in a Witch House.mp4",
                              "stitle": "5.Chapter Five: Dreams in a Witch House",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ebWX6dvAGeY9FlIfnFl1s1usQyw.jpg",
+                             "stime": "54m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjEzNjI1MjAyMV5BMl5BanBnXkFtZTgwMDY3ODY2NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E05_Chapter Five_ Dreams in a Witch House.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E06_Chapter Six_ An Exorcism in Greendale.mp4",
                              "stitle": "6.Chapter Six: An Exorcism in Greendale",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4yJKGhLLmqPAXqkO8SrI2P83F8l.jpg",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzk4ODIwNTg4NV5BMl5BanBnXkFtZTgwMTQ3ODY2NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E06_Chapter Six_ An Exorcism in Greendale.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E07_Chapter Seven_ Feast of Feasts.mp4",
                              "stitle": "7.Chapter Seven: Feast of Feasts",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/o699hi5kp74dEMFnlzzlfaUe9sz.jpg",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjMzNDI2NTQwN15BMl5BanBnXkFtZTgwNDkwMjUzNjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E07_Chapter Seven_ Feast of Feasts.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E08_Chapter Eight_ The Burial.mp4",
                              "stitle": "8.Chapter Eight: The Burial",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jHuNicP9mUaGNVQXbaGqMDp0Dyo.jpg",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODA3Y2JkMDYtMzJmOC00NjczLWI3OTQtNWNiMGU0N2Y3Y2EzXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E08_Chapter Eight_ The Burial.English (CC).srt"
                          },
                          {
                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E09_Chapter Nine_ The Returned Man.mp4",
                             "stitle": "9.Chapter Nine: The Returned Man",
-                            "stime": "m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/udP96Cu3Xx6KYxduZnD5gUOwBN7.jpg",
+                            "stime": "1h 1m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjBmOTBhY2EtMWE4Ni00YWNkLWIzNDMtNzlkMmU1ZTZmNTNlXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_UY126_CR41,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E09_Chapter Nine_ The Returned Man.English (CC).srt"
                          },
                          {
                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E10_Chapter Ten_ The Witching Hour.mp4",
                             "stitle": "10.Chapter Ten: The Witching Hour",
-                            "stime": "m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6NzrfbZvLx0c4O9iKNpieBuBSAX.jpg",
+                            "stime": "1h 4m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTU3ODUzNDcxM15BMl5BanBnXkFtZTgwODMzOTU2NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E10_Chapter Ten_ The Witching Hour.English (CC).srt"
                          },
                          {
                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E11_Chapter Eleven_ A Midwinter_s Tale.mp4",
                             "stitle": "11.Chapter Eleven: A Midwinter's Tale",
-                            "stime": "m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tkI5uqh7wrZZknPZbjdgNf62gK7.jpg",
+                            "stime": "56m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzg3Mjc1MzA5MV5BMl5BanBnXkFtZTgwODk0NzM4NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 1/Chilling Adventures of Sabrina_S01E11_Chapter Eleven_ A Midwinter_s Tale.English (CC).srt"
                          }
              ],
@@ -1805,64 +1879,64 @@
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E01_Chapter Twelve_ _The Epiphany.mp4",
                              "stitle": "1.Chapter Twelve: The Epiphany",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cSZwt4xLhcs4HCVspZ0jwUr9inb.jpg",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjdlNDU5YjEtNTk5MS00YmIyLWE4NmUtZTFjNTJkNjNkNWQ2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E01_Chapter Twelve_ _The Epiphany.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E02_Chapter Thirteen_ _The Passion of Sabrina Spellman.mp4",
                              "stitle": "2.Chapter Thirteen: The Passion of Sabrina Spellman",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yXrnPrmejqBShKClpJIWFAeyB7q.jpg",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTU0MDU0NWEtOTI4OC00NTJiLTg3YjItYTgwODE4NmRlZDVmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E02_Chapter Thirteen_ _The Passion of Sabrina Spellman.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E03_Chapter Fourteen_ _Lupercalia.mp4",
                              "stitle": "3.Chapter Fourteen: Lupercalia",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2BTsf1rLMu4PK9L0c1rYIE20I8F.jpg",
+                             "stime": "1h 1m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2E5MTgwOGYtMTEzNi00YTRhLWI2MWQtMWMyMTg2YTU3NGY5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E03_Chapter Fourteen_ _Lupercalia.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E04_Chapter Fifteen_ _Doctor Cerberus_s House of Horror.mp4",
                              "stitle": "4.Chapter Fifteen: Doctor Cerberbus's House of Horror",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9mmysPbVU94QxdGuHAxDsvPMWvh.jpg",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDlmYWViM2UtNjBlMi00NzkwLWI3MGMtYzU5MDZmM2Y2ZjRkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E04_Chapter Fifteen_ _Doctor Cerberus_s House of Horror.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E05_Chapter Sixteen_ Blackwood.mp4",
                              "stitle": "5.Chapter Sixteen: Blackwood",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x30IOfK7HUWq000dpaDRDRlCFVE.jpg",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGZjYTY3MDktYWZjOS00NWQzLTlhM2UtZGI4ZWQ2NDFjNzEwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E05_Chapter Sixteen_ Blackwood.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E06_Chapter Seventeen_ The Missionaries.mp4",
                              "stitle": "6.Chapter Seventeen: The Missionaries",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1GnkAjnaRktU1poaHVp9rzy5qK.jpg",
+                             "stime": "54m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGQxMjAyNmUtZDBhOC00OWM4LThiNDYtYmI3OGRlODU2MDdhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E06_Chapter Seventeen_ The Missionaries.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E07_Chapter Eighteen_ The Miracles of Sabrina Spellman.mp4",
                              "stitle": "7.Chapter Eighteen: The Miracles of Sabrina Spellman",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gOjTapEgud7brZ6vc7s8Fnnw32W.jpg",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDBkNWQ0MTEtYzRkNy00NjFhLWE5MDEtNDc2OWUyMzY3NzdhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E07_Chapter Eighteen_ The Miracles of Sabrina Spellman.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E08_Chapter Nineteen_ The Mandrake.mp4",
                              "stitle": "8.Chapter Nineteen: The Mandrake",
-                             "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lerfiEmSl5QxQPbWDF1YazZy9OQ.jpg",
+                             "stime": "54m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzQyMmM4OGEtNTE5Mi00MjdjLWExNzMtMGQ5ODIyZWQyZTM5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E08_Chapter Nineteen_ The Mandrake.English (CC).srt"
                          },
                          {
                             "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E09_Chapter Twenty_ The Mephisto Waltz.mp4",
                             "stitle": "9.Chapter Twenty: Mephisto Waltz",
-                            "stime": "m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/djAr9lb07eV3uhhBYd9Q7YfmBP9.jpg",
+                            "stime": "1h 2m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjMwY2YwZTUtZWI1MC00MmJiLTk1ZDQtMTQ0Y2I4N2FiNDUwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                             "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 2/Chilling Adventures of Sabrina_S02E09_Chapter Twenty_ The Mephisto Waltz.English (CC).srt"
                          }
              ],
@@ -1871,56 +1945,56 @@
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.mp4",
                              "stitle": "1.Chapter Twenty-One: The Hellbound Heart",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rNES4xyZE5m6Ey7QUeIFP4ABzLz.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjA2NDg5ODItODc5OC00Mzg0LTkxNDQtNDI5MGM0NWM3MTM2XkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.mp4",
                              "stitle": "2.Chapter Twenty-Two: Drag Me to Hell",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5KamSGZfkoNLP1tt7DbHpSjbVm0.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDNhNGI0ZTctZWQ3MC00YThhLWEwMWItNmY0NDE2NTYyMTgyXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.mp4",
                              "stitle": "3.Chapter Twenty-Three: Heavy Is the Crown",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jCJhRfEL7A5QtdLkwBOSShPUVTE.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTIxOGNhM2QtMDk0YS00OWM5LThlZjYtMWM5OGUwMmY0YTc0XkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.mp4",
                              "stitle": "4.Chapter Twenty-Four: The Hare Moon",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iOFMMP6NDYl6DQXmnMjrUa5UzFN.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWEyMzNhOWYtNjI1Zi00YTk5LTgzM2MtYjFlODgwMjgyNzUyXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.mp4",
                              "stitle": "5.Chapter Twenty-Five: The Devil Within",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bwv2GbZUgXlAIUguHIa5cZBLPBc.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmU4ODFmOTctY2Q3Zi00MzZjLWFiMTItODhhOWNjMTQ2Yjk4XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.mp4",
                              "stitle": "6.Chapter Twenty-Six: All of Them Witches",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/etl75GyDSKTYmawpGxyG901zsTt.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDc1MzBhODEtYzRkOC00MGY0LWE5NjEtMGQxMGE5ZWViY2QwXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.mp4",
                              "stitle": "7.Chapter Twenty-Seven: The Judas Kiss",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c41eOe0Ie242RgD67lkyqiItC2X.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjcyNDNkOTEtYjZkOC00YTc0LTg1YWItNWRiNzdhYmFkZDhlXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.mp4",
                              "stitle": "8.Chapter Twenty-Eight: Sabrina Is Legend",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tfGR8bWvc2vH9TZqyjniuLmsgm5.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmNmMjNmNGEtNzI0Zi00YjY1LWJjMGEtMTMxMzBjZTM2ZThhXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.English (CC).srt"
                          }
              ],
@@ -1929,61 +2003,61 @@
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.mp4",
                              "stitle": "1.Chapter Twenty-Nine: The Eldritch Dark",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eelLr2X1sbLP1hFCXhpbSspsXM5.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2FhNzc0NTMtZTA1Ni00ZWRjLTg0NmYtMmM0OTE2YmYzYmFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.mp4",
                              "stitle": "2.Chapter Thirty: The Uninvited",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jXMxcgUQPa5z7WPtxLrOsS62CXE.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTcwY2JhNWEtYmExNy00MTdjLWFkNGYtYWFhZDFmMjMxNTE4XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.mp4",
                              "stitle": "3.Chapter Thirty-One: The Weird",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/psqJyTVdz3ecWSOvdFahj4Gocf6.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTMzNTc4MzAtOWNjNC00MDkzLTkzMTktYTFkODZhNTdiNWY5XkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.mp4",
                              "stitle": "4.Chapter Thirty-Two: The Imp Of The Perverse",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zUuU32lBakTlldtPEFK2b81VeAR.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjI0MjUzYTgtY2ExZS00YWE4LTg0MjYtNzRmODE2Yzk3ODExXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.mp4",
                              "stitle": "5.Chapter Thirty-Three: Deus Ex Machina",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lRTby9TRu3rqef3hOKNTjHqT3JR.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmU2NzhjYzQtYzQxNC00ZDQ5LWJkM2MtZjRkOWVmYTkxZmYyXkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.mp4",
                              "stitle": "6.Chapter Thirty-Four: The Returned",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xinDM7cMVeCg4EI6apKctI6Or5U.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWZlMzA3ODktYTMxYS00ZWNjLWE2M2EtZjg1M2E3Mjk1NWE0XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.mp4",
                              "stitle": "7.Chapter Thirty-Five: The Endless",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2XeWy983rK9EoLM2BPV7fmgtRUz.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2E3OGZmNWItZTI3NS00MmZlLWFiYjMtNTBhOTZjYWVlMGRjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.mp4",
                              "stitle": "8.Chapter Thirty-Six: At The Mountains Of Madness",
                              "stime": "m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5rwsv1Qovbleyz8D4YpR66APw9F.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGM1ZWVhY2QtYTE4Ny00MjI4LWIwOGUtNzdkMzQ0MTNjYzM1XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.English (CC).srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmRiMDhhYzYtYjgwZS00NWY3LWIzYzktMjI4M2UwMjk2M2U0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
         "genres": "Mystery, Sci-Fi & Fantasy, Dramas,Hollywood,English,Horror",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi3795697945/?ref_=ext_shr_lnk",
@@ -7136,7 +7210,7 @@
          
         ],
      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-    "genres": "Crime, Sci-Fi & Fantasy",
+    "genres": "Crime, Sci-Fi & Fantasy,English,Hollywood,Dramas",
     "releaseDate": "2016",
     "trailer": "https://www.imdb.com/video/vi2691547161/?playlistId=tt4052886?ref_=ext_shr_lnk",
     "cast": "Tom Ellis,Lauren German...more"
