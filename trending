@@ -6,13 +6,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Man From Toronto/The Man From Toronto.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5TdKvZimLSJHPQW8t3ctlsusnmH.jpg",
-	    "genres": "Action, Comedy, Thriller,Hollywood,English,hindi",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDM2YjA2ZjAtMmZmMy00NDhjLWJjYWYtYjc4ZGY0YzUzOTMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Action, Comedy, Thriller,Hollywood,English,Hindi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi467845657/?ref_=ext_shr_lnk",
 	    "cast": "Kevin Hart,Woody Harrelson... more",
-        "time":"1h 50m",
-        "subtitle":"/Hollywood Movies/The Man From Toronto/The Man From Toronto.English (CC).srt"
+            "time":"1h 50m",
+            "subtitle":"/Hollywood Movies/The Man From Toronto/The Man From Toronto.English (CC).srt"
     },
 
     {
@@ -21,13 +21,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Through My Window/Through My Window.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmNkYWMwZjQtNDQyZC00OTgxLTk0ZWEtNmMwNzQ1MmQ2ODYyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
 	    "genres": "Romance, Dramas,Hollywood,English,Hindi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi37339929/?ref_=ext_shr_lnk",
 	    "cast": "Clara Galle,Julio Peña... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/Through My Window/Through My Window.English.srt"
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/Through My Window/Through My Window.English.srt"
     },
 
     {
@@ -36,14 +36,14 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/In Good Hands/In Good Hands.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eymTgzHgYretvL5mT7pwznX4p34.jpg",
-	    "genres": "Dramas, romance,Hollywood,English,Hindi",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmRkNTJhYWYtZDM2My00ZDAwLTg5MGItNjE4NjlhNWE5ZjMzXkEyXkFqcGdeQXVyMTkyOTU2NzQ@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Dramas, Romance,Hollywood,English,Hindi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3394028313/?ref_=ext_shr_lnk",
 	    "cast": "Aslı Enver,Kaan Urgancıoğlu... more",
-        "time":"1h 44m",
-        "subtitle":"/Hollywood Movies/In Good Hands/In Good Hands.English (CC).srt"
-	},
+            "time":"1h 44m",
+            "subtitle":"/Hollywood Movies/In Good Hands/In Good Hands.English (CC).srt"
+    },
 
     {
 	    "name": "Texas Chainsaw Massacre",
@@ -51,14 +51,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Texas Chainsaw Massacre/Texas Chainsaw Massacre.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 	    "genres": "Horror, Thriller,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1912718105/?ref_=ext_shr_lnk",
 	    "cast": "Sarah Yarkin,Mark Burnham... more",
-        "time":"1h 23m",
-        "subtitle":"/Hollywood Movies/Texas Chainsaw Massacre/Texas Chainsaw Massacre.English (CC).srt"
-	},
+            "time":"1h 23m",
+            "subtitle":"/Hollywood Movies/Texas Chainsaw Massacre/Texas Chainsaw Massacre.English (CC).srt"
+    },
     
     {
 	    "name": "The Water Man",
@@ -66,14 +66,14 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Water Man/The Water Man.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFkYzFjZTItMTBmNy00YjYyLWFkZTMtNmY4NGI1NWYzZDg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
 	    "genres": "Adventure,Hindi, Dramas,Hollywood,English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi4227383321/?ref_=ext_shr_lnk",
 	    "cast": "David Oyelowo,Amiah Miller... more",
-        "time":"1h 32m",
-        "subtitle":"/Hollywood Movies/The Water Man/The Water Man.English (CC).srt"
-	},
+            "time":"1h 32m",
+            "subtitle":"/Hollywood Movies/The Water Man/The Water Man.English (CC).srt"
+    },
 
     {
 	    "name": "The Ritual",
@@ -81,14 +81,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Ritual/The Ritual.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hHuJqzby593lmYmw1SzT0XYy99t.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_.jpg",
 	    "genres": "Horror, Thriller, Mystery,Hollywood,English,Hindi",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi1391114265/?ref_=ext_shr_lnk",
 	    "cast": "Rafe Spall,Arsher Ali... more",
-        "time":"1h 34m",
-        "subtitle":"/Hollywood Movies/The Ritual/The Ritual.English (CC).srt"
-	},
+            "time":"1h 34m",
+            "subtitle":"/Hollywood Movies/The Ritual/The Ritual.English (CC).srt"
+    },
 
     {
 	    "name": "The Babysitter: Killer Queen",
@@ -96,14 +96,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Babysitter_ Killer Queen/The Babysitter_ Killer Queen.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/imy1OoT1xddt2kqw6hhc4v01e8i.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMWEwMDU3MWUtZTdiMy00Yjg5LWFiNWYtYTRmZGExNzk5YjQ2XkEyXkFqcGdeQXVyNTUwOTkzMzY@._V1_.jpg",
 	    "genres": "Comedy, Horror,Hollywood,English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi4199202329/?ref_=ext_shr_lnk",
 	    "cast": "Judah Lewis,Samara Weaving... more",
-        "time":"1h 41m",
-        "subtitle":"/Hollywood Movies/The Babysitter_ Killer Queen/The Babysitter_ Killer Queen.English (CC).srt"
-	},
+            "time":"1h 41m",
+            "subtitle":"/Hollywood Movies/The Babysitter_ Killer Queen/The Babysitter_ Killer Queen.English (CC).srt"
+    },
 
     {
 	    "name": "Revenge",
@@ -111,14 +111,14 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Revenge/Revenge.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xFh0QQsk7V2zv2fUlo3rohlH5oy.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTYwOTE0OTU0OV5BMl5BanBnXkFtZTgwNjIwNDcxNTM@._V1_.jpg",
 	    "genres": "Action, Thriller, Horror,Hollywood,English",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi3977099289/?ref_=ext_shr_lnk",
 	    "cast": "Matilda Anna Ingrid Lutz,Kevin Janssens... more",
-        "time":"1h 49m",
-        "subtitle":"/Hollywood Movies/Revenge/Revenge.English (CC).srt"
-	},
+            "time":"1h 49m",
+            "subtitle":"/Hollywood Movies/Revenge/Revenge.English (CC).srt"
+    },
 
     {
 	    "name": "No One Gets Out Alive",
@@ -126,14 +126,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/No One Gets Out Alive/No One Gets Out Alive.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bZUostLcCZYgcuBuAjmuSkBggiQ.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGQzODVkZDAtOWFhNS00MWJhLThjNDctNjFlZDExYjg5NWM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
 	    "genres": "Horror, Thriller, Mystery,Hollywood,English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi2712847129/?ref_=ext_shr_lnk",
 	    "cast": "Cristina Rodlo,Marc Menchaca... more",
-        "time":"1h 25m",
-        "subtitle":"/Hollywood Movies/No One Gets Out Alive/No One Gets Out Alive.English (CC).srt"
-	},
+            "time":"1h 25m",
+            "subtitle":"/Hollywood Movies/No One Gets Out Alive/No One Gets Out Alive.English (CC).srt"
+    },
 
     {
 	    "name": "Miss Bala",
@@ -141,14 +141,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Miss Bala/Miss Bala.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTcxNzY3Mzk5OF5BMl5BanBnXkFtZTgwNjQwODU1NjM@._V1_.jpg",
 	    "genres": "Action,Hollywood,English,Hindi",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi1503246873/?ref_=ext_shr_lnk",
 	    "cast": "Gina Rodriguez,Ismael Cruz Córdova... more",
-        "time":"1h 44m",
-        "subtitle":"/Hollywood Movies/Miss Bala/Miss Bala.English (CC).srt"
-	},
+            "time":"1h 44m",
+            "subtitle":"/Hollywood Movies/Miss Bala/Miss Bala.English (CC).srt"
+    },
 
     {
 	    "name": "Fear Street: Part Two - 1978",
@@ -156,14 +156,14 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Fear Street Part 2_ 1978/Fear Street Part 2_ 1978.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODg4ZmYxMjgtZTAzNy00ZmY4LWFmNzEtYmVlN2JmZDVkNTFiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
 	    "genres": "Mystery, Horror,Hollywood,English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi387956761/?ref_=ext_shr_lnk",
 	    "cast": "Sadie Sink,Emily Rudd... more",
-        "time":"1h 50m",
-        "subtitle":"/Hollywood Movies/Fear Street Part 2_ 1978/Fear Street Part 2_ 1978.English (CC).srt"
-	},
+            "time":"1h 50m",
+            "subtitle":"/Hollywood Movies/Fear Street Part 2_ 1978/Fear Street Part 2_ 1978.English (CC).srt"
+    },
 
     {
 	    "name": "The Kissing Booth 3",
@@ -171,14 +171,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Kissing Booth 3/The Kissing Booth 3.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzE1YzViNzktZTU5Ny00ZjYzLWE0YjItZWNkNDU1MzFiOWNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
 	    "genres": "Romance, Comedy,Hollywood,English,Hindi,Dramas",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1275117593/?ref_=ext_shr_lnk",
 	    "cast": "Joey King,Joel Courtney... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/The Kissing Booth 3/The Kissing Booth 3.English (CC).srt"
-	},
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/The Kissing Booth 3/The Kissing Booth 3.English (CC).srt"
+    },
 
     {
 	    "name": "The Kissing Booth 2",
@@ -186,14 +186,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Kissing Booth 2/The Kissing Booth 2.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWQ5ZGU2ZGQtOTJjYi00MWI3LWE1ZDQtM2EzOGI2MzJjNTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Comedy, Romance,Hollywood,English,Hindi,Dramas",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi838975001/?ref_=ext_shr_lnk",
 	    "cast": "Joey King,Jacob Elordi... more",
-        "time":"2h 12m",
-        "subtitle":"/Hollywood Movies/The Kissing Booth 2/The Kissing Booth 2.English (CC).srt"
-	},
+            "time":"2h 12m",
+            "subtitle":"/Hollywood Movies/The Kissing Booth 2/The Kissing Booth 2.English (CC).srt"
+     },
 	
      {
 	    "name": "The Weekend Away",
@@ -201,13 +201,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Weekend Away/The Weekend Away.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmYzNTBiZTAtNmJjNi00MTcyLThlZGMtNDA5Y2RkNjM3ODAzXkEyXkFqcGdeQXVyMzg3OTQ5MjU@._V1_.jpg",
 	    "genres": "Thriller, Mystery,Dramas,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi537838361/?ref_=ext_shr_lnk",
 	    "cast": "Leighton Meester,Christina Wolfe... more",
-        "time":"1h 30m",
-        "subtitle":"/Hollywood Movies/The Weekend Away/The Weekend Away.English (CC).srt"
+            "time":"1h 30m",
+            "subtitle":"/Hollywood Movies/The Weekend Away/The Weekend Away.English (CC).srt"
     },
 
     {
@@ -216,13 +216,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Dangerous Lies/Dangerous Lies.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m85QIC42laGfLDxW7DzIFDrWogP.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTIwZmJjMjEtNTQ5Ny00NjhhLWFlMDYtZDZiZjhlYWI1NWRjXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
 	    "genres": "Thriller, Dramas,Hollywood,English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi787594777/?ref_=ext_shr_lnk",
 	    "cast": "Camila Mendes,Jessie T. Usher... more",
-        "time":"1h 36m",
-        "subtitle":"/Hollywood Movies/Dangerous Lies/Dangerous Lies.English (CC).srt"
+            "time":"1h 36m",
+            "subtitle":"/Hollywood Movies/Dangerous Lies/Dangerous Lies.English (CC).srt"
     },
 
     {
@@ -231,13 +231,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Eli/Eli.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWQwYjNiM2ItMTcyZS00ZTNmLTgwNzQtMTgwNzU5ODgxMTc3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Horror, Thriller,English,Hollywood,Dramas",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi3028795161/?ref_=ext_shr_lnk",
 	    "cast": "Charlie Shotwell,Lili Taylor... more",
-        "time":"1h 38m",
-        "subtitle":"/Hollywood Movies/Eli/Eli.English (CC).srt"
+            "time":"1h 38m",
+            "subtitle":"/Hollywood Movies/Eli/Eli.English (CC).srt"
     },
 
     {
@@ -246,13 +246,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Outside the Wire/Outside the Wire.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Thriller, Action, Science Fiction,Hollywood,English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1275511065/?ref_=ext_shr_lnk",
 	    "cast": "Anthony Mackie,Damson Idris... more",
-        "time":"1h 56m",
-        "subtitle":"/Hollywood Movies/Outside the Wire/Outside the Wire.English (CC).srt"
+            "time":"1h 56m",
+            "subtitle":"/Hollywood Movies/Outside the Wire/Outside the Wire.English (CC).srt"
     },
 
     {
@@ -261,13 +261,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Babysitter/The Babysitter.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/86a7GRVRCwfl7wdI4QadyvKa6Zu.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Comedy, Horror,Hollywood,English",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi3949508889/?ref_=ext_shr_lnk",
 	    "cast": "Judah Lewis,Samara Weaving... more",
-        "time":"1h 25m",
-        "subtitle":"/Hollywood Movies/The Babysitter/The Babysitter.English (CC).srt"
+            "time":"1h 25m",
+            "subtitle":"/Hollywood Movies/The Babysitter/The Babysitter.English (CC).srt"
     },
 
     {
@@ -276,13 +276,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Interceptor/Interceptor.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_.jpg",
 	    "genres": "Action, Thriller, Adventure,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2157822489/?ref_=ext_shr_lnk",
 	    "cast": "Elsa Pataky,Luke Bracey... more",
-        "time":"1h 38m",
-        "subtitle":"/Hollywood Movies/Interceptor/Interceptor.English (CC).srt"
+            "time":"1h 38m",
+            "subtitle":"/Hollywood Movies/Interceptor/Interceptor.English (CC).srt"
     },
 
     {
@@ -291,13 +291,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Assassin_s Creed/Assassin_s Creed.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ne5LmY2zq2dTG8TDGJOrCB4IbRy.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTcwNjEwZmUtYTc5OS00ODVhLTlkNTctOWJjZjc0YzUzOTViXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
 	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
 	    "releaseDate": "2016",
 	    "trailer": "https://www.imdb.com/video/vi3387733017/?ref_=ext_shr_lnk",
 	    "cast": "Michael Fassbender,Marion Cotillard... more",
-        "time":"1h 55m",
-        "subtitle":"/Hollywood Movies/Assassin_s Creed/Assassin_s Creed.English (CC).srt"
+            "time":"1h 55m",
+            "subtitle":"/Hollywood Movies/Assassin_s Creed/Assassin_s Creed.English (CC).srt"
     },
 
     {
@@ -306,13 +306,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1OTZlZjgtNDEzYS00MWRmLWE5ZTEtODA4NmY3YjU3ZTE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
 	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1035584025/?ref_=ext_shr_lnk",
 	    "cast": "Tom Holland,Zendaya... more",
-        "time":"2h 28m",
-        "subtitle":"/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.English (CC).srt"
+            "time":"2h 28m",
+            "subtitle":"/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.English (CC).srt"
     },
 
     {
@@ -321,13 +321,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Spiderhead/Spiderhead.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVkZTc4OTktNTAyOC00MzQxLThiZjMtM2M3MTlmYzFjY2FkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
 	    "genres": "Science Fiction, Thriller,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi646890009/?ref_=ext_shr_lnk",
 	    "cast": "Chris Hemsworth,Miles Teller... more",
-        "time":"1h 47m",
-        "subtitle":"/Hollywood Movies/Spiderhead/Spiderhead.English (CC).srt"
+            "time":"1h 47m",
+            "subtitle":"/Hollywood Movies/Spiderhead/Spiderhead.English (CC).srt"
     },
 
     {
@@ -336,13 +336,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Battleship/Battleship.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjI5NTM5MDA2N15BMl5BanBnXkFtZTcwNjkwMzQxNw@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Thriller, Action, Adventure, Science Fiction,Hollywood,English",
 	    "releaseDate": "2012",
 	    "trailer": "https://www.imdb.com/video/vi2907283737/?ref_=ext_shr_lnk",
 	    "cast": "Taylor Kitsch,Tadanobu Asano... more",
-        "time":"2h 11m",
-        "subtitle":"/Hollywood Movies/Battleship/Battleship.English (CC).srt"
+            "time":"2h 11m",
+            "subtitle":"/Hollywood Movies/Battleship/Battleship.English (CC).srt"
     },
 
     {
@@ -351,13 +351,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Snow White and the Huntsman/Snow White and the Huntsman.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xUNnFwO7XfjvrQ2hFfIlPTwqzDk.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ5MWNjZGQtOWM2ZC00MjEyLWEwODAtN2JmN2U0OWQ0YzI3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Adventure, Fantasy, Dramas,Hollywood,English",
 	    "releaseDate": "2012",
 	    "trailer": "https://www.imdb.com/video/vi2494275609/?ref_=ext_shr_lnk",
 	    "cast": "Kristen Stewart,Chris Hemsworth... more",
-        "time":"2h 7m",
-        "subtitle":"/Hollywood Movies/Snow White and the Huntsman/Snow White and the Huntsman.English (CC).srt"
+            "time":"2h 7m",
+            "subtitle":"/Hollywood Movies/Snow White and the Huntsman/Snow White and the Huntsman.English (CC).srt"
     },
 
     {
@@ -366,13 +366,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Wanted/Wanted.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rTvUr2ESdZ1Ht5zNbgUNmNEHyUT.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Thriller, Crime,Hollywood,English",
 	    "releaseDate": "2008",
 	    "trailer": "https://www.imdb.com/video/vi4289790233/?ref_=ext_shr_lnk",
 	    "cast": "James McAvoy,Angelina Jolie... more",
-        "time":"1h 50m",
-        "subtitle":"/Hollywood Movies/Wanted/Wanted.English (CC).srt"
+            "time":"1h 50m",
+            "subtitle":"/Hollywood Movies/Wanted/Wanted.English (CC).srt"
     },
 
     {
@@ -381,13 +381,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Triple Frontier/Triple Frontier.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_.jpg",
 	    "genres": "Action, Thriller, Crime, Adventure,English,Hollywood",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi768064025/?ref_=ext_shr_lnk",
 	    "cast": "Ben Affleck,Oscar Isaac... more",
-        "time":"2h 5m",
-        "subtitle":"/Hollywood Movies/Triple Frontier/Triple Frontier.English (CC).srt"
+            "time":"2h 5m",
+            "subtitle":"/Hollywood Movies/Triple Frontier/Triple Frontier.English (CC).srt"
     },
 
     {
@@ -396,13 +396,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Lucy/Lucy.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
-	    "genres": "Action, Science Fiction",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGJmZjcwNTctZjE1Ny00MGY3LWJkNTgtNGM4MWFhZWVlN2ZlXkEyXkFqcGdeQXVyMTMxODYzNjg@._V1_.jpg",
+	    "genres": "Action, Science Fiction,Hollywood,English",
 	    "releaseDate": "2014",
 	    "trailer": "https://www.imdb.com/video/vi2092674329/?ref_=ext_shr_lnk",
 	    "cast": "Scarlett Johansson,Morgan Freeman... more",
-        "time":"1h 29m",
-        "subtitle":"/Hollywood Movies/Lucy/Lucy.English (CC).srt"
+            "time":"1h 29m",
+            "subtitle":"/Hollywood Movies/Lucy/Lucy.English (CC).srt"
     },
 
     {
@@ -411,13 +411,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Seventh Son/Seventh Son.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7Q8DfXSjcFSSQDOxz1Sk865wNqI.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODc1YWVlMzctNTA3Yy00MGRhLWI4MmItYTZlNGJmOWE3ZmNiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
 	    "genres": "Adventure, Fantasy, Dramas,Hollywood,English",
 	    "releaseDate": "2015",
 	    "trailer": "https://www.imdb.com/video/vi2475141401/?ref_=ext_shr_lnk",
 	    "cast": "Jeff Bridges,Julianne Moore... more",
-        "time":"1h 42m",
-        "subtitle":"/Hollywood Movies/Seventh Son/Seventh Son.English (CC).srt"
+            "time":"1h 42m",
+            "subtitle":"/Hollywood Movies/Seventh Son/Seventh Son.English (CC).srt"
     },
     
     {
@@ -426,13 +426,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Old Guard/The Old Guard.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Fantasy, Dramas,Hollywood,English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi1193131545/?ref_=ext_shr_lnk",
 	    "cast": "Charlize Theron,Matthias Schoenaerts... more",
-        "time":"2h 5m",
-        "subtitle":"/Hollywood Movies/The Old Guard/The Old Guard.English (CC).srt"
+            "time":"2h 5m",
+            "subtitle":"/Hollywood Movies/The Old Guard/The Old Guard.English (CC).srt"
     },
     
     {
@@ -441,13 +441,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/San Andreas/San Andreas.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzZhYmQ2NGMtZmRmYi00NzgzLTllNmUtNDQwZDAxMmE3NzI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Dramas, Thriller,Hollywood,English",
 	    "releaseDate": "2015",
 	    "trailer": "https://www.imdb.com/video/vi395358233/?ref_=ext_shr_lnk",
 	    "cast": "Dwayne Johnson,Alexandra Daddario... more",
-        "time":"1h 54m",
-        "subtitle":"/Hollywood Movies/San Andreas/San Andreas.English (CC).srt"
+            "time":"1h 54m",
+            "subtitle":"/Hollywood Movies/San Andreas/San Andreas.English (CC).srt"
     },
     
     {
@@ -456,13 +456,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Edge of Tomorrow/Edge of Tomorrow.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uUHvlkLavotfGsNtosDy8ShsIYF.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg",
 	    "genres": "Action, Science Fiction,Hollywood,English",
 	    "releaseDate": "2014",
 	    "trailer": "https://www.imdb.com/video/vi3591679257/?ref_=ext_shr_lnk",
 	    "cast": "Tom Cruise,Emily Blunt... more",
-        "time":"1h 53m",
-        "subtitle":"/Hollywood Movies/Edge of Tomorrow/Edge of Tomorrow.English (CC).srt"
+            "time":"1h 53m",
+            "subtitle":"/Hollywood Movies/Edge of Tomorrow/Edge of Tomorrow.English (CC).srt"
     },
 
     {
@@ -471,13 +471,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/2012/2012.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8i1xFqcItT6GKEbY6VDbFnxe7sJ.jpg",
-	    "genres": "Action, Adventure, Science Fiction",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
 	    "releaseDate": "2009",
 	    "trailer": "https://www.imdb.com/video/vi3444113945/?ref_=ext_shr_lnk",
 	    "cast": "John Cusack,Amanda Peet... more",
-        "time":"2h 38m",
-        "subtitle":"/Hollywood Movies/2012/2012.English (CC).srt"
+            "time":"2h 38m",
+            "subtitle":"/Hollywood Movies/2012/2012.English (CC).srt"
     },
     
     {
@@ -486,13 +486,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Mowgli_ Legend of the Jungle/Mowgli_ Legend of the Jungle.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_.jpg",
 	    "genres": "Adventure, Dramas,Hollywood,English",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi4076255769/?ref_=ext_shr_lnk",
 	    "cast": "Rohan Chand,Christian Bale... more",
-        "time":"1h 45m",
-        "subtitle":"/Hollywood Movies/Mowgli_ Legend of the Jungle/Mowgli_ Legend of the Jungle.English (CC).srt"
+            "time":"1h 45m",
+            "subtitle":"/Hollywood Movies/Mowgli_ Legend of the Jungle/Mowgli_ Legend of the Jungle.English (CC).srt"
     },
 
     {
@@ -501,13 +501,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Mummy_ Tomb of the Dragon Emperor/The Mummy_ Tomb of the Dragon Emperor.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Adventure, Action, Fantasy,Hollywood,English",
 	    "releaseDate": "2008",
 	    "trailer": "https://www.imdb.com/video/vi3930372889/?ref_=ext_shr_lnk",
 	    "cast": "Brendan Fraser,Maria Bello... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/The Mummy_ Tomb of the Dragon Emperor/The Mummy_ Tomb of the Dragon Emperor.srt"
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/The Mummy_ Tomb of the Dragon Emperor/The Mummy_ Tomb of the Dragon Emperor.srt"
     },
 
     {
@@ -516,13 +516,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Wandering Earth/The Wandering Earth.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/woo56L6LYYoM89DYBCU2C6LO1at.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzEwNDJlZTItZDg0Mi00MzIwLTg0OWMtZmFiZjBiZDJlNGFkXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
 	    "genres": "Science Fiction, Action, Dramas,Chinese,English",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi2657663513/?ref_=ext_shr_lnk",
 	    "cast": "Qu Chuxiao,Li Guangjie... more",
-        "time":"2h 6m",
-        "subtitle":"/Hollywood Movies/The Wandering Earth/The Wandering Earth.English (CC).srt"
+            "time":"2h 6m",
+            "subtitle":"/Hollywood Movies/The Wandering Earth/The Wandering Earth.English (CC).srt"
     },
 
     {
@@ -531,13 +531,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Red Dawn/Red Dawn.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aHdxKDX36NOEYE2NyAyP7ThuAcm.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGJkOWNjYmQtMjgzMi00NTUxLTk2M2MtZjJjMGZlZTgyZGI5XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Thriller, Crime,Hollywood,English",
 	    "releaseDate": "2012",
 	    "trailer": "https://www.imdb.com/video/vi3511591961/?ref_=ext_shr_lnk",
 	    "cast": "Chris Hemsworth,Josh Peck... more",
-        "time":"1h 33m",
-        "subtitle":"/Hollywood Movies/Red Dawn/Red Dawn.English (CC).srt"
+            "time":"1h 33m",
+            "subtitle":"/Hollywood Movies/Red Dawn/Red Dawn.English (CC).srt"
     },
 
     {
@@ -546,13 +546,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/American Assassin/American Assassin.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTU0MzA1MjkwM15BMl5BanBnXkFtZTgwNTYyOTExMzI@._V1_.jpg",
 	    "genres": "Action, Thriller, Crime,Hollywood,English",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi1743501593/?ref_=ext_shr_lnk",
 	    "cast": "Dylan O'Brien,Michael Keaton... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/American Assassin/American Assassin.English (CC).srt"
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/American Assassin/American Assassin.English (CC).srt"
     },
 
     {
@@ -561,13 +561,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Ouija_ Origin of Evil/Ouija_ Origin of Evil.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTg5ODJkNGItZjIwNi00YmQxLThkMGMtMWU0Y2NlZmE5NTI5XkEyXkFqcGdeQXVyNjk1MDAwNzU@._V1_.jpg",
 	    "genres": "Horror, Thriller,Hollywood,English",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi2695083545/?ref_=ext_shr_lnk",
 	    "cast": "Elizabeth Reaser,Lulu Wilson... more",
-        "time":"1h 39m",
-        "subtitle":"/Hollywood Movies/Ouija_ Origin of Evil/Ouija_ Origin of Evil.srt"
+            "time":"1h 39m",
+            "subtitle":"/Hollywood Movies/Ouija_ Origin of Evil/Ouija_ Origin of Evil.srt"
     },
 
     {
@@ -576,13 +576,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Conjuring/The Conjuring.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
 	    "genres": "Horror, Thriller,English,Hollywood",
 	    "releaseDate": "2013",
 	    "trailer": "https://www.imdb.com/video/vi3819874585/?ref_=ext_shr_lnk",
 	    "cast": "Vera Farmiga,Patrick Wilson... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/The Conjuring/The Conjuring.English (CC).srt"
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/The Conjuring/The Conjuring.English (CC).srt"
     },
 
     {
@@ -591,13 +591,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Nun/The Nun.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg",
 	    "genres": "Horror, Mystery, Thriller,English,Hollywood",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi2039200537/?ref_=ext_shr_lnk",
 	    "cast": "Demián Bichir,Taissa Farmiga... more",
-        "time":"1h 36m",
-        "subtitle":"/Hollywood Movies/The Nun/The Nun.English (CC).srt"
+            "time":"1h 36m",
+            "subtitle":"/Hollywood Movies/The Nun/The Nun.English (CC).srt"
     },
 
     {
@@ -606,13 +606,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Annabelle/Annabelle.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/a9iL3FIwLrympRyiL5v0tAkwrvX.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Horror,English,Hollywood",
 	    "releaseDate": "2014",
 	    "trailer": "https://www.imdb.com/video/vi3319573529/?ref_=ext_shr_lnk",
 	    "cast": "Annabelle Wallis,Ward Horton... more",
-        "time":"1h 39m",
-        "subtitle":"/Hollywood Movies/Annabelle/Annabelle.English (CC).srt"
+            "time":"1h 39m",
+            "subtitle":"/Hollywood Movies/Annabelle/Annabelle.English (CC).srt"
     },
 
     {
@@ -621,13 +621,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Conjuring 2/The Conjuring 2.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Horror, Thriller,English,Hollywood",
 	    "releaseDate": "2016",
 	    "trailer": "https://www.imdb.com/video/vi4116952345/?ref_=ext_shr_lnk",
 	    "cast": "Patrick Wilson,Vera Farmiga... more",
-        "time":"2h 14m",
-        "subtitle":"/Hollywood Movies/The Conjuring 2/The Conjuring 2.English (CC).srt"
+            "time":"2h 14m",
+            "subtitle":"/Hollywood Movies/The Conjuring 2/The Conjuring 2.English (CC).srt"
     },
 
     {
@@ -636,13 +636,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Veronica/Veronica.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wpBT3BYs3JZkN8pK951beb9cCOc.jpg",
-	    "genres": "Horror, Thriller,English,Hollywood",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Horror, Thriller,Spanish,Hollywood",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi3209281305/?ref_=ext_shr_lnk",
 	    "cast": "Sandra Escacena,Bruna González... more",
-        "time":"1h 45m",
-        "subtitle":"/Hollywood Movies/Veronica/Veronica.English (CC).srt"
+            "time":"1h 45m",
+            "subtitle":"/Hollywood Movies/Veronica/Veronica.English (CC).srt"
     },
 
     {
@@ -651,13 +651,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Possession/The Possession.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/loZYdcmgvnonHtH0XH0RI7rm8iA.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjk0NzM2OTg5OV5BMl5BanBnXkFtZTcwNzcwMjY3Nw@@._V1_.jpg",
 	    "genres": "Horror, Thriller,English,Hollywood",
 	    "releaseDate": "2012",
 	    "trailer": "https://www.imdb.com/video/vi4006257177/?ref_=ext_shr_lnk",
 	    "cast": "Jeffrey Dean Morgan,Kyra Sedgwick... more",
-        "time":"1h 32m",
-        "subtitle":"/Hollywood Movies/The Possession/The Possession.English (CC).srt"
+            "time":"1h 32m",
+            "subtitle":"/Hollywood Movies/The Possession/The Possession.English (CC).srt"
     },
 
     {
@@ -666,13 +666,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Fear Street Part 1_ 1994/Fear Street Part 1_ 1994.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzQzYjIyZDQtMjBhZS00MzU3LTk0MTQtNTVmMDI3ZWY0ZWU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Mystery, Horror,English,Hollywood",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi3826696217/?ref_=ext_shr_lnk",
 	    "cast": "Kiana Madeira,Olivia Scott Welch... more",
-        "time":"1h 47m",
-        "subtitle":"/Hollywood Movies/Fear Street Part 1_ 1994/Fear Street Part 1_ 1994.English (CC).srt"
+            "time":"1h 47m",
+            "subtitle":"/Hollywood Movies/Fear Street Part 1_ 1994/Fear Street Part 1_ 1994.English (CC).srt"
      },
 
      {
@@ -681,13 +681,13 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/6 Underground/6 Underground.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Thriller, Comedy,Hollywood,English,Hindi",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi3994337049/?ref_=ext_shr_lnk",
 	    "cast": "Ryan Reynolds,Mélanie Laurent... more",
-        "time":"2h 8m",
-        "subtitle":"/Hollywood Movies/6 Underground/6 Underground.English (CC).srt"
+            "time":"2h 8m",
+            "subtitle":"/Hollywood Movies/6 Underground/6 Underground.English (CC).srt"
     },
 
     {
@@ -696,13 +696,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Monster Hunter/Monster Hunter.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzVlODEyOTYtYjhkYi00ODFmLTkwZDQtMzE0Yzg0YzM4NjQ5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
 	    "genres": "Action, Fantasy, Adventure,Hollywood,English,Hindi",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi3780559129/?ref_=ext_shr_lnk",
 	    "cast": "Milla Jovovich,Tony Jaa... more",
-        "time":"1h 44m",
-        "subtitle":"/Hollywood Movies/Monster Hunter/Monster Hunter.English (CC).srt"
+            "time":"1h 44m",
+            "subtitle":"/Hollywood Movies/Monster Hunter/Monster Hunter.English (CC).srt"
     },
 
     {
@@ -711,13 +711,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Project Power/Project Power.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Action, Crime, Science Fiction,Hollywood,English,Hindi",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi3557670425/?ref_=ext_shr_lnk",
 	    "cast": "Jamie Foxx,Joseph Gordon-Levitt... more",
-        "time":"h 53m",
-        "subtitle":"/Hollywood Movies/Project Power/Project Power.English (CC).srt"
+            "time":"1h 53m",
+            "subtitle":"/Hollywood Movies/Project Power/Project Power.English (CC).srt"
     },
 
     {
@@ -726,13 +726,13 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Dracula Untold/Dracula Untold.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Horror, Action, Dramas, Fantasy, War,Hollywood,English,Hindi",
 	    "releaseDate": "2014",
 	    "trailer": "https://www.imdb.com/video/vi210742297/?ref_=ext_shr_lnk",
 	    "cast": "Luke Evans,Dominic Cooper... more",
-        "time":"1h 32m",
-        "subtitle":"/Hollywood Movies/Dracula Untold/Dracula Untold.English (CC).srt"
+            "time":"1h 32m",
+            "subtitle":"/Hollywood Movies/Dracula Untold/Dracula Untold.English (CC).srt"
     },
 
     {
@@ -741,74 +741,74 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/R_I_P_D/R_I_P_D.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTM5OTYxNzE5N15BMl5BanBnXkFtZTcwMDU1MTQ4OQ@@._V1_.jpg",
 	    "genres": "Fantasy, Action, Comedy, Crime,Hollywood,English,Hindi",
 	    "releaseDate": "2013",
 	    "trailer": "https://www.imdb.com/video/vi1741202969/?ref_=ext_shr_lnk",
 	    "cast": "Jeff Bridges,Ryan Reynolds... more",
-        "time":"2h 27m",
-        "subtitle":"/Hollywood Movies/R_I_P_D/R_I_P_D.English (CC).srt"
+            "time":"2h 27m",
+            "subtitle":"/Hollywood Movies/R_I_P_D/R_I_P_D.English (CC).srt"
     },
     
     {
-		"name": "The Adam Project",
-		"description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
-		"ageRestriction": "13",
-		"video": "/Hollywood Movies/The adam project/The Adam Project.mkv",
-		"series": "not",
-		"thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sI3hQMTyrF9F8jU1qA8qPHLKCgG.jpg",
-		"genres": "Science Fiction, Adventure, Comedy",
-		"releaseDate": "2022",
-		"trailer": "https://www.imdb.com/video/vi1164886809?playlistId=tt2463208?ref_=ext_shr_lnk",
-		"cast": "Ryan Reynolds, Walker Scobell, Mark Ruffalo... more",
-		"time":"2h 9m",
-		"subtitle":"/Hollywood Movies/The adam project/The Adam Project.English (CC).srt"
-	},
+	    "name": "The Adam Project",
+	    "description": "A time-traveling pilot teams up with his younger self and his late father to come to terms with his past while saving the future.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The adam project/The Adam Project.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWM0YWMwMDQtMjE5NS00ZTIwLWE1NWEtODViMWZjMWI2OTU3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Science Fiction, Adventure, Comedy,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1164886809?playlistId=tt2463208?ref_=ext_shr_lnk",
+	    "cast": "Ryan Reynolds, Walker Scobell, Mark Ruffalo... more",
+	    "time":"2h 9m",
+	    "subtitle":"/Hollywood Movies/The adam project/The Adam Project.English (CC).srt"
+     },
 
-	{
+     {
 	    "name": "Against the Ice",
 	    "description": "In 1909, two explorers fight to survive after they're left behind while on a Denmark expedition in ice-covered Greenland.",
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Against_the_ice/Against The Ice.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg",
-	    "genres": "Adventure, History, Drama",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Adventure, History, Dramas, Hollywood , English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi36094745?playlistId=tt13873302?ref_=ext_shr_lnk",
 	    "cast": "Nikolaj Coster-Waldau,Joe Cole,Charles Dance... more",
-        "time": "1h 43m",
-        "subtitle":"/Hollywood Movies/Against_the_ice/Against The Ice.English (CC).srt"
-	},
+            "time": "1h 43m",
+            "subtitle":"/Hollywood Movies/Against_the_ice/Against The Ice.English (CC).srt"
+     },
 
-    {
+     {
 	    "name": "365 Days",
 	    "description": "A woman falls victim to a dominant mafia boss, who imprisons her and gives her one year to fall in love with him.",
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/365 days/365 Days.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6KwrHucIE3CvNT7kTm2MAlZ4fYF.jpg",
-	    "genres": "Drama, Romance",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDdhYzNkOWQtYWNlNi00NDdjLWJlZDMtMjJjZDYyNjAxM2U1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Dramas, Romance,Hollywood , English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi2034155033/?ref_=ext_shr_lnk",
 	    "cast": "Anna-Maria Sieklucka,Michele Morrone... more",
-        "time":"1h 56m",
-        "subtitle":"/Hollywood Movies/365 days/365 Days.English (CC).srt"
-	},
+            "time":"1h 56m",
+            "subtitle":"/Hollywood Movies/365 days/365 Days.English (CC).srt"
+     },
 
-    {
+     {
 	    "name": "Army of Thieves",
 	    "description": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Army of Thieves/Army of Thieves.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
-	    "genres": "Crime, Comedy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzQxYzNjMGItNzVlMS00NjBhLWI4NTItMmVkZTI0NGE3ZDI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+	    "genres": "Crime, Comedy,Hollywood , English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi2124989209?playlistId=tt13024674?ref_=ext_shr_lnk",
 	    "cast": "Matthias Schweighöfer,Nathalie Emmanuel... more",
-        "time":"2h 7m",
-        "subtitle":"/Hollywood Movies/Army of Thieves/Army of Thieves.English (CC).srt"
-	},
+            "time":"2h 7m",
+            "subtitle":"/Hollywood Movies/Army of Thieves/Army of Thieves.English (CC).srt"
+    },
 
     {
 	    "name": "Bird Box",
@@ -816,14 +816,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Bird Box/Bird Box.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
-	    "genres": "Thriller, Drama, Science Fiction",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Thriller, Dramas, Science Fiction,Hollywood , English",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi2966010393?playlistId=tt2737304?ref_=ext_shr_lnk",
 	    "cast": "Sandra Bullock,Trevante Rhodes... more",
-        "time":"2h 4m",
-        "subtitle":"/Hollywood Movies/Bird Box/Bird Box.English (CC).srt"
-	},
+            "time":"2h 4m",
+            "subtitle":"/Hollywood Movies/Bird Box/Bird Box.English (CC).srt"
+    },
 
     {
 	    "name": "Extraction",
@@ -831,29 +831,29 @@
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/Extraction/Extraction.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
-	    "genres": "Drama, Action, Thriller",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmQ3OWFiZTctODJhZC00NjU2LThmODAtMTM2N2ZlYzE2MzQ4XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+	    "genres": "Dramas, Action, Thriller,Hollywood , English",
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi1418378777?playlistId=tt8936646?ref_=ext_shr_lnk",
 	    "cast": "Chris Hemsworth,Rudhraksh Jaiswal,Randeep Hooda... more",
-        "time":"2h 27m",
-        "subtitle":"/Hollywood Movies/Extraction/Extraction.English (CC).srt"
-	},
+            "time":"2h 27m",
+            "subtitle":"/Hollywood Movies/Extraction/Extraction.English (CC).srt"
+    },
 
-	{
-		"name": "Red Notice",
-		"description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
-		"ageRestriction": "13",
-		"video": "/Hollywood Movies/Red Notice/Red Notice.mkv",
-		"series": "not",
-		"thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
-		"genres": "Action, Comedy, Crime, Thriller",
-		"releaseDate": "2021",
-		"trailer": "https://www.imdb.com/video/vi612877081?playlistId=tt7991608?ref_=ext_shr_lnk",
-		"cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more",
-		"time":"2h 9m",
-		"subtitle":"/Hollywood Movies/Red Notice/Red Notice.English (CC).srt"
-	},
+    {
+	    "name": "Red Notice",
+	    "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Red Notice/Red Notice.mkv",
+            "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+	    "genres": "Action, Comedy, Crime, Thriller,Hollywood , English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi612877081?playlistId=tt7991608?ref_=ext_shr_lnk",
+	    "cast": "Ryan Reynolds, Gal Gadot, Dwayne Johnson, Ritu Arya, Daniel Bernhardt... more",
+	    "time":"2h 9m",
+	    "subtitle":"/Hollywood Movies/Red Notice/Red Notice.English (CC).srt"
+    },
 
     {
 	    "name": "Fifty Shades of Grey",
@@ -861,14 +861,14 @@
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/Fifty shades of grey/Fifty Shades of Grey.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
-	    "genres": "Drama, Romance, Thriller",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTI2NGFmZGEtYWJiOC00NzhhLTk4N2ItNzQ1YjYxZGU5M2U1XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_.jpg",
+	    "genres": "Dramas, Romance, Thriller,Hollywood , English",
 	    "releaseDate": "2015",
 	    "trailer": "https://www.imdb.com/video/vi2636688921?playlistId=tt2322441?ref_=ext_shr_lnk",
 	    "cast": "Dakota Johnson,Jamie Dornan... more",
-        "time":"2h 5m",
-        "subtitle":"/Hollywood Movies/Fifty shades of grey/Fifty Shades of Grey.English (CC).srt"
-	},
+            "time":"2h 5m",
+            "subtitle":"/Hollywood Movies/Fifty shades of grey/Fifty Shades of Grey.English (CC).srt"
+    },
 
     {
 	    "name": "Murder Mystery",
@@ -876,29 +876,29 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Murder Mystery/Murder Mystery.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
-	    "genres": "Comedy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg",
+	    "genres": "Comedy,Hollywood , English",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi3884956697?playlistId=tt1618434?ref_=ext_shr_lnk",
 	    "cast": "Adam Sandler,Jennifer Aniston... more",
-        "time":"1h 37m",
-        "subtitle":"/Hollywood Movies/Murder Mystery/Murder Mystery.English (CC).srt"
-	},
+            "time":"1h 37m",
+            "subtitle":"/Hollywood Movies/Murder Mystery/Murder Mystery.English (CC).srt"
+    },
      
     {
-        "name": "Spider-Man: Far From Home",
-        "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-        "ageRestriction": "13",
-        "video": "/Hollywood Movies/Spider-Man_ Far from Home/Spider-Man_ Far from Home.mkv",
-        "series": "not",
-        "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-        "genres": "Action, Adventure, Science Fiction",
-        "releaseDate": "2019",
-        "trailer": "https://www.imdb.com/video/vi2600385561?playlistId=tt6320628?ref_=ext_shr_lnk",
-        "cast": "Tom Holland,Samuel L. Jackson,Jake Gyllenhaal... more",
-        "time":"2h 9m",
-        "subtitle":"/Hollywood Movies/Spider-Man_ Far from Home/Spider-Man_ Far from Home.English (CC).srt"
-     },
+           "name": "Spider-Man: Far From Home",
+           "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+           "ageRestriction": "13",
+           "video": "/Hollywood Movies/Spider-Man_ Far from Home/Spider-Man_ Far from Home.mkv",
+           "series": "not",
+           "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzNhZTEzNDAtZWViOS00NzE1LWJjMDQtNDVkYWExZjY2MDZlXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+           "genres": "Action, Adventure, Science Fiction,Hollywood , English",
+           "releaseDate": "2019",
+           "trailer": "https://www.imdb.com/video/vi2600385561?playlistId=tt6320628?ref_=ext_shr_lnk",
+           "cast": "Tom Holland,Samuel L. Jackson,Jake Gyllenhaal... more",
+           "time":"2h 9m",
+           "subtitle":"/Hollywood Movies/Spider-Man_ Far from Home/Spider-Man_ Far from Home.English (CC).srt"
+    },
 
     {
 	    "name": "The Perfect Date",
@@ -906,15 +906,14 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Perfect Date/The Perfect Date.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg",
-	    "genres": "Romance, Comedy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_.jpg",
+	    "genres": "Romance, Comedy,Hollywood , English",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi1274854681?playlistId=tt8201170?ref_=ext_shr_lnk",
 	    "cast": "Noah Centineo,Laura Marano... more",
-        "time":"1h 33m",
-        "subtitle":"/Hollywood Movies/The Perfect Date/The Perfect Date.English (CC).srt"
-	},
-
+            "time":"1h 33m",
+            "subtitle":"/Hollywood Movies/The Perfect Date/The Perfect Date.English (CC).srt"
+    },
 
     {
 	    "name": "The Royal Treatment",
@@ -922,15 +921,14 @@
 	    "ageRestriction": "7",
 	    "video": "/Hollywood Movies/The Royal Treatment/The Royal Treatment.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mYAv0YUoXJzLxIdEirOken8Quwf.jpg",
-	    "genres": "Romance, Comedy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQwODgzNWUtZDllNi00OTYyLTliN2YtOTg3NGNhYzgyMDUwXkEyXkFqcGdeQXVyMTA5MDUwMzEz._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Romance, Comedy,Hollywood , English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi4291740441?playlistId=tt13989030?ref_=ext_shr_lnk",
 	    "cast": "Laura Marano,Mena Massoud... more",
-        "time":"1h 36m",
-        "subtitle":"/Hollywood Movies/The Royal Treatment/The Royal Treatment.English (CC).srt"
-	},
-
+            "time":"1h 36m",
+            "subtitle":"/Hollywood Movies/The Royal Treatment/The Royal Treatment.English (CC).srt"
+    },
 
     {
 	    "name": "The Silence",
@@ -938,15 +936,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Silence/The Silence.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg",
-	    "genres": "Horror, Drama, Thriller, Fantasy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmZlOGZkMjMtZDc4Ny00ZTQ1LWFmYTQtOThlY2JjYjg1NGQyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Horror, Dramas, Thriller, Fantasy,Hollywood , English",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi1675672857?playlistId=tt7315484?ref_=ext_shr_lnk",
 	    "cast": "Stanley Tucci,Kiernan Shipka... more",
-        "time":"1h 30m",
-        "subtitle":"/Hollywood Movies/The Silence/The Silence.English (CC).srt"
-	},
-
+            "time":"1h 30m",
+            "subtitle":"/Hollywood Movies/The Silence/The Silence.English (CC).srt"
+    },
 
     {
 	    "name": "The Kissing booth",
@@ -954,15 +951,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The kissing booth/The Kissing Booth.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg",
-	    "genres": "Romance, Comedy",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Romance, Comedy, Hollywood , English",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi3378427929?playlistId=tt3799232?ref_=ext_shr_lnk",
 	    "cast": "Joey King,Joel Courtney,Jacob Elordi... more",
-        "time":"1h 46m",
-        "subtitle":"/Hollywood Movies/The kissing booth/The Kissing Booth.English (CC).srt"
-	},
-
+            "time":"1h 46m",
+            "subtitle":"/Hollywood Movies/The kissing booth/The Kissing Booth.English (CC).srt"
+    },
 
     {
 	    "name": "Venom",
@@ -970,14 +966,14 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Venom/Venom.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-	    "genres": "Science Fiction, Action",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTFkZjdjN2QtOGE5MS00ZTgzLTgxZjAtYzkyZWQ5MjEzYmZjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",
+	    "genres": "Science Fiction, Action, Hollywood , English",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi1186773529?playlistId=tt1270797?ref_=ext_shr_lnk",
 	    "cast": "Tom Hardy,Michelle Williams... more",
-        "time":"1h 52m",
-        "subtitle":"/Hollywood Movies/Venom/Venom.English (CC).srt"
-	},
+            "time":"1h 52m",
+            "subtitle":"/Hollywood Movies/Venom/Venom.English (CC).srt"
+    },
 
     {
 	    "name": "Venom:Let There Be Carnage",
@@ -985,24 +981,24 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
-	    "genres": "Science Fiction, Action, Adventure",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2I2Yzc2OWMtMWQzYi00ZDcxLTgyOTMtNjBiNzA5Y2QxZDYxXkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_.jpg",
+	    "genres": "Science Fiction, Action, Adventure, Hollywood , English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1533394969?playlistId=tt7097896?ref_=ext_shr_lnk",
 	    "cast": "Tom Hardy,Woody Harrelson... more",
-        "time":"1h 37m",
-        "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
-	},
+            "time":"1h 37m",
+            "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
+     },
 	
-	    {
-        "name": "Resident Evil",
-        "description": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets. Based on the horror franchise.",
-        "ageRestriction": "16",
-        "video": "/Hollywood series/Resident Evil/season 1/s1e1.mp4",
-        "series": "yes",
-        "subtitle":"/Hollywood series/Resident Evil/season 1/s1e1.srt",
-         "seriess":[
-             [
+     {
+           "name": "Resident Evil",
+           "description": "Nearly three decades after the discovery of the T-virus, an outbreak reveals the Umbrella Corporation's dark secrets. Based on the horror franchise.",
+           "ageRestriction": "16",
+           "video": "/Hollywood series/Resident Evil/season 1/s1e1.mp4",
+           "series": "yes",
+           "subtitle":"/Hollywood series/Resident Evil/season 1/s1e1.srt",
+            "seriess":[
+                [
                          {
                              "svideos": "/Hollywood series/Resident Evil/season 1/s1e1.mp4",
                              "stitle": "1.Welcome to New Raccoon City",
@@ -1061,22 +1057,22 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q2IlzP9bQNDdGLlX9jtms5MaOCh.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVhNzY5YjItMTBlNC00N2ZmLWE5ZGYtMTUzMDA0YjEwOGY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
         "genres": " Sci-Fi & Fantasy, Dramas,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi803848729/?ref_=ext_shr_lnk",
         "cast": "Ella Balinska,Lance Reddick...more"
        },
 	
-	      {
-    "name": "Stranger Things",
-    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-    "ageRestriction": "16",
-    "video": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
-    "series": "yes",
-    "subtitle": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt",
-     "seriess":[
-         [
+     {
+            "name": "Stranger Things",
+            "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "ageRestriction": "16",
+            "video": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
+            "series": "yes",
+            "subtitle": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.English (CC).srt",
+            "seriess":[
+            [
                     {
                          "svideos": "/Hollywood series/Stranger things/season 1/Stranger Things_S01E01_Chapter One_ The Vanishing of Will Byers.mkv",
                          "stitle": "1.Chapter One: The Vanishing of Will Byers",
@@ -1944,56 +1940,56 @@
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.mp4",
                              "stitle": "1.Chapter Twenty-One: The Hellbound Heart",
-                             "stime": "m",
+                             "stime": "1h 1m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BNjA2NDg5ODItODc5OC00Mzg0LTkxNDQtNDI5MGM0NWM3MTM2XkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E01_Chapter Twenty-One_ The Hellbound Heart.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.mp4",
                              "stitle": "2.Chapter Twenty-Two: Drag Me to Hell",
-                             "stime": "m",
+                             "stime": "57m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BNDNhNGI0ZTctZWQ3MC00YThhLWEwMWItNmY0NDE2NTYyMTgyXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E02_Chapter Twenty-Two_ Drag Me to Hell.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.mp4",
                              "stitle": "3.Chapter Twenty-Three: Heavy Is the Crown",
-                             "stime": "m",
+                             "stime": "58m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BNTIxOGNhM2QtMDk0YS00OWM5LThlZjYtMWM5OGUwMmY0YTc0XkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E03_Chapter Twenty-Three_ Heavy Is the Crown.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.mp4",
                              "stitle": "4.Chapter Twenty-Four: The Hare Moon",
-                             "stime": "m",
+                             "stime": "59m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BOWEyMzNhOWYtNjI1Zi00YTk5LTgzM2MtYjFlODgwMjgyNzUyXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E04_Chapter Twenty-Four_ The Hare Moon.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.mp4",
                              "stitle": "5.Chapter Twenty-Five: The Devil Within",
-                             "stime": "m",
+                             "stime": "57m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMmU4ODFmOTctY2Q3Zi00MzZjLWFiMTItODhhOWNjMTQ2Yjk4XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E05_Chapter Twenty-Five_ The Devil Within.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.mp4",
                              "stitle": "6.Chapter Twenty-Six: All of Them Witches",
-                             "stime": "m",
+                             "stime": "58m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BZDc1MzBhODEtYzRkOC00MGY0LWE5NjEtMGQxMGE5ZWViY2QwXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E06_Chapter Twenty-Six_ All of Them Witches.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.mp4",
                              "stitle": "7.Chapter Twenty-Seven: The Judas Kiss",
-                             "stime": "m",
+                             "stime": "55m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYjcyNDNkOTEtYjZkOC00YTc0LTg1YWItNWRiNzdhYmFkZDhlXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E07_Chapter Twenty-Seven_ The Judas Kiss.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.mp4",
                              "stitle": "8.Chapter Twenty-Eight: Sabrina Is Legend",
-                             "stime": "m",
+                             "stime": "1h 1m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYmNmMjNmNGEtNzI0Zi00YjY1LWJjMGEtMTMxMzBjZTM2ZThhXkEyXkFqcGdeQXVyOTY2Mjg4NTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 3/Chilling Adventures of Sabrina_S03E08_Chapter Twenty-Eight_ Sabrina Is Legend.English (CC).srt"
                          }
@@ -2002,56 +1998,56 @@
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.mp4",
                              "stitle": "1.Chapter Twenty-Nine: The Eldritch Dark",
-                             "stime": "m",
+                             "stime": "1h",
                              "simage": "https://m.media-amazon.com/images/M/MV5BY2FhNzc0NTMtZTA1Ni00ZWRjLTg0NmYtMmM0OTE2YmYzYmFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E01_Chapter Twenty-Nine_ The Eldritch Dark.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.mp4",
                              "stitle": "2.Chapter Thirty: The Uninvited",
-                             "stime": "m",
+                             "stime": "59m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYTcwY2JhNWEtYmExNy00MTdjLWFkNGYtYWFhZDFmMjMxNTE4XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E02_Chapter Thirty_ The Uninvited.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.mp4",
                              "stitle": "3.Chapter Thirty-One: The Weird",
-                             "stime": "m",
+                             "stime": "58m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMTMzNTc4MzAtOWNjNC00MDkzLTkzMTktYTFkODZhNTdiNWY5XkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E03_Chapter Thirty-One_ The Weird.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.mp4",
                              "stitle": "4.Chapter Thirty-Two: The Imp Of The Perverse",
-                             "stime": "m",
+                             "stime": "1h 1m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYjI0MjUzYTgtY2ExZS00YWE4LTg0MjYtNzRmODE2Yzk3ODExXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E04_Chapter Thirty-Two_ The Imp of the Perverse.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.mp4",
                              "stitle": "5.Chapter Thirty-Three: Deus Ex Machina",
-                             "stime": "m",
+                             "stime": "55m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BMmU2NzhjYzQtYzQxNC00ZDQ5LWJkM2MtZjRkOWVmYTkxZmYyXkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E05_Chapter Thirty-Three_ Deus Ex Machina.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.mp4",
                              "stitle": "6.Chapter Thirty-Four: The Returned",
-                             "stime": "m",
+                             "stime": "58m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BZWZlMzA3ODktYTMxYS00ZWNjLWE2M2EtZjg1M2E3Mjk1NWE0XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E06_Chapter Thirty-Four_ The Returned.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.mp4",
                              "stitle": "7.Chapter Thirty-Five: The Endless",
-                             "stime": "m",
+                             "stime": "51m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BM2E3OGZmNWItZTI3NS00MmZlLWFiYjMtNTBhOTZjYWVlMGRjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E07_Chapter Thirty-Five_ The Endless.English (CC).srt"
                          },
                          {
                              "svideos": "/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.mp4",
                              "stitle": "8.Chapter Thirty-Six: At The Mountains Of Madness",
-                             "stime": "m",
+                             "stime": "1h 4m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BOGM1ZWVhY2QtYTE4Ny00MjI4LWIwOGUtNzdkMzQ0MTNjYzM1XkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Chilling Adventures of Sabrina/season 4/Chilling Adventures of Sabrina_S04E08_Chapter Thirty-Six_ At the Mountains of Madness.English (CC).srt"
                          }
@@ -2077,151 +2073,150 @@
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E01_Across the Universe.mp4",
                              "stitle": "1.Across the Universe",
                              "stime": "1h 1m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9AHTIxGYIBmFxl33hffD2fQG3BR.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTAwNjM5ZjUtMzczNi00MjFmLWE1NTMtYjJhZWEyYTFiMGU0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E01_Across the Universe.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E02_Through the Valley of Shadows.mp4",
                              "stitle": "2.Through the Valley of Shadows",
                              "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ol99mydGgGln1BIZ8KQzlNFVPyP.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODRjMTU5ZmEtMmNmNS00MGJiLTg3NzEtNGNlYzY4NTQ5NDM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E02_Through the Valley of Shadows.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E03_Nervous Breakdown.mp4",
                              "stitle": "3.Nervous Breakdown",
                              "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dQ4X73EMsewC6qbt0zTTQdv0mSC.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWNkMGI5NDItZWMyZS00MTVjLTk1ZjctMjU3ZjU2ZTkwZTY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E03_Nervous Breakdown.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E04_Guilt Trip.mp4",
                              "stitle": "4.Guilt Trip",
                              "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/w7nf8QBcCUkf51khc8yDLrI5AQs.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmMyNjdlMjItZmRiYy00NzVmLTlhZjYtM2E0ZjMzNzdjZmE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E04_Guilt Trip.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E05_A Mind of its Own.mp4",
                              "stitle": "5.A Mind of its Own",
                              "stime": "40m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ogswjFHPHYbOlMzBfvH8J2Eig6E.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmQ0YTgxZDQtNjBiMi00YzdlLThiMjAtNGQxOTg3NDdhMmRmXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E05_A Mind of its Own.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E06_I Think We_re Alone Now.mp4",
                              "stitle": "6.I Think We_re Alone Now",
                              "stime": "43m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iDzeWtVxoec08OSTmxfkxpioZ9B.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmMzOWY2NjAtZWM4ZC00YWJlLWE3ZjMtM2QyZTcwYjJkNTM5XkEyXkFqcGdeQXVyOTg4MTY3MDk@._V1_UY126_CR14,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E06_I Think We_re Alone Now.English (CC).srt"
                              },
                             {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E07_Living the Dream.mp4",
                              "stitle": "7.Living the Dream",
                              "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a5RvHgQCVwxjBhr8pa7liGsZJ9N.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTM3ZDk0NDctMGUxMy00NTFhLTkwYTEtYmQ4NTNjM2ZkZDlhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E07_Living the Dream.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E08_How the Light Gets Lost.mp4",
                              "stitle": "8.How the Light Gets Lost",
                              "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1f3K0qpVzxn3pk8yTXyCGbdbxyf.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBiYTFlNjAtMTZkNi00YWI5LWI0MDUtZTI0OWYwOWNmYmFhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E08_How the Light Gets Lost.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E09_Heart and Soul.mp4",
                              "stitle": "9.Heart and Soul",
                              "stime": "37m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4pDQyGrUas6wGZ8Pk6XAFCf9eQN.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzY4YWFjM2ItZDFhMS00NWNlLWE3YjgtMTIxY2E0NGI5MGQwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E09_Heart and Soul.English (CC).srt"
                              },
                              {
                              "svideos": "/Hollywood series/Another Life/season 1/Another Life_S01E10_Hello.mp4",
                              "stitle": "10.Hello",
                              "stime": "45m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v3vlMi1C5k8EhUmOQ4YlhxG4pUt.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTNjNDNkNjEtZjhhYy00NzE2LWFkZTgtYzg2OGUyMmM5NzZlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E10_Hello.English (CC).srt"
                              }
 
                              
          ],
-
-         [
+	 [
 
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E01_Live to Fight Another Day.mp4",
                     "stitle": "1.Live to Fight Another Day",
                     "stime": "39m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uY22bYJ2nwJ6Pj7CeyeOvliB7Cn.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BYzMxYWYyNmUtZjU2MS00MzFmLWJkOGQtZjMzMDg0OTI1YWIxXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E01_Live to Fight Another Day.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E02_Smoke and Mirrors.mp4",
                     "stitle": "2.Smoke and Mirrors",
                     "stime": "37m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gvk64XwvPtUSGf7I37VY1NRemO1.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BY2EwMjU2NjItMzM5Ny00NjZjLWFjNmItMTY3NGJkMTg3Mzk3XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season /Another Life_S02E02_Smoke and Mirrors.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E03_My Own Worst Enemy.mp4",
                     "stitle": "3.My Own Worst Enemy",
                     "stime": "36m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vsOYIWvYDfSL2545rfx3E9E1Zkd.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BZjE2NzVmMTAtYzU0OS00ZWY0LTgyZTYtYjZhMWVlZDA5OWEwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E03_My Own Worst Enemy.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E04_Will to Power.mp4",
                     "stitle": "4.Will to Power",
                     "stime": "37m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xdX3fD4xjgcLRpCorBeArabESo4.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BZDk1Y2JkYTEtYjY4Yi00MWQzLTgwOGQtYWRiNTNiMWRkNTFiXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E04_Will to Power.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E05_A Better Earth.mp4",
                     "stitle": "5.A Better Earth",
                     "stime": "42m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ezMrghw3rHoyyB7NFWm1VQylWJM.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BNzEwNTk2OWQtMzI5MS00OWM4LThkNGEtMTU4MTZhNjExZTc0XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E05_A Better Earth.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E06_Gift from the Gods.mp4",
                     "stitle": "6.Gift from the Gods",
                     "stime": "45m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jYe0fwS5imtTt5wWfProWdRGQqZ.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BYmFiYTJjZDItODRhOS00MDI0LWI4ODktODJkNmY3N2I1MGNmXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E06_Gift from the Gods.English (CC).srt"
                     },
                    {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E07_Never Gonna Give You Up.mp4",
                     "stitle": "7.Never Gonna Give You Up",
                     "stime": "47m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hHzfS9fLjLKMWsrwAjsHmKVsNE7.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BNjk4YWJiY2EtNjg5MS00ZGVlLTlhYzItZGQzNmVmMWI4YTJhXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E07_Never Gonna Give You Up.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E08_Just a Rat in a Cage.mp4",
                     "stitle": "8.Just a Rat in a Cage",
                     "stime": "39m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dKYbfac3rrpnnSDhkqStAETOgQj.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BZTg1MTllMDEtMDgwZi00MmRmLTk3YTEtYTY4MWM2OTNlN2U1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E08_Just a Rat in a Cage.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E09_What_s Bourne _ What_s Left Behind.mp4",
                     "stitle": "9.What_s Left Behind",
                     "stime": "37m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6fW2BoN5jp2Kq4BxBahwpA5mbn3.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BMDRmNDgzOTYtMTMyYi00ZjgzLTk4ZGQtOWIwMGZkODI1NzQxXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E09_What_s Bourne _ What_s Left Behind.English (CC).srt"
                     },
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E10_D-Day.mp4",
                     "stitle": "10.D-Day",
                     "stime": "38m",
-                    "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ip5TO1inGfYZQ7D0JBT49cLeMRv.jpg",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BMGM1ZTdiNjItOWQ5YS00NjcyLTk3MDUtMTBlOGU1MmRmYzhjXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                     "ssubtitle":"/Hollywood series/Another Life/season 2/Another Life_S02E10_D-Day.English (CC).srt"
                     }
                  ]
              ],
-            "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/htazQ0cPoloL5SJ2bqOCKh9UTcc.jpg",
+            "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTNjOWNhYTQtNWEzOS00M2Q4LWEyOWMtZjU3ZjhhMTBmMWZjXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
            "genres": "Sci-Fi & Fantasy, Dramas, Holloywood,English ",
            "releaseDate": "2019",
            "trailer": "https://www.imdb.com/video/vi3015623449/?ref_=ext_shr_lnk",
@@ -2230,14 +2225,14 @@
 	
 	{
 	  
-    "name": "The Umbrella Academy",
-    "description": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
-    "ageRestriction": "16",
-    "video": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.mkv",
-    "series": "yes",
-    "subtitle": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.English (CC).srt",
-     "seriess":[
-         [
+             "name": "The Umbrella Academy",
+             "description": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+             "ageRestriction": "16",
+             "video": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.mkv",
+             "series": "yes",
+             "subtitle": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.English (CC).srt",
+             "seriess":[
+               [
                     {
                          "svideos": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.mkv",
                          "stitle": "1.We Only See Each Other at Weddings and Funerals",
