@@ -149,6 +149,66 @@
         "trailer": "https://www.imdb.com/video/vi1860485657/?ref_=ext_shr_lnk",
         "cast": "Yoo Ji-tae,Yunjin Kim...more"
        },
+       
+              {
+        "name": "Hellbound",
+        "description": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+        "ageRestriction": "16",
+        "video": "/K drama/Hellbound/season 1/Hellbound_S01E01_Episode 1.mp4",
+        "series": "yes",
+        "subtitle":"/K drama/Hellbound/season 1/Hellbound_S01E01_Episode 1.English.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E01_Episode 1.mp4",
+                             "stitle": "1.Episode 1",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2Y5YjljNGMtYTg0NC00YzM4LWFhOGMtMjc0YzYwMzMwNDUwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E01_Episode 1.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E02_Episode 2.mp4",
+                             "stitle": "2.Episode 2",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTQ0NWQ0OGYtZjY5Yi00ZTYwLWIyOGYtMzExNGQ5YTUxYjhjXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E02_Episode 2.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E03_Episode 3.mp4",
+                             "stitle": "3.Episode 3",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzMyM2I1MGUtMDc2Ni00MDZiLTkxMTEtZmJhYjM3NGIyNjZiXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E03_Episode 3.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E04_Episode 4.mp4",
+                             "stitle": "4.Episode 4",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2E0NzlhMzItYjg2NS00MjNjLTg0YzUtYWQxODYwYjg1NTg1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E04_Episode 4.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E05_Episode 5.mp4",
+                             "stitle": "5.Episode 5",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDRhMjhlMDItNTcwZi00NTNiLWIwNzItNTIyZWYyYTE5OWJmXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E05_Episode 5.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Hellbound/season 1/Hellbound_S01E06_Episode 6.mp4",
+                             "stitle": "6.Episode 6",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODUyYjA4ZWItM2RlZS00Mjk3LTgwNWEtOWQ1YjNhZGFkZGUwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/K drama/Hellbound/season 1/Hellbound_S01E06_Episode 6.English.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzU1ODk0ZWUtMzdkYS00YmI2LWI1NjItOTg0NjQxNGY5MmNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "genres": "Crime, Dramas, Fantasy, Horror, Mystery, Thriller,Korean",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi2223883033/?ref_=ext_shr_lnk",
+        "cast": "Yoo Ah-in,Kim Hyun-joo...more"
+       },
                                          
          {  
          
