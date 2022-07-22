@@ -1,4 +1,19 @@
-[      
+[   
+
+    {
+	    "name": "The Gray Man",
+	    "description": "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The Gray Man/The Gray Man.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Action, Thriller,English,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi318292505/?ref_=ext_shr_lnk",
+	    "cast": "Ryan Gosling,Chris Evans,Ana de Armas... more",
+            "time":"2h 2m",
+            "subtitle":"/Hollywood Movies/The Gray Man/The Gray Man.English (CC).srt"
+    },
        
     {
 	    "name": "The Man From Toronto",
