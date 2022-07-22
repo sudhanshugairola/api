@@ -1,5 +1,79 @@
 [    
-      
+     {
+	    "name": "Dakuaan Da Munda 2 ",
+	    "description": "An autobiography of the famous writer and teacher 'Manga Singh Antal', a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Dakuaan Da Munda 2/Dakuaan_Da_Munda_2_2022_Punjabi_HD.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+	    "genres": "Action, Adventure, Biography, Crime,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
+	    "cast": "Dev Kharoud,Japji Khaira... more",
+            "time":"2h 30m",
+            "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
+     },
+
+     {
+	    "name": "Lekh",
+	    "description": "Fate draws high-school sweethearts, Rajvir and Ronak apart only to bring the star-crossed lovers eye to eye again as adults who must work out their past and get closure before fate strikes again.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Lekh/Lekh_2022_Punjabi_HD.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjkzYzViNDUtMTVlNi00MmQ3LTk1MWEtYmQ4M2E3ZGE0MTQxXkEyXkFqcGdeQXVyMTUxODU3MTAw._V1_.jpg",
+	    "genres": "Drama, Romance,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2353382169/?ref_=ext_shr_lnk",
+	    "cast": "Gurnam Bhullar,Tania... more",
+            "time":"2h 27m",
+            "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
+     },
+
+     {
+	    "name": "Main Te Bapu",
+	    "description": "Laali's life revolves around his widowed father and girlfriend Mahi. To get married Laali needs to to move to Canada. Having to choose between them he hatches the idea of getting his father married and things start to get interesting.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Main Te Bapu/Main_Te_Bapu_2022_Punjabi_HD.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzNjN2FjZTAtODE5NC00NTA2LWE4YTEtYzM3NTZmZWUyNzMzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+	    "genres": "Comedy, Drama,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi600162841/?ref_=ext_shr_lnk",
+	    "cast": "Sukhwinder Chahal,Sunita Dhir... more",
+            "time":"1h 42m",
+            "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
+     },
+
+     {
+	    "name": "Ni Main Sass Kuttni",
+	    "description": "'Ni Mai Sass Kuttni' is a very old Punjabi Traditional Boli, which is sung on various occasions in Punjab, usually during weddings. This film is all about the sweet and sour companionship of Mothers-in-Law and Daughters-in-Law.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://i2.cinestaan.com/image-bank/1500-1500/201001-202000/201125.jpg",
+	    "genres": "Comedy, Dramas ,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1805238809/?ref_=ext_shr_lnk",
+	    "cast": "Methab Virk,Tanvi Nagi... more",
+            "time":"2h 20m",
+            "subtitle":"/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.srt"
+      },
+
+      {
+	    "name": "Yes I Am Student",
+	    "description": "Set in India, it shows the life and struggles of an International student in Canada.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWM0YjRiNDUtZTZiNy00NDlhLWE2ZjAtODZhYTc5MDExMzhmXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_.jpg",
+	    "genres": "Dramas,Indian,Punjabi",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi2487075609/?ref_=ext_shr_lnk",
+	    "cast": "Sidhu Moose Wala,Mandy Takhar... more",
+            "time":"1h 52m",
+            "subtitle":"/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.srt"
+      },
+	
           {
 	    "name": "Love Goals",
 	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
