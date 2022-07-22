@@ -2682,9 +2682,96 @@
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vcp7cgoezlAThn5L2Bgaxxk8LXi.jpg",
             "ssubtitle":"/Hollywood series/Virgin River/season 3/Virgin River_S03E10_A Wedding, No Funeral and a Baby.English (CC).srt"
             }           
-     ]                
+     ],               
+     [
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E01_Be My Baby_1.mp4",
+                "stitle": "1.Be My Baby",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/adjDEwaDcIrPvi9JNUOIhiJzG5j.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E01_Be My Baby_1.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E02_Father Knows Best___.mp4",
+                "stitle": "2.Father Knows Best...?",
+                "stime": "45m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fMophQw05IfLQPNPEluRhdzMoZd.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E02_Father Knows Best___.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E03_Grilled.mp4",
+                "stitle": "3.Grilled",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mMfk9qzlTl1pkVPNMPAJunDrk5M.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E03_Grilled.English (CC).srt"
+            },            
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E04_Serious As A.mp4",
+                "stitle": "4.Serious As A...",
+                "stime": "44m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jv7MrZgeSCVVQqKmiNM1frBEskN.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E04_Serious As A.English (CC).srt"
+            },            
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E05_Mayday.mp4",
+                "stitle": "5.Mayday",
+                "stime": "40m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wDudwgvq8o9saDcESM6ex6jnqOe.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E05_Mayday.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E06_All_s Faire.mp4",
+                "stitle": "6.All's Faire...",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/um8fTVggdw1Ibq38BACIHogxm8o.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E06_All_s Faire.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E07_Otherwise Engaged.mp4",
+                "stitle": "7.Otherwise Engaged",
+                "stime": "39m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/166KqA9M3TrNWB6zvVeUbGJaaId.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E07_Otherwise Engaged.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E08_Talk to Me.mp4",
+                "stitle": "8.Talk to Me",
+                "stime": "44m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7oG5tbWfff99U0Lx9qcYzmcN7IA.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E08_Talk to Me.English (CC).srt"
+            },            
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E09_Bombshells.mp4",
+                "stitle": "9.Bombshells",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sa19T6gLrIqUJh2JcacC6qsrfno.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E09_Bombshells.English (CC).srt"
+            },            
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E10_Fire and Rain.mp4",
+                "stitle": "10.Fire and Rain",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pbkhfFcx9HME9xdBmEpQmP67QMK.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E10_Fire and Rain.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E11_Once Again.mp4",
+                "stitle": "11.Once Again",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1xHcmpKX4OIeUX5Q8vDrJpZXVUq.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E11_Once Again.English (CC).srt"
+            },
+            {
+                "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E12_The Long Goodbye.mp4",
+                "stitle": "12.The Long Goodbye",
+                "stime": "43m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5lDN3dwyAaiQwYAKae9slq3W9qX.jpg",
+                "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E12_The Long Goodbye.English (CC).srt"
+            }
+
+             ]               
    ],
-            "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ.jpg",
+            "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGMzYzFmYzQtODM1OS00ODRhLTk2MjgtMGY5NGE5OTliMjNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
            "genres": "Dramas, romance,Hollywood,English,Hindi",
            "releaseDate": "2019",
            "trailer": "https://www.imdb.com/video/vi1059307545/?ref_=ext_shr_lnk",
