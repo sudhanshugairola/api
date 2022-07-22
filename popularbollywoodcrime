@@ -827,6 +827,45 @@
 },
 
 {
+    "name": "Indian Predator: The Butcher of Delhi",
+    "description": "Uncovering the details of gruesome killings, people who were at the epicentre talk about what went down.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
+    "series": "yes",
+    "subtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
+                         "stitle": "1.Episode 1",
+                         "stime": "42m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.mp4",
+                         "stitle": "2.Episode 2",
+                         "stime": "43m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.mp4",
+                         "stitle": "3.Episode 3",
+                         "stime": "40m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "genres": "Documentary, Crime, History,Indian,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
+    "cast": "Manjit Singh,Sanjay Bansal,Jitendra Sharma...more"
+   },
+
+{
     "name": "Little Things",
     "description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
     "ageRestriction": "16",
