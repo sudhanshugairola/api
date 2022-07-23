@@ -90,7 +90,81 @@
             "subtitle":"/K drama/The Call/The Call.English (CC).srt"
         },
         
-            {
+               {
+        "name": "Fishbowl Wives",
+        "description": "In a luxury apartment tower, six different women in unhappy marriages end up crossing the line into infidelity.",
+        "ageRestriction": "16",
+        "video": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E01_The Fishbowl Wife.mp4",
+        "series": "yes",
+        "subtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E01_The Fishbowl Wife.English.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E01_The Fishbowl Wife.mp4",
+                             "stitle": "1.The Fishbowl Wife",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jxrLrovUaOSSqME7hkJEbo2UfGo.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E01_The Fishbowl Wife.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E02_The Outsourcing Wife.mp4",
+                             "stitle": "2.The Outsourcing Wife",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tpSrdefLcp1OZ0rE4dNR5OcyX4L.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E02_The Outsourcing Wife.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E03_The Lunchbox Wife.mp4",
+                             "stitle": "3.The Lunchbox Wife",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/90TeQLztTHv3RyELZT2sAXYtn58.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E03_The Lunchbox Wife.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E04_The Chaperone Wife.mp4",
+                             "stitle": "4.The Chaperone Wife",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5YPdaJ2TMyi3s2EPKeaXXh0nXml.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E04_The Chaperone Wife.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E05_The Headache Wife Part 1.mp4",
+                             "stitle": "5.The Headache Wife Part 1",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7AXNHxPgJ7YYRK2ZH9Iu4kKqGC7.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E05_The Headache Wife Part 1.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E06_The Headache Wife Part 2.mp4",
+                             "stitle": "6.The Headache Wife Part 2",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nZfqNPXXglnD1TKcnyHwXeAWTco.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E06_The Headache Wife Part 2.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E07_The Renovation Wife.mp4",
+                             "stitle": "7.The Renovation Wife",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rmu5mH3kuat8oE0jHMC4B5j0dBI.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E07_The Renovation Wife.English.srt"
+                         },
+                         {
+                             "svideos": "/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E08_The Fishbowl Wives.mp4",
+                             "stitle": "8.The Fishbowl Wives",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wbUvEKfmiLY0WrwPiq74WAT7Sq9.jpg",
+                             "ssubtitle":"/K drama/Fishbowl Wives/season 1/Fishbowl Wives_S01E08_The Fishbowl Wives.English.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWE5NWFhZDAtNzU4ZS00NThmLWI3MjgtMzNlYzk2M2M5NTdjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "genres": "Dramas, Romance,korean",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3409691417/?ref_=ext_shr_lnk",
+        "cast": "Ryoko Shinohara,Takanori Iwata...more"
+       },
+        
+      {
         "name": "Money Heist: Korea - Joint Economic Area",
         "description": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
         "ageRestriction": "16",
