@@ -1423,6 +1423,287 @@
         "cast": "Rowan Atkinson,Jing Lusi...more"
     },
     
+       {
+        "name": "Titans",
+        "description": "A team of young superheroes combat evil and other perils.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Titans/season 1/Titans_S01E01_Titans.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Titans/season 1/Titans_S01E01_Titans.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E01_Titans.mp4",
+                             "stitle": "1.Titans",
+                             "stime": "51m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzFjOTBiOTctZjYwMS00ODc5LWI3M2EtMWQ4NGRiYzU2YzYyXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E01_Titans.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E02_Hawk and Dove.mp4",
+                             "stitle": "2.Hawk and Dove",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjQxMjU5NTIxMl5BMl5BanBnXkFtZTgwNjIzNzgzNDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E02_Hawk and Dove.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E03_Origins.mp4",
+                             "stitle": "3.Origins",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTBmYjcyOTYtMzlkMy00Zjk5LTlmZWItZDRhZGZhNzJiM2VmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E03_Origins.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E04_Doom Patrol.mp4",
+                             "stitle": "4.Doom Patrol",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWU3MGMzY2MtZjgyYi00NmE1LThiN2UtNTcwZDRhZTlkNjhhXkEyXkFqcGdeQXVyMjYyODQ0OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E04_Doom Patrol.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E05_Together.mp4",
+                             "stitle": "5.Together",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGVlMTAzNjQtZTRkOS00MTMzLWJkNzUtMzBlZWUzYjM4NmRlXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E05_Together.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E06_Jason Todd.mp4",
+                             "stitle": "6.Jason Todd",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODc1ODM5ZDktZmM0MC00NGU0LWIzOTktZmE1YTU0YzJmM2Q3XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E06_Jason Todd.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E07_The Asylum.mp4",
+                             "stitle": "7.Asylum",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWQ2NjcyZWMtNTRjZC00NzQ3LTgyMTctN2MxMmJiMDc0MDMwXkEyXkFqcGdeQXVyODQ3NDAyNDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E07_The Asylum.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 1/Titans_S01E08_Donna Troy.mp4",
+                             "stitle": "8.Donna Troy",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2YxY2FkOTctYTA4MC00ZThlLWIxMzEtYWM1YjZmYWI2ZTlhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E08_Donna Troy.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Titans/season 1/Titans_S01E09_Hank and_Dawn.mp4",
+                            "stitle": "9.Hank and Dawn",
+                            "stime": "47m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMWNkYTAwNTctZTliYy00MjRmLWJhODgtOTNmYmE3OWNhNmFiXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E09_Hank and_Dawn.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 1/Titans_S01E10_Koriand_r.mp4",
+                            "stitle": "10.Koriand'r",
+                            "stime": "41m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWFhMGUzMDgtNTA4ZC00NzFkLWIwZDQtODI1OTQzZWI4YWI0XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E10_Koriand_r.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 1/Titans_S01E11_Dick_Grayson.mp4",
+                            "stitle": "11.Dick Grayson",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjIwOGRmNDYtZjAyYi00ZDZiLWFlMWEtYWRjYTUyNDg1ZWYwXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 1/Titans_S01E11_Dick_Grayson.English (CC).srt"
+                        }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E01_Trigon.mp4",
+                             "stitle": "1.Trigon",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjMzNjFkZDgtOTAyMi00ZjMyLWI1Y2MtMzU4MDFiODc3M2I0XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E01_Trigon.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E02_Rose.mp4",
+                             "stitle": "2.Rose",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmNkYjIzN2ItY2ZjZC00ZWQxLTgyOWEtYTcwNzRlNDBhMThhXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E02_Rose.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E03_Ghosts.mp4",
+                             "stitle": "3.Ghosts",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjcwMjNhNTItOWRhYi00MTI4LTk3M2EtM2M3YTA2N2FiMWIwXkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E03_Ghosts.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E04_Aqualad.mp4",
+                             "stitle": "4.Aqualad",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODI2YTVhOTEtNjIwNS00ODZiLTg4NTItNGY3MzFhODE1MzI5XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E04_Aqualad.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E05_Deathstroke.mp4",
+                             "stitle": "5.Deathstroke",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmMxZjU0YmUtOWRkNy00ODZlLWJlNDUtNzM5NGViYzRiNmEyXkEyXkFqcGdeQXVyNjYxMDAzNzQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E05_Deathstroke.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E06_Conner.mp4",
+                             "stitle": "6.Conner",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzFjZDMzMjAtZDM2Ni00ZGQwLThmMTgtYjBiMGFiYjNmZWNjXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E06_Conner.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E07_Bruce Wayne.mp4",
+                             "stitle": "7.Bruce Wayne",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmIxMzI0NzAtMjFjZC00Mzg1LTkyYTAtM2RkZmI5ZjI5MmM3XkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E07_Bruce Wayne.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 2/Titans_S02E08_Jericho.mp4",
+                             "stitle": "8.Jericho",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTM3ZGY2NmYtNThiNy00ZGNmLTk4NWItMWExZGZkOTQxZTVlXkEyXkFqcGdeQXVyOTk1NzUyNzU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E08_Jericho.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Titans/season 2/Titans_S02E09_Atonement.mp4",
+                            "stitle": "9.Atonement",
+                            "stime": "46m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDBlMTEyNTktNTM5ZS00MWJiLThjZWMtMmFiMTE3N2U1ZTQzXkEyXkFqcGdeQXVyNzQ0ODAxNDQ@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E09_Atonement.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 2/Titans_S02E10_Fallen.mp4",
+                            "stitle": "10.Fallen",
+                            "stime": "44m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzQxNDY4MWQtODM2My00OWNmLWExODMtN2MwNjZjZjFkYzU4XkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E10_Fallen.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 2/Titans_S02E11_E_L___O.mp4",
+                            "stitle": "11.E.L._.O.",
+                            "stime": "48m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTgyNzc3MDMtYjBjNC00YjczLThmYWQtMGUwNzhkNmNlMzEyXkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E11_E_L___O.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 2/Titans_S02E12_Faux-Hawk.mp4",
+                            "stitle": "12.Faux Hawk",
+                            "stime": "49m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYTNkNTJiMGYtZTRjZS00NTEwLTlhNjktMDY2ZTI3NmMzODZkXkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E12_Faux-Hawk.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 2/Titans_S02E13_Nightwing.mp4",
+                            "stitle": "13.Nightwing",
+                            "stime": "50m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjQ0OTA3ODgtZjkzOS00ZmFlLThmYjgtNDM0M2YxNWFlNzRmXkEyXkFqcGdeQXVyNjA1MTczNzU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 2/Titans_S02E13_Nightwing.English (CC).srt"
+                        }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E01_Barbara Gordon.mp4",
+                             "stitle": "1.Barbara Gordon",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjdjOGI1MDMtM2IzOS00MDg0LWFmNjgtMjYwMTJiOTJkYzM0XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E01_Barbara Gordon.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E02_Red Hood.mp4",
+                             "stitle": "2.Red Hood",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2U1ZGE0MmYtMDlhMy00OTFmLWI1MTctZDM3MTg3MjI4ZjY5XkEyXkFqcGdeQXVyMTMyNzQ5OTk1._V1_UY126_CR26,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E02_Red Hood.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E03_Hank and Dove.mp4",
+                             "stitle": "3.Hank & Dove",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWVkZmVjYjgtNTM1My00ODVlLWI4YWEtYzMzMmEwNjRjNmMwXkEyXkFqcGdeQXVyMTIwMzk3Nzkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E03_Hank and Dove.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E04_Blackfire.mp4",
+                             "stitle": "4.Blackfire",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjIzZjJlYTgtNjdiNi00OGFjLTk1MzAtYzM0YTM4N2I5M2FhXkEyXkFqcGdeQXVyMDA5MDM3Mw@@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E04_Blackfire.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E05_Lazarus.mp4",
+                             "stitle": "5.Lazarus",
+                             "stime": "46m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTZiMTljZTAtOThmNC00Zjk1LWE2MTgtNWM3YTAxMzkyM2Y5XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E05_Lazarus.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E06_Lady Vic.mp4",
+                             "stitle": "6.Lady Vic",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODgxZjlkZGItZTllNy00Mzk1LTk1MzItZDNhNTcyODI2NTM1XkEyXkFqcGdeQXVyNDA1MTcxOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E06_Lady Vic.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E07_51_.mp4",
+                             "stitle": "7.51%",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmEwZWZmNTctMWZhNS00MmJiLWIxODItYmY3OGMzOGQ0NjUyXkEyXkFqcGdeQXVyNDA1MTcxOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E07_51_.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Titans/season 3/Titans_S03E08_Home.mp4",
+                             "stitle": "8.Home",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGFiZDRlMjUtYzZiOC00MGIyLTk3ZDItNjlkMDIyMzc2ZDMzXkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E08_Home.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Titans/season 3/Titans_S03E09_Souls.mp4",
+                            "stitle": "9.Souls",
+                            "stime": "45m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWUzNjJlODktNTdhOC00Y2E4LTk1YjQtNGYzMzk3NGM1ZjYwXkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E09_Souls.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 3/Titans_S03E10_Troubled Water.mp4",
+                            "stitle": "10.Troubled Water",
+                            "stime": "44m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNmExMjRhZGYtNWVkMC00NGI0LWIxOGEtN2IyMmM1YWFiNDkxXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E10_Troubled Water.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 3/Titans_S03E11_The Call Is Coming from Inside the House.mp4",
+                            "stitle": "11.The Call Is Coming From Inside the House",
+                            "stime": "49m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjE2MjcyZWUtMzllNC00Zjc3LTg0YjQtMGNmZGJkOGQxNDRhXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E11_The Call Is Coming from Inside the House.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 3/Titans_S03E12_Prodigal.mp4",
+                            "stitle": "12.Prodigal",
+                            "stime": "50m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BM2E2MjVmZWMtMDg3NC00N2I3LTg0ODgtMjVmZjIzYjViODM1XkEyXkFqcGdeQXVyNDEzMTc5Nzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E12_Prodigal.English (CC).srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/Titans/season 3/Titans_S03E13_Purple Rain.mp4",
+                            "stitle": "13.Purple Rain",
+                            "stime": "52m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTY0M2YwNDEtYTRkZi00YzJmLWE5Y2YtM2JiNTUxODZmYTFkXkEyXkFqcGdeQXVyMTA5NjI2NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E13_Purple Rain.English (CC).srt"
+                        }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTU0NDc4Mjc4N15BMl5BanBnXkFtZTgwNjcyNTM0NjM@._V1_.jpg",
+        "genres": "Action, Adventure, Crime, Dramas,Hollywood,English, Fantasy, Sci-Fi",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3751852569/?ref_=ext_shr_lnk",
+        "cast": "Brenton Thwaites,Anna Diop...more"
+       },
+    
         {
         "name": "Moon Knight",
         "description": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
