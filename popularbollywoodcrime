@@ -1,5 +1,6 @@
-[    
-     {
+[   
+
+    {
 	    "name": "Dakuaan Da Munda 2 ",
 	    "description": "An autobiography of the famous writer and teacher 'Manga Singh Antal', a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
 	    "ageRestriction": "13",
@@ -10,11 +11,11 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
 	    "cast": "Dev Kharoud,Japji Khaira... more",
-            "time":"2h 30m",
-            "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
-     },
+        "time":"2h 30m",
+        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
+	},
 
-     {
+    {
 	    "name": "Lekh",
 	    "description": "Fate draws high-school sweethearts, Rajvir and Ronak apart only to bring the star-crossed lovers eye to eye again as adults who must work out their past and get closure before fate strikes again.",
 	    "ageRestriction": "13",
@@ -25,11 +26,11 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2353382169/?ref_=ext_shr_lnk",
 	    "cast": "Gurnam Bhullar,Tania... more",
-            "time":"2h 27m",
-            "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
-     },
+        "time":"2h 27m",
+        "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
+	},
 
-     {
+    {
 	    "name": "Main Te Bapu",
 	    "description": "Laali's life revolves around his widowed father and girlfriend Mahi. To get married Laali needs to to move to Canada. Having to choose between them he hatches the idea of getting his father married and things start to get interesting.",
 	    "ageRestriction": "13",
@@ -40,11 +41,11 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi600162841/?ref_=ext_shr_lnk",
 	    "cast": "Sukhwinder Chahal,Sunita Dhir... more",
-            "time":"1h 42m",
-            "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
-     },
+        "time":"1h 42m",
+        "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
+	},
 
-     {
+    {
 	    "name": "Ni Main Sass Kuttni",
 	    "description": "'Ni Mai Sass Kuttni' is a very old Punjabi Traditional Boli, which is sung on various occasions in Punjab, usually during weddings. This film is all about the sweet and sour companionship of Mothers-in-Law and Daughters-in-Law.",
 	    "ageRestriction": "13",
@@ -55,11 +56,11 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1805238809/?ref_=ext_shr_lnk",
 	    "cast": "Methab Virk,Tanvi Nagi... more",
-            "time":"2h 20m",
-            "subtitle":"/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.srt"
-      },
+        "time":"2h 20m",
+        "subtitle":"/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.srt"
+	},
 
-      {
+    {
 	    "name": "Yes I Am Student",
 	    "description": "Set in India, it shows the life and struggles of an International student in Canada.",
 	    "ageRestriction": "13",
@@ -70,17 +71,17 @@
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi2487075609/?ref_=ext_shr_lnk",
 	    "cast": "Sidhu Moose Wala,Mandy Takhar... more",
-            "time":"1h 52m",
-            "subtitle":"/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.srt"
-      },
-	
-          {
+        "time":"1h 52m",
+        "subtitle":"/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.srt"
+	},
+
+    {
 	    "name": "Love Goals",
 	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/AmN1EdNRzpwLMzQSPkIFtIVbsxk.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",
 	    "genres": "Comedy, Drama, Romance,Hindi,Indian,Tamil,Telugu,South",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3621634585/?ref_=ext_shr_lnk",
@@ -89,7 +90,7 @@
         "subtitle":"/Hindi_Movies/Love Goals/Love Goals.English.srt"
 	},
 
-      {
+    {
 	    "name": "Major(Hindi)",
 	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
 	    "ageRestriction": "13",
@@ -100,293 +101,39 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2173092377/?ref_=ext_shr_lnk",
 	    "cast": "Adivi Sesh,Sobhita Dhulipala,Prakash Raj... more",
-            "time":"2h 29m",
-            "subtitle":"/Hindi_Movies/Major/Major.English.srt"
-     },
-     
-     {
+        "time":"2h 29m",
+        "subtitle":"/Hindi_Movies/Major/Major.English.srt"
+	},
+
+    {
 	    "name": "Major(Telugu)",
 	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
 	    "ageRestriction": "13",
 	    "video": "/Telgu/Major/Major.mkv",
 	    "series": "not",
 	    "thumbnailImageId": "https://i.ibb.co/YP9YYcv/iwx7cs99p3-F7-AVYQd7z-BCn-EVALM.jpg",
-	    "genres": "Action, History, Drama,Indian,Telgu",
+	    "genres": "Action, History, Drama,Indian,Telugu",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2297872409/?ref_=ext_shr_lnk",
 	    "cast": "Adivi Sesh,Sobhita Dhulipala,Prakash Raj... more",
-            "time":"2h 29m",
-            "subtitle":"/Telgu/Major/Major.English.srt"
-     },
+        "time":"2h 29m",
+        "subtitle":"/Telgu/Major/Major.English.srt"
+	},
 
-     {
+    {
 	    "name": "Anek",
 	    "description": "Amid the turmoil in northeast India, an undercover agent tasked with peace negotiations crosses paths with a tenacious boxer fighting for her dreams.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Anek/Anek.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fIHF8WrZpoomx0QSVTe74NeYGUD.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTE0NmM5ZWMtYTJhZC00YjQ1LWI1OTgtZDQyNzI0ZWQxOGMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
 	    "genres": "Action, Thriller,Hindi,Indian,Dramas",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3433021977/?ref_=ext_shr_lnk",
 	    "cast": "Ayushmann Khurrana,Andrea Kevichusa... more",
         "time":"2h 28m",
         "subtitle":"/Hindi_Movies/Anek/Anek.en.srt"
-    },
-    
-    {
-	    "name": "Bhool Bhulaiyaa 2",
-	    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg",
-	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
-	    "cast": "Tabu,Kartik Aaryan,Kiara Advani... more",
-        "time":"2h 5m",
-        "subtitle":"/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.English.srt"
-     },
-	
-    {
-	    "name": "Galwakdi",
-	    "description": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Galwakdi 2022/Galwakdi 2022.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2ehzcGwWz7ZLsPrNawvfb2oTXnD.jpg",
-	    "genres": "Dramas, Comedy, Romance,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1647362841/?ref_=ext_shr_lnk",
-	    "cast": "Tarsem Jassar,Wamiqa Gabbi... more",
-        "time":"2h 10m",
-        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
-    },
-    
-    {
-	    "name": "Pushpa: The Rise - Part 1",
-	    "description": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Pushpa/Pushpa.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kKDnGklCDRK8hrFGH4pLr7ZDA33.jpg",
-	    "genres": "Action, Dramas, Thriller,Hindi,Indian,South",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3325018905/?ref_=ext_shr_lnk",
-	    "cast": "Allu Arjun,Rashmika Mandanna... more",
-        "time":"2h 59m",
-        "subtitle":"/Hindi_Movies/Pushpa/Pushpa.srt"
-    },
-
-    {
-	    "name": "The Kashmir Files",
-	    "description": "Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.",
-	    "ageRestriction": "18",
-	    "video": "/Hindi_Movies/The Kashmir Files/The Kashmir Files.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/k079zl4TcFVK0n5CypQeYqSkwdU.jpg",
-	    "genres": "Thriller, History, Dramas,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3112747545/?ref_=ext_shr_lnk",
-	    "cast": "Mithun Chakraborty,Anupam Kher,Darshan Kumaar... more",
-        "time":"2h 50m",
-        "subtitle":"/Hindi_Movies/The Kashmir Files/The Kashmir Files.srt"
-    },
-    
-    {
-	    "name": "Check",
-	    "description": "Aditya is a death row prisoner facing charges of terrorism. His only hope for living lies in the game of chess",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/check/Check 2022.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7uWWCPFDE1ZqfzZuqEr5aRq18bn.jpg",
-	    "genres": "Crime, Thriller,Hindi,Indian,South",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi1246937369/?ref_=ext_shr_lnk",
-	    "cast": "Nithiin,Rakul Preet Singh... more",
-        "time":"2h 20m",
-        "subtitle":"/Hindi_Movies/check/Check 2022.srt"
-     },
-	
-     {
-	    "name": "Saunkan Saunkne",
-	    "description": "A couple married for more than 6 years loses hope for a child. On insistence of his wife he marries her sister. Shortly small squabbles between the two wives lead to comic situation and fun begins.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Saunkan Saunkne/Saunkan Saunkne.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rMAreVJF8PxvKFSUNsTYyCuJdTi.jpg",
-	    "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi296403481/?ref_=ext_shr_lnk",
-	    "cast": "Ammy Virk,Sargun Mehta... more",
-        "time":"2h 30m",
-        "subtitle":"/Punjabi/Saunkan Saunkne/Saunkan Saunkne.srt"
-    },
-    
-   {
-    "name": "Qismat 2",
-    "description": "A story about unrequited love the shapes it takes, the ways it changes us, and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters – Shiv, Bani, and Majaz, on how their lives intertwine and navigate through life, love, and heartbreak.",
-    "ageRestriction": "13",
-    "video": "/Punjabi/Qismat 2/Qismat 2.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tze9VKYpS02E0h6A0RvSb9jw6FI.jpg",
-    "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi4122592025/?ref_=ext_shr_lnk",
-    "cast": "Ammy Virk,Sargun Mehta,Tania,...more",
-    "time":"2h 30m",
-    "subtitle":"/Punjabi/Qismat 2/Qismat 2.srt"
-   },
-   
-   {
-    "name": "Gangubai Kathiawadi",
-    "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
-    "ageRestriction": "16",
-    "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePvG9b6ySMFw5wSlD1c9myUnB1I.jpg",
-    "genres": "Crime, Dramas,Indian,Hindi",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
-    "cast": "Alia Bhatt,Ajay Devgn... more",
-    "time":"2h 10m",
-    "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
-   },
-
-   {
-    "name": "Jersey",
-    "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
-    "ageRestriction": "13",
-    "video": "/Hindi_Movies/Jersey/Jersey.mp4",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
-    "genres": "Dramas,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi4038640153/?ref_=ext_shr_lnk",
-    "cast": "Shahid Kapoor,Mrunal Thakur... more",
-    "time":"2h 55m",
-    "subtitle":"/Hindi_Movies/Jersey/Jersey.English.srt"
-   },
-   {
-    "name": "K.G.F: Chapter 2",
-    "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
-    "ageRestriction": "13",
-    "video": "/Hindi_Movies/Kgf chapter 2/kgf chapter 2.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg",
-    "genres": "Action, Dramas,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi481411609/?playlistId=tt10698680?ref_=ext_shr_lnk",
-    "cast": "Yash,Sanjay Dutt,Srinidhi Shetty... more",
-    "time":"2h 48m",
-    "subtitle":"/Hindi_Movies/Kgf chapter 2/kgf chapter 2.en.srt"
-  },
-
-   {
-    "name": "RRR",
-    "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-    "ageRestriction": "13",
-    "video": "/Hindi_Movies/RRR/RRR.mp4",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg",
-    "genres": "Action, Dramas, History, War,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
-    "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
-    "time":"3h 7m",
-    "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
-  },
-
-  {
-    "name": "BEAST(Hindi)",
-    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
-    "ageRestriction": "13",
-    "video": "/Hindi_Movies/Raw beast/Raw (Hindi).mkv",
-    "series": "not",
-    "thumbnailImageId": "https://i.ibb.co/7gDC7tv/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
-    "genres": "Action, Thriller, Crime,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
-    "cast": "Vijay,Pooja Hegde... more",
-    "time":"2h 42m",
-    "subtitle":"/Hindi_Movies/Raw beast/Raw (Hindi).English.srt"
-    },
-
-    {
-    "name": "Beast(Tamil)",
-    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
-    "ageRestriction": "13",
-    "video": "/Tamil/Beast/Beast.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://i.ibb.co/3NkKh4C/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
-    "genres": "Action, Thriller, Crime,Tamil,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
-    "cast": "Vijay,Pooja Hegde... more",
-    "time":"2h 42m",
-    "subtitle":"/Tamil/Beast/Beast.English.srt"
-    },
-
-    {
-    "name": "Beast(Telugu)",
-    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
-    "ageRestriction": "13",
-    "video": "/Telgu/Beast/Beast (Telugu).mkv",
-    "series": "not",
-    "thumbnailImageId": "https://i.ibb.co/b5D9FtZ/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
-    "genres": "Action, Thriller, Crime,Telgu",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
-    "cast": "Vijay,Pooja Hegde... more",
-    "time":"2h 42m",
-    "subtitle":"/Telgu/Beast/Beast (Telugu).English.srt"
-    },
-
-    {
-    "name": "Beast(Malayalam)",
-    "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
-    "ageRestriction": "13",
-    "video": "/Malayalam/Beast/Beast (Malayalam).mkv",
-    "series": "not",
-    "thumbnailImageId": "https://i.ibb.co/sjXxGYH/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
-    "genres": "Action, Thriller, Crime,Malayalam",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
-    "cast": "Vijay,Pooja Hegde... more",
-    "time":"2h 42m",
-    "subtitle":"/Malayalam/Beast/Beast (Malayalam).English.srt"
-    },
-
-{
-    "name": "Annaatthe",
-    "description": "Kaaliyan is a village president in the Madurai district, who is fondly called Annaatthe. His nieces compete with each other to marry him. But, he falls in love with another woman who visits their village. Kaaliyan has a sister who gets married and shifts to Kolkata where she faces some unknown threats. Soon, her brother comes to her aid.",
-    "ageRestriction": "16",
-    "video": "/Hindi_Movies/Annaatthe/Annaatthe.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1T5BAF0RsrQfQik5WtXA30gJlk7.jpg",
-    "genres": "Action, Family, Dramas,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi1341178649?playlistId=tt11253090?ref_=ext_shr_lnk",
-    "cast": "Rajinikanth,Nayanthara,Jagapati Babu... more",
-    "time":"2h 41m",
-    "subtitle":"/Hindi_Movies/Annaatthe/Annaatthe.English.srt"
-},
-
-{
-    "name": "Badhaai Do",
-    "description": "A gay cop and a lesbian teacher enter a sham marriage to pacify their families but find that relationships — both real and fake — aren't all that easy.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Badhaai_do/Badhaai Do.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2IOCys56t4iOMj9ZoVZ7zmi2RHL.jpg",
-    "genres": "Comedy, Dramas,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi3155936025?playlistId=tt11934846?ref_=ext_shr_lnk",
-    "cast": "Rajkummar Rao,Bhumi Pednekar,Sheeba Chaddha... more",
-    "time":"2h 27m",
-    "subtitle":"/Hindi_Movies/Badhaai_do/Badhaai Do.English.srt"
-},
+	},
 
     {
 	    "name": "Once Again",
@@ -394,7 +141,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Once Again/Once Again.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rVmtLeXqh66Xo91DckVX9B9t9aD.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjkzNGQxNzctNzhlYi00Mzc2LWIwMmYtYTgyNmQ3MWZlYWYxXkEyXkFqcGdeQXVyMjk4OTc2MTg@._V1_FMjpg_UX1000_.jpg",
 	    "genres": "Dramas, Romance,Hindi,Indian",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi514177561/?ref_=ext_shr_lnk",
@@ -409,7 +156,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Tamil/Super Deluxe/Super Deluxe.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6N346GcTUjhYa0InIiGHW61Zo3O.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGFhYzM1ZDYtNDYzMi00MWEyLTk2NjAtZTg5ZmZmNjljOGE5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
 	    "genres": "Comedy, Thriller, Dramas,Hindi,Indian",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi4115839513/?ref_=ext_shr_lnk",
@@ -418,415 +165,667 @@
         "subtitle":"/Tamil/Super Deluxe/Super Deluxe.English (CC).srt"
 	},
 
-{
-    "name": "Bareilly Ki Barfi",
-    "description": "Bitti Mishra is a bohemian Bareilly girl who falls deeply in love with Pritam Vidrohi, an author because she admires his progressive way of thinking. Finding him though proves to be as hard as looking for a needle in the haystack. So Bitti seeks the help of the local printing press-owner, Chirag Dubey on her journey of love.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Bareilly_ki_barfi/Bareilly Ki Barfi.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/gviYC7rpJ4HWbbEFs0ZW5u965Tq.jpg",
-    "genres": "Romance, Comedy, Dramas,Hindi,Indian",
-    "releaseDate": "2017",
-    "trailer": "https://www.imdb.com/video/vi1217248025?playlistId=tt6967980?ref_=ext_shr_lnk",
-    "cast": "Ayushmann Khurrana,Pankaj Tripathi,Rajkummar Rao... more",
-    "time":"1h 50m",
-    "subtitle":"/Hindi_Movies/Bareilly_ki_barfi/Bareilly Ki Barfi.English.srt"
-},
+    {
+	    "name": "Bhool Bhulaiyaa 2",
+	    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
+	    "cast": "Tabu,Kartik Aaryan,Kiara Advani... more",
+        "time":"2h 5m",
+        "subtitle":"/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.English.srt"
+	},
+   
+    {
+	    "name": "Galwakdi",
+	    "description": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Galwakdi 2022/Galwakdi 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmJlNTM1MzMtNzgzNi00YTQ1LWI2N2EtYjk5NzJiNDk3ZTA2XkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_.jpg",
+	    "genres": "Dramas, Comedy, Romance,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1647362841/?ref_=ext_shr_lnk",
+	    "cast": "Tarsem Jassar,Wamiqa Gabbi... more",
+        "time":"2h 10m",
+        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
+	},
+    
+    {
+	    "name": "Pushpa: The Rise - Part 1",
+	    "description": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Pushpa/Pushpa.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjA4ZDJmNmQtZTA4NS00NzhmLTg2ODktZjg3MDliZmUzYTZmXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Action, Dramas, Thriller,Hindi,Indian,South",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi3325018905/?ref_=ext_shr_lnk",
+	    "cast": "Allu Arjun,Rashmika Mandanna... more",
+        "time":"2h 59m",
+        "subtitle":"/Hindi_Movies/Pushpa/Pushpa.srt"
+	},
 
-{
-    "name": "Chandigarh Kare Aashiqui",
-    "description": "Manu, a bodybuilder from Chandigarh, India, falls in love with Maanvi, a Zumba teacher. All seems well until a revelation causes turmoil in their love story.Abhishek KapoorDirector, Story Tushar",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Chandigarh Kare Aashiqui/Chandigarh Kare Aashiqui.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/owZYxR8y78tkkEd6mSH2olPsakJ.jpg",
-    "genres": "Dramas, Romance, Crime,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi3422339865?playlistId=tt12861850?ref_=ext_shr_lnk",
-    "cast": "Ayushmann Khurrana,Vaani Kapoor,Kanwaljit Singh... more",
-    "time":"1h 55m",
-    "subtitle":"/Hindi_Movies/Chandigarh Kare Aashiqui/Chandigarh Kare Aashiqui.English.srt"
-},
+    {
+	    "name": "The Kashmir Files",
+	    "description": "Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.",
+	    "ageRestriction": "18",
+	    "video": "/Hindi_Movies/The Kashmir Files/The Kashmir Files.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzJkZDIwYTAtMGU4Mi00NzU3LWI1MWItODg0M2Q1NmIxYmNlXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Thriller, History, Dramas,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3112747545/?ref_=ext_shr_lnk",
+	    "cast": "Mithun Chakraborty,Anupam Kher,Darshan Kumaar... more",
+        "time":"2h 50m",
+        "subtitle":"/Hindi_Movies/The Kashmir Files/The Kashmir Files.srt"
+	},
+    
+    {
+	    "name": "Check",
+	    "description": "Aditya is a death row prisoner facing charges of terrorism. His only hope for living lies in the game of chess",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/check/Check 2022.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjkxMjI4YzItM2NhNy00NzUyLWIyYTctYTVjYjUyYWI3NmRiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+	    "genres": "Crime, Thriller,Hindi,Indian,South",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi1246937369/?ref_=ext_shr_lnk",
+	    "cast": "Nithiin,Rakul Preet Singh... more",
+        "time":"2h 20m",
+        "subtitle":"/Hindi_Movies/check/Check 2022.srt"
+	},
 
-{
-    "name": "Class of '83 ",
-    "description": "A hero policeman shunted to a punishment posting as the Dean of the police academy decides to punish the corrupt bureaucracy and its criminal allies in return by training five lethal assassin policemen.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Class of _83/Class of _83.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/2CFOpEKVxIjRMeu8K9agmDZ2ms9.jpg",
-    "genres": "Action, Crime, Dramas,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi3612917273?playlistId=tt10230422?ref_=ext_shr_lnk",
-    "cast": "Bobby Deol,Anup Soni,Vishwajeet Pradhan... more",
-    "time":"1h 38m",
-    "subtitle":"/Hindi_Movies/Class of _83/Class of _83.English.srt"
-},
+    {
+        "name": "Saunkan Saunkne",
+        "description": "A couple married for more than 6 years loses hope for a child. On insistence of his wife he marries her sister. Shortly small squabbles between the two wives lead to comic situation and fun begins.",
+        "ageRestriction": "13",
+        "video": "/Punjabi/Saunkan Saunkne/Saunkan Saunkne.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGVkN2RmZjQtN2MzZi00NjNmLTg2YTYtNzFhNGQ2MDI4YzRjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi296403481/?ref_=ext_shr_lnk",
+        "cast": "Ammy Virk,Sargun Mehta... more",
+        "time":"2h 30m",
+        "subtitle":"/Punjabi/Saunkan Saunkne/Saunkan Saunkne.srt"
+    },
 
-{
-    "name": "Dasvi ",
-    "description": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school while his scheming wife has plans of her own.",
-    "ageRestriction": "7",
-   "video": "/Hindi_Movies/Dasvi/Dasvi.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zL40soH0AYoBD5BVNu9U2B98ejD.jpg",
-    "genres": "Dramas, Comedy,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi4031496985?playlistId=tt14107554?ref_=ext_shr_lnk",
-    "cast": "Abhishek Bachchan,Yami Gautam,Nimrat Kaur... more",
-    "time":"2h 5m",
-    "subtitle":"/Hindi_Movies/Dasvi/Dasvi.English.srt"
-},
+    {
+        "name": "Qismat 2",
+        "description": "A story about unrequited love the shapes it takes, the ways it changes us, and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters – Shiv, Bani, and Majaz, on how their lives intertwine and navigate through life, love, and heartbreak.",
+        "ageRestriction": "13",
+        "video": "/Punjabi/Qismat 2/Qismat 2.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQyNzE3ODAtNmU1ZC00NWQwLWJlZWQtMmVmNjI1MjBhMGUwXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_.jpg",
+        "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi4122592025/?ref_=ext_shr_lnk",
+        "cast": "Ammy Virk,Sargun Mehta,Tania,...more",
+        "time":"2h 30m",
+        "subtitle":"/Punjabi/Qismat 2/Qismat 2.srt"
+    },
 
+    {
+        "name": "Gangubai Kathiawadi",
+        "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2M4NDM2NDItMzgzNy00OWRiLThhNjEtZDA2OWMyNTcwYzRjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+        "genres": "Crime, Dramas,Indian,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
+        "cast": "Alia Bhatt,Ajay Devgn... more",
+        "time":"2h 10m",
+        "subtitle":"/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.en.srt"
+    },
 
-{
-    "name": "Dhamaka",
-    "description": "When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Dhamaka/Dhamaka.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/KowKEuyWziUtnCYicv6zhzTQIv.jpg",
-    "genres": "Thriller, Dramas, Crime,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi1434764057?playlistId=tt13510660?ref_=ext_shr_lnk",
-    "cast": "Kartik Aaryan,Amruta Subhash,Mrunal Thakur... more",
-    "time":"1h 44m",
-    "subtitle":"/Hindi_Movies/Dhamaka/Dhamaka.English.srt"
-},
+    {
+        "name": "Jersey",
+        "description": "An ex-cricketer struggling to make ends meet, wants to fulfill his child's wish of getting an Indian jersey but in the process comes face to face with his heroic past and is forced to decide if he will rise to the occasion and become a symbol of hope or continue to live a life as a loser?",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Jersey/Jersey.mp4",
+        "series": "not",
+        "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ur2D5MXrwBBymQ7DjG0cOFen2yh.jpg",
+        "genres": "Dramas,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi4038640153/?ref_=ext_shr_lnk",
+        "cast": "Shahid Kapoor,Mrunal Thakur... more",
+        "time":"2h 55m",
+        "subtitle":"/Hindi_Movies/Jersey/Jersey.English.srt"
+    },
 
+    {
+        "name": "K.G.F: Chapter 2",
+        "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Kgf chapter 2/kgf chapter 2.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_.jpg",
+        "genres": "Action, Dramas,Hindi,Indian,south",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi481411609/?playlistId=tt10698680?ref_=ext_shr_lnk",
+        "cast": "Yash,Sanjay Dutt,Srinidhi Shetty... more",
+        "time":"2h 48m",
+        "subtitle":"/Hindi_Movies/Kgf chapter 2/kgf chapter 2.en.srt"
+    },
 
-{
-    "name": "Etharkkum Thunindhavan",
-    "description": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Etharkkum Thunindhavan/Etharkkum Thunindhavan.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5BU4qoPUPiOSiLue8ni8VdxNP4U.jpg",
-    "genres": "Action, Dramas, Thriller,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi2154808089?playlistId=tt10340562?ref_=ext_shr_lnk",
-    "cast": "Suriya,Priyanka Arul Mohan,Sathyaraj... more",
-    "time":"2h 31m",
-    "subtitle":"/Hindi_Movies/Etharkkum Thunindhavan/Etharkkum Thunindhavan.English.srt"
-},
+    {
+        "name": "RRR",
+        "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/RRR/RRR.mp4",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+        "genres": "Action, Dramas, History, War,Hindi,Indian,south",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
+        "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
+        "time":"3h 7m",
+        "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
+    },
 
+    {
+        "name": "BEAST(Hindi)",
+        "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Raw beast/Raw (Hindi).mkv",
+        "series": "not",
+        "thumbnailImageId": "https://i.ibb.co/7gDC7tv/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
+        "genres": "Action, Thriller, Crime,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+        "cast": "Vijay,Pooja Hegde... more",
+        "time":"2h 42m",
+        "subtitle":"/Hindi_Movies/Raw beast/Raw (Hindi).English.srt"
+    },
 
-{
-    "name": "Ginny Weds Sunny",
-    "description": "Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Ginny Weds Sunny/Ginny Weds Sunny.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1LhWNRcLkHmtQPf9aYK534uxHP9.jpg",
-    "genres": "Romance, Comedy, Dramas, Family,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi3817914649?playlistId=tt10543680?ref_=ext_shr_lnk",
-    "cast": "Yami Gautam,Vikrant Massey,Ayesha Raza... more",
-    "time":"2h 5m",
-    "subtitle":"/Hindi_Movies/Ginny Weds Sunny/Ginny Weds Sunny.English.srt"
-},
+    {
+        "name": "Beast(Tamil)",
+        "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+        "ageRestriction": "13",
+        "video": "/Tamil/Beast/Beast.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://i.ibb.co/3NkKh4C/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
+        "genres": "Action, Thriller, Crime,Tamil,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+        "cast": "Vijay,Pooja Hegde... more",
+        "time":"2h 42m",
+        "subtitle":"/Tamil/Beast/Beast.English.srt"
+    },
 
+    {
+        "name": "Beast(Telugu)",
+        "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+        "ageRestriction": "13",
+        "video": "/Telgu/Beast/Beast (Telugu).mkv",
+        "series": "not",
+        "thumbnailImageId": "https://i.ibb.co/b5D9FtZ/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
+        "genres": "Action, Thriller, Crime,Telugu,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+        "cast": "Vijay,Pooja Hegde... more",
+        "time":"2h 42m",
+        "subtitle":"/Telgu/Beast/Beast (Telugu).English.srt"
+    },
 
-{
-    "name": "Guilty",
-    "description": "A young woman from a small town accuses the college heartthrob of sexual assault.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Guilty/Guilty.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1No7DCXC4jcAeHqn50mgjZ2NRgY.jpg",
-    "genres": "Thriller, Dramas,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi3501440537?playlistId=tt10062614?ref_=ext_shr_lnk",
-    "cast": "Kiara Advani,Gurfateh Singh Pirzada,Akansha Ranjan Kapoor... more",
-    "time":"1h 59m",
-    "subtitle":"/Hindi_Movies/Guilty/Guilty.English.srt"
-},
+    {
+        "name": "Beast(Malayalam)",
+        "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+        "ageRestriction": "13",
+        "video": "/Malayalam/Beast/Beast (Malayalam).mkv",
+        "series": "not",
+        "thumbnailImageId": "https://i.ibb.co/sjXxGYH/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
+        "genres": "Action, Thriller, Crime,Malayalam,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
+        "cast": "Vijay,Pooja Hegde... more",
+        "time":"2h 42m",
+        "subtitle":"/Malayalam/Beast/Beast (Malayalam).English.srt"
+    },
 
+    {
+        "name": "Annaatthe",
+        "description": "Kaaliyan is a village president in the Madurai district, who is fondly called Annaatthe. His nieces compete with each other to marry him. But, he falls in love with another woman who visits their village. Kaaliyan has a sister who gets married and shifts to Kolkata where she faces some unknown threats. Soon, her brother comes to her aid.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Annaatthe/Annaatthe.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2NlYjI4NTAtN2M0Yy00ZmNiLTgyZjItOWI2MDYxNWVlYmY4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+        "genres": "Action, Family, Dramas,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1341178649?playlistId=tt11253090?ref_=ext_shr_lnk",
+        "cast": "Rajinikanth,Nayanthara,Jagapati Babu... more",
+        "time":"2h 41m",
+        "subtitle":"/Hindi_Movies/Annaatthe/Annaatthe.English.srt"
+    },
 
-{
-    "name": "Gunjan Saxena: The Kargil Girl",
-    "description": "Inspired by the life of a fearless young officer who made history by becoming the first Indian female Air Force officer to fly in a combat zone during the 1999 Kargil War",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Gunjan Saxena_ The Kargil Girl/Gunjan Saxena_ The Kargil Girl.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/llWz6LbVpGPChnNnhAiGJyPMDwP.jpg",
-    "genres": "Action, Dramas,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi3664100889?playlistId=tt10350626?ref_=ext_shr_lnk",
-    "cast": "Pankaj Tripathi,Janhvi Kapoor,Angad Bedi... more",
-    "time":"1h 52m",
-    "subtitle":"/Hindi_Movies/Gunjan Saxena_ The Kargil Girl/Gunjan Saxena_ The Kargil Girl.English.srt"
-},
+    {
+        "name": "Badhaai Do",
+        "description": "A gay cop and a lesbian teacher enter a sham marriage to pacify their families but find that relationships — both real and fake — aren't all that easy.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Badhaai_do/Badhaai Do.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+        "genres": "Comedy, Dramas,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3155936025?playlistId=tt11934846?ref_=ext_shr_lnk",
+        "cast": "Rajkummar Rao,Bhumi Pednekar,Sheeba Chaddha... more",
+        "time":"2h 27m",
+        "subtitle":"/Hindi_Movies/Badhaai_do/Badhaai Do.English.srt"
+    },
 
+    {
+        "name": "Bareilly Ki Barfi",
+        "description": "Bitti Mishra is a bohemian Bareilly girl who falls deeply in love with Pritam Vidrohi, an author because she admires his progressive way of thinking. Finding him though proves to be as hard as looking for a needle in the haystack. So Bitti seeks the help of the local printing press-owner, Chirag Dubey on her journey of love.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Bareilly_ki_barfi/Bareilly Ki Barfi.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGM4YTc0N2ItNGYyNS00MmU1LWJmMmQtY2Q2ZTQ1Mjg0MDI2XkEyXkFqcGdeQXVyNzMwNzAyNjk@._V1_.jpg",
+        "genres": "Romance, Comedy, Dramas,Hindi,Indian",
+        "releaseDate": "2017",
+        "trailer": "https://www.imdb.com/video/vi1217248025?playlistId=tt6967980?ref_=ext_shr_lnk",
+        "cast": "Ayushmann Khurrana,Pankaj Tripathi,Rajkummar Rao... more",
+        "time":"1h 50m",
+        "subtitle":"/Hindi_Movies/Bareilly_ki_barfi/Bareilly Ki Barfi.English.srt"
+    },
 
-{
-    "name": "Haseen Dillruba",
-    "description": "Under investigation as a suspect in her husband's murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Haseen Dillruba/Haseen Dillruba.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aq1y0tqiH1ojIAQBbxZXFbArEAy.jpg",
-    "genres": "Mystery, Crime, Thriller, Romance,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi993902617?playlistId=tt11027830?ref_=ext_shr_lnk",
-    "cast": "Taapsee Pannu,Vikrant Massey,Harshvardhan Rane... more",
-    "time":"2h 16m",
-    "subtitle":"/Hindi_Movies/Haseen Dillruba/Haseen Dillruba.English.srt"
-},
+    {
+        "name": "Chandigarh Kare Aashiqui",
+        "description": "Manu, a bodybuilder from Chandigarh, India, falls in love with Maanvi, a Zumba teacher. All seems well until a revelation causes turmoil in their love story.Abhishek KapoorDirector, Story Tushar",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Chandigarh Kare Aashiqui/Chandigarh Kare Aashiqui.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDQxZmFlMWItNGU4ZS00YjcwLWJlMmMtZmQyZTFhOWNkYzg5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
+        "genres": "Dramas, Romance, Crime,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi3422339865?playlistId=tt12861850?ref_=ext_shr_lnk",
+        "cast": "Ayushmann Khurrana,Vaani Kapoor,Kanwaljit Singh... more",
+        "time":"1h 55m",
+        "subtitle":"/Hindi_Movies/Chandigarh Kare Aashiqui/Chandigarh Kare Aashiqui.English.srt"
+    },
 
+    {
+        "name": "Class of '83",
+        "description": "A hero policeman shunted to a punishment posting as the Dean of the police academy decides to punish the corrupt bureaucracy and its criminal allies in return by training five lethal assassin policemen.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Class of _83/Class of _83.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjU2MzAyZWEtYjMxOS00ZGExLWIxZjgtNjY2ZWJmZWQzNWM4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Action, Crime, Dramas,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3612917273?playlistId=tt10230422?ref_=ext_shr_lnk",
+        "cast": "Bobby Deol,Anup Soni,Vishwajeet Pradhan... more",
+        "time":"1h 38m",
+        "subtitle":"/Hindi_Movies/Class of _83/Class of _83.English.srt"
+    },
 
-{
-    "name": "Hey Sinamika",
-    "description": "A wife who feels suffocated by her husband's incessant attention hires a psychologist to make him fall in love with her so that she can separate from him.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Hey Sinamika/Hey Sinamika.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3t6kgGJqsSMtKitIXXBPgWSqeCf.jpg",
-    "genres": "Dramas, Romance,Hindi,Indian",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi4001022745?ref_=ext_shr_lnk",
-    "cast": "Dulquer Salmaan,Aditi Rao Hydari,Kajal Agarwal... more",
-    "time":"2h 29m",
-    "subtitle":"/Hindi_Movies/Hey Sinamika/Hey Sinamika.English.srt"
-},
-
-
-{
-    "name": "Jagame Thandhiram",
-    "description": "When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Jagame Thandhiram/Jagame Thandhiram.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/43rAKDBy9rGqSZuqoG69YUrKAXX.jpg",
-    "genres": "Crime, Comedy,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi1261879321?playlistId=tt10661848?ref_=ext_shr_lnk",
-    "cast": "Dhanush,James Cosmo,Joju George... more",
-    "time":"2h 38m",
-    "subtitle":"/Hindi_Movies/Jagame Thandhiram/Jagame Thandhiram.English.srt"
-},
-
-
-{
-    "name": "Ludo",
-    "description": "Ludo is about the butterfly effect and how, despite all the chaos and crowd of the world, all our lives are inextricably connected. From a resurfaced sex tape to a rogue suitcase of money, four wildly different stories overlap at the whims of fate, chance and one eccentric criminal.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Ludo/Ludo.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fA21PhxZm2GU2x8lmH7Ty2fIiPx.jpg",
-    "genres": "Crime, Comedy,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi821674265?playlistId=tt7212754?ref_=ext_shr_lnk",
-    "cast": "Abhishek Bachchan,Aditya Roy Kapur... more",
-    "time":"2h 30m",
-    "subtitle":"/Hindi_Movies/Ludo/Ludo.English.srt"
-},
-
-
-{
-    "name": "Meenakshi Sundareshwar",
-    "description": "Forced to live apart due to a unique job prospect, two newlyweds face the hassles, hiccups — and hilarity — that arise from their long-distance marriage.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Meenakshi Sundareshwar/Meenakshi Sundareshwar.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qDuTWET9QdSronOvoyWj2MjVvVr.jpg",
-    "genres": "Romance, Comedym,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi663208729?playlistId=tt13529034?ref_=ext_shr_lnk",
-    "cast": "Sanya Malhotra,Abhimanyu Dasani,Purnendu Bhattacharya... more",
-    "time":"2h 21m",
-    "subtitle":"/Hindi_Movies/Meenakshi Sundareshwar/Meenakshi Sundareshwar.English.srt"
-},
-
-
-{
-    "name": "Mrs. Serial Killer",
-    "description": "When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband's innocence.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Mrs_Serial Killer/Mrs_Serial Killer.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4qogeMcCcqilL2PGUUY7KbrpWsj.jpg",
-    "genres": "Thriller,Crime,Dramas,Hindi,Indian",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi2012986905?playlistId=tt10230426?ref_=ext_shr_lnk",
-    "cast": "Jacqueline Fernandez,Manoj Bajpayee,Mohit Raina... more",
-    "time":"1h 46m",
-    "subtitle":"/Hindi_Movies/Mrs_Serial Killer/Mrs_Serial Killer.English.srt"
-},
-
-
-{
-    "name": "Sardar Ka Grandson",
-    "description": "A devoted grandson's mission to reunite his ailing grandmother with her ancestral home turns into a complicated, comic cross-border affair.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Sardar Ka Grandson/Sardar Ka Grandson.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/piBdQGTFMNzFYEUkmGRR3n2EZeU.jpg",
-    "genres": "Comedy, Dramas, Romance, Family,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi702791705?playlistId=tt11213600?ref_=ext_shr_lnk",
-    "cast": "Arjun Kapoor,Neena Gupta,Rakul Preet Singh... more",
-    "time":"2h 20m",
-    "subtitle":"/Hindi_Movies/Sardar Ka Grandson/Sardar Ka Grandson.English.srt"
-},
-
-
-{
-    "name": "Sooryavanshi ",
-    "description": "A fearless, faithful albeit slightly forgetful Mumbai cop, Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India pulls out all the stops and stunts to thwart a major conspiracy to attack his city.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Sooryavanshi/Sooryavanshi.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8p3mhjyLjHKtaAv8tFKfvEBtir0.jpg",
-    "genres": "Action, Crime, Thriller,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi1804059417?playlistId=tt9531772?ref_=ext_shr_lnk",
-    "cast": "Akshay Kumar,Katrina Kaif,Ajay Devgn... more",
-    "time":"2h 25m",
-    "subtitle":"/Hindi_Movies/Sooryavanshi/Sooryavanshi.English.srt"
-},
-
-
-{
-    "name": "Thackeray ",
-    "description": "Based on the life of Keshav Thackeray, an Indian politician who is also known as Balasaheb Thackeray.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Thackeray/Thackeray.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yfjEuYlASO9xoT8nLp8pVqKCtZN.jpg",
-    "genres": "Dramas, History,Hindi,Indian",
-    "releaseDate": "2019",
-    "trailer": "https://www.imdb.com/video/vi3605772825?playlistId=tt7777196?ref_=ext_shr_lnk",
-    "cast": "Nawazuddin Siddiqui,Amrita Rao,Sudhir Mishra... more",
-    "time":"2h 19m",
-    "subtitle":"/Hindi_Movies/Thackeray/Thackeray.English.srt"
-},
-
-{
-    "name": "Thalaivii",
-    "description": "The biopic charts the life of actor-turned-chief minister J. Jayalalitha and the relationship paving her rapid yet complicated path to power, who served five terms as the Chief Minister for the Indian state of Tamil Nadu.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Thalaivii/Thalaivii.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uukJCbDHjF6vGRiQfB5Ohmo0KkG.jpg",
-    "genres": "Dramas,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi608419865?playlistId=tt10152736?ref_=ext_shr_lnk",
-    "cast": "Kangana Ranaut,Arvind Swamy,Nassar... more",
-    "time":"2h 33m",
-    "subtitle":"/Hindi_Movies/Thalaivii/Thalaivii.English.srt"
-},
-
-
-{
-    "name": "The Girl on the Train",
-    "description": "When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/The Girl on the Train/The Girl on the Train.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg",
-    "genres": "Crime, Dramas, Mystery, Thriller,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi3276980505?playlistId=tt8907992?ref_=ext_shr_lnk",
-    "cast": "Parineeti Chopra,Tota Roy Chowdhury... more",
-    "time":"2h 8m",
-    "subtitle":"/Hindi_Movies/The Girl on the Train/The Girl on the Train.English.srt"
-},
-
-{
-    "name": "The White Tiger",
-    "description": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/The White Tiger/The White Tiger.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7K4mdWaLGF2F4ASb2L12tlya9c9.jpg",
-    "genres": "Dramas,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi3440689433?playlistId=tt6571548?ref_=ext_shr_lnk",
-    "cast": "Adarsh Gourav,Rajkummar Rao,Priyanka Chopra Jonas... more",
-    "time":"2h 5m",
-    "subtitle":"/Hindi_Movies/The White Tiger/The White Tiger.English.srt"
-},
-
-{
-    "name": "'83",
-    "description": "On the 25th of June 1983, the Lord’s Cricket Ground witnessed one of the biggest underdog stories in the history of sports. Fourteen inspired players - led by a man's self-belief and conviction - fought against all odds and orchestrated India’s greatest sporting triumph by beating the two-time World Champions West Indies.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/_83/_83.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dxjjMJqaZeRxMQmRL2dzkl9KxIv.jpg",
-    "genres": "Dramas, History,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi869647129?playlistId=tt7518786?ref_=ext_shr_lnk",
-    "cast": "Ranveer Singh,Pankaj Tripathi,Tahir Raj Bhasin... more",
-    "time":"2h 40m",
-    "subtitle":"/Hindi_Movies/_83/_83.English.srt"
-},
+    {
+        "name": "Dasvi",
+        "description": "Jailed under a tough cop, an uneducated politician decides to spend his time studying for high school while his scheming wife has plans of her own.",
+        "ageRestriction": "7",
+        "video": "/Hindi_Movies/Dasvi/Dasvi.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWQ2MTk1ODgtMmJkNy00YTM3LTk4ZmUtM2ZiOTMyM2Y0NDM3XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
+        "genres": "Dramas, Comedy,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi4031496985?playlistId=tt14107554?ref_=ext_shr_lnk",
+        "cast": "Abhishek Bachchan,Yami Gautam,Nimrat Kaur... more",
+        "time":"2h 5m",
+        "subtitle":"/Hindi_Movies/Dasvi/Dasvi.English.srt"
+    },
 
 
-{
-    "name": "Drive",
-    "description": "A getaway driver is attracted to a female neighbor whose husband owes money to a local gangster. As a result he is drawn deeper into a dangerous underworld.",
-    "ageRestriction": "13",
-   "video": "/Hindi_Movies/Drive/Drive.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1ZUNyvVGTPkeBVXXTMnhIRoXlfo.jpg",
-    "genres": "Action, Thriller,Hindi,Indian",
-    "releaseDate": "2019",
-    "trailer": "https://www.imdb.com/video/vi754958105?playlistId=tt6593054?ref_=ext_shr_lnk",
-    "cast": "Sushant Singh Rajput,Jacqueline Fernandez... more",
-    "time":"2h 27m",
-    "subtitle":"/Hindi_Movies/Drive/Drive.English.srt"
-},
+    {
+        "name": "Dhamaka",
+        "description": "When a cynical ex-TV news anchor gets an alarming call on his radio show, he sees a chance for a career comeback — but it may cost his conscience.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Dhamaka/Dhamaka.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzUyOWU2M2MtMDU1Yy00M2E1LTg3OTktMGRjYTE2MjkzYzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Thriller, Dramas, Crime,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1434764057?playlistId=tt13510660?ref_=ext_shr_lnk",
+        "cast": "Kartik Aaryan,Amruta Subhash,Mrunal Thakur... more",
+        "time":"1h 44m",
+        "subtitle":"/Hindi_Movies/Dhamaka/Dhamaka.English.srt"
+    },
 
 
-{
-    "name": "Kurup",
-    "description": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Kurup/Kurup.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3621WvCUWHYiXbO6ZXMxBSUxApe.jpg",
-    "genres": "Thriller, Crime,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi2885075737?playlistId=tt7026666?ref_=ext_shr_lnk",
-    "cast": "Dulquer Salmaan,Sobhita Dhulipala... more",
-    "time":"2h 35m",
-    "subtitle":"/Hindi_Movies/Kurup/Kurup.English.srt"
-},
+    {
+        "name": "Etharkkum Thunindhavan",
+        "description": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Etharkkum Thunindhavan/Etharkkum Thunindhavan.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMwYzUwMDUtOGRjZC00NjEzLWE0ZDktNDllOGY5Mjc0N2NjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+        "genres": "Action, Dramas, Thriller,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2154808089?playlistId=tt10340562?ref_=ext_shr_lnk",
+        "cast": "Suriya,Priyanka Arul Mohan,Sathyaraj... more",
+        "time":"2h 31m",
+        "subtitle":"/Hindi_Movies/Etharkkum Thunindhavan/Etharkkum Thunindhavan.English.srt"
+    },
 
 
-{
-    "name": "Mimi",
-    "description": "An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have the child anymore.",
-    "ageRestriction": "16",
-   "video": "/Hindi_Movies/Mimi/Mimi.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zz6ScNmHqYbYv6OPFQkBI01SnCy.jpg",
-    "genres": "Comedy, Dramas,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi655015961?playlistId=tt10895576?ref_=ext_shr_lnk",
-    "cast": "Kriti Sanon,Pankaj Tripathi... more",
-    "time":"2h 12m",
-    "subtitle":"/Hindi_Movies/Mimi/Mimi.English.srt"
-},
+    {
+        "name": "Ginny Weds Sunny",
+        "description": "Delhi girl Ginny lives with her matchmaker mother and is set up with Sunny, who has given up on the idea of love. He just wants to get married and settle down. But, the match is not that simple. As Ginny meets Sunny, there’s a lot more that comes to the fore than previously imagined in this tale of love, life, weddings and music.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Ginny Weds Sunny/Ginny Weds Sunny.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTU2Mjc4YWUtMjkzNC00ZDQ5LTkzZmYtOTMyY2NkODU4ZmU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Romance, Comedy, Dramas, Family,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3817914649?playlistId=tt10543680?ref_=ext_shr_lnk",
+        "cast": "Yami Gautam,Vikrant Massey,Ayesha Raza... more",
+        "time":"2h 5m",
+        "subtitle":"/Hindi_Movies/Ginny Weds Sunny/Ginny Weds Sunny.English.srt"
+    },
 
-{
-    "name": "Tribhanga",
-    "description": "When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.",
-    "ageRestriction": "13",
-    "video": "/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.mkv",
-    "series": "not",
-    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lbGINHbqJ7zYcIpsoIaEEASNrBM.jpg",
-    "genres": "Dramas, Family,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi1610858777?playlistId=tt11102314?ref_=ext_shr_lnk",
-    "cast": "Kajol,Tanvi Azmi... more",
-    "time":"1h 35m",
-    "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
-},
 
-{
+    {
+        "name": "Guilty",
+        "description": "A young woman from a small town accuses the college heartthrob of sexual assault.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Guilty/Guilty.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDAwMzdkYTMtMGViYS00Y2E4LTllOGEtNzJjMWZhMWZjNTFlXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+        "genres": "Thriller, Dramas,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3501440537?playlistId=tt10062614?ref_=ext_shr_lnk",
+        "cast": "Kiara Advani,Gurfateh Singh Pirzada,Akansha Ranjan Kapoor... more",
+        "time":"1h 59m",
+        "subtitle":"/Hindi_Movies/Guilty/Guilty.English.srt"
+    },
+
+
+    {
+        "name": "Gunjan Saxena: The Kargil Girl",
+        "description": "Inspired by the life of a fearless young officer who made history by becoming the first Indian female Air Force officer to fly in a combat zone during the 1999 Kargil War",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Gunjan Saxena_ The Kargil Girl/Gunjan Saxena_ The Kargil Girl.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2JmMjczOGEtODg3MS00MGYzLWE5OWYtOTBlNGJmODQyOTE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "genres": "Action, Dramas,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3664100889?playlistId=tt10350626?ref_=ext_shr_lnk",
+        "cast": "Pankaj Tripathi,Janhvi Kapoor,Angad Bedi... more",
+        "time":"1h 52m",
+        "subtitle":"/Hindi_Movies/Gunjan Saxena_ The Kargil Girl/Gunjan Saxena_ The Kargil Girl.English.srt"
+    },
+
+
+    {
+        "name": "Haseen Dillruba",
+        "description": "Under investigation as a suspect in her husband's murder, a wife reveals details of their thorny marriage that seem to only further blur the truth.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Haseen Dillruba/Haseen Dillruba.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWYyMzg3N2EtNTQ5MC00MWZlLWI3YWEtMmU2ZWNhZWZiNGIzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+        "genres": "Mystery, Crime, Thriller, Romance,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi993902617?playlistId=tt11027830?ref_=ext_shr_lnk",
+        "cast": "Taapsee Pannu,Vikrant Massey,Harshvardhan Rane... more",
+        "time":"2h 16m",
+        "subtitle":"/Hindi_Movies/Haseen Dillruba/Haseen Dillruba.English.srt"
+    },
+
+    {
+        "name": "Hey Sinamika",
+        "description": "A wife who feels suffocated by her husband's incessant attention hires a psychologist to make him fall in love with her so that she can separate from him.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Hey Sinamika/Hey Sinamika.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjc0NGRjY2UtNjcwYi00NTZmLTlhZTUtMzhmYmVhNTlmMWQ1XkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1_.jpg",
+        "genres": "Dramas, Romance,Hindi,Indian",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi4001022745?ref_=ext_shr_lnk",
+        "cast": "Dulquer Salmaan,Aditi Rao Hydari,Kajal Agarwal... more",
+        "time":"2h 29m",
+        "subtitle":"/Hindi_Movies/Hey Sinamika/Hey Sinamika.English.srt"
+    },
+
+
+    {
+        "name": "Jagame Thandhiram",
+        "description": "When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Jagame Thandhiram/Jagame Thandhiram.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2UwNGNjMWEtMGI2My00YzI3LTljMDEtYTFhYzM3YWMyMzNmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+        "genres": "Crime, Comedy,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1261879321?playlistId=tt10661848?ref_=ext_shr_lnk",
+        "cast": "Dhanush,James Cosmo,Joju George... more",
+        "time":"2h 38m",
+        "subtitle":"/Hindi_Movies/Jagame Thandhiram/Jagame Thandhiram.English.srt"
+    },
+ 
+    {
+        "name": "Ludo",
+        "description": "Ludo is about the butterfly effect and how, despite all the chaos and crowd of the world, all our lives are inextricably connected. From a resurfaced sex tape to a rogue suitcase of money, four wildly different stories overlap at the whims of fate, chance and one eccentric criminal.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Ludo/Ludo.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTQwOTVlMzctM2I3MS00YzllLWJiNTctYzdhMjkzMzhhY2RkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "genres": "Crime, Comedy,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi821674265?playlistId=tt7212754?ref_=ext_shr_lnk",
+        "cast": "Abhishek Bachchan,Aditya Roy Kapur... more",
+        "time":"2h 30m",
+        "subtitle":"/Hindi_Movies/Ludo/Ludo.English.srt"
+    },
+
+    {
+        "name": "Meenakshi Sundareshwar",
+        "description": "Forced to live apart due to a unique job prospect, two newlyweds face the hassles, hiccups — and hilarity — that arise from their long-distance marriage.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Meenakshi Sundareshwar/Meenakshi Sundareshwar.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVlNGRlZDItMzkzMC00ODNmLTkyMTYtZWU3ODRhNzQ5ZDc0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "genres": "Romance, Comedym,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi663208729?playlistId=tt13529034?ref_=ext_shr_lnk",
+        "cast": "Sanya Malhotra,Abhimanyu Dasani,Purnendu Bhattacharya... more",
+        "time":"2h 21m",
+        "subtitle":"/Hindi_Movies/Meenakshi Sundareshwar/Meenakshi Sundareshwar.English.srt"
+    },
+
+
+    {
+        "name": "Mrs. Serial Killer",
+        "description": "When her husband is framed and imprisoned for serial murders, a doting wife must perform a copycat murder, to prove her husband's innocence.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Mrs_Serial Killer/Mrs_Serial Killer.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzJkMjhkZDgtMjM4Yy00OWJiLWFlZmMtMjk5YTVlNDg5NDJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Thriller,Crime,Dramas,Hindi,Indian",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi2012986905?playlistId=tt10230426?ref_=ext_shr_lnk",
+        "cast": "Jacqueline Fernandez,Manoj Bajpayee,Mohit Raina... more",
+        "time":"1h 46m",
+        "subtitle":"/Hindi_Movies/Mrs_Serial Killer/Mrs_Serial Killer.English.srt"
+    },
+
+
+    { 
+        "name": "Sardar Ka Grandson",
+        "description": "A devoted grandson's mission to reunite his ailing grandmother with her ancestral home turns into a complicated, comic cross-border affair.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Sardar Ka Grandson/Sardar Ka Grandson.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmFmNzA0MTQtYWRlMC00Njg0LTg0ZTYtNjlmMTVkMjMzZmI1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",
+        "genres": "Comedy, Dramas, Romance, Family,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi702791705?playlistId=tt11213600?ref_=ext_shr_lnk",
+        "cast": "Arjun Kapoor,Neena Gupta,Rakul Preet Singh... more",
+        "time":"2h 20m",
+        "subtitle":"/Hindi_Movies/Sardar Ka Grandson/Sardar Ka Grandson.English.srt"
+    },
+
+
+    {
+        "name": "Sooryavanshi",
+        "description": "A fearless, faithful albeit slightly forgetful Mumbai cop, Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India pulls out all the stops and stunts to thwart a major conspiracy to attack his city.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Sooryavanshi/Sooryavanshi.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDI3M2E5ZGQtZjVlNS00NzFhLTg0NTAtZDZmOTBjODg3ZDQ1XkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Action, Crime, Thriller,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1804059417?playlistId=tt9531772?ref_=ext_shr_lnk",
+        "cast": "Akshay Kumar,Katrina Kaif,Ajay Devgn... more",
+        "time":"2h 25m",
+        "subtitle":"/Hindi_Movies/Sooryavanshi/Sooryavanshi.English.srt"
+    },
+
+
+    {
+        "name": "Thackeray",
+        "description": "Based on the life of Keshav Thackeray, an Indian politician who is also known as Balasaheb Thackeray.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Thackeray/Thackeray.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjEyNzllY2ItN2I5OC00NjU0LWI5MTAtZWJiNzA1NzNkY2IzXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_.jpg",
+        "genres": "Dramas, History,Hindi,Indian",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi3605772825?playlistId=tt7777196?ref_=ext_shr_lnk",
+        "cast": "Nawazuddin Siddiqui,Amrita Rao,Sudhir Mishra... more",
+        "time":"2h 19m",
+        "subtitle":"/Hindi_Movies/Thackeray/Thackeray.English.srt"
+    },
+
+    {
+        "name": "Thalaivii",
+        "description": "The biopic charts the life of actor-turned-chief minister J. Jayalalitha and the relationship paving her rapid yet complicated path to power, who served five terms as the Chief Minister for the Indian state of Tamil Nadu.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Thalaivii/Thalaivii.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjYwOGFhZTgtODBmMi00NjUyLTk5MDUtNmQ3NDhjNmE5OWI3XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+        "genres": "Dramas,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi608419865?playlistId=tt10152736?ref_=ext_shr_lnk",
+        "cast": "Kangana Ranaut,Arvind Swamy,Nassar... more",
+        "time":"2h 33m",
+        "subtitle":"/Hindi_Movies/Thalaivii/Thalaivii.English.srt"
+    },
+
+
+    {
+        "name": "The Girl on the Train",
+        "description": "When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/The Girl on the Train/The Girl on the Train.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTAxMTNkMjAtMWUxYi00ZjIxLTlkNGQtMDQzYmZmMDkyNDFhXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
+        "genres": "Crime, Dramas, Mystery, Thriller,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi3276980505?playlistId=tt8907992?ref_=ext_shr_lnk",
+        "cast": "Parineeti Chopra,Tota Roy Chowdhury... more",
+        "time":"2h 8m",
+        "subtitle":"/Hindi_Movies/The Girl on the Train/The Girl on the Train.English.srt"
+    },
+
+    {
+        "name": "The White Tiger",
+        "description": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/The White Tiger/The White Tiger.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "genres": "Dramas,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi3440689433?playlistId=tt6571548?ref_=ext_shr_lnk",
+        "cast": "Adarsh Gourav,Rajkummar Rao,Priyanka Chopra Jonas... more",
+        "time":"2h 5m",
+        "subtitle":"/Hindi_Movies/The White Tiger/The White Tiger.English.srt"
+    },
+
+    {
+        "name": "'83",
+        "description": "On the 25th of June 1983, the Lord’s Cricket Ground witnessed one of the biggest underdog stories in the history of sports. Fourteen inspired players - led by a man's self-belief and conviction - fought against all odds and orchestrated India’s greatest sporting triumph by beating the two-time World Champions West Indies.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/_83/_83.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc0MWIzMjYtMDg4Mi00YmM3LWIxNGUtYjQ5NzBlZTM3YWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "genres": "Dramas, History,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi869647129?playlistId=tt7518786?ref_=ext_shr_lnk",
+        "cast": "Ranveer Singh,Pankaj Tripathi,Tahir Raj Bhasin... more",
+        "time":"2h 40m",
+        "subtitle":"/Hindi_Movies/_83/_83.English.srt"
+    },
+
+
+    {
+        "name": "Drive",
+        "description": "A getaway driver is attracted to a female neighbor whose husband owes money to a local gangster. As a result he is drawn deeper into a dangerous underworld.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Drive/Drive.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YjYxY2UtYzIxYS00ZjI3LWI0NWUtMDgxZjA5ZjBkZTE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+        "genres": "Action, Thriller,Hindi,Indian",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi754958105?playlistId=tt6593054?ref_=ext_shr_lnk",
+        "cast": "Sushant Singh Rajput,Jacqueline Fernandez... more",
+        "time":"2h 27m",
+        "subtitle":"/Hindi_Movies/Drive/Drive.English.srt"
+    },
+
+
+    {
+        "name": "Kurup",
+        "description": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Kurup/Kurup.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzkyOTcyMjctNTAxMC00YWJhLWJhYWUtMzY4MTBlZWNmODVkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+        "genres": "Thriller, Crime,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi2885075737?playlistId=tt7026666?ref_=ext_shr_lnk",
+        "cast": "Dulquer Salmaan,Sobhita Dhulipala... more",
+        "time":"2h 35m",
+        "subtitle":"/Hindi_Movies/Kurup/Kurup.English.srt"
+    },
+
+
+    {
+        "name": "Mimi",
+        "description": "An aspiring actress in a small town in Rajasthan agrees to bear a child for a visiting couple seeking a surrogate mother, but her experience takes an unexpected turn when they refuse to have the child anymore.",
+        "ageRestriction": "16",
+        "video": "/Hindi_Movies/Mimi/Mimi.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTkwMDQ4ZmEtNTdhNi00MmMzLTgwNTQtMDI1NDJjZjQ5Zjg5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+        "genres": "Comedy, Dramas,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi655015961?playlistId=tt10895576?ref_=ext_shr_lnk",
+        "cast": "Kriti Sanon,Pankaj Tripathi... more",
+        "time":"2h 12m",
+        "subtitle":"/Hindi_Movies/Mimi/Mimi.English.srt"
+    },
+
+    {
+        "name": "Tribhanga",
+        "description": "When her estranged mother falls into a coma, a self-made single mom grapples with regret and resentment while reflecting on their strained relationship.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzZkYzBhYjAtYTc1MC00NDVkLWJiY2EtNjcwNjJiMTEyYjE5XkEyXkFqcGdeQXVyMTEzMTU3MjI5._V1_FMjpg_UX1000_.jpg",
+        "genres": "Dramas, Family,Hindi,Indian",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1610858777?playlistId=tt11102314?ref_=ext_shr_lnk",
+        "cast": "Kajol,Tanvi Azmi... more",
+        "time":"1h 35m",
+        "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
+    },
+
+   {
     "name": "Decoupled",
     "description": "Follows a writer and his wife who announce their divorce with a party, which ends up exposing other absurd relationships in their world.",
     "ageRestriction": "16",
@@ -900,7 +899,46 @@
     "cast": "Madhavan,Surveen Chawla...more"
    },
 
-{
+  {
+    "name": "Indian Predator: The Butcher of Delhi",
+    "description": "Uncovering the details of gruesome killings, people who were at the epicentre talk about what went down.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
+    "series": "yes",
+    "subtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
+                         "stitle": "1.Episode 1",
+                         "stime": "42m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.mp4",
+                         "stitle": "2.Episode 2",
+                         "stime": "43m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.mp4",
+                         "stitle": "3.Episode 3",
+                         "stime": "40m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "genres": "Documentary, Crime, History,Indian,Hindi",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
+    "cast": "Manjit Singh,Sanjay Bansal,Jitendra Sharma...more"
+   },
+
+  {
     "name": "Little Things",
     "description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
     "ageRestriction": "16",
@@ -913,35 +951,35 @@
                          "svideos": "/Indian drama/Little Things/season 1/s1e1.mkv",
                          "stitle": "1.FOMO",
                          "stime": "16m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xyJuLoCkFCOQwSeDfWN5VLBj8c9.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNzg5N2NmYmEtZjk3My00MmY2LWIxNTEtOGVmMGQxYTU5NWZmXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 1/s1e1.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 1/s1e2.mkv",
                          "stitle": "2.Have a Nice Day",
                          "stime": "17m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bb2gQxy9NVUDvSw77CvG8x21k1H.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZWI4M2FkN2ItZTk1YS00ZjdjLWE0MzgtNWE0ODA0NzRhNmJmXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 1/s1e2.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 1/s1e3.mkv",
                          "stitle": "3.Good Night",
                          "stime": "13m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/boi9uFoz6CqqLCMHRrxRfjjwdo8.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNWYzMzM2OTctZTkwNC00YTRlLWFjNDktYWU3MTQ4OTYwM2ZiXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 1/s1e3.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 1/s1e4.mkv",
-                         "stitle": "4.Thank You!",
+                         "stitle": "4.Thank You",
                          "stime": "17m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/A2cx0xPFP9PfkoXnNZucTD8GUxk.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMmYyNTU2NTQtYjZjNy00NTNmLTljOTctZTdmZTJkYTc1NTJhXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 1/s1e4.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 1/s1e5.mkv",
-                         "stitle": "5.Here We Go!",
+                         "stitle": "5.Here We Go",
                          "stime": "16m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kZkVXFzdHU3TnoEQXXuO4Gdt24e.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BN2Y1M2YxNWItNWZmMS00YWFkLWEyNmUtOWRlOWY4ZmU5ZmFkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 1/s1e5.srt"
                      }
                      
@@ -951,56 +989,56 @@
                          "svideos": "/Indian drama/Little Things/season 2/s2e1.mkv",
                          "stitle": "1.Milk Cake",
                          "stime": "28m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4cGw4hutjRuZ7ykNrSKd5dCbyRY.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNWExNGMxYzgtODg2OS00NjJkLTlhNjctNThkMjViZGI2N2ExXkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 2/s2e1.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 2/s2e2.mkv",
                          "stitle": "2.Back Seat",
                          "stime": "25m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yQI1ZVtdyN1Y89IPNoa9E6yZb0B.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYjE0YTJmOWQtYzJkNC00ODNjLTk3NGQtMjkxMzNhMjAzOWUzXkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 2/s2e2.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 2/s2e3.mkv",
                          "stitle": "3.Cheeti Aur Haathi",
                          "stime": "22m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4nhpd5aNFbRWaxUWAWG7WTbCsfn.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOTYzNjI4NjMtYTYyYy00M2FjLWI0YTQtM2RjMmI4MzRjZjZlXkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 2/s2e3.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 2/s2e4.mkv",
                          "stitle": "4.Mumbai Darshan",
                          "stime": "26m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vMK46X4gYP4MPD0bGHEq5aNvc05.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNDdhYjMwYWMtY2UxYi00MzI1LTgzZTctOTIwNTgyMjdjNmFjXkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 2/s2e4.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 2/s2e5.mkv",
                          "stitle": "5.Leicester City F.C.",
                          "stime": "26m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3l2r7UpEnyxJC8ty1srcitzSXfz.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNzcwZWJmMDktYjk4NC00ZWY0LTk5ZjctODM1YjA3OTUxOWRlXkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 2/s2e5.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 2/s2e6.mkv",
-                        "stitle": "6.Bed & Breakfast",
+                        "stitle": "6.Bed and Breakfast",
                         "stime": "22m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fWwC6iQTtnPhqRzeQzlsBU1YRo4.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BYjUwMGMwM2YtZDYxOC00ZGNiLWIwYjEtNGI5NGI5YTU0NjU5XkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 2/s2e6.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 2/s2e7.mkv",
                         "stitle": "7.Baalti Aur Magga",
                         "stime": "23m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1VfU7dFoD54xS11lpI46iMO7oFw.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BODI0YTg3YTctNjQ1ZC00M2IyLTkwZWItNzA2NWJmNWU0ZGY4XkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 2/s2e7.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 2/s2e8.mkv",
-                        "stitle": "8.Where Are We?",
+                        "stitle": "8.Where Are We",
                         "stime": "23m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v2Z8dfX7rR5KU2PfKwtPFPafMMc.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BYmE4YjMyNWUtMWU5Ni00NzAxLWFlMDktN2U1OWIyY2RmYjQ4XkEyXkFqcGdeQXVyNjM0MjIzNA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 2/s2e8.srt"
                      }
                      
@@ -1010,56 +1048,56 @@
                          "svideos": "/Indian drama/Little Things/season 3/s3e1.mkv",
                          "stitle": "1.Migration",
                          "stime": "32m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ejmewdrK2WAwHfi1pgNci7kwhtM.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODZmM2FkNzktNDIzZS00MmQxLWI4MmMtMTg3MDY4MmVkYzZhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 3/s3e1.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 3/s3e2.mkv",
                          "stitle": "2.Today of all Days",
                          "stime": "25m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/q4imaAzJ2KfzGJYfVTrglRvsYuY.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMDAwZGNhMjQtZjE1My00YTQ0LWFkNTAtMDk2ODc1ZTAxYzM3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 3/s3e2.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 3/s3e3.mkv",
                          "stitle": "3.Rectangles",
                          "stime": "33m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sAYpde2zP0AehIi3pu8DKFmU32G.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZDlhYWQzNTktY2Y2ZS00NzAzLWE5NTQtNzZmMjIzNDY1NDY2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 3/s3e3.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 3/s3e4.mkv",
                          "stitle": "4.Senior Citizens",
                          "stime": "32m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xHVLdaTkZENDghC6EHjflQ8NPY4.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODI0NjA3NTgtMzkzNS00MWE3LTlmYTMtOTY3NzM5ODg2NTRjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY126_UX224_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 3/s3e4.srt"
                      },
                      {
                          "svideos": "/Indian drama/Little Things/season 3/s3e5.mkv",
                          "stitle": "5.Vertical Housing",
                          "stime": "38m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aeYVlLWguANKwQDmfM3EuAIefgl.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOTVkMGZlMTgtNGVjNy00ZDU5LTk4ZWYtYjdlNGVkMDg3ZTlhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 3/s3e5.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 3/s3e6.mkv",
                         "stitle": "6.Jet Lag",
                         "stime": "27m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qknOYARbch5uwOU7XnOhaTLrUq9.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BOWFlNDFjY2EtZjcwZi00M2UwLWI3ODctMGMzNjE2ZmQzZDRmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 3/s3e6.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 3/s3e7.mkv",
                         "stitle": "7.The Sum of our Past",
                         "stime": "30m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4Z68Rs26Ii9VAdWPFx0LrQO6iXn.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BOTFlY2RjNTctYzQ1OS00MmMwLWFiYzctZTg4NmNkZTVjNjA3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY126_UX224_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 3/s3e7.srt"
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 3/s3e8.mkv",
                         "stitle": "8.Migration II",
                         "stime": "29m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pmDxIvm38hgpnSYNa22vhZmtKuX.jpg",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BZDYyOWFmYjgtZmRmYS00NDI2LWE0ZTctNmY5OGE0OWJjZmQxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY126_UX224_AL_.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 3/s3e8.srt"
                      }
                      
@@ -1069,7 +1107,7 @@
                          "svideos": "/Indian drama/Little Things/season 4/s4e1.mkv",
                          "stitle": "1.Circles",
                          "stime": "28m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9Ztvy8EEWcyd1OVRhmMDddWhkPu.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BM2FkNGQ2Y2MtNGI3MS00NjcwLTllOGQtOGRiMTUzMGJhMmQ1XkEyXkFqcGdeQXVyMTI2MTkyNzI0._V1_UY126_CR5,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Little Things/season 4/s4e1.srt"
                      },
                      {
@@ -1109,7 +1147,7 @@
                      },
                      {
                         "svideos": "/Indian drama/Little Things/season 4/s4e7.mkv",
-                        "stitle": "7.What's This Party For?",
+                        "stitle": "7.What's This Party For",
                         "stime": "27m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cRHLoBOjl8jUI2M4aMejIJDnRII.jpg",
                         "ssubtitle":"/Indian drama/Little Things/season 4/s4e7.srt"
@@ -1124,59 +1162,20 @@
                      
          ]
         ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/x9OkwIYtXcqpq0dNbCE1dnj9MN9.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
     "genres": "Drama, Comedy,Hindi,Indian",
     "releaseDate": "2016",
     "trailer": "https://www.imdb.com/video/vi951042841/?ref_=ext_shr_lnk",
     "cast": "Mithila Palkar,Dhruv Sehgal...more"
    },
-   
-   {
-    "name": "Indian Predator: The Butcher of Delhi",
-    "description": "Uncovering the details of gruesome killings, people who were at the epicentre talk about what went down.",
-    "ageRestriction": "16",
-    "video": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
-    "series": "yes",
-    "subtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt",
-     "seriess":[
-         [
-                     {
-                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
-                         "stitle": "1.Episode 1",
-                         "stime": "42m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
-                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt"
-                     },
-                     {
-                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.mp4",
-                         "stitle": "2.Episode 2",
-                         "stime": "43m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
-                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.English.srt"
-                     },
-                     {
-                         "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.mp4",
-                         "stitle": "3.Episode 3",
-                         "stime": "40m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
-                         "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.English.srt"
-                     }
-         ]
-        ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
-    "genres": "Documentary, Crime, History,Indian,Hindi",
-    "releaseDate": "2022",
-    "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
-    "cast": "Manjit Singh,Sanjay Bansal,Jitendra Sharma...more"
-   },
 
- {
+  {
     "name": "Mai: A Mother's Rage",
     "description": "Upon accidentally killing a mafia leader, a middle-aged woman is unwittingly swept into the underworld, where her cult slowly gains renown.",
     "ageRestriction": "13",
     "video": "/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.mp4",
     "series": "yes",
-    "subtitle":"/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt",
+    "subtitle":"Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E01_Episode 1.English.srt",
      "seriess":[
          [
                          {
@@ -1221,18 +1220,506 @@
                          "simage": "https://m.media-amazon.com/images/M/MV5BMmY4MmQ0ZDUtZTY5Yi00YjgxLWFhNjYtYTVkN2E5ZDQzMThiXkEyXkFqcGdeQXVyMjM2NjIxMDI@._V1_UY126_CR7,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Mai_ A Mother_s Rage/season 1/Mai_ A Mother_s Rage_S01E06_Episode 6.English.srt"
                          }
-                        
-                         
-             ]
-             
+              ]
         ],
-        "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9MwIx1sJjq6xl1bwiDrOv2NEYkC.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTNiNzg1ZGEtODc4YS00OWQwLWI5NDctOTkzOGIwOGM4ODJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UX1000_.jpg",
        "genres": "Crime, Dramas, Mystery,Indian,Hindi",
        "releaseDate": "2022",
        "trailer": "https://www.imdb.com/video/vi3897344793/?ref_=ext_shr_lnk",
        "cast": "Sakshi Tanwar,Wamiqa Gabbi,Anant Vidhaat Sharma...more"
-},
-				  
+ },
+
+ {
+    "name": "Aranyak",
+    "description": "After a foreign teenage tourist goes missing in a misty village, Kasturi, a frazzled local cop, is forced to team up with her city-bred successor, Angad, on a high-profile case that unearths skeletons and resurrects a long-forgotten legend of a savage serial killer in the woods.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.mkv",
+                         "stitle": "1.Episode 1",
+                         "stime": "48m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pKuxr3Q19mY5yVwBOBTFNAqmw95.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E02_Episode 2.mkv",
+                         "stitle": "2.Episode 2",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yBMDZ31VBSOS5APg3vDtv582BrD.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E03_Episode 3.mkv",
+                         "stitle": "3.Episode 3",
+                         "stime": "41m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xXlbl6a9SLtonMZ9zJQpaBDqQJj.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E03_Episode 3.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E04_Episode 4.mkv",
+                         "stitle": "4.Episode 4",
+                         "stime": "37m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tiQSstyR8thkKzxPFUdUXUN894b.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E04_Episode 4.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E05_Episode 5.mkv",
+                         "stitle": "5.Episode 5",
+                         "stime": "37m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uxHBEFAxWx2maDvUOKz7hrQPTO1.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E05_Episode 5.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E06_Episode 6.mkv",
+                         "stitle": "6.Episode 6",
+                         "stime": "39m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qAGc5wq8mU0OsFp8rkQEb7oaDax.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E06_Episode 6.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E07_Episode 7.mkv",
+                         "stitle": "7.Episode 7",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hoJKA7TnO66LA9FieEvgfq0GiS7.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E07_Episode 7.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E08_Episode 8.mkv",
+                         "stitle": "8.Episode 8",
+                         "stime": "44m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7UDVuqKOISdRp2xFOsKtK37UsKS.jpg",
+                         "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E08_Episode 8.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjQ2NDVjYjItNmIxNC00NDQ1LTgzOTctM2ExMTA0ZjlhZTgxXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_FMjpg_UX1000_.jpg",
+    "genres": "Crime, Dramas, Mystery,Hindi,Indian",
+    "releaseDate": "2021",
+    "trailer": "https://www.imdb.com/video/vi2095956761?playlistId=tt14167344?ref_=ext_shr_lnk",
+    "cast": "Raveena Tandon,Ashutosh Rana,Parambrata Chatterjee...more"
+   },
+
+   {
+    "name": "Delhi Crime",
+    "description": "As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
+                         "stitle": "1.Episode 1",
+                         "stime": "1h 4m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZGJmZmRkMTEtMWJiMi00YzI4LTk5NzAtZGYzNjEzODI3ZDkwXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UY126_CR4,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.mkv",
+                         "stitle": "2.Episode 2",
+                         "stime": "48m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYzJlZGU5NjEtNTQxMi00NGRkLThiZWQtZGVmOGJkMzgyNGFmXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.mkv",
+                         "stitle": "3.Episode 3",
+                         "stime": "53m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOGY4NTZmNzEtYTRhMC00MzJhLWFmYzctZTBhMWIzMGJkYjAyXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.mkv",
+                         "stitle": "4.Episode 4",
+                         "stime": "50m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMjY2NTEzMTQtNjEzZS00OTdkLWE5MjYtMTRmZjgxOTE2OWUzXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.mkv",
+                         "stitle": "5.Episode 5",
+                         "stime": "50m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNTg2ZDFmNWQtOWQwYi00NDJmLWI2NWUtOTViNzUzMWY3ODUzXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.mkv",
+                         "stitle": "6.Episode 6",
+                         "stime": "44m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOGIyNWUwZDItZjg5ZC00OWIxLWIwYzUtMGU4M2I5ODg3MzY3XkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UY126_CR6,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.mkv",
+                         "stitle": "7.Episode 7",
+                         "stime": "49m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOWExZWI2NjYtYjUyMC00YTVhLWFiNWMtZTJmNzRkOTliZTQ1XkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.English (CC).srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "genres": "crime,Dramas,Hindi,Indian",
+    "releaseDate": "2019",
+    "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
+    "cast": "Shefali Shah,Rasika Dugal,Sanjay Bishnoi...more"
+   },
+
+   {
+    "name": "House of Secrets: The Burari Deaths",
+    "description": "Suicide, murder... or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.English.srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.mkv",
+                         "stitle": "1.11 Bodies",
+                         "stime": "46m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wE6xyAgGocd3KiWfnOJgyBvQEoP.jpg",
+                         "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E02_11 Diaries.mkv",
+                         "stitle": "2.11 Diaries",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/s59kq7JffooNX87e2BYQQQq24Xf.jpg",
+                         "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E02_11 Diaries.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E03_Beyond 11.mkv",
+                         "stitle": "3.Beyond 11",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4MSNjYuVLnM676cTLyk8HXy0fjv.jpg",
+                         "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E03_Beyond 11.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmVhNDY4ODEtMGY2My00MDZjLThjMmItYTE0OGYyMjJjZTkwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+    "genres": "Documentary, Crime,Hindi,Indian",
+    "releaseDate": "2021",
+    "trailer": "https://www.imdb.com/video/vi1368638233?playlistId=tt14167390?ref_=ext_shr_lnk",
+    "cast": "Manoj Kumar,Naresh Bhatia...more"
+   },
+
+   {
+    "name": "Jamtara – Sabka Number Ayega",
+    "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.mkv",
+                         "stitle": "1.Episode 1",
+                         "stime": "34m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tLgXpPB56gKHOu80eDCWOLe2WTy.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E02_Episode 2.mkv",
+                         "stitle": "2.Episode 2",
+                         "stime": "27m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7hoOs4MA8FI3AkeD57m6kSb1jzP.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E03_Episode 3.mkv",
+                         "stitle": "3.Episode 3",
+                         "stime": "23m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b6nonHIbVi3HFMthy2wdzINoWFK.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E03_Episode 3.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E04_Episode 4.mkv",
+                         "stitle": "4.Episode 4",
+                         "stime": "23m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pexDzffRnqavUBEbGnLi8dZ07y3.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E04_Episode 4.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E05_Episode 5.mkv",
+                         "stitle": "5.Episode 5",
+                         "stime": "27m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rwNbkxaKHpUuiI9QB2q7DMuKpg8.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E05_Episode 5.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E06_Episode 6.mkv",
+                         "stitle": "6.Episode 6",
+                         "stime": "25m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iaKbk1JNyaHWXvjF2wlR5dWhFYA.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E06_Episode 6.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E07_Episode 7.mkv",
+                         "stitle": "7.Episode 7",
+                         "stime": "30m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xCKRdjpInvRpz0w7LG1hWBaHlyb.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E07_Episode 7.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E08_Episode 8.mkv",
+                         "stitle": "8.Episode 8",
+                         "stime": "25m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fT0iell9hMbLHOj59xMuzqkr1Y6.jpg",
+                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E08_Episode 8.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E09_Episode 9.mkv",
+                        "stitle": "9.Episode 9",
+                        "stime": "23m",
+                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/20qzsexQJEZuRaOB1OPWsNRQQes.jpg",
+                        "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E09_Episode 9.English.srt"
+                    },
+                    {
+                        "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E10_Episode 10.mkv",
+                        "stitle": "10.Episode 10",
+                        "stime": "49m",
+                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ioVv1RGgYriRMf5mRStdfhHaSEJ.jpg",
+                        "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E10_Episode 10.English.srt"
+                    }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "genres": "Dramas,crime,Hindi,Indian",
+    "releaseDate": "2020",
+    "trailer": "https://www.imdb.com/video/vi1157873433?playlistId=tt11150912?ref_=ext_shr_lnk",
+    "cast": "Amit Sial,Dibyendu Bhattacharya...more"
+   },
+
+   {
+    "name": "Kota Factory",
+    "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives.",
+    "ageRestriction": "13",
+    "video": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.English.srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.mkv",
+                         "stitle": "1.Inventory",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ju8lcylvAqKfXUHgbLZNKGqFH2i.jpg",
+                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E02_Assembly Line.mkv",
+                         "stitle": "2.Assembly Line",
+                         "stime": "30m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hbMef0M7CwR7RTyaf4ROogSMNrV.jpg",
+                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E02_Assembly Line.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E03_Optimization.mkv",
+                         "stitle": "3.Optimization",
+                         "stime": "36m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nOZGwVvDhCj3g1un1aO6iErFQif.jpg",
+                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E03_Optimization.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E04_Shutdown.mkv",
+                         "stitle": "4.Shut Down",
+                         "stime": "39m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m8pbCvrnDmvT5Qm9kfe4M8BA3RL.jpg",
+                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E04_Shutdown.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E05_Overhaul.mkv",
+                         "stitle": "5.Overhaul",
+                         "stime": "40m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/g0BboQL6aNNARflbBVQqvt3yrys.jpg",
+                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E05_Overhaul.English.srt"
+                     }
+         ],
+         [
+            {
+                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E01_Reasoning.mkv",
+                "stitle": "1.Reasoning",
+                "stime": "44m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2Ff1wmqkematI62qEOC1KtLvaG9.jpg",
+                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E01_Reasoning.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E02_Control System.mkv",
+                "stitle": "2.Control System",
+                "stime": "44m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rcYIvblpZrQ2AVcgEsbhTe4AFUN.jpg",
+                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E02_Control System.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E03_Atmospheric Pressure.mkv",
+                "stitle": "3.Atmospheric Pressure",
+                "stime": "31m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uEPNYkPod6taNKbO0EIkfmJplpo.jpg",
+                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E03_Atmospheric Pressure.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E04_Repair and Maintenance.mkv",
+                "stitle": "4.Repair and Maintenance",
+                "stime": "38m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1KNZrwpVKgBcfCMk1zWYaAPjO8X.jpg",
+                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E04_Repair and Maintenance.English.srt"
+            },
+            {
+                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E05_Packaging.mkv",
+                "stitle": "5.Packaging",
+                "stime": "39m",
+                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3YpAEPtGaZTRkr8UNDr6TD4sjI.jpg",
+                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E05_Packaging.English.srt"
+            }
+]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_FMjpg_UX1000_.jpg",
+    "genres": "Comedy, Dramas,Hindi,Indian",
+    "releaseDate": "2021",
+    "trailer": "https://www.imdb.com/video/vi2336866329?playlistId=tt9432978?ref_=ext_shr_lnk",
+    "cast": "Mayur More,Revathi Pillai...more"
+   },
+
+
+   {
+    "name": "Sacred Games",
+    "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+    "ageRestriction": "18",
+    "video": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.English (CC).srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.mkv",
+                         "stitle": "1.Ashwatthama",
+                         "stime": "51m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5g6zTdkA9Y1JighRtRtpC4XJF6n.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E02_Halahala.mkv",
+                         "stitle": "2.Halahala",
+                         "stime": "50m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Mj2Fb6Rwt4igBaEkboMNgeY7zO.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E02_Halahala.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E03_Atapi Vatapi.mkv",
+                         "stitle": "3.Atapi Vatapi",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rTUiDJDOhkUM4MDyzTFSD78VufR.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E03_Atapi Vatapi.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E04_Brahmahatya.mkv",
+                         "stitle": "4.Brahmahatya",
+                         "stime": "54m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6m8gZ7OdFiRUSMsVLWBk6uhPPxv.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E04_Brahmahatya.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E05_Sarama.mkv",
+                         "stitle": "5.Sarama",
+                         "stime": "44m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1Jpb427R2YYx1Tp46hLpLNssfsK.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E05_Sarama.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E06_Pretakalpa.mkv",
+                         "stitle": "6.Pretakalpa",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3T4LapZxpQU4eSfh7w6PQwrbMlo.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E06_Pretakalpa.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E07_Rudra.mkv",
+                         "stitle": "7.Rudra",
+                         "stime": "43m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3CC6Cppkjj8vHlYCfY9nPioLQy8.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E07_Rudra.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E08_Yayati.mkv",
+                         "stitle": "8.Yayati",
+                         "stime": "47m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gy09MoYzfIJZhXW7XqQ1bUamVbd.jpg",
+                         "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E08_Yayati.English (CC).srt"
+                     }
+         ],
+         [
+            {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E01_Matsya.mkv",
+            "stitle": "1.Matsya",
+            "stime": "56m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vk8luyuT65FjaZkvUzu2NPJ7CCo.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E01_Matsya.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E02_Siduri.mkv",
+            "stitle": "2.Siduri",
+            "stime": "48m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t92vQUHiFjkKfzHPwoZOOzFzbwX.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E02_Siduri.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E03_Apasmara.mkv",
+            "stitle": "3.Apasmara",
+            "stime": "52m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a8FXdxlZ2PQoT2pf3h5omJjvNeW.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E03_Apasmara.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E04_Bardo.mkv",
+            "stitle": "4.Bardo",
+            "stime": "54m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2ikO2tLVdvwWsKsNQVoQ9dWMkw9.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E04_Bardo.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E05_Vikarna.mkv",
+            "stitle": "5.Vikarna",
+            "stime": "48m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ytSP3gd0XD3XUnCABXxKTHTXRXs.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E05_Vikarna.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E06_Azrael.mkv",
+            "stitle": "6.Azrael",
+            "stime": "41m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7gbICZwMzkeqfDxFhv2hT7msByP.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E06_Azrael.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E07_Torino.mkv",
+            "stitle": "7.Torino",
+            "stime": "47m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ov8G75tT7kSKw8tpKN48eMsmm7.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E07_Torino.English (CC).srt"
+        },
+        {
+            "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E08_Radcliffe.mkv",
+            "stitle": "8.Radcliffe",
+            "stime": "58m",
+            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2xrmh6yLpQNa4g8fy2GUqR10S66.jpg",
+            "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E08_Radcliffe.English (CC).srt"
+        }
+  ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTMzYTQ1NzAtOGY4OC00ZGM5LThiMmUtMzgzZjgzNzNjZjJmXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_.jpg",
+    "genres": "Dramas, Crime, Action & Adventure,Hindi,Indian",
+    "releaseDate": "2019",
+    "trailer": "https://www.imdb.com/video/vi4271749913?playlistId=tt6077448?ref_=ext_shr_lnk",
+    "cast": "Saif Ali Khan,Chittaranjan Tripathy,Nawazuddin Siddiqui,Pankaj Tripathi...more"
+   },
+
    {
     "name": "She",
     "description": "An undercover assignment to expose a drug ring becomes a timid Mumbai constable's road to empowerment as she realizes her dormant sexuality's potential.",
@@ -1345,648 +1832,159 @@
         ]
 
         ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w220_and_h330_face/9E0SwQPvaMStoSCWGefXXjWhpXL.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
     "genres": "Crime, Dramas,Hindi,Indian",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi1353235993?playlistId=tt11905720?ref_=ext_shr_lnk",
     "cast": "Aaditi Pohankar,Vijay Varma...more"
    },
 
-{
-        "name": "Aranyak",
-        "description": "After a foreign teenage tourist goes missing in a misty village, Kasturi, a frazzled local cop, is forced to team up with her city-bred successor, Angad, on a high-profile case that unearths skeletons and resurrects a long-forgotten legend of a savage serial killer in the woods.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.English.srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.mkv",
-                             "stitle": "1.Episode 1",
-                             "stime": "48m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pKuxr3Q19mY5yVwBOBTFNAqmw95.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E01_Episode 1.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E02_Episode 2.mkv",
-                             "stitle": "2.Episode 2",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yBMDZ31VBSOS5APg3vDtv582BrD.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E02_Episode 2.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E03_Episode 3.mkv",
-                             "stitle": "3.Episode 3",
-                             "stime": "41m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xXlbl6a9SLtonMZ9zJQpaBDqQJj.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E03_Episode 3.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E04_Episode 4.mkv",
-                             "stitle": "4.Episode 4",
-                             "stime": "37m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tiQSstyR8thkKzxPFUdUXUN894b.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E04_Episode 4.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E05_Episode 5.mkv",
-                             "stitle": "5.Episode 5",
-                             "stime": "37m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uxHBEFAxWx2maDvUOKz7hrQPTO1.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E05_Episode 5.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E06_Episode 6.mkv",
-                             "stitle": "6.Episode 6",
-                             "stime": "39m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qAGc5wq8mU0OsFp8rkQEb7oaDax.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E06_Episode 6.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E07_Episode 7.mkv",
-                             "stitle": "7.Episode 7",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hoJKA7TnO66LA9FieEvgfq0GiS7.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E07_Episode 7.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Aranyak/season 1/Aranyak_S01E08_Episode 8.mkv",
-                             "stitle": "8.Episode 8",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7UDVuqKOISdRp2xFOsKtK37UsKS.jpg",
-                             "ssubtitle":"/Indian drama/Aranyak/season 1/Aranyak_S01E08_Episode 8.English.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3YgODvXTkNiYBbiqv56yHDVuZkZ.jpg",
-        "genres": "Crime, Dramas, Mystery,Hindi,Indian",
-        "releaseDate": "2021",
-        "trailer": "https://www.imdb.com/video/vi2095956761?playlistId=tt14167344?ref_=ext_shr_lnk",
-        "cast": "Raveena Tandon,Ashutosh Rana,Parambrata Chatterjee...more"
-       },
-
-       {
-        "name": "Delhi Crime",
-        "description": "As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
-                             "stitle": "1.Episode 1",
-                             "stime": "1h 4m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2IQWgbtP22ejwcHjw5TpemZqxIq.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.mkv",
-                             "stitle": "2.Episode 2",
-                             "stime": "48m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dqUFpiZA3cnTOEfnHbYlQOjFO6I.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.mkv",
-                             "stitle": "3.Episode 3",
-                             "stime": "53m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rDPupZFmxJBJdErpNnQyxyCFwfn.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.mkv",
-                             "stitle": "4.Episode 4",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cLSkNAT63VnjHudhNKLYcBdNAet.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.mkv",
-                             "stitle": "5.Episode 5",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oy0kioa2P4LmiFwtEdiS9zCFGKA.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.mkv",
-                             "stitle": "6.Episode 6",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5INdr8e3kddddUzsk3ejeapVzwc.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.mkv",
-                             "stitle": "7.Episode 7",
-                             "stime": "49m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1GVslKIEjA0gIIdd7lHXPjrQuzO.jpg",
-                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.English (CC).srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aBmLuVY4OmVv7FldtvNiITaqvV0.jpg",
-        "genres": "crime,Dramas,Hindi,Indian",
-        "releaseDate": "2019",
-        "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
-        "cast": "Shefali Shah,Rasika Dugal,Sanjay Bishnoi...more"
-       },
-
-       {
-        "name": "House of Secrets: The Burari Deaths",
-        "description": "Suicide, murder... or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.English.srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.mkv",
-                             "stitle": "1.11 Bodies",
-                             "stime": "46m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wE6xyAgGocd3KiWfnOJgyBvQEoP.jpg",
-                             "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E01_11 Bodies.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E02_11 Diaries.mkv",
-                             "stitle": "2.11 Diaries",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/s59kq7JffooNX87e2BYQQQq24Xf.jpg",
-                             "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E02_11 Diaries.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E03_Beyond 11.mkv",
-                             "stitle": "3.Beyond 11",
-                             "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4MSNjYuVLnM676cTLyk8HXy0fjv.jpg",
-                             "ssubtitle":"/Indian drama/House of Secrets_ The Burari Deaths/season 1/House of Secrets_ The Burari Deaths_S01E03_Beyond 11.English.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cao9YvzYZoP6ms5OZGS4xsq0y00.jpg",
-        "genres": "Documentary, Crime,Hindi,Indian",
-        "releaseDate": "2021",
-        "trailer": "https://www.imdb.com/video/vi1368638233?playlistId=tt14167390?ref_=ext_shr_lnk",
-        "cast": "Manoj Kumar,Naresh Bhatia...more"
-       },
-
-       {
-        "name": "Jamtara – Sabka Number Ayega",
-        "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.English.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.mkv",
-                             "stitle": "1.Episode 1",
-                             "stime": "34m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tLgXpPB56gKHOu80eDCWOLe2WTy.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E01_Episode 1.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E02_Episode 2.mkv",
-                             "stitle": "2.Episode 2",
-                             "stime": "27m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7hoOs4MA8FI3AkeD57m6kSb1jzP.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E02_Episode 2.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E03_Episode 3.mkv",
-                             "stitle": "3.Episode 3",
-                             "stime": "23m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b6nonHIbVi3HFMthy2wdzINoWFK.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E03_Episode 3.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E04_Episode 4.mkv",
-                             "stitle": "4.Episode 4",
-                             "stime": "23m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pexDzffRnqavUBEbGnLi8dZ07y3.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E04_Episode 4.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E05_Episode 5.mkv",
-                             "stitle": "5.Episode 5",
-                             "stime": "27m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rwNbkxaKHpUuiI9QB2q7DMuKpg8.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E05_Episode 5.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E06_Episode 6.mkv",
-                             "stitle": "6.Episode 6",
-                             "stime": "25m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iaKbk1JNyaHWXvjF2wlR5dWhFYA.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E06_Episode 6.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E07_Episode 7.mkv",
-                             "stitle": "7.Episode 7",
-                             "stime": "30m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xCKRdjpInvRpz0w7LG1hWBaHlyb.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E07_Episode 7.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E08_Episode 8.mkv",
-                             "stitle": "8.Episode 8",
-                             "stime": "25m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fT0iell9hMbLHOj59xMuzqkr1Y6.jpg",
-                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E08_Episode 8.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E09_Episode 9.mkv",
-                            "stitle": "9.Episode 9",
-                            "stime": "23m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/20qzsexQJEZuRaOB1OPWsNRQQes.jpg",
-                            "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E09_Episode 9.English.srt"
-                        },
-                        {
-                            "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E10_Episode 10.mkv",
-                            "stitle": "10.Episode 10",
-                            "stime": "49m",
-                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ioVv1RGgYriRMf5mRStdfhHaSEJ.jpg",
-                            "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E10_Episode 10.English.srt"
-                        }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/t2sDRsnuLRkfY15kzL57dPFDMmJ.jpg",
-        "genres": "Dramas,crime,Hindi,Indian",
-        "releaseDate": "2020",
-        "trailer": "https://www.imdb.com/video/vi1157873433?playlistId=tt11150912?ref_=ext_shr_lnk",
-        "cast": "Amit Sial,Dibyendu Bhattacharya...more"
-       },
-
    {
-    "name": "Kota Factory",
-    "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives.",
-    "ageRestriction": "13",
-    "video": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.mkv",
+    "name": "Yeh Kaali Kaali Ankhein",
+    "description": "Relentlessly pursued by a powerful politician’s daughter who will do anything to make him hers, a man slips down a dark, risky path to reclaim his life.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.mkv",
     "series": "yes",
-    "subtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.English.srt",
+    "subtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.English.srt",
      "seriess":[
          [
-                     {
-                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.mkv",
-                         "stitle": "1.Inventory",
-                         "stime": "47m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ju8lcylvAqKfXUHgbLZNKGqFH2i.jpg",
-                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E01_Inventory.English.srt"
+                         {
+                         "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.mkv",
+                         "stitle": "1.Teri Baari Hai",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eNY7Gk1wgwE3qClIPPwoc286mbV.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.English.srt"
                      },
                      {
-                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E02_Assembly Line.mkv",
-                         "stitle": "2.Assembly Line",
-                         "stime": "30m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hbMef0M7CwR7RTyaf4ROogSMNrV.jpg",
-                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E02_Assembly Line.English.srt"
-                     },
-                     {
-                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E03_Optimization.mkv",
-                         "stitle": "3.Optimization",
-                         "stime": "36m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nOZGwVvDhCj3g1un1aO6iErFQif.jpg",
-                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E03_Optimization.English.srt"
-                     },
-                     {
-                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E04_Shutdown.mkv",
-                         "stitle": "4.Shut Down",
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E02_Band Toh Bajega.mkv",
+                         "stitle": "2.Band Toh Bajega",
                          "stime": "39m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/m8pbCvrnDmvT5Qm9kfe4M8BA3RL.jpg",
-                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E04_Shutdown.English.srt"
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xRvnZd3lB2i5Fjf4JftUVJpsFi4.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E02_Band Toh Bajega.English.srt"
                      },
                      {
-                         "svideos": "/Indian drama/Kota Factory/season 1/Kota Factory_S01E05_Overhaul.mkv",
-                         "stitle": "5.Overhaul",
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E03_Bandook Aur Hawaii Chappal.mkv",
+                         "stitle": "3.Bandook Aur Hawaii Chappal",
+                         "stime": "31m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yRJoPm2biS0yTzIZIJksxBKF7Cb.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E03_Bandook Aur Hawaii Chappal.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E04_4 Goliyaan.mkv",
+                         "stitle": "4.4 Goliyaan",
                          "stime": "40m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/g0BboQL6aNNARflbBVQqvt3yrys.jpg",
-                         "ssubtitle":"/Indian drama/Kota Factory/season 1/Kota Factory_S01E05_Overhaul.English.srt"
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oToJ2UxFsKA7RY2PfinXSLT5ohT.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E04_4 Goliyaan.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E05_Do You Love Me.mkv",
+                         "stitle": "5.Do You Love Me?",
+                         "stime": "42m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/f1D3grC9wVymHIoye039ReeQF68.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E05_Do You Love Me.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E06_Jack and Jill.mkv",
+                         "stitle": "6.Jack and Jill",
+                         "stime": "38m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eWxe8uWVDEQJ30pmaLdIoOm5iRn.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E06_Jack and Jill.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E07_Seedha Sa Plan.mkv",
+                         "stitle": "7.Seedha Sa Plan",
+                         "stime": "39m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qYoK79Eq8zbvqxftODShQU3ckaE.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E07_Seedha Sa Plan.English.srt"
+                     },
+                     {
+                        "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E08_The Crying Game.mkv",
+                         "stitle": "8.The Crying Game",
+                         "stime": "51m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ghpcbaoTGKsmQqn5EpFqlHfuxMe.jpg",
+                         "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E08_The Crying Game.English.srt"
                      }
-         ],
-         [
-            {
-                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E01_Reasoning.mkv",
-                "stitle": "1.Reasoning",
-                "stime": "44m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2Ff1wmqkematI62qEOC1KtLvaG9.jpg",
-                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E01_Reasoning.English.srt"
-            },
-            {
-                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E02_Control System.mkv",
-                "stitle": "2.Control System",
-                "stime": "44m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rcYIvblpZrQ2AVcgEsbhTe4AFUN.jpg",
-                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E02_Control System.English.srt"
-            },
-            {
-                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E03_Atmospheric Pressure.mkv",
-                "stitle": "3.Atmospheric Pressure",
-                "stime": "31m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uEPNYkPod6taNKbO0EIkfmJplpo.jpg",
-                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E03_Atmospheric Pressure.English.srt"
-            },
-            {
-                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E04_Repair and Maintenance.mkv",
-                "stitle": "4.Repair & Maintenance",
-                "stime": "38m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1KNZrwpVKgBcfCMk1zWYaAPjO8X.jpg",
-                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E04_Repair and Maintenance.English.srt"
-            },
-            {
-                "svideos": "/Indian drama/Kota Factory/season 2/Kota Factory_S02E05_Packaging.mkv",
-                "stitle": "5.Packaging",
-                "stime": "39m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n3YpAEPtGaZTRkr8UNDr6TD4sjI.jpg",
-                "ssubtitle":"/Indian drama/Kota Factory/season 2/Kota Factory_S02E05_Packaging.English.srt"
-            }
-]
+         ]
         ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/7Pi6b2gFgwKtxniTqFQNxHPsJQ.jpg",
-    "genres": "Comedy, Dramas,Hindi,Indian",
-    "releaseDate": "2021",
-    "trailer": "https://www.imdb.com/video/vi2336866329?playlistId=tt9432978?ref_=ext_shr_lnk",
-    "cast": "Mayur More,Revathi Pillai...more"
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGUyOGFjYjEtYjU3YS00MzA3LTlmZjctMzQ2NDE1ZWM1YjdjXkEyXkFqcGdeQXVyNDE1OTM1NTE@._V1_.jpg",
+    "genres": "Crime, Dramas, Mystery,Hindi,Indian",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi423215897?playlistId=tt14160712?ref_=ext_shr_lnk",
+    "cast": "Tahir Raj Bhasin,Shweta Tripathi...more"
    },
-   
-      {
-        "name": "Sacred Games",
-        "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
-        "ageRestriction": "18",
-        "video": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.English (CC).srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.mkv",
-                             "stitle": "1.Ashwatthama",
-                             "stime": "51m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5g6zTdkA9Y1JighRtRtpC4XJF6n.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E01_Ashwathama.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E02_Halahala.mkv",
-                             "stitle": "2.Halahala",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Mj2Fb6Rwt4igBaEkboMNgeY7zO.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E02_Halahala.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E03_Atapi Vatapi.mkv",
-                             "stitle": "3.Atapi Vatapi",
-                             "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rTUiDJDOhkUM4MDyzTFSD78VufR.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E03_Atapi Vatapi.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E04_Brahmahatya.mkv",
-                             "stitle": "4.Brahmahatya",
-                             "stime": "54m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6m8gZ7OdFiRUSMsVLWBk6uhPPxv.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E04_Brahmahatya.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E05_Sarama.mkv",
-                             "stitle": "5.Sarama",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1Jpb427R2YYx1Tp46hLpLNssfsK.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E05_Sarama.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E06_Pretakalpa.mkv",
-                             "stitle": "6.Pretakalpa",
-                             "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3T4LapZxpQU4eSfh7w6PQwrbMlo.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E06_Pretakalpa.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E07_Rudra.mkv",
-                             "stitle": "7.Rudra",
-                             "stime": "43m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3CC6Cppkjj8vHlYCfY9nPioLQy8.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E07_Rudra.English (CC).srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Sacred Games/season 1/Sacred Games_S01E08_Yayati.mkv",
-                             "stitle": "8.Yayati",
-                             "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gy09MoYzfIJZhXW7XqQ1bUamVbd.jpg",
-                             "ssubtitle":"/Indian drama/Sacred Games/season 1/Sacred Games_S01E08_Yayati.English (CC).srt"
-                         }
-             ],
-             [
-                {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E01_Matsya.mkv",
-                "stitle": "1.Matsya",
-                "stime": "56m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vk8luyuT65FjaZkvUzu2NPJ7CCo.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E01_Matsya.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E02_Siduri.mkv",
-                "stitle": "2.Siduri",
-                "stime": "48m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t92vQUHiFjkKfzHPwoZOOzFzbwX.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E02_Siduri.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E03_Apasmara.mkv",
-                "stitle": "3.Apasmara",
-                "stime": "52m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a8FXdxlZ2PQoT2pf3h5omJjvNeW.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E03_Apasmara.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E04_Bardo.mkv",
-                "stitle": "4.Bardo",
-                "stime": "54m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2ikO2tLVdvwWsKsNQVoQ9dWMkw9.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E04_Bardo.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E05_Vikarna.mkv",
-                "stitle": "5.Vikarna",
-                "stime": "48m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ytSP3gd0XD3XUnCABXxKTHTXRXs.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E05_Vikarna.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E06_Azrael.mkv",
-                "stitle": "6.Azrael",
-                "stime": "41m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7gbICZwMzkeqfDxFhv2hT7msByP.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E06_Azrael.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E07_Torino.mkv",
-                "stitle": "7.Torino",
-                "stime": "47m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ov8G75tT7kSKw8tpKN48eMsmm7.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E07_Torino.English (CC).srt"
-            },
-            {
-                "svideos": "/Indian drama/Sacred Games/season 2/Sacred Games_S02E08_Radcliffe.mkv",
-                "stitle": "8.Radcliffe",
-                "stime": "58m",
-                "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2xrmh6yLpQNa4g8fy2GUqR10S66.jpg",
-                "ssubtitle":"/Indian drama/Sacred Games/season 2/Sacred Games_S02E08_Radcliffe.English (CC).srt"
-            }
-      ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uEbNtFbK4At9WBDGap23lt1qO9n.jpg",
-        "genres": "Dramas, Crime, Action & Adventure,Hindi,Indian",
-        "releaseDate": "2019",
-        "trailer": "https://www.imdb.com/video/vi4271749913?playlistId=tt6077448?ref_=ext_shr_lnk",
-        "cast": "Saif Ali Khan,Chittaranjan Tripathy,Nawazuddin Siddiqui,Pankaj Tripathi...more"
-       },
 
-       {
-        "name": "Yeh Kaali Kaali Ankhein",
-        "description": "Relentlessly pursued by a powerful politician’s daughter who will do anything to make him hers, a man slips down a dark, risky path to reclaim his life.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.English.srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.mkv",
-                             "stitle": "1.Teri Baari Hai",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eNY7Gk1wgwE3qClIPPwoc286mbV.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E01_Teri Baari Hai.English.srt"
-                         },
+   {
+    "name": "The Fame Game",
+    "description": "When India's most famous actress goes missing, the search for her chips away at the flawless facade of her life and family, revealing painful truths.",
+    "ageRestriction": "16",
+    "video": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.mkv",
+    "series": "yes",
+    "subtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
                          {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E02_Band Toh Bajega.mkv",
-                             "stitle": "2.Band Toh Bajega",
-                             "stime": "39m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xRvnZd3lB2i5Fjf4JftUVJpsFi4.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E02_Band Toh Bajega.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E03_Bandook Aur Hawaii Chappal.mkv",
-                             "stitle": "3.Bandook Aur Hawaii Chappal",
-                             "stime": "31m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yRJoPm2biS0yTzIZIJksxBKF7Cb.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E03_Bandook Aur Hawaii Chappal.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E04_4 Goliyaan.mkv",
-                             "stitle": "4.4 Goliyaan",
-                             "stime": "40m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oToJ2UxFsKA7RY2PfinXSLT5ohT.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E04_4 Goliyaan.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E05_Do You Love Me.mkv",
-                             "stitle": "5.Do You Love Me?",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/f1D3grC9wVymHIoye039ReeQF68.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E05_Do You Love Me.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E06_Jack and Jill.mkv",
-                             "stitle": "6.Jack and Jill",
-                             "stime": "38m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eWxe8uWVDEQJ30pmaLdIoOm5iRn.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E06_Jack and Jill.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E07_Seedha Sa Plan.mkv",
-                             "stitle": "7.Seedha Sa Plan",
-                             "stime": "39m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qYoK79Eq8zbvqxftODShQU3ckaE.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E07_Seedha Sa Plan.English.srt"
-                         },
-                         {
-                            "svideos": "/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E08_The Crying Game.mkv",
-                             "stitle": "8.The Crying Game",
-                             "stime": "51m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ghpcbaoTGKsmQqn5EpFqlHfuxMe.jpg",
-                             "ssubtitle":"/Indian drama/Yeh Kaali Kaali Ankhein/season 1/Yeh Kaali Kaali Ankhein_S01E08_The Crying Game.English.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cyHFgiRHBW3DP43x0vw2gpBpBUx.jpg",
-        "genres": "Crime, Dramas, Mystery,Hindi,Indian",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi423215897?playlistId=tt14160712?ref_=ext_shr_lnk",
-        "cast": "Tahir Raj Bhasin,Shweta Tripathi...more"
-       },
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.mkv",
+                         "stitle": "1.Episode 1",
+                         "stime": "46m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1g9yHn0qxsfTOAljbtI8jj1DIy.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E02_Episode 2.mkv",
+                         "stitle": "2.Episode 2",
+                         "stime": "46m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5kCip8nfPHoeWM0OdXdVmfJpfDK.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E03_Episode 3.mkv",
+                         "stitle": "3.Episode 3",
+                         "stime": "44m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/adEvDtBm6UpIkB2EjzpmNxwYufq.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E03_Episode 3.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E04_Episode 4.mkv",
+                         "stitle": "4.Episode 4",
+                         "stime": "46m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ezheLKNPaz2dJ5ktpwJ4zJHUzbG.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E04_Episode 4.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E05_Episode 5.mkv",
+                         "stitle": "5.Episode 5",
+                         "stime": "43m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cnZ0aIB00A8ohu4tLOgOXaejzLa.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E05_Episode 5.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E06_Episode 6.mkv",
+                         "stitle": "6.Episode 6",
+                         "stime": "44m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lcdwtNacDCqnnosH6jyh5d9OV6X.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E06_Episode 6.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E07_Episode 7.mkv",
+                         "stitle": "7.Episode 7",
+                         "stime": "54m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wvY5sExIVOYQ2NhrcWGI1nh0I8h.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E07_Episode 7.English.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E08_Episode 8.mkv",
+                         "stitle": "8.Episode 8",
+                         "stime": "50m",
+                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/apBzg7LDZerLyCRuGtTvGaotEO7.jpg",
+                         "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E08_Episode 8.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDYyNjYyYzItMmIyZi00ODgwLWFjMGEtNzk4Y2E4NDA3MmFkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
+    "genres": "Mysteries,Hindi,Dramas,Indian",
+    "releaseDate": "2022",
+    "trailer": "https://www.imdb.com/video/vi1617281817?playlistId=tt9447956?ref_=ext_shr_lnk",
+    "cast": "Madhuri Dixit,Sanjay Kapoor,Manav Kaul,Suhasini Mulay,Gagan Arora....more"
+}
 
-       {
-        "name": "The Fame Game",
-        "description": "When India's most famous actress goes missing, the search for her chips away at the flawless facade of her life and family, revealing painful truths.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.mkv",
-        "series": "yes",
-        "subtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.English.srt",
-         "seriess":[
-             [
-                             {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.mkv",
-                             "stitle": "1.Episode 1",
-                             "stime": "46m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1g9yHn0qxsfTOAljbtI8jj1DIy.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E01_Episode 1.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E02_Episode 2.mkv",
-                             "stitle": "2.Episode 2",
-                             "stime": "46m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5kCip8nfPHoeWM0OdXdVmfJpfDK.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E02_Episode 2.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E03_Episode 3.mkv",
-                             "stitle": "3.Episode 3",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/adEvDtBm6UpIkB2EjzpmNxwYufq.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E03_Episode 3.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E04_Episode 4.mkv",
-                             "stitle": "4.Episode 4",
-                             "stime": "46m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ezheLKNPaz2dJ5ktpwJ4zJHUzbG.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E04_Episode 4.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E05_Episode 5.mkv",
-                             "stitle": "5.Episode 5",
-                             "stime": "43m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cnZ0aIB00A8ohu4tLOgOXaejzLa.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E05_Episode 5.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E06_Episode 6.mkv",
-                             "stitle": "6.Episode 6",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lcdwtNacDCqnnosH6jyh5d9OV6X.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E06_Episode 6.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E07_Episode 7.mkv",
-                             "stitle": "7.Episode 7",
-                             "stime": "54m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wvY5sExIVOYQ2NhrcWGI1nh0I8h.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E07_Episode 7.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/The Fame Game/season 1/The Fame Game_S01E08_Episode 8.mkv",
-                             "stitle": "8.Episode 8",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/apBzg7LDZerLyCRuGtTvGaotEO7.jpg",
-                             "ssubtitle":"/Indian drama/The Fame Game/season 1/The Fame Game_S01E08_Episode 8.English.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rLqX8PWdSJVmKfBqSEg24bERIEg.jpg",
-        "genres": "Mysteries,Hindi,Dramas,Indian",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1617281817?playlistId=tt9447956?ref_=ext_shr_lnk",
-        "cast": "Madhuri Dixit,Sanjay Kapoor,Manav Kaul,Suhasini Mulay,Gagan Arora....more"
-    }
 ]
