@@ -1703,6 +1703,66 @@
         "trailer": "https://www.imdb.com/video/vi3751852569/?ref_=ext_shr_lnk",
         "cast": "Brenton Thwaites,Anna Diop...more"
        },
+       
+          {
+    "name": "Devotion, a Story of Love and Desire",
+    "description": "A seemingly happy marriage begins to dissolve when the husband's faithfulness is called into question, and both spouses become tempted by other desires.",
+    "ageRestriction": "18",
+    "video": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E01_Episode 1.mp4",
+    "series": "yes",
+    "subtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E01_Episode 1.English.srt",
+     "seriess":[
+         [
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E01_Episode 1.mp4",
+                         "stitle": "1.Episode 1",
+                         "stime": "38m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMGVhMzhlNDUtNzg4My00MmFmLTk3ZDYtMTQyM2ZlNmJiMzQxXkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E01_Episode 1.English.srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E02_Episode 2.mp4",
+                         "stitle": "2.Episode 2",
+                         "stime": "45m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYWIyNTQyYzktM2E2Zi00NzBjLWI2NjMtMjdiZTM1NDIyYmU3XkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E02_Episode 2.English.srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E03_Episode 3.mp4",
+                         "stitle": "3.Episode 3",
+                         "stime": "39m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BOTJlZWZjNTktOWMwZi00ZmRjLThkYmMtYWZkMjczZTk3NTAxXkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E03_Episode 3.English.srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E04_Episode 4.mp4",
+                         "stitle": "4.Episode 4",
+                         "stime": "39m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZTQ3NzdjY2ItYThkMi00NWViLTg1ODAtNDUyYjhjODRiYzU1XkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E04_Episode 4.English.srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E05_Episode 5.mp4",
+                         "stitle": "5.Episode 5",
+                         "stime": "40m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYzZhM2NjNjctMjBjYi00NzU3LWFiOGQtNDViYjg2YWZlNWU3XkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E05_Episode 5.English.srt"
+                     },
+                     {
+                         "svideos": "/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E06_Episode 6.mp4",
+                         "stitle": "6.Episode 6",
+                         "stime": "38m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMzc5ODI4OGMtZGU1Yi00ZDY4LWEwMmYtNTNmZTYyZmZmMDViXkEyXkFqcGdeQXVyMzQwMDU3NDA@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Hollywood series/Devotion, a Story of Love and Desire/season 1/Devotion, a Story of Love and Desire_S01E06_Episode 6.English.srt"
+                     }
+         ]
+        ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWJhNTFmMjMtMDE4Yy00NTllLWFmMjUtY2NhNWQ1YjI3ZmYwXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+    "genres": "Dramas, Romance,Hollywood,English",
+    "releaseDate": "2021",
+    "trailer": "https://www.imdb.com/video/vi1479263001/?ref_=ext_shr_lnk",
+    "cast": "Lucrezia Guidone,Michele Riondino...more"
+   },
     
         {
         "name": "Moon Knight",
