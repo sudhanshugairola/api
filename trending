@@ -1423,7 +1423,7 @@
         "cast": "Rowan Atkinson,Jing Lusi...more"
     },
     
-       {
+    {
         "name": "Titans",
         "description": "A team of young superheroes combat evil and other perils.",
         "ageRestriction": "16",
@@ -1648,7 +1648,7 @@
                          },
                          {
                              "svideos": "/Hollywood series/Titans/season 3/Titans_S03E07_51_.mp4",
-                             "stitle": "7.51%",
+                             "stitle": "7.51",
                              "stime": "41m",
                              "simage": "https://m.media-amazon.com/images/M/MV5BYmEwZWZmNTctMWZhNS00MmJiLWIxODItYmY3OGMzOGQ0NjUyXkEyXkFqcGdeQXVyNDA1MTcxOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Titans/season 3/Titans_S03E07_51_.English (CC).srt"
@@ -2495,10 +2495,8 @@
                              "simage": "https://m.media-amazon.com/images/M/MV5BYTNjNDNkNjEtZjhhYy00NzE2LWFkZTgtYzg2OGUyMmM5NzZlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/Another Life/season 1/Another Life_S01E10_Hello.English (CC).srt"
                              }
-
-                             
          ],
-	 [
+	     [
 
                     {
                     "svideos": "/Hollywood series/Another Life/season 2/Another Life_S02E01_Live to Fight Another Day.mp4",
@@ -2893,7 +2891,6 @@
                              "ssubtitle":"/Hollywood series/Virgin River/season 1/Virgin River_S01E10_Unexpected Endings.English (CC).srt"
                              }                          
      ],
-
      [
                     {
                     "svideos": "/Hollywood series/Virgin River/season 2/Virgin River_S02E01_New Beginnings.mp4",
@@ -3049,7 +3046,7 @@
             },
             {
                 "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E02_Father Knows Best___.mp4",
-                "stitle": "2.Father Knows Best...",
+                "stitle": "2.Father Knows Best",
                 "stime": "45m",
                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fMophQw05IfLQPNPEluRhdzMoZd.jpg",
                 "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E02_Father Knows Best___.English (CC).srt"
@@ -3063,7 +3060,7 @@
             },            
             {
                 "svideos": "/Hollywood series/Virgin River/season 4/Virgin River_S04E04_Serious As A.mp4",
-                "stitle": "4.Serious As A...",
+                "stitle": "4.Serious As A",
                 "stime": "44m",
                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jv7MrZgeSCVVQqKmiNM1frBEskN.jpg",
                 "ssubtitle":"/Hollywood series/Virgin River/season 4/Virgin River_S04E04_Serious As A.English (CC).srt"
@@ -3180,7 +3177,7 @@
                          },
                          {
                          "svideos": "/Hollywood series/Ginny and Georgia/season 1/Ginny and Georgia_S01E06_I’m Triggered.mp4",
-                         "stitle": "6.I’m Triggered",
+                         "stitle": "6.I am Triggered",
                          "stime": "1h m",
                          "simage": "https://m.media-amazon.com/images/M/MV5BYjhjZDQwODktMGRlNS00N2NkLWFhMjctMzFiMmUwNTY4NzIzXkEyXkFqcGdeQXVyNDk0MTI1MDg@._V1_UY126_CR16,0,224,126_AL_.jpg",
                          "ssubtitle":"/Hollywood series/Ginny and Georgia/season 1/Ginny and Georgia_S01E06_I’m Triggered.English (CC).srt"
@@ -3747,7 +3744,8 @@
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ra5UnVvdMCUJfdguMwnY4fr5MBY.jpg",
                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E10_ said I_m sorry.English (CC).srt"
                      }
-         ],         [
+         ],         
+         [
                      {
                          "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E01_ been a playa.mp4",
                          "stitle": "1.been a playa",
@@ -3822,13 +3820,13 @@
 
         ],
      "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mVHy2CbUqtnNYi7v6oOl6fV1Bm6.jpg",
-    "genres": "Comedy, Dramas,Hollywood,English,Hindi",
+    "genres": "Comedy, Dramas,Hollywood,English",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi4029464601/?ref_=ext_shr_lnk",
     "cast": "Maitreyi Ramakrishnan,Poorna Jagannathan...more"
    },
   
-    {
+   {
         "name": "Who Killed Sara",
         "description": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
         "ageRestriction": "16",
@@ -3968,7 +3966,6 @@
                          }
   
              ],
-                       
              [
                          {
                              "svideos": "/Hollywood series/Who Killed Sara/season 3/Who Killed Sara_S03E01_Presumed Dead.mp4",
@@ -4022,7 +4019,7 @@
              ]
             ],
          "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg",
-        "genres": "Drama, Crime, Mystery,Hindi,Hollywood,English",
+        "genres": "Dramas, Crime, Mystery,Hindi,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1269482009/?ref_=ext_shr_lnk",
         "cast": "Manolo Cardona,Carolina Miranda...more"
@@ -4082,7 +4079,7 @@
              ]
             ],
          "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
-        "genres": "Sci-Fi & Fantasy, Dramas,Hollywood,English,Hindi",
+        "genres": "Sci-Fi & Fantasy, Dramas,Hollywood,English",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi854180377/?ref_=ext_shr_lnk",
         "cast": "Abigail Cowen,Hannah van der Westhuysen...more"
@@ -4686,7 +4683,7 @@
  
         ],
      "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mrVoyDFiDSqfH4mkoRtccOv2vwh.jpg",
-    "genres": "Drama, Sci-Fi & Fantasy",
+    "genres": "Dramas, Sci-Fi & Fantasy,Hollywood,English",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi3816931353/?playlistId=tt2403776?ref_=ext_shr_lnk",
     "cast": "Jessie Mei Li,Freddy Carter...more"
@@ -5183,7 +5180,7 @@
                 [
                     {
                         "svideos": "/Hollywood series/13 Reason why/season 3/13 Reasons Why_S03E01_Yeah_ I_m the New Girl.mkv",
-                        "stitle": "1.Yeah. I'm the New Girl",
+                        "stitle": "1.Yeah I'm the New Girl",
                         "stime": "56m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/49dVo8NCgEpmXtMrDjbtLgOO4R6.jpg",
                         "ssubtitle":"/Hollywood series/13 Reason why/season 3/13 Reasons Why_S03E01_Yeah_ I_m the New Girl.English (CC).srt"
@@ -5378,7 +5375,7 @@
                      },
                      {
                          "svideos": "/Hollywood series/Breaking Bad/season 1/Breaking Bad_S01E03_And the Bag_s in the River.mkv",
-                         "stitle": "3....And the Bag's in the River",
+                         "stitle": "3.And the Bag's in the River",
                          "stime": "48m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg",
                          "ssubtitle":"/Hollywood series/Breaking Bad/season 1/Breaking Bad_S01E03_And the Bag_s in the River.English (CC).srt"
@@ -5406,7 +5403,7 @@
                      },
                      {
                          "svideos": "/Hollywood series/Breaking Bad/season 1/Breaking Bad_S01E07_A No-Rough-Stuff-Type Deal.mkv",
-                         "stitle": "7.A No-Rough-Stuff-Type Deal",
+                         "stitle": "7.A No Rough Stuff Type Deal",
                          "stime": "47m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg",
                          "ssubtitle":"/Hollywood series/Breaking Bad/season 1/Breaking Bad_S01E07_A No-Rough-Stuff-Type Deal.English (CC).srt"
@@ -5415,7 +5412,7 @@
             [
                      {
                          "svideos": "/Hollywood series/Breaking Bad/season 2/Breaking Bad_S02E01_Seven Thirty-Seven.mkv",
-                         "stitle": "1.Seven Thirty-Seven",
+                         "stitle": "1.Seven Thirty Seven",
                          "stime": "47m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7vVujNqjP23MtPqUTBNITIW3DDA.jpg",
                          "ssubtitle":"/Hollywood series/Breaking Bad/season 2/Breaking Bad_S02E01_Seven Thirty-Seven.English (CC).srt"
@@ -5807,7 +5804,7 @@
               ]
                  ],
      "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
-    "genres": "Drama",
+    "genres": "Dramas, Crime,Hollywood,English",
     "releaseDate": "2008",
     "trailer": "https://www.imdb.com/video/vi338798873/?playlistId=tt0903747?ref_=ext_shr_lnk",
     "cast": "Bryan Cranston,Aaron Paul,Aaron Paul... more"
@@ -5967,7 +5964,7 @@
          ]
         ],
      "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
-    "genres": "Sci-Fi & Fantasy, Drama, Mystery",
+    "genres": "Sci-Fi & Fantasy, Dramas, Mystery, English,Hollywood",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi815121177/?playlistId=tt3007572?ref_=ext_shr_lnk",
     "cast": "Darby Stanchfield,Emilia Jones,Jackson Robert Scott...more"
@@ -6264,7 +6261,7 @@
          [
             {
                  "svideos": "/Hollywood series/Dark/season 3/Dark_S03E01_Deja-vu.mkv",
-                 "stitle": "1.Deja-vu",
+                 "stitle": "1.Deja vu",
                  "stime": "1h 2m",
                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i2qIJlkgyK2i4Yzhz07mWBZhmlV.jpg",
                  "ssubtitle":"/Hollywood series/Dark/season 3/Dark_S03E01_Deja-vu.English.srt"
@@ -6388,7 +6385,7 @@
                      },
                      {
                          "svideos": "/Hollywood series/Dark desire/season 1/Dark Desire_S01E08_The Tell-Tale Heart.mkv",
-                         "stitle": "8.The tell-tale heart",
+                         "stitle": "8.The tell tale heart",
                          "stime": "33m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/imiZBAFQkwr7huYfIcSqFgmObi2.jpg",
                          "ssubtitle":"/Hollywood series/Dark desire/season 1/Dark Desire_S01E08_The Tell-Tale Heart.English.srt"
@@ -6444,7 +6441,7 @@
                     },
                     {
                         "svideos": "/Hollywood series/Dark desire/season 1/Dark Desire_S01E16_Revelation 21_8___ Fire Is Set Upon His Anger.mkv",
-                        "stitle": "16.Revelation 21:8... Fire is set upon his anger",
+                        "stitle": "16.Revelation 21.8 Fire is set upon his anger",
                         "stime": "33m",
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4Kjf9Kanc3BKRclrMyo1mGWgLME.jpg",
                         "ssubtitle":"/Hollywood series/Dark desire/season 1/Dark Desire_S01E16_Revelation 21_8___ Fire Is Set Upon His Anger.English.srt"
@@ -6536,11 +6533,11 @@
                 "ssubtitle":"/Hollywood series/Dark desire/season 2/Dark Desire_S02E10_Everyone Reads Their Own Story.English.srt"
             },
             {
-                "svideos": "/Hollywood series/Dark desire/season 2/Dark Desire_S02E11_Who the #__& Are You Really.mkv",
-                "stitle": "11.Who the #*%& Are You Really",
+                "svideos": "/Hollywood series/Dark desire/season 2/Dark Desire_S02E11_Who the Are You Really.mkv",
+                "stitle": "11.Who the Are You Really",
                 "stime": "33m",
                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/h3efvMcwVLk6nJIV9ZebrnNEE42.jpg",
-                "ssubtitle":"/Hollywood series/Dark desire/season 2/Dark Desire_S02E11_Who the #__& Are You Really.English.srt"
+                "ssubtitle":"/Hollywood series/Dark desire/season 2/Dark Desire_S02E11_Who the Are You Really.English.srt"
             },
             {
                 "svideos": "/Hollywood series/Dark desire/season 2/Dark Desire_S02E12_The Twins.mkv",
@@ -7100,7 +7097,7 @@
          
         ],
      "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
-    "genres": "Sci-Fi & Fantasy, Action & Adventure, Dramas,Hollywood,English",
+    "genres": "Sci-Fi & Fantasy, Action , Adventure, Dramas,Hollywood,English",
     "releaseDate": "2018",
     "trailer": "https://www.imdb.com/video/vi1476379417/?playlistId=tt5232792?ref_=ext_shr_lnk",
     "cast": "Molly Parker,Maxwell Jenkins...more"
@@ -7771,7 +7768,7 @@
         },
         {
             "svideos": "/Hollywood series/Lucifer/season 6/Lucifer_S06E10_Partners _Til the End.mkv",
-            "stitle": "10.Partners ‘Til the End",
+            "stitle": "10.Partners Til the End",
             "stime": "53m",
             "simage": "https://m.media-amazon.com/images/M/MV5BNTMyOWJjNGYtZTJkNi00N2VlLTgyMWQtNGMyZThjOWJjYTUwXkEyXkFqcGdeQXVyMTI2NjMxOTk0._V1_UX224_CR0,0,224,126_AL_.jpg",
             "ssubtitle":"/Hollywood series/Lucifer/season 6/Lucifer_S06E10_Partners _Til the End.English (CC).srt"
@@ -8316,7 +8313,7 @@
         },
         {
             "svideos": "/Hollywood series/Ozark/season 4/Ozark_S04E11_Pound of Flesh and Still Kickin_.mkv",
-            "stitle": "11.Pound of Flesh and Still Kickin'",
+            "stitle": "11.Pound of Flesh and Still Kickin",
             "stime": "1h 5m",
             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sbBflrEhrIeouWm62QQlwnYhQQl.jpg",
             "ssubtitle":"/Hollywood series/Ozark/season 4/Ozark_S04E11_Pound of Flesh and Still Kickin_.English (CC).srt"
@@ -8507,7 +8504,7 @@
                      },
                      {
                          "svideos": "/Hollywood series/Ragnarok/season 2/Ragnarok_S02E02_What Happened to the Nice, Old Lady.mkv",
-                         "stitle": "2.What Happened to the Nice, Old Lady?",
+                         "stitle": "2.What Happened to the Nice, Old Lady",
                          "stime": "47m",
                          "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cJwlzGlUoCM9CKjmS5nFe5LSXTR.jpg",
                          "ssubtitle":"/Hollywood series/Ragnarok/season 2/Ragnarok_S02E02_What Happened to the Nice, Old Lady.English (CC).srt"
