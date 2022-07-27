@@ -1,5 +1,20 @@
 [   
-
+    
+        {
+	    "name": "Thar",
+	    "description": "A mysterious stranger arrives in a village situated in the Thar desert and crosses paths with a veteran cop investigating a case of brutal killings.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Thar/Thar.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY1NjE2MzUtYTVjOC00ZDUxLWIwZDUtMzk5YWQ5ODc5YTI5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Western, Action, Thriller, Dramas, Crime,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2074657305/?ref_=ext_shr_lnk",
+	    "cast": "Anil Kapoor,Harshvardhan Kapoor... more",
+        "time":"1h 48m",
+        "subtitle":"/Hindi_Movies/Thar/Thar.English.srt"
+	},
+	
     {
 	    "name": "Aaja Mexico Challiye",
 	    "description": "Pamma is an ambitious youngster from Punjab who wants to go abroad. But this one dream turns his life around as he becomes caught in dangerous situations. Will Pamma be able to make it out of the jungles of Mexico",
