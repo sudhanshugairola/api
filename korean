@@ -292,7 +292,7 @@
          ]
         ],
      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjFkNDNjYTktZjJiNi00Y2U3LWE2NDgtZDM3YjIzMWUzNGM2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
-    "genres": "Adventure, Dramas, Mystery, Sci-Fi, Thriller,korean",
+    "genres": "Adventure, Dramas, Mystery,Si-Fi, Thriller,korean",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi1505936153/?ref_=ext_shr_lnk",
     "cast": "Bae Doona,Gong Yoo...more"
@@ -1010,7 +1010,7 @@
                          
                     ],
                     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTg0YmQxZTgtMzgwYi00N2NhLTlkMWYtOWYwNDA1YjkxMmViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_.jpg",
-                   "genres": "Dramas, Sci-Fi & Fantasy,Korean",
+                   "genres": "Dramas,Si-Fi & Fantasy,Korean",
                    "releaseDate": "2016",
                    "trailer": "https://www.imdb.com/video/vi1955250457/?ref_=ext_shr_lnk",
                    "cast": "Gong Yoo, Kim Go-eun, Yook Sung-jae, Lee El ...more"
@@ -1831,7 +1831,7 @@
              ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzY1OGJiYzctNzM0ZS00YTc4LThmNGQtMzQ5ODcxNWNjYzc4XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
-        "genres": "Comedy, Sci-Fi & Fantasy, Mystery,Korean",
+        "genres": "Comedy,Si-Fi & Fantasy, Mystery,Korean",
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi1581038617?playlistId=tt10055734?ref_=ext_shr_lnk",
         "cast": "Park Bo-young,Ahn Hyo-seop,Lee Sung-jae...more"
@@ -2312,7 +2312,7 @@
            ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc0N2VmYjQtY2Y0Mi00NzBhLTk3YjctNDI4MTU2YWJkYWFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-        "genres": "Dramas, Sci-Fi & Fantasy,Korean",
+        "genres": "Dramas,Si-Fi & Fantasy,Korean",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi2858335257?playlistId=tt9145880?ref_=ext_shr_lnk",
         "cast": "Kim So-hyun,Jung Ga-ram,Song Kang..more"
@@ -3597,7 +3597,7 @@
              ]
             ],
          "thumbnailImageId": "https://i.pinimg.com/474x/af/3e/c9/af3ec95b2178c67850901dca53e8bfb6.jpg",
-        "genres": "Comedy, Dramas, Sci-Fi & Fantasy,Korean",
+        "genres": "Comedy, Dramas,Si-Fi & Fantasy,Korean",
         "releaseDate": "2016",
         "trailer": "https://www.imdb.com/video/vi4161585177?playlistId=tt5766194?ref_=ext_shr_lnk",
         "cast": "Jun Ji-hyun,Lee Min-ho ...more"
