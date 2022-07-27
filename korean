@@ -1,5 +1,20 @@
 [
     
+     {
+	    "name": "The Pirates: The Last Royal Treasure",
+	    "description": "In the Joseon era, a brave crew of pirates and bandits brave the rough waters and try to decipher the clues to find the lost royal gold before their rivals do",
+	    "ageRestriction": "13",
+	    "video": "/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGZhYjE0MGQtNzQ2Zi00MWIyLTk3ZjMtYjdlOWVjZWFiOTU4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+	    "genres": "Action, Adventure, Comedy, History,Korean",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi879018777/?ref_=ext_shr_lnk",
+	    "cast": "Kang Ha-neul,Han Hyo-joo... more",
+        "time":"2h 6m",
+        "subtitle":"/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.English (CC).srt"
+	},
+    
     {
          "name": "Sweet and Sour",
          "description": "Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.",
