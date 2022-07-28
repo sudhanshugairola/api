@@ -1,20 +1,20 @@
-[      
-     
-         {
+[    
+    
+    {
 	    "name": "Restless",
 	    "description": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Restless/Restless.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1._SX520.jpg",
-	    "genres": "Action,Thriller,Crime,English,Hollywood",
+	    "genres": "Action, Thriller, Crime,English,Hollywood",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi4043752217/?ref_=ext_shr_lnk",
 	    "cast": "Franck Gastambide,Simon Abkarian... more",
         "time":"1h 35m",
         "subtitle":"/Hollywood Movies/Restless/Restless.English (CC).srt"
 	},
-	
+       
     {
 	    "name": "Against the Ice",
 	    "description": "In 1909, two explorers fight to survive after they're left behind while on a Denmark expedition in ice-covered Greenland.",
@@ -141,7 +141,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/The Ritual/The Ritual.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8JKP886KWca-hL0REzFre6fmvBJeuvBtN2w&usqp=CAU",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1._SX520.jpg",
 	    "genres": "Horror, Thriller, Mystery,Hollywood,English,Hindi",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi1391114265/?ref_=ext_shr_lnk",
@@ -732,7 +732,7 @@
 }
 ]
 ],
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1ZmM3MTQtNTVhZC00MWVlLWI5ZjgtYmZiYWQxZjUzZWM0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1ZmM3MTQtNTVhZC00MWVlLWI5ZjgtYmZiYWQxZjUzZWM0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1._SX520.jpg",
         "genres": "Comedy, Dramas, Family,Hollywood,English",
         "releaseDate": "2015",
         "trailer": "https://www.imdb.com/video/vi1858584345/?ref_=ext_shr_lnk",
@@ -3174,7 +3174,7 @@
              ]
  
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1._SX520.jpg",
         "genres": "Documentary, Reality-TV, Talk-Show,Hollywood,English",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi291683097/?ref_=ext_shr_lnk",
@@ -3717,7 +3717,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1._SX520.jpg",
         "genres": "Si-Fi,Fantasy, Dramas, Action,Adventure,Hollywood,English,Adult,Bold",
         "releaseDate": "2011",
         "trailer": "https://www.imdb.com/video/vi59490329/?ref_=ext_shr_lnk",
@@ -4139,15 +4139,15 @@
                     "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E09.srt"
                 },
                 {
-                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E10.mkv",
+                    "svideos": "/Popular on netflix/Spartacus/season 2/Spartacus S02E010.mkv",
                     "stitle": "10.Wrath of the Gods",
                     "stime": "53m",
                     "simage": "https://m.media-amazon.com/images/M/MV5BMTU3NDc2MDk3OV5BMl5BanBnXkFtZTcwMTg3MDE2Nw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E10.srt"
+                    "ssubtitle":"/Popular on netflix/Spartacus/season 2/Vengeance.S02E010.srt"
                 }
     ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWQ4MjA2YzEtOTQzYi00NWQ1LWI0ZDEtN2VkZjhmYTc3MzU0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWQ4MjA2YzEtOTQzYi00NWQ1LWI0ZDEtN2VkZjhmYTc3MzU0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1._SX520.jpg",
         "genres": "Dramas,Romance,Historical,Hollywood,English",
         "releaseDate": "2010",
         "trailer": "https://www.imdb.com/video/vi652322329/?ref_=ext_shr_lnk",
@@ -4307,7 +4307,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjY3ZWEzYjQtZThmZS00OTQwLWE0NjYtODgyMmFmYTA5M2UzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjY3ZWEzYjQtZThmZS00OTQwLWE0NjYtODgyMmFmYTA5M2UzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX520.jpg",
     "genres": "Dramas, Comedy,Hollywood,English",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi2062074649/?ref_=ext_shr_lnk",
@@ -4453,7 +4453,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjIxMWMzMzctYmZkYy00OTkzLWFlMWUtMjc3ZDFmYzQ3YmVkXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjIxMWMzMzctYmZkYy00OTkzLWFlMWUtMjc3ZDFmYzQ3YmVkXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1._SX520.jpg",
     "genres": "SI-Fi , Fantasy, Dramas,Hollywood,English",
     "releaseDate": "2018",
     "trailer": "https://www.imdb.com/video/vi575585817/?ref_=ext_shr_lnk",
@@ -4527,7 +4527,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTNiZTJlNTUtYTZiOC00MmQ2LTkzYTctMDcwMGJmNGEwYmU2XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTNiZTJlNTUtYTZiOC00MmQ2LTkzYTctMDcwMGJmNGEwYmU2XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1._SX520.jpg",
         "genres": "Action,Adventure,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3198927385/?playlistId=tt13457822?ref_=ext_shr_lnk",
@@ -4688,7 +4688,7 @@
                         }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODRkZDYyMmUtYWE3MS00NzBkLWI3ZWYtMDU4YTUzODQwN2Y3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODRkZDYyMmUtYWE3MS00NzBkLWI3ZWYtMDU4YTUzODQwN2Y3XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1._SX520.jpg",
         "genres": "Action,Adventure, Dramas,Mystery,Hollywood,English",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi1577828377/?playlistId=tt10293938?ref_=ext_shr_lnk",
@@ -4769,7 +4769,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmRiNzY5MjEtZWI1OC00M2Y4LWIwOWMtYzliMTYwOGE3MjkyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmRiNzY5MjEtZWI1OC00M2Y4LWIwOWMtYzliMTYwOGE3MjkyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1._SX520.jpg",
         "genres": "Animation,Si-Fi,Fantasy, Action,Adventure, Drama,English",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi2863252249/?ref_=ext_shr_lnk",
@@ -5040,7 +5040,7 @@
            
          ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX520.jpg",
         "genres": "Animation,Si-Fi,Fantasy,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi2307113497/?ref_=ext_shr_lnk",
@@ -5274,7 +5274,7 @@
                         }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzkzOGFiY2EtZDcyZi00OWNhLThhNmYtYjQ3ODljMTM5ZDBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzkzOGFiY2EtZDcyZi00OWNhLThhNmYtYjQ3ODljMTM5ZDBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX520.jpg",
         "genres": "Mystery, Crime, Dramas,Hollywood,English",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi3619668761/?playlistId=tt7335184?ref_=ext_shr_lnk",
@@ -5348,7 +5348,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjgwOGI3ZWEtNjBiMy00ZjM3LWFkNWYtNmU1MzY1ZGZkMDU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjgwOGI3ZWEtNjBiMy00ZjM3LWFkNWYtNmU1MzY1ZGZkMDU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX520.jpg",
     "genres": "Action,Adventure, Dramas, War,Politics,Hindi,Hollywood,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi1393214233/?playlistId=tt11311302?ref_=ext_shr_lnk",
@@ -5480,7 +5480,7 @@
             }
          ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX520.jpg",
         "genres": "Si-Fi, Fantasy, Dramas, Action,Adventure,Hollywood,English",
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi1878049561/?playlistId=tt5180504?ref_=ext_shr_lnk",
@@ -5676,7 +5676,7 @@
                         }
                  ]
                     ],
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzk4MzZkZjktZDU2Yy00NGMyLTgwOGEtMGIzMDI1NTMyZGU3XkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzk4MzZkZjktZDU2Yy00NGMyLTgwOGEtMGIzMDI1NTMyZGU3XkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1._SX520.jpg",
 	    "genres": "Wedding,Romance,Competition,Reality,US,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3154428697?playlistId=tt11704040?ref_=ext_shr_lnk",
@@ -6026,7 +6026,7 @@
                     }
                 ]
                  ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjE1MzYzNjk3OF5BMl5BanBnXkFtZTgwMzk0MzYwNzE@._V1._SX520.jpg",
         "genres": "Briish,Based on books,Period pieces,Dramas,Action,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi81247769/?playlistId=tt4179452?ref_=ext_shr_lnk",
@@ -6678,7 +6678,7 @@
                  }
              ]
               ],
-      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1._SX520.jpg",
      "genres": "Canadian,Political Tv,Period pieces,Dramas,Action,Hollywood,English",
      "releaseDate": "2019",
      "trailer": "https://www.imdb.com/video/vi3793207577/?playlistId=tt2306299?ref_=ext_shr_lnk",
@@ -7909,7 +7909,7 @@
                  }
              ]
               ],
-      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg",
+      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1._SX520.jpg",
      "genres": "Fantasy,Based on books,Teen,Dramas,US,Hollywood,English",
      "releaseDate": "2016",
      "trailer": "https://www.imdb.com/video/vi594457369/?playlistId=tt1405406?ref_=ext_shr_lnk",
@@ -8884,7 +8884,7 @@
                 }
             ]
               ],
-      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX520.jpg",
      "genres": "Comedies,Courtroom Tv,Dramas,US,Hollywood,English",
      "releaseDate": "2019",
      "trailer": "https://www.imdb.com/video/vi1035774745/?playlistId=tt1632701?ref_=ext_shr_lnk",
@@ -8958,7 +8958,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk3NTBiYmYtNjBmMC00ZjFmLTkyYWEtYjY5OWFlNmFlY2RmXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk3NTBiYmYtNjBmMC00ZjFmLTkyYWEtYjY5OWFlNmFlY2RmXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1._SX520.jpg",
     "genres": "Dramas,Hollywood,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi2976039705?playlistId=tt14537060?ref_=ext_shr_lnk",
@@ -9032,7 +9032,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBlMjMzN2MtY2YzYS00MWY2LTgzZDgtZTMxYmZjYmIwMDdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1._SX520.jpg",
     "genres": "Mysteries,Crime,Dramas,US,Hindi,Hollywood,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi2054538009/?playlistId=tt9170236?ref_=ext_shr_lnk",
@@ -9395,7 +9395,7 @@
                 }
             ]
              ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1._SX520.jpg",
     "genres": "Crime,Spanish,Thriller,Hindi,Hollywood,English,Dramas",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi3991256345/?playlistId=tt6468322?ref_=ext_shr_lnk",
@@ -9476,7 +9476,7 @@
                     }
          ]
         ],
-     "thumbnailImageId": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6BSuTI1Xe2HmbIxS6c1uKQHsQmU.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2Y2MDhlNmItZTFjMy00YWI4LTkwZGQtNWQ3ODU4ZGVmYzU2XkEyXkFqcGdeQXVyMTY2Nzk0NDY@._V1._SX520.jpg",
     "genres": "Docuseries,Reality,US,Hollywood,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi3077358361?playlistId=tt18217272?ref_=ext_shr_lnk",
@@ -9782,7 +9782,7 @@
              }     
      ]
           ],
-  "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAxOTA2Mjc3MF5BMl5BanBnXkFtZTgwMTMxMzIxNDM@._V1_.jpg",
+  "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAxOTA2Mjc3MF5BMl5BanBnXkFtZTgwMTMxMzIxNDM@._V1._SX520.jpg",
  "genres": "Dramas,Hollywood,English",
  "releaseDate": "2020",
  "trailer": "https://www.imdb.com/video/vi1374667033/?playlistId=tt4786824?ref_=ext_shr_lnk",
@@ -10087,7 +10087,7 @@
                 }     
         ]
              ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX520.jpg",
     "genres": "Dramas,comedies,us,action,Hollywood,English",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi1304544025?playlistId=tt7221388?ref_=ext_shr_lnk",
@@ -10189,7 +10189,7 @@
                    }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX520.jpg",
     "genres": "korean,Based On Webtoons,Teen,Thriller,Dramas,Horror,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi3022439193?playlistId=tt14169960?ref_=ext_shr_lnk",
@@ -10320,7 +10320,7 @@
                     
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWQyZTkwMTMtYTJiZS00MGNlLThhN2EtYzEzOGQzYjFiZGQxXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWQyZTkwMTMtYTJiZS00MGNlLThhN2EtYzEzOGQzYjFiZGQxXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1._SX520.jpg",
     "genres": "Dramas, Comedy,korean",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi529579545?playlistId=tt10850932?ref_=ext_shr_lnk",
@@ -12000,7 +12000,7 @@
         
      ]
              ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SX520.jpg",
     "genres": "sitcoms,comedies,US,Hollywood,English",
     "releaseDate": "2003",
     "trailer": "https://www.imdb.com/video/vi4240746009?playlistId=tt0108778?ref_=ext_shr_lnk",
@@ -12132,7 +12132,7 @@
             }
         ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjk4MDdhODctMmFhYi00ZTNhLThlN2UtN2NhZGY0OGFlMWEwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjk4MDdhODctMmFhYi00ZTNhLThlN2UtN2NhZGY0OGFlMWEwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX520.jpg",
         "genres": "Romantic Tv Dramas,Based On Books,Dramas,Us,Hollywood,English",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi1817821977?playlistId=tt8740790?ref_=ext_shr_lnk",
@@ -12220,7 +12220,7 @@
                         }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmE5ODVmMDAtMjUxNS00ZTQzLWI2ZTMtNmY5NGU5OTI2ZDUyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmE5ODVmMDAtMjUxNS00ZTQzLWI2ZTMtNmY5NGU5OTI2ZDUyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1._SX520.jpg",
         "genres": "Dramas,Hollywood,English",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi3880173849?playlistId=tt14037542?ref_=ext_shr_lnk",
