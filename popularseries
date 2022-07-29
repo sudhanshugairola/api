@@ -3,7 +3,7 @@
     {
 	    "name": "Restless",
 	    "description": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
-	    "ageRestriction": "13",
+	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Restless/Restless.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1._SX320.jpg",
@@ -74,11 +74,26 @@
 		"time":"2h 9m",
 		"subtitle":"/Hollywood Movies/The adam project/The Adam Project.English (CC).srt"
 	},
+	
+	    {
+	    "name": "Wrath of Man",
+	    "description": "The plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Wrath of Man/Wrath of Man.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+	    "genres": "Action,Crime,Thriller,English,Hollywood",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi772980761/?ref_=ext_shr_lnk",
+	    "cast": "Jason Statham,Holt McCallany... more",
+        "time":"1h 59m",
+        "subtitle":"/Hollywood Movies/Wrath of Man/Wrath of Man.srt"
+	},
     
     {
 		"name": "Uncharted",
 		"description": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor Sully Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
-		"ageRestriction": "13",
+		"ageRestriction": "16",
 		"video": "/Hollywood Movies/Uncharted/Uncharted.mp4",
 		"series": "not",
 		"thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1._SX320.jpg",
