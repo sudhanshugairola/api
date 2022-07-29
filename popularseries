@@ -14,6 +14,21 @@
         "time":"1h 35m",
         "subtitle":"/Hollywood Movies/Restless/Restless.English (CC).srt"
 	},
+	
+	    {
+	    "name": "Blood Red Sky",
+	    "description": "A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Blood Red Sky/Blood Red Sky.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDQ0MWEzMDEtMGZmNC00NjQ0LWJlNDItZDMyNDc5MmFkODJjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX320.jpg",
+	    "genres": "Horror,Thriller,Action,Hollywood,English,German,Violence,Fantasy,Adventure",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi1696120857/?ref_=ext_shr_lnk",
+	    "cast": "Peri Baumeister,Carl Anton Koch... more",
+        "time":"2h 1m",
+        "subtitle":"/Hollywood Movies/Blood Red Sky/Blood Red Sky.English (CC).srt"
+	},
        
     {
 	    "name": "Against the Ice",
