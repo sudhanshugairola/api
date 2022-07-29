@@ -1004,6 +1004,80 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
      },
+     
+          {
+        "name": "Heartstopper",
+        "description": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+        "ageRestriction": "18",
+        "video": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E01_Meet.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E01_Meet.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E01_Meet.mp4",
+                             "stitle": "1.Meet",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmM4NTE2MDAtZTkxOC00MTJjLTgyNmYtYzBiMjU1M2FhMmY0XkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E01_Meet.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E02_Crush.mp4",
+                             "stitle": "2.Crush",
+                             "stime": "32m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjA0NzEzODYtM2JhZS00YzFmLWE5OGEtNGFjM2U4N2JkYzBiXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E02_Crush.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E03_Kiss.mp4",
+                             "stitle": "3.Kiss",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWQ1N2YzYmMtZDJlYy00ZGNlLWE2OGEtMjIyNDhiYjgxMDc2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E03_Kiss.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E04_Secret.mp4",
+                             "stitle": "4.Secret",
+                             "stime": "29m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmExZjhjYmQtYTFjYS00Nzc2LWI0MjAtMmQ1NjNhNzliMTBkXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E04_Secret.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E05_Friend.mp4",
+                             "stitle": "5.Friend",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGU0MDgwMDUtMGNjOS00Y2EyLWI3M2UtMzU0NDI1OTk2MTY5XkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E05_Friend.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E06_Girls.mp4",
+                             "stitle": "6.Girls",
+                             "stime": "29m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTkwNGI4OTUtZjFlYS00MDRiLWJmYzYtYjFmNGRiOTc0M2RkXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E06_Girls.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E07_Bully.mp4",
+                             "stitle": "7.Bully",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWExMjQ3ZGMtZGFhMi00NDZmLWE3ZGUtNjZmNjFkYTk0YzZhXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E07_Bully.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartstopper/season 1/Heartstopper_S01E08_Boyfriend.mp4",
+                             "stitle": "8.Boyfriend",
+                             "stime": "33m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjgwMDg4OTktNzYzZi00YmQxLWI5YTMtOTRmMDI1YzhlYWIxXkEyXkFqcGdeQXVyODExNTExMTM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Heartstopper/season 1/Heartstopper_S01E08_Boyfriend.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTU1NmYwMTAtNzNjOS00NDNkLWI0ZmMtMDYxYWEyYzIxYTNjXkEyXkFqcGdeQXVyNjA1MTI4NjA@._V1._SX320.jpg",
+        "genres": "Dramas,Romance,Family,Teen,British,Hollywood,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1335018009/?ref_=ext_shr_lnk",
+        "cast": "Kit Connor,Joe Locke...more"
+       },
 	
      {
            "name": "Resident Evil",
