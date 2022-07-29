@@ -1117,6 +1117,66 @@
     "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
     "cast": "Manjit Singh,Sanjay Bansal,Jitendra Sharma...more"
    },
+   
+       {
+        "name": "Bombay Begums",
+        "description": "Set in contemporary urban India, five women across generations wrestle with desire, ethics, personal crises, and vulnerabilities to own their ambition.",
+        "ageRestriction": "16",
+        "video": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
+        "series": "yes",
+        "subtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
+                             "stitle": "1.Women Who Run With The Wolves",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vX8FZfAvM7PxcZnpJIqly65aNJw.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.mp4",
+                             "stitle": "2.Love",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/khI5NbYitpsM6JKXSPlfOzlg0kR.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.mp4",
+                             "stitle": "3.The Color Purple",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/phMFlClh2GrVarJS7fxbJ9B6xcJ.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.mp4",
+                             "stitle": "4.The Bell Jar",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d1aEHnq0o93jDXSHrSoa1MJ3bRt.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.mp4",
+                             "stitle": "5.The Golden Notebook",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rJEwk2wENHaJTeNAVjNpK0ay6U.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.mp4",
+                             "stitle": "6.A Room Of One's Own",
+                             "stime": "1h",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gy0qGsNnsQldD5gX9QcHZxDhMyc.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.English.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+        "genres": "Dramas,Indian,Hindi,Social Issue",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi524665113/?ref_=ext_shr_lnk",
+        "cast": "Pooja Bhatt,Amruta Subhash...more"
+       },
 
   {
     "name": "Little Things",
