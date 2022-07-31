@@ -1,4 +1,3 @@
-
 [
 
     {
@@ -350,7 +349,795 @@
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi2307113497/?ref_=ext_shr_lnk",
         "cast": "Fred Tatasciore,Scott Whyte...more"
-    }
+    },
 
-    
+    {
+        "name": "Castlevania",
+        "description": "A dark medieval fantasy following the last surviving member of the disgraced Belmont clan, trying to save Eastern Europe from extinction at the hand of Vlad Dracula Tepe himself. Inspired by the classic video game series.",
+        "ageRestriction": "16",
+        "video": "/Anime/Castlevania/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Castlevania/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Castlevania/season 1/s1e1.mp4",
+                             "stitle": "1.Witchbottle",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDcxMDBmNGMtYjc3Yy00NzVjLWFmZjgtYjNhNTFjNGVhZWQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 1/s1e2.mp4",
+                             "stitle": "2.Necropolis",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDcwMDFlZDEtMDAxZi00YWRmLTgzN2EtODVhNWNiMWQ3MjRjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 1/s1e3.mp4",
+                             "stitle": "3.Labyrinth",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmFkOTcwYjktZDY5ZS00ZmYyLWJhOTktZjcyY2FlYTE4MmI4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 1/s1e4.mp4",
+                             "stitle": "4.Monument",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmM5YTc4NzctZDlkOC00ZTRkLTkzZGEtOTA1OTA0OGZhNzgyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 1/s1e4.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e1.mp4",
+                             "stitle": "1.War Council",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmFhMDE0ZTYtOTY2MC00NWUyLTllYmMtNWM2ZjE2YzE5MWRkXkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e2.mp4",
+                             "stitle": "2.Old Homes",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWQwOWNiNDEtZDRhNS00ZTk0LWFhMWUtMzZlZWYyZGNhMTc1XkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e3.mp4",
+                             "stitle": "3.Shadow Battles",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjU3OWJjYzktNjJkZS00YzdjLThmZWItNzBmZDhmMjBiYzE3XkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e4.mp4",
+                             "stitle": "4.Broken Mast",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmUwMzliYjQtYTQwYy00M2M2LWE0MzgtNTgyOGUyYmJhZTdmXkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e5.mp4",
+                             "stitle": "5.Last Spell",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTRjNmVlZjAtZTc4ZS00NjgyLWFjMWEtMTkyNDA1NzFhN2QzXkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e6.mp4",
+                             "stitle": "6.The River",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjc3MWJkOGYtNjMwZS00MjM3LTgyMGYtNjYxMTZhNjI5MjJlXkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e7.mp4",
+                             "stitle": "7.For Love",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTg0MTlkYzEtMDY3Yi00ODNmLTgwMzgtNmY2NDQ5NDNlYWQ4XkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 2/s2e8.mp4",
+                             "stitle": "8.End Times",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjUwYzBhZDUtZjNjNC00YTEzLWJhODUtZjczY2I5ZjQyOWIxXkEyXkFqcGdeQXVyOTAwMjIwNzc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 2/s2e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e1.mp4",
+                             "stitle": "1.Bless Your Dead Little Hearts",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDk3ZGE5ZGQtMzQ4NS00NTgzLThmODctYmQ3MjFiYzRhNDMxXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e2.mp4",
+                             "stitle": "2.The Reparation of My Heart",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2JkMTY5OWYtNmExNy00NjMyLWE4YTItZjJlYWUxMTgzNTVlXkEyXkFqcGdeQXVyNDcxMzM0MjA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e3.mp4",
+                             "stitle": "3.Investigators",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjU1Y2YxYmEtNWUxNC00YjcxLWJiYWUtODY2YTViZjlkZTM0XkEyXkFqcGdeQXVyNDcxMzM0MjA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e4.mp4",
+                             "stitle": "4.I Have a Scheme",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTQzNWI1ODAtYWMzZi00MGRkLWE3YjUtNjg2NmIwMzJkODc4XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e5.mp4",
+                             "stitle": "5.A Seat of Civilisation and Refinement",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjA0NmRmY2MtNGM2My00ZDYzLTlmMDUtMzRiOTFiZTQxN2E1XkEyXkFqcGdeQXVyNDc2Mzc3Njc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e6.mp4",
+                             "stitle": "6.The Good Dream",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjMwYTQ1OTgtOTI2NC00Njc3LTg1MWEtOWQ1NTE4ZTViMDUwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e7.mp4",
+                             "stitle": "7.Worse Things Than Betrayal",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmY4ZjhkNzMtODA3MS00NTJhLTk1NDEtODM2OTZkNGYyODk5XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e8.mp4",
+                             "stitle": "8.What the Night Brings",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWNkOGYxZDItODgyNS00YWU1LThjNzYtMzc5OGJmZDY0YjRmXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e9.mp4",
+                             "stitle": "9.The Harvest",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTFiNjhhNzItNmUwMS00OTVhLWI3MTMtYTI4Yzg0M2U4NGVhXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 3/s3e10.mp4",
+                             "stitle": "10.Abandon All Hope",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjJkMGE4ZDMtNTljZS00NGMwLTk4ZTgtNjU5MjdmYzNlMDIzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 3/s3e10.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e1.mp4",
+                             "stitle": "1.Murder Wakes It Up",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWY5MmY2ZDMtN2EzYi00YTg2LThmNDctMDFiMjVhNGQzZjcxXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e2.mp4",
+                             "stitle": "2.Having the World",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzJlMGQxY2EtOGJkOS00M2Q1LTk3NzEtY2Y2OTQ1MzJhY2Q0XkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e3.mp4",
+                             "stitle": "3.Walk Away",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTY0ODBhMzMtYTU4OC00OWVjLWFlMzAtMDczYzNiZjNhZmVjXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e4.mp4",
+                             "stitle": "4.You Must Sacrifice",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjM2OWM3NGYtM2RjNi00YzVkLThkZTYtNDY2MWUwZWQ4NTUyXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e5.mp4",
+                             "stitle": "5.Back in the World",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGY0ZDFjZjgtOTFhMi00OTE2LTk0OTMtZTVjMDc0YTFmODUzXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e6.mp4",
+                             "stitle": "6.You Don't Deserve My Blood",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjI2YzQ3ZDMtODhiZC00NzE1LThjODEtNjA4MDZiOTVkMDhkXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e7.mp4",
+                             "stitle": "7.The Great Work",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGVjYTI3NDktMWY0Yy00ZTBlLTg3NjItNmQ3OGVjOWRkZTRiXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e8.mp4",
+                             "stitle": "8.Death Magic",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjNiNWUxNzYtOWVkZS00YzRkLTliZTktN2YxMjZhMTRlMDUxXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e9.mp4",
+                             "stitle": "9.The Endings",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODM1OTM0YzctODI1Yi00ODBjLTk5MDUtZWQ3NzUxNzUwOWQ2XkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Castlevania/season 4/s4e10.mp4",
+                             "stitle": "10.It's Been a Strange Ride",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTllNThmZjMtNDZkYS00NmFiLWJiNzItZTAzNmVlOTM5YTFkXkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Castlevania/season 4/s4e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjAzMjU2MjYzMl5BMl5BanBnXkFtZTgwNTQ4Nzk1NjM@._V1._SX320.jpg",
+        "genres": "Anime Horror,Video Games,Anime Action,Horror,Anime,Us,Si-Fi,Fantasy",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi3404709913/?ref_=ext_shr_lnk",
+        "cast": "Richard Armitage,James Callis...more"
+       },
+
+       {
+        "name": "Yasuke",
+        "description": "In a war-torn feudal Japan filled with mechs and magic, the greatest ronin never known, Yasuke, struggles to maintain a peaceful existence after a past life of violence. But when a local village becomes the center of social upheaval between warring daimyo, Yasuke must take up his sword and transport a mysterious child who is the target of dark forces and bloodthirsty warlords.",
+        "ageRestriction": "16",
+        "video": "/Anime/Yasuke/Yasuke/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Yasuke/Yasuke/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e1.mp4",
+                             "stitle": "1.Ronin",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGJmNjE3NTktZDdhYi00ODE0LThmOGUtNThkMzlmY2FlMGU1XkEyXkFqcGdeQXVyMTI3MjM4ODI5._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e2.mp4",
+                             "stitle": "2.The Old Way",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmI1NmM1ZTQtOWNiNS00ZWFiLWFmOWMtZDQyOGRiODk0NWE4XkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR7,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e3.mp4",
+                             "stitle": "3.Mortal Sins",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmEwZGZmMDQtZjNkMC00MjhlLTg3MWYtN2I5ZTc5M2JlZjg3XkEyXkFqcGdeQXVyMjA3OTMwODg@._V1_UY126_CR8,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e4.mp4",
+                             "stitle": "4.A Long Road",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBkNWJlMGEtYTQ1MC00MTRmLTk3NjAtZjk5YjNmYmFiYjE3XkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e5.mp4",
+                             "stitle": "5.Pain and Blood",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2I1MGViM2MtNDE1Yi00ODdhLWJjMmMtZWVmOWI3MWRiMWRkXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Yasuke/Yasuke/s1e6.mp4",
+                             "stitle": "6.Balance",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTU5Mjk5NDktMTM1Ni00MWE0LTlhMzUtMTk5ZTk0M2FiYzAyXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Yasuke/Yasuke/s1e6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjI2OGIwNWMtNDdmZS00NzgyLTkwOTctNGRmNmUyNGY3NjNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX320.jpg",
+        "genres": "Anime,Dramas,Action,Adventure,Si-Fi,Fantasy,Japanese",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1592442905/?ref_=ext_shr_lnk",
+        "cast": "Lakeith Stanfield,Takehiro Hira...more"
+       },
+
+       {
+        "name": "High-Rise Invasion",
+        "description": "High-school girl Yuri suddenly finds herself on the rooftop of a high-rise building. She's trapped in a bizarre world surrounded by skyscrapers, where a masked man cracked open a man's head with an axe before her eyes. Finding a way to survive this bizarre world, find her beloved brother, and escape becomes her top priority, but she is beset by danger not just from the mysterious Masks, which possess both inhuman strength and cruelty, but other survivors turned cruel or desparate by the insanity of the high-rise world.",
+        "ageRestriction": "16",
+        "video": "/Anime/High-Rise Invasion/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/High-Rise Invasion/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e1.mp4",
+                             "stitle": "1.I Just Don’t Get This World",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDczNjFmMTctY2YxOC00MGU3LTllOTgtNzJlN2NlODExZjE1XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e2.mp4",
+                             "stitle": "2.I’ve Found a New Goal",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTU3NTQzNjMtYzQwNy00YmU3LWE5YWMtNGJiMTA3Y2FhNzYyXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e3.mp4",
+                             "stitle": "3.I’m Sorry, Mayuko Nise",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWVhZmY0ZjItYjRhMy00NmMxLWEyNmUtYjdlMWUyNzc2OThlXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e4.mp4",
+                             "stitle": "4.I Won’t Give in to This World",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTNiOWMzZmItNGU1OC00NzEwLTg2YWYtMTY4NzRhMDU4MTU2XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e5.mp4",
+                             "stitle": "5.That’s an Incredible Ultimate Weapon",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTc1MzcxYTItMTVkNi00YmUwLTg4MDQtODE2NTJiZjEzYWM0XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e6.mp4",
+                             "stitle": "6.If I Become a Perfect God",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjEwMDQ5MTAtZTRhMy00ZmVlLWE0OGUtYjFlMmYyNGY3NjgzXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e7.mp4",
+                             "stitle": "7.I Will End This Realm",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzA2N2U1MzAtYjcyZC00ZWVhLTkyN2MtOTQ2YTY4ZGFjM2YyXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e8.mp4",
+                             "stitle": "8.I’ve Cast Off My Humanity, But That’s Fine",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmZlOGZjZDItODNiMi00OWY2LWFkNzUtZTNhMGU3YjkzODJjXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e9.mp4",
+                             "stitle": "9.Which Of Us Will Live a Cool Live",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBjYmZlYTctNzUyNi00ZmU3LTk2MDItOGRhODBlMjVlMWQ5XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e10.mp4",
+                             "stitle": "10.Our Enemy is One Who Desires Chaos",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTMzMTMyOGUtYWNhNC00YzgyLWJlMjktMWQ4NTJjY2Q4MmRkXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e11.mp4",
+                             "stitle": "11.I AM Justice",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTEzNTVmOTQtZWY5Mi00ZjhiLWEwMzMtNTdjZDNkNjE2ZDU1XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/High-Rise Invasion/season 1/s1e12.mp4",
+                             "stitle": "12.This is a High-Rise Invasion",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM1MDM0ZmUtYjUwMS00ODI5LWFmY2ItODM2MmZkOTYwNTFlXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/High-Rise Invasion/season 1/s1e12.srt"
+                         }
+            ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTU0ZGYzMjktMWQ2MC00NmRlLTk1YWItZmJkZmRiYzQ1NDE5XkEyXkFqcGdeQXVyMjIwNTI1MTM@._V1._SX320.jpg",
+        "genres": "Japanese,Si-Fi,Fantasy,Action,Anime,Dramas,Mystery,Thriller,Adventure",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi2159525913/?ref_=ext_shr_lnk",
+        "cast": "Shizuka Itoh,Shiki Aoki...more"
+       },
+        
+       {
+        "name": "",
+        "description": "",
+        "ageRestriction": "16",
+        "video": "/Anime/Control Z/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Control Z/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e1.mp4",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 1/s1e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e1.mp4",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 2/s2e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 2/s2e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e1.mp4",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Control Z/season 3/s3e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Control Z/season 3/s3e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "",
+        "genres": "",
+        "releaseDate": "20",
+        "trailer": "",
+        "cast": "...more"
+       },
+
+       {
+        "name": "SWORD GAI: The Animation",
+        "description": "A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies.",
+        "ageRestriction": "16",
+        "video": "/Anime/SWORDGAI The Animation/Part 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e1.mp4",
+                             "stitle": "1.S1 Episode1",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tbFqX7GQc13ORuaVg93NhkHh5Of.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e2.mp4",
+                             "stitle": "2.S1 Episode2",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rSpCkN6jIFEMLcTaDZtmmzts3Ig.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e3.mp4",
+                             "stitle": "3.S1 Episode3",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jc7UpKC0a4Ezr687jTC2nWKT4Ra.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e4.mp4",
+                             "stitle": "4.S1 Episode4",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cEtxho2psDY9cPZeZnRVZK9yPeP.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e5.mp4",
+                             "stitle": "5.S1 Episode5",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/z0dpel2dGR7Dd2Y3OIWbpU1WUeg.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e6.mp4",
+                             "stitle": "6.S1 Episode6",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/n5r1byLQG5K643BCW9Ypfba3NPZ.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e7.mp4",
+                             "stitle": "7.S1 Episode7",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nmCYxNb0LtrQLgNrjKXt2oHj3CD.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e8.mp4",
+                             "stitle": "8.S1 Episode8",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bbK7El4LQFcS7ZbhOuCzPPBtf0W.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e9.mp4",
+                             "stitle": "9.S1 Episode9",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3ycWdJEa4Vizj3I60RMD2lkZqls.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e10.mp4",
+                             "stitle": "10.S1 Episode10",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tl1xxZ2Mg1QOCOCNMAk7Y6uZGpc.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e11.mp4",
+                             "stitle": "11.S1 Episode11",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7yGczCHlW3GkIEHucfFAR0Ve2sw.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 1/s1e12.mp4",
+                             "stitle": "12.S1 Episode12",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jd2HmQixeygaXkMNBDOCqi2a5Dp.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 1/s1e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e1.mp4",
+                             "stitle": "1.S2 Episode1",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jbM94OVEzAxmpsnMd9IpyhMqvLG.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e2.mp4",
+                             "stitle": "2.S2 Episode2",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aRh5PUQuG5eCDDQhPH9KEZMk6xv.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e3.mp4",
+                             "stitle": "3.S2 Episode3",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xvIE7ZxkFrQ1xyjPcsnbKUODSs7.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e4.mp4",
+                             "stitle": "4.S2 Episode4",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/y9BmOdlbxHsSsiKmsbuPXdpfJUe.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e5.mp4",
+                             "stitle": "5.S2 Episode5",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4Ic8g6RYWRh05qCAyBVxqz5f4Ir.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e6.mp4",
+                             "stitle": "6.S2 Episode6",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hKUpJtJPVM0oXcQx9HL5GqN6jmB.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e7.mp4",
+                             "stitle": "7.S2 Episode7",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xIm29kwZB8mbwiUY8wQholRQ1Ur.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e8.mp4",
+                             "stitle": "8.S2 Episode8",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pHe0d5QqMnXO9J6P821Z2bAcdVS.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e9.mp4",
+                             "stitle": "9.S2 Episode9",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/74QEQorxnNyJkv1OyCjp1VZhkbk.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e10.mp4",
+                             "stitle": "10.S2 Episode10",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ubQ4udlGlswU05GCZ1JekyVeazw.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e11.mp4",
+                             "stitle": "11.S2 Episode11",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vQlX4Y804iGzw0CrJ8KQeAJjCXd.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/SWORDGAI The Animation/Part 2/s2e12.mp4",
+                             "stitle": "12.S2 Episode12",
+                             "stime": "22m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5tDEuoZd0h0uRuip1nhtJumHi9O.jpg",
+                             "ssubtitle":"/Anime/SWORDGAI The Animation/Part 2/s2e12.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWQ5Y2JmNGItNzYxYi00OWNiLWI4MjEtZGE5M2Y2YTU4NGJhXkEyXkFqcGdeQXVyMjI0MDI5Mg@@._V1._SX320.jpg",
+        "genres": "Japanese,Si-Fi,Fantasy,Action,Anime,Dramas,Mystery,Thriller,Adventure,Based on Manga",
+        "releaseDate": "2018",
+        "trailer": "",
+        "cast": "Yuuka Aisaka,Hiro Shimono...more"
+       },
+
+
 ]
