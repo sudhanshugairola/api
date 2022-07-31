@@ -7,7 +7,7 @@
 	    "video": "/Hindi_Movies/Thar/Thar.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY1NjE2MzUtYTVjOC00ZDUxLWIwZDUtMzk5YWQ5ODc5YTI5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
-	    "genres": "Western,Action, Thriller,Dramas,Crime,Hindi,Indian",
+	    "genres": "Western,Action,Thriller,Dramas,Crime,Hindi,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2074657305/?ref_=ext_shr_lnk",
 	    "cast": "Anil Kapoor,Harshvardhan Kapoor... more",
@@ -271,7 +271,7 @@
 	},
 
     {
-	    "name": "Love Goals",
+	    "name": "Jaadugar",
 	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
@@ -526,7 +526,7 @@
     },
 
     {
-        "name": "Beast(Hindi)",
+        "name": "Raw(Hindi)",
         "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Raw beast/Raw (Hindi).mkv",
@@ -1005,6 +1005,177 @@
         "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
     },
 
+    {
+        "name": "Masaba Masaba",
+        "description": "Inspired by real events from Masaba Gupta's life,Masaba Masaba follows the designer's atypical journey through heterogeneous universes ranging from fashion to family, and documents her return to the singles market.",
+        "ageRestriction": "16",
+        "video": "/Indian drama/Masaba Masaba/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Indian drama/Masaba Masaba/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e1.mp4",
+                             "stitle": "1.Rumour Has It",
+                             "stime": "32m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7xhwbSQrxm6YbPsYbswG9yNFbZM.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e2.mp4",
+                             "stitle": "2.I Got It From My Mamma",
+                             "stime": "31m",
+                             "simage": "https://i.ibb.co/zfMBJqs/914-500-thumbnail-1620802775-AAAABTe-RELb-WVDh-MI640-ZJQhbjsh-Ntbt-Rl-FZoj-Xi-In9teqj2-Oe-Z-7m-Iwlj.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e3.mp4",
+                             "stitle": "3.Man I Feel Like A Woman",
+                             "stime": "30m",
+                             "simage": "https://i.ibb.co/mG9sv8z/images.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e4.mp4",
+                             "stitle": "4.Bringing Sexy Back",
+                             "stime": "34m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yL4g5ZkHB4XlZY5Ozuterw3FpIg.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e5.mp4",
+                             "stitle": "5.Work B**ch!",
+                             "stime": "29m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ifg9bJjR5huAWtm2dcMkzY9jKeU.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 1/s1e6.mp4",
+                             "stitle": "6.Hot Mess",
+                             "stime": "25m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bAKfm8LOrODerUUMFEufTL9gFbl.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 1/s1e6.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e1.mp4",
+                             "stitle": "1.Baby One More Time",
+                             "stime": "33m",
+                             "simage": "https://i.ibb.co/z6vx0zK/Screenshot-44-2.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e2.mp4",
+                             "stitle": "2.You Should See Me In A Crown",
+                             "stime": "33m",
+                             "simage": "https://i.ibb.co/QdFM0GJ/Screenshot-45-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e3.mp4",
+                             "stitle": "3.Set Fire To The Rain",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/hBxGKDR/Screenshot-46-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e4.mp4",
+                             "stitle": "4.Blinding Lights",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/mTRMKkx/Screenshot-47-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e5.mp4",
+                             "stitle": "5.A Hard Day's Night",
+                             "stime": "35m",
+                             "simage": "https://i.ibb.co/F7g9sxy/Screenshot-48-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e6.mp4",
+                             "stitle": "6.Blurred Lines",
+                             "stime": "37m",
+                             "simage": "https://i.ibb.co/Qjsx6NC/Screenshot-49-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Masaba Masaba/season 2/s2e7.mp4",
+                             "stitle": "7.I Did It My Way",
+                             "stime": "42m",
+                             "simage": "https://i.ibb.co/0s6QQM0/Screenshot-50-1.jpg",
+                             "ssubtitle":"/Indian drama/Masaba Masaba/season 2/s2e7.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAwNDAyMGEtMzc2ZS00ZTQ2LWE4ZDAtOTFiOTVjM2RiZWRlXkEyXkFqcGdeQXVyMTE4MzIxNTMz._V1._SX320.jpg",
+        "genres": "Comedy,Dramas,Indian,Hindi",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi4284202521/?ref_=ext_shr_lnk",
+        "cast": "Masaba Gupta,Neena Gupta...more"
+       },
+
+    {
+        "name": "Bombay Begums",
+        "description": "Set in contemporary urban India, five women across generations wrestle with desire, ethics, personal crises, and vulnerabilities to own their ambition.",
+        "ageRestriction": "16",
+        "video": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
+        "series": "yes",
+        "subtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
+                             "stitle": "1.Women Who Run With The Wolves",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vX8FZfAvM7PxcZnpJIqly65aNJw.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.mp4",
+                             "stitle": "2.Love",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/khI5NbYitpsM6JKXSPlfOzlg0kR.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.mp4",
+                             "stitle": "3.The Color Purple",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/phMFlClh2GrVarJS7fxbJ9B6xcJ.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.mp4",
+                             "stitle": "4.The Bell Jar",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d1aEHnq0o93jDXSHrSoa1MJ3bRt.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.mp4",
+                             "stitle": "5.The Golden Notebook",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rJEwk2wENHaJTeNAVjNpK0ay6U.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.English.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.mp4",
+                             "stitle": "6.A Room Of One's Own",
+                             "stime": "1h",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gy0qGsNnsQldD5gX9QcHZxDhMyc.jpg",
+                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.English.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+        "genres": "Dramas,Indian,Hindi,Social Issue",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi524665113/?ref_=ext_shr_lnk",
+        "cast": "Pooja Bhatt,Amruta Subhash...more"
+       },
+
    {
     "name": "Decoupled",
     "description": "Follows a writer and his wife who announce their divorce with a party, which ends up exposing other absurd relationships in their world.",
@@ -1117,68 +1288,9 @@
     "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
     "cast": "Manjit Singh,Sanjay Bansal,Jitendra Sharma...more"
    },
-   
-       {
-        "name": "Bombay Begums",
-        "description": "Set in contemporary urban India, five women across generations wrestle with desire, ethics, personal crises, and vulnerabilities to own their ambition.",
-        "ageRestriction": "16",
-        "video": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
-        "series": "yes",
-        "subtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.mp4",
-                             "stitle": "1.Women Who Run With The Wolves",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vX8FZfAvM7PxcZnpJIqly65aNJw.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E01_Women Who Run With The Wolves.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.mp4",
-                             "stitle": "2.Love",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/khI5NbYitpsM6JKXSPlfOzlg0kR.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E02_Love.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.mp4",
-                             "stitle": "3.The Color Purple",
-                             "stime": "44m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/phMFlClh2GrVarJS7fxbJ9B6xcJ.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E03_The Color Purple.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.mp4",
-                             "stitle": "4.The Bell Jar",
-                             "stime": "38m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d1aEHnq0o93jDXSHrSoa1MJ3bRt.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E04_The Bell Jar.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.mp4",
-                             "stitle": "5.The Golden Notebook",
-                             "stime": "49m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rJEwk2wENHaJTeNAVjNpK0ay6U.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E05_The Golden Notebook.English.srt"
-                         },
-                         {
-                             "svideos": "/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.mp4",
-                             "stitle": "6.A Room Of One's Own",
-                             "stime": "1h",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gy0qGsNnsQldD5gX9QcHZxDhMyc.jpg",
-                             "ssubtitle":"/Indian drama/Bombay Begums/season 1/Bombay Begums_S01E06_A Room Of One_s Own.English.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
-        "genres": "Dramas,Indian,Hindi,Social Issue",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi524665113/?ref_=ext_shr_lnk",
-        "cast": "Pooja Bhatt,Amruta Subhash...more"
-       },
-       
-          {
+
+
+   {
     "name": "Bard of Blood",
     "description": "Years after a disastrous job in Baluchistan, a former Indian spy must confront his past when he returns to lead an unsanctioned hostage-rescue mission.",
     "ageRestriction": "18",
@@ -2134,7 +2246,6 @@
                 "ssubtitle":"/Indian drama/She/season 2/She_S02E07_The Switch.English.srt"
             }
         ]
-
         ],
      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
     "genres": "Crime, Dramas,Hindi,Indian",
