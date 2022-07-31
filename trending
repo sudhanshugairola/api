@@ -1,5 +1,20 @@
 [   
-
+     
+    {
+	    "name": "Purple Hearts",
+	    "description": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Purple Hearts/Purple Hearts.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+	    "genres": "Romance,Dramas,Music,Us,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2117845529/?ref_=ext_shr_lnk",
+	    "cast": "Sofia Carson,Nicholas Galitzine... more",
+        "time":"2h 2m",
+        "subtitle":"/Hollywood Movies/Purple Hearts/Purple Hearts.CC.en.srt"
+	},
+    
     {
 	    "name": "The Gray Man",
 	    "description": "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
@@ -1162,7 +1177,7 @@
              ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVhNzY5YjItMTBlNC00N2ZmLWE5ZGYtMTUzMDA0YjEwOGY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
-        "genres": "Si-Fi & Fantasy, Dramas,Hollywood,English",
+        "genres": "Si-Fi,Fantasy, Dramas,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi803848729/?ref_=ext_shr_lnk",
         "cast": "Ella Balinska,Lance Reddick...more"
@@ -1243,143 +1258,11 @@
              ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1._SX320.jpg",
-        "genres": "Comedy, Dramas,Hollywood,English",
+        "genres": "Comedy,Dramas,Hollywood,English",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
         "cast": "Rowan Atkinson,Jing Lusi...more"
     },
-
-    {
-        "name": "Rebelde",
-        "description": "As Elite Way School starts a new term, a familiar enemy a secret society called the Lodge threatens to crash the musical hopes of the first-years.",
-        "ageRestriction": "16",
-        "video": "/Hollywood series/Rebelde/season 1/s1e1.mp4",
-        "series": "yes",
-        "subtitle":"/Hollywood series/Rebelde/season 1/s1e1.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e1.mp4",
-                             "stitle": "1.Welcome All",
-                             "stime": "39m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRjNzU3MjQtZjgxMC00OWIxLWJiOWMtZTEwZTJlYzk2MmFlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e1.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e2.mp4",
-                             "stitle": "2.Auditions",
-                             "stime": "47m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BN2E0OWU1YzMtZmE2Mi00M2VmLWJjMjUtYzJhODE0ZTNlOTI0XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e2.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e3.mp4",
-                             "stitle": "3.He's Going Down",
-                             "stime": "40m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qNp6XHs36g8ue0lVOmSIA5lfLmn.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e3.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e4.mp4",
-                             "stitle": "4.Earthquake Drill",
-                             "stime": "39m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMGFkZTI1MjEtN2EyYi00ZDI0LWFiZDgtZjk0YmMwZWE3MTA0XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e4.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e5.mp4",
-                             "stitle": "5.The First Time",
-                             "stime": "35m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BOWQ5ZDg4ZGYtMTIyNS00MmIzLTg0MjktNGExYzFkNWRkNWIyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e5.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e6.mp4",
-                             "stitle": "6.Sálvame",
-                             "stime": "32m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMzQ5OWIxM2YtZTJkZS00OTU5LWExZmItMDNmYTUxMWNiOWE1XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e6.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e7.mp4",
-                             "stitle": "7.'Til Dawn",
-                             "stime": "34m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BY2NiYjE2MGYtOWNlZS00ZTUyLWIwOWUtZTU5NjkwNDNlMjkwXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e7.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 1/s1e8.mp4",
-                             "stitle": "8.The Grand Finale",
-                             "stime": "48m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMmIzZDg3N2QtMDlhYS00Y2IyLTk1ZDItMDFhMmZlYzI0YmUzXkEyXkFqcGdeQXVyMTM1OTU3ODIx._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e8.srt"
-                         }
-             ],
-             [
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e1.mp4",
-                             "stitle": "1.Back to School",
-                             "stime": "45m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vcO6YKF1PmBwQzzIhCOnuXrPZFc.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e1.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e2.mp4",
-                             "stitle": "2.Ser o Parecer",
-                             "stime": "47m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/30fgrar6lxOv0ELJFTP0fdmuYkR.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e2.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e3.mp4",
-                             "stitle": "3.Let's Duet",
-                             "stime": "45m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oOjcJuhXGYjfVSsTpiUPDN4okgE.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e3.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e4.mp4",
-                             "stitle": "4.Viral",
-                             "stime": "38m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iX8VuN8gHLSBkf9mujlsSX4aYfU.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e4.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e5.mp4",
-                             "stitle": "5.The Show Must Go On",
-                             "stime": "34m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tcF4yiANVpki0I5x1N4vNBxcYBi.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e5.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e6.mp4",
-                             "stitle": "6.A Trip Around the Sun",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2m8z7VuZyhFgGK10XclAnDD00zi.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e6.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e7.mp4",
-                             "stitle": "7.Y.O.L.O.",
-                             "stime": "42m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lJqe7xo88XbAEii7Ue7rVn7ecWG.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e7.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Rebelde/season 2/s2e8.mp4",
-                             "stitle": "8.Otro día que va",
-                             "stime": "38m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zFAVQGWPaUu95Ea231yhwoo66JJ.jpg",
-                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e8.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk2ZDQ1ZmItNGE4Ni00MTNlLTkxYmQtMjY0YmQzMjczY2UwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
-        "genres": "Mexican,Teen,Dramas,Hollywood,English,Music,Comedy",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1524613913/?ref_=ext_shr_lnk",
-        "cast": "Azul Guaita,Sergio Mayer Mori...more"
-       },
 
     {
         "name": "Control Z",
@@ -1569,129 +1452,6 @@
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi2050408985/?ref_=ext_shr_lnk",
         "cast": "Ana Valeria Becerril,Michael Ronda...more"
-       },
-
-       {
-        "name": "DI4RIES",
-        "description": "First crushes, first kisses, fun with friends — and feuds with rivals. In the halls of Galileo Galilei Middle School, every day is full of surprises!",
-        "ageRestriction": "16",
-        "video": "/Hollywood series/DI4RIES/season 1/s1e1.mp4",
-        "series": "yes",
-        "subtitle":"/Hollywood series/DI4RIES/season 1/s1e1.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e1.mp4",
-                             "stitle": "1.S1 Episode1",
-                             "stime": "52m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNDUyODMwMWYtYzQ4MC00NTMyLWE1YTMtZDhiZmI4ODc3MWY5XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e1.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e2.mp4",
-                             "stitle": "2.S1 Episode2",
-                             "stime": "28m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNmI1NGVmNzItZjUwZi00MWZmLWFmM2UtYzAxNTA0ZjllMjMyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e2.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e3.mp4",
-                             "stitle": "3.S1 Episode3",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BODA1OGZmYWItMmI0YS00OTQ4LWEyODgtZDYyYmU5ODNmM2UxXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e3.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e4.mp4",
-                             "stitle": "4.S1 Episode4",
-                             "stime": "29m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMjg3YTM1Y2QtOWE4ZS00NTAwLWFhMzAtYzEyYjAyMDg0YzVlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e4.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e5.mp4",
-                             "stitle": "5.S1 Episode5",
-                             "stime": "27m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZDM1ZmQxMTgtNmM4Yy00NzJiLWE1MDQtMmQxNjMzNWQ0YjA5XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e5.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e6.mp4",
-                             "stitle": "6.S1 Episode6",
-                             "stime": "28m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE2OTU0ZTItZTE5MS00NDEyLThhOWYtZmY5MjZjM2Q1NjI4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e6.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e7.mp4",
-                             "stitle": "7.S1 Episode7",
-                             "stime": "28m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYzAwNjY4OTMtZjQ3MC00NWYxLTkxYzEtNWZiOGJhOTIyZTRhXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e7.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e8.mp4",
-                             "stitle": "8.S1 Episode8",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYzgyMTc3NTYtYzY3Ny00MWJkLWEzMmMtMjA5MWYyMjQzNDAxXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e8.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e9.mp4",
-                            "stitle": "9.S1 Episode9",
-                            "stime": "26m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BZDE1NmY5MDItYmI5Yy00YjQ0LTk0NmItYTdmY2M5Njk2NjVlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e9.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e10.mp4",
-                            "stitle": "10.S1 Episode10",
-                            "stime": "27m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BNWEyNzc0ODAtNGQ1MS00MjA5LWJlMmEtMzA3YTliODI5OWEyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e10.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e11.mp4",
-                            "stitle": "11.S1 Episode11",
-                            "stime": "24m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BZjg2M2EyY2QtNzYwNy00MjE1LTgwYzMtYWUwMWFkMzRlZGI4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e11.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e12.mp4",
-                            "stitle": "12.S1 Episode12",
-                            "stime": "24m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BYjEzYmNmODctZDM1OS00NDcyLTk2OWYtYjU2NDljMmRiMjJmXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e12.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e13.mp4",
-                            "stitle": "13.S1 Episode13",
-                            "stime": "25m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BMDAyZjE1NDAtYTBkOC00MmU3LTk3MDctOTc1YmZjZTA5ZmRlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e13.srt"
-                          },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e14.mp4",
-                            "stitle": "14.S1 Episode14",
-                            "stime": "27m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BODhlOWFlZTktMTU3MC00NzE1LWIyYWQtOWQ5MWM1NmIyNzc3XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e14.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e15.mp4",
-                            "stitle": "15.S1 Episode15",
-                            "stime": "28m",
-                            "simage": "https://m.media-amazon.com/images/M/MV5BMTFiZWUyYjEtNjY2ZS00Zjk5LTlkNWItZGYxYzA0ZDY5ZTk4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
-                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e15.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDIzMGFhYjctNTVlZS00NjczLWI0NGItZmYxMzEzZGVjNDczXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1._SX320.jpg",
-        "genres": "Italian,Family,Teen,Dramas,Hollywood,English,Comedy",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1489420825/?ref_=ext_shr_lnk",
-        "cast": "Rossella Celati,Biagio Vendetti...more"
        },
     
     {
@@ -2094,8 +1854,263 @@
         "trailer": "https://www.imdb.com/video/vi321897241/?ref_=ext_shr_lnk",
         "cast": "Oscar Isaac,Ethan Hawke...more"
        },
-       
-           {
+
+       {
+        "name": "Rebelde",
+        "description": "As Elite Way School starts a new term, a familiar enemy a secret society called the Lodge threatens to crash the musical hopes of the first-years.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Rebelde/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Rebelde/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e1.mp4",
+                             "stitle": "1.Welcome All",
+                             "stime": "39m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRjNzU3MjQtZjgxMC00OWIxLWJiOWMtZTEwZTJlYzk2MmFlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e2.mp4",
+                             "stitle": "2.Auditions",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BN2E0OWU1YzMtZmE2Mi00M2VmLWJjMjUtYzJhODE0ZTNlOTI0XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e3.mp4",
+                             "stitle": "3.He's Going Down",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qNp6XHs36g8ue0lVOmSIA5lfLmn.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e4.mp4",
+                             "stitle": "4.Earthquake Drill",
+                             "stime": "39m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGFkZTI1MjEtN2EyYi00ZDI0LWFiZDgtZjk0YmMwZWE3MTA0XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e5.mp4",
+                             "stitle": "5.The First Time",
+                             "stime": "35m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWQ5ZDg4ZGYtMTIyNS00MmIzLTg0MjktNGExYzFkNWRkNWIyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e6.mp4",
+                             "stitle": "6.Sálvame",
+                             "stime": "32m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzQ5OWIxM2YtZTJkZS00OTU5LWExZmItMDNmYTUxMWNiOWE1XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e7.mp4",
+                             "stitle": "7.'Til Dawn",
+                             "stime": "34m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2NiYjE2MGYtOWNlZS00ZTUyLWIwOWUtZTU5NjkwNDNlMjkwXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 1/s1e8.mp4",
+                             "stitle": "8.The Grand Finale",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmIzZDg3N2QtMDlhYS00Y2IyLTk1ZDItMDFhMmZlYzI0YmUzXkEyXkFqcGdeQXVyMTM1OTU3ODIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e1.mp4",
+                             "stitle": "1.Back to School",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vcO6YKF1PmBwQzzIhCOnuXrPZFc.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e2.mp4",
+                             "stitle": "2.Ser o Parecer",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/30fgrar6lxOv0ELJFTP0fdmuYkR.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e3.mp4",
+                             "stitle": "3.Let's Duet",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oOjcJuhXGYjfVSsTpiUPDN4okgE.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e4.mp4",
+                             "stitle": "4.Viral",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iX8VuN8gHLSBkf9mujlsSX4aYfU.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e5.mp4",
+                             "stitle": "5.The Show Must Go On",
+                             "stime": "34m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tcF4yiANVpki0I5x1N4vNBxcYBi.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e6.mp4",
+                             "stitle": "6.A Trip Around the Sun",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2m8z7VuZyhFgGK10XclAnDD00zi.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e7.mp4",
+                             "stitle": "7.Y.O.L.O.",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lJqe7xo88XbAEii7Ue7rVn7ecWG.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Rebelde/season 2/s2e8.mp4",
+                             "stitle": "8.Otro día que va",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zFAVQGWPaUu95Ea231yhwoo66JJ.jpg",
+                             "ssubtitle":"/Hollywood series/Rebelde/season 2/s2e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk2ZDQ1ZmItNGE4Ni00MTNlLTkxYmQtMjY0YmQzMjczY2UwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+        "genres": "Mexican,Teen,Dramas,Hollywood,English,Music,Comedy",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1524613913/?ref_=ext_shr_lnk",
+        "cast": "Azul Guaita,Sergio Mayer Mori...more"
+       },
+
+       {
+        "name": "DI4RIES",
+        "description": "First crushes, first kisses, fun with friends — and feuds with rivals. In the halls of Galileo Galilei Middle School, every day is full of surprises!",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/DI4RIES/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/DI4RIES/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e1.mp4",
+                             "stitle": "1.S1 Episode1",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDUyODMwMWYtYzQ4MC00NTMyLWE1YTMtZDhiZmI4ODc3MWY5XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e2.mp4",
+                             "stitle": "2.S1 Episode2",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmI1NGVmNzItZjUwZi00MWZmLWFmM2UtYzAxNTA0ZjllMjMyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e3.mp4",
+                             "stitle": "3.S1 Episode3",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODA1OGZmYWItMmI0YS00OTQ4LWEyODgtZDYyYmU5ODNmM2UxXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e4.mp4",
+                             "stitle": "4.S1 Episode4",
+                             "stime": "29m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjg3YTM1Y2QtOWE4ZS00NTAwLWFhMzAtYzEyYjAyMDg0YzVlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e5.mp4",
+                             "stitle": "5.S1 Episode5",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDM1ZmQxMTgtNmM4Yy00NzJiLWE1MDQtMmQxNjMzNWQ0YjA5XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e6.mp4",
+                             "stitle": "6.S1 Episode6",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE2OTU0ZTItZTE5MS00NDEyLThhOWYtZmY5MjZjM2Q1NjI4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e7.mp4",
+                             "stitle": "7.S1 Episode7",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzAwNjY4OTMtZjQ3MC00NWYxLTkxYzEtNWZiOGJhOTIyZTRhXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/DI4RIES/season 1/s1e8.mp4",
+                             "stitle": "8.S1 Episode8",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzgyMTc3NTYtYzY3Ny00MWJkLWEzMmMtMjA5MWYyMjQzNDAxXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e9.mp4",
+                            "stitle": "9.S1 Episode9",
+                            "stime": "26m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDE1NmY5MDItYmI5Yy00YjQ0LTk0NmItYTdmY2M5Njk2NjVlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e10.mp4",
+                            "stitle": "10.S1 Episode10",
+                            "stime": "27m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNWEyNzc0ODAtNGQ1MS00MjA5LWJlMmEtMzA3YTliODI5OWEyXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e11.mp4",
+                            "stitle": "11.S1 Episode11",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjg2M2EyY2QtNzYwNy00MjE1LTgwYzMtYWUwMWFkMzRlZGI4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e12.mp4",
+                            "stitle": "12.S1 Episode12",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjEzYmNmODctZDM1OS00NDcyLTk2OWYtYjU2NDljMmRiMjJmXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e13.mp4",
+                            "stitle": "13.S1 Episode13",
+                            "stime": "25m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDAyZjE1NDAtYTBkOC00MmU3LTk3MDctOTc1YmZjZTA5ZmRlXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e13.srt"
+                          },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e14.mp4",
+                            "stitle": "14.S1 Episode14",
+                            "stime": "27m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODhlOWFlZTktMTU3MC00NzE1LWIyYWQtOWQ5MWM1NmIyNzc3XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/DI4RIES/season 1/s1e15.mp4",
+                            "stitle": "15.S1 Episode15",
+                            "stime": "28m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTFiZWUyYjEtNjY2ZS00Zjk5LTlkNWItZGYxYzA0ZDY5ZTk4XkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/DI4RIES/season 1/s1e15.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDIzMGFhYjctNTVlZS00NjczLWI0NGItZmYxMzEzZGVjNDczXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1._SX320.jpg",
+        "genres": "Italian,Family,Teen,Dramas,Hollywood,English,Comedy",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1489420825/?ref_=ext_shr_lnk",
+        "cast": "Rossella Celati,Biagio Vendetti...more"
+       },
+
+       {
         "name": "Manifest",
         "description": "After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
         "ageRestriction": "16",
@@ -2405,7 +2420,7 @@
              ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1._SX320.jpg",
-        "genres": "Dramas, Mystery,Si-Fi & Fantasy,Hollywood,English",
+        "genres": "Dramas, Mystery,Si-Fi,Fantasy,Hollywood,English",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi3001334553/?ref_=ext_shr_lnk",
         "cast": "Melissa Roxburgh,Parveen Kaur...more"
@@ -2848,9 +2863,8 @@
            "cast": "Katee Sackhoff,Justin Chatwin, ...more"
         },
 	
-	{
-	  
-             "name": "The Umbrella Academy",
+	    {
+	         "name": "The Umbrella Academy",
              "description": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
              "ageRestriction": "16",
              "video": "/Hollywood series/The umbrella academy/season 1/The Umbrella Academy_S01E01_We Only See Each Other at Weddings and Funerals.mkv",
