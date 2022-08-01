@@ -1,4 +1,34 @@
 [
+    
+    {
+	    "name": "Gantz:O",
+	    "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+	    "ageRestriction": "16",
+	    "video": "/Anime/GANTZ_O/GANTZ_O.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmRiNWVmZDctM2Q2Ny00NzMwLTkwYTItMmU0ZmE5MDUwNTBiL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@.__V1._SX320.jpg",
+	    "genres": "Science Fiction,Action,Anime,Si-Fi",
+	    "releaseDate": "2016",
+	    "trailer": "",
+	    "cast": "Daisuke Ono,Saori Hayami... more",
+        "time":"1h 35m",
+        "subtitle":"/Anime/GANTZ_O/GANTZ_O.English.srt"
+	},
+
+    {
+	    "name": "Bubble",
+	    "description": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
+	    "ageRestriction": "13",
+	    "video": "/Anime/Bubble/Bubble.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjQwNTUwMzYtMTRmZi00MTU1LTkxMTEtNTlhMjc4ZGE2ZjRiXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+	    "genres": "Anime,Adventure, Science Fiction,Si-Fi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi4117545753/?ref_=ext_shr_lnk",
+	    "cast": "Jun Shison,Alice Hirose... more",
+        "time":"1h 41m",
+        "subtitle":"/Anime/Bubble/Bubble.English (CC)"
+	},
 
     {
         "name": "Arcane",
@@ -217,7 +247,6 @@
                             "ssubtitle":"/Hollywood series/Love, Death and Robots/season 1/[V1.Ep18] Love, Death and Robots - ZIMA BLUE.CC.en.srt"
                         }
              ],
-                        
              [
                          {
                              "svideos": "/Hollywood series/Love, Death and Robots/season 2/[V2.Ep1] Love, Death and Robots - Automated Customer Service.mp4",
@@ -275,9 +304,7 @@
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sg0NnFnDp8zs76e2IKSP53h4fqm.jpg",
                              "ssubtitle":"/Hollywood series/Love, Death and Robots/season 2/[V2.Ep8] Love, Death and Robots - The Drowned Giant.CC.en.srt"
                          }
-                    
              ],
-            
              [
                 {
                     "svideos": "/Hollywood series/Love, Death and Robots/season 3/[V3.Ep1] Love, Death and Robots - Three Robots - Exit Strategies.mp4",
@@ -760,7 +787,67 @@
         "trailer": "https://www.imdb.com/video/vi2159525913/?ref_=ext_shr_lnk",
         "cast": "Shizuka Itoh,Shiki Aoki...more"
        },
-       
+        
+       {
+        "name": "Trese",
+        "description": "In Manila, where dark supernatural forces pervade the criminal underworld, it’s up to Alexandra Trese to keep the peace — but there’s a storm brewing.",
+        "ageRestriction": "16",
+        "video": "/Anime/Trese/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Trese/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e1.mp4",
+                             "stitle": "1.Episode 1",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzEyMjhkM2EtZTIxYi00NjBjLThmOTctMTBmMjJmMmVmODQ0XkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e2.mp4",
+                             "stitle": "2.Episode 2",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2M2ZmIwZDEtM2FiNC00Mjk0LWE1MzAtMjdhODkyNmQzMmMzXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e3.mp4",
+                             "stitle": "3.Episode 3",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTJhYTg4MWUtOTE4ZC00OGQzLWI1NTQtYjM5ZDZlNzJlYjRmXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e4.mp4",
+                             "stitle": "4.Episode 4",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWY5MDYwMWQtZTdiOC00ZTU4LWE4MDEtZGFjZTRmNzIwZDVlXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e5.mp4",
+                             "stitle": "5.Episode 5",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGI5ZjdjYTctYWZlYy00ODA5LWI3ZWUtYTU5MmNlNzYwNWVhXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Trese/season 1/s1e6.mp4",
+                             "stitle": "6.Episode 6",
+                             "stime": "33m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGJjZGIwMDYtMGJhOS00Yjc1LTk0OGItMjNmYjBmOTQ2ODY2XkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Trese/season 1/s1e6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2JmMzBhYWUtOGRlZi00NWE3LWJjNDgtMzc4ZWY2ZGJlMGU3XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1._SX320.jpg",
+        "genres": "Anime,Si-Fi,Fantasy,Mystery,Crime",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi2604253209/?ref_=ext_shr_lnk",
+        "cast": "Shay Mitchell,Jon Jon Briones...more"
+       },
+
        {
         "name": "SWORD GAI: The Animation",
         "description": "A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies.",
@@ -947,6 +1034,852 @@
         "releaseDate": "2018",
         "trailer": "",
         "cast": "Yuuka Aisaka,Hiro Shimono...more"
+       },
+
+       {
+        "name": "Super CrooksJohnny Bolt recruits a group of ragtag supervillains for one last heist. Their target: A ruthless super-powered crime boss. What can go wrong",
+        "description": "",
+        "ageRestriction": "16",
+        "video": "/Anime/Super Crooks/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Super Crooks/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e1.mp4",
+                             "stitle": "1.Electro Boy",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ns7YHX9ah8CEov0v6foKF737RYF.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e2.mp4",
+                             "stitle": "2.Kasey",
+                             "stime": "27m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uJxlr7ZVG73BPmD7R5NTL34VOsQ.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e3.mp4",
+                             "stitle": "3.Man Mountain",
+                             "stime": "20m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vM67rcLz1j9xwgP172F4pjTeElj.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e4.mp4",
+                             "stitle": "4.The Praetorian",
+                             "stime": "23m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/f6OWkK8rS7f61FE6FUbhtT4YMq.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e5.mp4",
+                             "stitle": "5.The Heat",
+                             "stime": "25m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wTDpTkshKtZSsX6RPaCLzv9pWrj.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e6.mp4",
+                             "stitle": "6.The Gladiator",
+                             "stime": "23m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6TgQTmDiipK13O7YRinXURLQflI.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e7.mp4",
+                             "stitle": "7.The Supermax",
+                             "stime": "25m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/v6fKcaVwrpYdcBmUz1DeZSeJBhx.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e8.mp4",
+                             "stitle": "8.The Union of Justice",
+                             "stime": "23m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gHVRBDEjBLIM6HI6ndLvejKBPGN.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e9.mp4",
+                             "stitle": "9.Count Orlok",
+                             "stime": "25m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sASF4K9P7YvzRdJxDuQ2cHWR1Yd.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e10.mp4",
+                             "stitle": "10.Carmine",
+                             "stime": "27m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/sm5gZcSMhyLYzQhqvne5apn4uBl.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e11.mp4",
+                             "stitle": "11.Casino Grand Granite",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AfIeN8BtXpC90NnuabqV4XG3jXP.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e12.mp4",
+                             "stitle": "12.The Bastard",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hMs4FlnV0YV7EFUBNu21xsWjBZO.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e12.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Super Crooks/season 1/s1e13.mp4",
+                             "stitle": "13.SUPER CROOKS",
+                             "stime": "29m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/t4ZqkOrYuKDWHtLRccwKFqsd0JZ.jpg",
+                             "ssubtitle":"/Anime/Super Crooks/season 1/s1e13.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODVjMjdiOTktZjQ3OS00MjdiLWIyYWUtMmFkZjYyODI5Njk3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+        "genres": "Anime,Crime,Si-Fi,Fantasy,Action,Adventure",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi243843865/?ref_=ext_shr_lnk",
+        "cast": "Kenjiro Tsuda,Maaya Sakamoto...more"
+       },
+
+       {
+        "name": "Godzilla Singular Point",
+        "description": "Brought together by a mysterious song, a grad student and an engineer lead the fight against an unimaginable force that may spell doom for the world.",
+        "ageRestriction": "16",
+        "video": "/Anime/Godzilla Singular Point/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Godzilla Singular Point/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e1.mp4",
+                             "stitle": "1.Terzetto",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9xoTUioqUESxSYG7mfkfnX4P3Io.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e2.mp4",
+                             "stitle": "2.Gamesome",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dzIKRAOIftOZZv5BeX9QFuuQsz6.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e3.mp4",
+                             "stitle": "3.Tigerish",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2ZzO1y4UlTIe0nLJUFqHEzFUMrR.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e4.mp4",
+                             "stitle": "4.Gadabout",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mTK1jEjvNbIBDuvQnLDsKts1TfP.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e5.mp4",
+                             "stitle": "5.Theorist",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1mrgLF4Qqq6glUGsEyC1XBktJ09.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e6.mp4",
+                             "stitle": "6.Enfatico",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rZcjNBmwOrdaxoFtniHlPQZZFy6.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e7.mp4",
+                             "stitle": "7.Omniarch",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lE9rT3RGHzKqvaxeqj1dLiJ20gr.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e8.mp4",
+                             "stitle": "8.Graftage",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qF8kyrqp8B614spdbmYnvZ7ue3m.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e9.mp4",
+                             "stitle": "9.Erumpent",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8yUdnPVxT8HoHsGwHYvCn2Rp79G.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e10.mp4",
+                             "stitle": "10.Encipher",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eHyweXjdnvkMaRxvKSLo8jYrLOd.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e11.mp4",
+                             "stitle": "11.Relaunch",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1SzFx0ggLGADCfTWb3N4LxwLKuM.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e12.mp4",
+                             "stitle": "12.Explorer",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3MuVTarOd15koF9HFtXpaE5oqTB.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e12.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Godzilla Singular Point/season 1/s1e13.mp4",
+                             "stitle": "13.Together",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hpxrWLOPcyuiMpF75JJCYQ1Xm7h.jpg",
+                             "ssubtitle":"/Anime/Godzilla Singular Point/season 1/s1e13.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDIwMTBiNjAtMzYzOS00YjdjLTlhNWItMjY0ZGQ3YjhiNWRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+        "genres": "Anime,Action,Adventure,Si-Fi,Fantasy,Mystery",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi1244446745/?ref_=ext_shr_lnk",
+        "cast": "Yume Miyamoto,Shoya Ishige...more"
+       },
+
+       {
+        "name": "DOTA: Dragon's Blood",
+        "description": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined.",
+        "ageRestriction": "16",
+        "video": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+                             "stitle": "1.What the Thunder Said",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODdjOTRjYzktYTlkNC00MTM2LWI2MjAtODBiOGFiMDI0YmUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY126_CR21,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.mp4",
+                             "stitle": "2.Princess of Nothing",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGY1Y2RhMTMtMTc2MC00MzhkLTg5M2QtYWY4OTUyNzlkOWE0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.mp4",
+                             "stitle": "3.Neverwhere Land",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQyNDNhNGUtMGU4Mi00YTQzLWE1OGQtNTg2ZGE3MzNiNzg4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.mp4",
+                             "stitle": "4.The Monster at the End of This Book",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTA0ZjVjYjUtYzlhMS00NTk0LWE3YjYtMzRhZjE5MGI5ODcxXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.mp4",
+                             "stitle": "5.The Fire Sermon",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGE5ZWYzZWYtMzYyMi00ZGY5LWE4NjAtMDIwZGI0YjBkOTBlXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.mp4",
+                             "stitle": "6.The Knight, Death and the Devil",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzExMTEwN2UtZDUyYS00NmM3LWE5ZWEtNmNiNjgwZmM4ZWFkXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.mp4",
+                             "stitle": "7.Speak the Words",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTc5OWQwZjQtYThlMC00OTBiLTk3MDgtZDI4MGE4ZDFiYmNhXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.mp4",
+                             "stitle": "8.A Game of Chess",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmQ4MTUxNzAtMjA1Mi00MDU1LWI4ZTEtYWY1MWQzMGRhMmQ3XkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.mp4",
+                             "stitle": "1.Nothing with Nothing",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzE4OTZiNDUtZDlhYS00YmQxLWFjMWEtOGY4YmJiZTAzN2FjXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.mp4",
+                             "stitle": "2.My Sword, My Life",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRhMWY1MjYtNDcwMy00Yjk0LTgzYzUtMmQzODY3ZGEzMGQzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.mp4",
+                             "stitle": "3.The Lady of Situations",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmFiNjkwMDEtZTAxZi00NjY4LThmZDQtMGZjMjZhZjljMDY1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.mp4",
+                             "stitle": "4.Desolate and Empty the Sea",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjE3Mzc3NzktNDRkNS00YmNjLWI5ODUtYjI1NGM1N2ZiODk1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.mp4",
+                             "stitle": "5.The Burial of the Dead",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTA5N2U3MzItMjkwZS00MTZhLWFmYmUtMTc5ZmY3YzhlYjFiXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.mp4",
+                             "stitle": "6.The Hyacinth Girl",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFlOGFmZjEtNDgxYS00ZmYyLTk0YWUtZWU4N2E0NTA0ZjQxXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.mp4",
+                             "stitle": "7.The Violet Hour",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2RjYzNiM2MtNWM4Yy00NzcwLTkwMTEtOTRjNmMzZTIwN2VmXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.mp4",
+                             "stitle": "8.Unreal City",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjk3Njc2ZTUtYjU1NS00NWJmLThiYmEtMTk5ZGQ0MzMwZDIzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+        "genres": "Si-Fi,Fantasy,Action,Adventure,Anime",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi105693465/?ref_=ext_shr_lnk",
+        "cast": "Troy Baker,Yuri Lowenthal...more"
+       },
+
+       {
+        "name": "Devilman Crybaby",
+        "description": "Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.",
+        "ageRestriction": "16",
+        "video": "/Anime/Devilman Crybaby/Limited Series/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Devilman Crybaby/Limited Series/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e1.mp4",
+                             "stitle": "1.I Need You",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDZhZTViN2UtNGMyOS00NDI1LWFjNmEtMmE2NWMzOTU2YzU1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_CR4,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e2.mp4",
+                             "stitle": "2.One Hand Is Enough",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTY1Njg5ODctYzg4YS00ZjEwLWFjMGMtZDYyMjRmYzJiMjI3XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e3.mp4",
+                             "stitle": "3.Believe Me",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzVmMDZiZTgtMjBlZi00YThmLWJlNjktNDQ2ZTBjNmQ1YTY4XkEyXkFqcGdeQXVyNjY5NTM5MjA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e4.mp4",
+                             "stitle": "4.Come, Akira",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWJjM2UxZmUtNzMwMi00ZWY5LWE3MTEtZjRmMmNiZGI1MDU3XkEyXkFqcGdeQXVyNjY5NTM5MjA@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e5.mp4",
+                             "stitle": "5.Beautiful Silene",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzQ2MWMzZmYtYTFkZS00ZGI1LWI4ZGYtZDE3N2Y2MTc5YzMwXkEyXkFqcGdeQXVyNjY5NTM5MjA@._V1_UY126_UX224_AL_.jpg25",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e6.mp4",
+                             "stitle": "6.Neither Demon nor Human",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2Q1ZTk4NDktZjk1Ny00ZThjLWI1Y2EtNmVmZTE2YjcxMjQ2XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e7.mp4",
+                             "stitle": "7.Weak Humans, Wise Demons",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFhNjg0NTgtZDFjMC00YjY5LWI4NjAtMmI2NTk0NDg0YTA2XkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e8.mp4",
+                             "stitle": "8.I Must Know Myself",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjQ3MTdlZmEtNjc3ZC00ZTY0LWEyNTItOTU1YTMyNDg2ZDQ4XkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e9.mp4",
+                             "stitle": "9.Go to Hell, You Mortals",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQxNWE1YTUtNzU2MS00OWRiLTkxOGItMzI0NGFkMjYxYjFiXkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Devilman Crybaby/Limited Series/s1e10.mp4",
+                             "stitle": "10.Crybaby",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODRiNjJiODMtMjg0Mi00ZDg3LWE3MzUtZWQ2MWM0MjkxZWQ4XkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/Devilman Crybaby/Limited Series/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjYxMGRlZDAtYTU5Ny00NzhmLTgzYzgtNjNjNTZiZDQ5ZjU0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+        "genres": "Anime,Action,Adventure,Si-Fi,Fantasy",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3709123865/?ref_=ext_shr_lnk",
+        "cast": "Subaru Kimura,Ami Koshimizu...more"
+       },
+
+       {
+        "name": "Blood of Zeus",
+        "description": "In a brewing war between the gods of Olympus and the titans, Heron, a commoner living on the outskirts of ancient Greece, becomes mankind's best hope of surviving an evil demon army, when he discovers the secrets of his past.",
+        "ageRestriction": "16",
+        "video": "/Anime/Blood of Zeus/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/Blood of Zeus/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e1.mp4",
+                             "stitle": "1.A Call to Arms",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzgwOTc5MDItNzExMy00YmRkLTg5ZTEtMzU5ZGU1ZDY4MmYxXkEyXkFqcGdeQXVyMTUzMTM1NDU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e2.mp4",
+                             "stitle": "2.Past is Prologue",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2Y0ZTE2YWEtZGRiOS00M2EzLTk5ZTAtYjc3OWM2NjhiYTFkXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e3.mp4",
+                             "stitle": "3.The Raid",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTgyYjU4ZDEtMDgyZS00MzZhLWI5MDktNWU4NmQzYzc3MTE3XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e4.mp4",
+                             "stitle": "4.A Monster is Born",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmJlM2FjZDItNTY3ZC00ZTAzLThjZGEtZjc1YjNmMDFlNzVhXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e5.mp4",
+                             "stitle": "5.Escape or Die",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODc1NmY4YTYtNjdhOS00YWMxLWIyODYtZThiODBlYjQ5MzUyXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e6.mp4",
+                             "stitle": "6.Back to Olympus",
+                             "stime": "32m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDZiNjNjNTItNTcwZC00MTZiLWJhYjQtODFlN2I5NDg0YzA4XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e7.mp4",
+                             "stitle": "7.The Fields of the Dead",
+                             "stime": "34m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzRkNzI4ZjctODFmNS00NzRkLTk5MmEtMmI5MjU2OGU0YTUyXkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/Blood of Zeus/season 1/s1e8.mp4",
+                             "stitle": "8.War for Olympus",
+                             "stime": "37m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDAxNGNjZTMtM2M0OS00MWM4LWFhODYtYjc2ZTM5NzE2OGI0XkEyXkFqcGdeQXVyMTIyMzk3NDU1._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Blood of Zeus/season 1/s1e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODFjOGM0ZjktOGIyYi00ZTAxLWE5NzAtYjFiZGU5NDZmZTNjXkEyXkFqcGdeQXVyMjUyNzQ0NjU@._V1._SX320.jpg",
+        "genres": "Animation,Action,Adventure,Si-Fi,Fantasy",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3582312729/?ref_=ext_shr_lnk",
+        "cast": "Derek Phillips,Jason O'Mara...more"
+       },
+
+       {
+        "name": "B: The Beginning",
+        "description": "In a world powered by advanced technology, crime and action unfold in the archipelagic nation of Cremona. Genius investigator Keith Flick rejoins the royal police force just as serial killer “B” emerges. Mysterious youth Koku may be an ally, or a target.",
+        "ageRestriction": "16",
+        "video": "/Anime/B_ The Beginning/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/B_ The Beginning/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e1.mp4",
+                             "stitle": "1.S1 Episode1",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDBlNmI4OTMtNmMxZS00NzQ0LTk4MWYtN2FjNDJiYTVlOGE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY126_CR2,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e2.mp4",
+                             "stitle": "2.S1 Episode2",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWJkNTI1ZDAtNTdmOC00ZjE2LTgyMTQtYWYxMzU1ZjYxNDE5XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e3.mp4",
+                             "stitle": "3.S1 Episode3",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjViYzBmYzItMWJlMS00NzkwLWE3NzQtMTEwMGNlMGU4NGFmXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e4.mp4",
+                             "stitle": "4.S1 Episode4",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzY4YThlZTktMGI0MS00Yzc1LWFmODAtMGE0MDdlODc2NzE1XkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e5.mp4",
+                             "stitle": "5.S1 Episode5",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDAxYjY2MGYtZTU1Zi00YjFhLWI0ZTItNjhmNzhkZDZlNjMzXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e6.mp4",
+                             "stitle": "6.S1 Episode6",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmU1YjkwNjItN2IwMS00MTFlLThkMGEtOThmNWZhNTAyZTJjXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e7.mp4",
+                             "stitle": "7.S1 Episode7",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTkzNjU3NjktYWM1MS00N2RhLWJiNWQtMjhmZTQ0N2ZhYjM1XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e8.mp4",
+                             "stitle": "8.S1 Episode8",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2FjNWJiZGUtNjBkNS00NTEwLWE2YmItMGIzMjdlMjAyMGZmXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e9.mp4",
+                             "stitle": "9.S1 Episode9",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmEwZTk5MDgtNmI0Zi00YzI2LTg0MWQtMjJlMzY4ZDBhYzUxXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e10.mp4",
+                             "stitle": "10.S1 Episode10",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzNkZDA3MGMtY2RhZS00YzRiLTgyZTItY2Y0NjdkNTZmNTNkXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e11.mp4",
+                             "stitle": "11.S1 Episode11",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjZhOTM1MGItNjJhZC00OGYxLTkyZDMtMDI2ODJiOTE0MzUzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 1/s1e12.mp4",
+                             "stitle": "12.S1 Episode12",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjkwMGVlNjYtZmRkZS00MTA4LThmYTAtY2I4OGVmODk3NmE1XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 1/s1e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e1.mp4",
+                             "stitle": "1.S2 Episode1",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjM1MGVjM2UtMWVhNi00ZDU2LWExMDMtYjJjODY3OTA3ZWYxXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e2.mp4",
+                             "stitle": "2.S2 Episode2",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBlNThmYmQtNDkwNy00ZjYyLTllOTAtNDJjMzI4ZDYzYTg0XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e3.mp4",
+                             "stitle": "3.S2 Episode3",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGUxY2Q5NjMtYzNlMS00YzgwLThiODAtNTE5YTZiMzUxMDRlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e4.mp4",
+                             "stitle": "4.S2 Episode4",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDBmYWQ3ZWMtZDVkYi00ZTdhLWE5MTUtNTBhY2FhOTg4YjM3XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e5.mp4",
+                             "stitle": "5.S2 Episode5",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDdiY2YxMWUtYmRhOS00NDMzLWFlMTctMGEwMzNhMWE2OGU2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/B_ The Beginning/season 2/s2e6.mp4",
+                             "stitle": "6.S2 Episode6",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGUyYTRiOGItYjIwNS00OTljLWI2YjQtNTEwNjY1MjNmZmZkXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/B_ The Beginning/season 2/s2e6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDY1MTA0MDIzMl5BMl5BanBnXkFtZTgwODQ4Njk2NDM@._V1._SX320.jpg",
+        "genres": "Anime,Action,Adventure, Si-Fi,Fantasy",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi2754198809/?ref_=ext_shr_lnk",
+        "cast": "Asami Seto,Hiroaki Hirata...more"
+       },
+
+       {
+        "name": "7SEEDS",
+        "description": "Shy Natsu awakens as part of a group chosen to ensure the survival of humanity. Together, they have to survive on a changed Earth.",
+        "ageRestriction": "16",
+        "video": "/Anime/7SEEDS/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/7SEEDS/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e1.mp4",
+                             "stitle": "1.Spring Begins",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dg4H9eZtMg57fmv0dLtC1n374QG.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e2.mp4",
+                             "stitle": "2.Insects Awaken",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3FN7naOkEG63yoWwHe6CKiBna1C.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e3.mp4",
+                             "stitle": "3.Light Snow",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7PiVeX7U7BI2QGSrYv6sumd2bsw.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e4.mp4",
+                             "stitle": "4.Autumn Begins",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/g070nhfY0eNLL5skLqr8qWYJ9Kl.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e5.mp4",
+                             "stitle": "5.Heavy Snow",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5VHKHGXuzc2au4pUHUVpchZnRJK.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e6.mp4",
+                             "stitle": "6.Grain Rain",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gk8GYDuhuiwY3dMtzDnzi0K9inm.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e7.mp4",
+                             "stitle": "7.Winter Solstice",
+                             "stime": "31m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2gDwy6IOUCgXsfxKTrqL7yWJAPp.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e8.mp4",
+                             "stitle": "8.Summer Solstice",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kYYhy3IbbIOFkrzuAdTtLSD1BrG.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e9.mp4",
+                             "stitle": "9.Lesser Heat",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4BW2lEGexUrl3Tc6GHkx51Dd6oB.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e10.mp4",
+                             "stitle": "10.Cold Dew",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hJKAabVsybK3o3VLaJnc7JFiozL.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e11.mp4",
+                             "stitle": "11.Greater Heat",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/awQIOKsSf1o35PkPDy2ZWq64e7x.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 1/s1e12.mp4",
+                             "stitle": "12.End of Heat",
+                             "stime": "26m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x1GhVSaKLSe212F0q4uP86xyUaP.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 1/s1e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e13.mp4",
+                             "stitle": "13.Frost Descends",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wH9kwZAUJY3Cr1KtTB5HkKYzFKH.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e13.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e14.mp4",
+                             "stitle": "14.Summer Begins",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gaXqUGFiOLoQXy5b2kdxa3hBqS.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e14.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e15.mp4",
+                             "stitle": "15.Grain in Ear",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vvWXIoybVaOgV5wvkwIuMaALwOs.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e15.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e16.mp4",
+                             "stitle": "16.Autumnal Equinox",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d3i0f5L6mgNT91v8XJ6caCHT3PP.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e16.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e17.mp4",
+                             "stitle": "17.Vernal Equinox",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yXgq0sNwXZSKXuflc6eK0LZdsH8.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e17.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e18.mp4",
+                             "stitle": "18.White Dew",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2oytvT331bN4euaaOvIJ7Yqfhc2.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e18.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e19.mp4",
+                             "stitle": "19.Winter Begins",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rw5wleD2CJpv57uX9W3ZHr44dmY.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e19.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e20.mp4",
+                             "stitle": "20.Lesser Cold",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kLxYKLB7R0rgMcyBkXbFUCSFcko.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e20.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e21.mp4",
+                             "stitle": "21.Grain Full",
+                             "stime": "25m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/w958nYw4CHRgrKqcCc8XnwVTvRs.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e21.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e22.mp4",
+                             "stitle": "22.Rain Water",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ewk6TiA1CNpNPcdrLeAIdYpvcz7.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e22.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e23.mp4",
+                             "stitle": "23.Greater Cold",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iCpyTWlPhTl2rY9FyzZVUWlAY8X.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e23.srt"
+                         },
+                         {
+                             "svideos": "/Anime/7SEEDS/season 2/s2e24.mp4",
+                             "stitle": "24.Pure Brightness",
+                             "stime": "24m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1NJxSeyz9GFPkUHBeg2u3SqirAG.jpg",
+                             "ssubtitle":"/Anime/7SEEDS/season 2/s2e24.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDkyMzczYWUtMTU4YS00ZTM0LWFlZmEtNTdlYWE4ZDVjYTE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+        "genres": "Anime,Si-Fi,Fantasy,Dramas",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi2085470489/?ref_=ext_shr_lnk",
+        "cast": "Jun Fukuyama,Nao Toyama...more"
        }
 
 
