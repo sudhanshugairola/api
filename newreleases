@@ -46,6 +46,21 @@
 	},
 
     {
+	    "name": "Dakuaan Da Munda 2 ",
+	    "description": "An autobiography of the famous writer and teacher 'Manga Singh Antal', a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Dakuaan Da Munda 2/Dakuaan_Da_Munda_2_2022_Punjabi_HD.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX320.jpg",
+	    "genres": "Action,Adventure,Biography, Crime,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
+	    "cast": "Dev Kharoud,Japji Khaira... more",
+        "time":"2h 30m",
+        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
+	},
+
+    {
 	    "name": "The Gray Man",
 	    "description": "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
 	    "ageRestriction": "13",
@@ -59,6 +74,21 @@
         "time":"2h 2m",
         "subtitle":"/Hollywood Movies/The Gray Man/The Gray Man.English (CC).srt"
     },
+
+    {
+	    "name": "The Pirates: The Last Royal Treasure",
+	    "description": "In the Joseon era, a brave crew of pirates and bandits brave the rough waters and try to decipher the clues to find the lost royal gold before their rivals do",
+	    "ageRestriction": "13",
+	    "video": "/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xtZd4rfcOeVXs2kYEyzkt2VSPLI.jpg",
+	    "genres": "Action, Adventure, Comedy, History,Korean",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi879018777/?ref_=ext_shr_lnk",
+	    "cast": "Kang Ha-neul,Han Hyo-joo... more",
+        "time":"2h 6m",
+        "subtitle":"/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.English (CC).srt"
+	},
 
     {
 	    "name": "Jaadugar",
