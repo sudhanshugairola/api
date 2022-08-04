@@ -4,30 +4,180 @@
 	    "name": "Gantz:O",
 	    "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
 	    "ageRestriction": "16",
-	    "video": "/Anime/GANTZ_O/GANTZ_O.mp4",
+	    "video": "/Anime movies/GANTZ_O/GANTZ_O.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmRiNWVmZDctM2Q2Ny00NzMwLTkwYTItMmU0ZmE5MDUwNTBiL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1._SX320.jpg",
-	    "genres": "Science Fiction,Action,Anime,Si-Fi",
+	    "genres": "Science Fiction,Action,Anime,Si-Fi,Japanese,English,Spanish,",
 	    "releaseDate": "2016",
 	    "trailer": "",
 	    "cast": "Daisuke Ono,Saori Hayami... more",
         "time":"1h 35m",
-        "subtitle":"/Anime/GANTZ_O/GANTZ_O.English.srt"
+        "subtitle":"/Anime movies/GANTZ_O/GANTZ_O.English.srt"
 	},
 
     {
 	    "name": "Bubble",
 	    "description": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
 	    "ageRestriction": "13",
-	    "video": "/Anime/Bubble/Bubble.mp4",
+	    "video": "/Anime movies/Bubble/Bubble.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjQwNTUwMzYtMTRmZi00MTU1LTkxMTEtNTlhMjc4ZGE2ZjRiXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
-	    "genres": "Anime,Adventure, Science Fiction,Si-Fi",
+	    "genres": "Anime,Adventure,Science Fiction,Si-Fi,Japanese,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi4117545753/?ref_=ext_shr_lnk",
 	    "cast": "Jun Shison,Alice Hirose... more",
         "time":"1h 41m",
-        "subtitle":"/Anime/Bubble/Bubble.English (CC)"
+        "subtitle":"/Anime movies/Bubble/Bubble.English (CC)"
+	},
+
+    {
+	    "name": "A Whisker Away",
+	    "description": "Miyo Muge Sasaki is a peculiar second-year junior high student who has fallen in love with her classmate Kento Hinode. Muge resolutely pursues Kento every day, but he takes no notice of her. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat named Tarō. The magic lets Muge get close to Kento, but eventually it may also make her unable to transform back to a human.",
+	    "ageRestriction": "16",
+	    "video": "/Anime movies/A Whisker Away/A Whisker Away.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDI5ODBhYzMtNDc4Yi00NjEwLWJiZWUtMGE2Mzc4MGVjN2E0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+	    "genres": "Anime,Dramas,Romance,Fantasy,Japanese,English",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi836222489/?ref_=ext_shr_lnk",
+	    "cast": "Mirai Shida,Natsuki Hanae... more",
+        "time":"1h 44m",
+        "subtitle":"/Anime movies/A Whisker Away/A Whisker Away.English.srt"
+	},
+
+    {
+	    "name": "Child of Kamiari Month",
+	    "description": "A year after losing her mother, a young girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo.",
+	    "ageRestriction": "13",
+	    "video": "Anime movies/Child of Kamiari Month/Child of Kamiari Month.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zVeyEpClF1Oxjg2UBJl62HRgC2m.jpg",
+	    "genres": "Anime,Dramas,Fantasy,Family,Japanese,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi2596455193/?ref_=ext_shr_lnk",
+	    "cast": "Aju Makita,Maaya Sakamoto... more",
+        "time":"1h 40m",
+        "subtitle":"Anime movies/Child of Kamiari Month/Child of Kamiari Month.English (CC).srt"
+	},
+
+    {
+	    "name": "Dragon Ball Super: Broly",
+	    "description": "The Red Ribbon Army from Goku's past has returned with two new androids to challenge him and his friends.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Dragon Ball Super_ Broly/Dragon Ball Super_ Broly.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmZjNDYxNzEtNTk0Zi00YjJjLWIzMjctMjQwZDhjMDM2NzEzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1._SX320.jpg",
+	    "genres": "Action, Science Fiction, Anime,Si-Fi,Japanese,English",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi500417049/?ref_=ext_shr_lnk",
+	    "cast": "Aya Hisakawa,Ryou Horikawa... more",
+        "time":"1h 41m",
+        "subtitle":"/Anime movies/Dragon Ball Super_ Broly/Dragon Ball Super_ Broly.English.srt"
+	},
+
+    {
+	    "name": "Howl’s Moving Castle",
+	    "description": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Howl’s Moving Castle/Howl’s Moving Castle.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGJjMjc1YTgtZTQ3Yy00NzIyLWEzNTgtYzY3ZGU2ZWRmMzU3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+	    "genres": "Fantasy,Anime,Adventure,Japanese,English,Hindi",
+	    "releaseDate": "2004",
+	    "trailer": "https://www.imdb.com/video/vi3502817561/?ref_=ext_shr_lnk",
+	    "cast": "Chieko Baisho,Takuya Kimura... more",
+        "time":"1h 59m",
+        "subtitle":"/Anime movies/Howl’s Moving Castle/Howl’s Moving Castle.English.srt"
+	},
+
+    {
+	    "name": "Kuroko's Basketball: Last Game",
+	    "description": "The Generation of Miracles, including Kagami and Kuroko, form Team Vorpal Swords to challenge Team Jabberwock to a revenge match after the latter disparaged all Japanese basketballers as monkeys.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Kuroko_s Basketball_ Last Game/Kuroko_s Basketball_ Last Game.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmE4ZDFhMGQtMWQ1Mi00MmM0LWJjZWQtN2UyMDA0NTgyZDA4XkEyXkFqcGdeQXVyNzM1MDU1MTc@._V1._SX320.jpg",
+	    "genres": "Anime,Dramas,Sport,Japanese,English",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi48939801/?ref_=ext_shr_lnk",
+	    "cast": "Kensho Ono,Junichi Suwabe... more",
+        "time":"1h 30m",
+        "subtitle":"/Anime movies/Kuroko_s Basketball_ Last Game/Kuroko_s Basketball_ Last Game.English.srt"
+	},
+
+    {
+	    "name": "Mortal Kombat Legends: Battle of the Realms",
+	    "description": "The Earthrealm heroes must journey to Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Mortal Kombat Legends_ Battle of the Realms/Mortal Kombat Legends_ Battle of the Realms.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDU0ZDkwMzktZDA0MC00MTc5LWE1MzEtYzg2MTU5ZWE4MTU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1._SX320.jpg",
+	    "genres": " Anime,Action,Adventure,Fantasy,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi3473129497/?ref_=ext_shr_lnk",
+	    "cast": "Jordan Rodrigues,Jennifer Carpenter... more",
+        "time":"1h 20m",
+        "subtitle":"/Anime movies/Mortal Kombat Legends_ Battle of the Realms/Mortal Kombat Legends_ Battle of the Realms.English (CC).srt"
+	},
+
+    {
+	    "name": "My Hero Academia: Heroes Rising",
+	    "description": "A group of youths aspiring to become professional superheroes, fight in a world full of people with abilities, also known as quirks. Deku and his fellow classmates from Hero Academy face Nine, the strongest villain yet.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/My Hero Academia_ Heroes Rising/My Hero Academia_ Heroes Rising.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjQ0M2Y1NmEtMjAyMC00NzQyLWJlOTItZmY3NGNhMDQ2YmM2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+	    "genres": " Anime,Action,Adventure,Fantasy,Si-Fi,Japanese,English",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi1589493273/?ref_=ext_shr_lnk",
+	    "cast": "Daiki Yamashita,Nobuhiko Okamoto... more",
+        "time":"1h 44m",
+        "subtitle":"/Anime movies/My Hero Academia_ Heroes Rising/My Hero Academia_ Heroes Rising.English.srt"
+	},
+
+    {
+	    "name": "One Piece: Stampede",
+	    "description": "Pirates from around the world gather at the Pirates Expo to join the hunt for Gol D. Roger's lost treasure.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/One Piece Stampede/One Piece Stampede.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1._SX320.jpg",
+	    "genres": "Anime,Action,Adventure,Family,Fantasy,Japanese,English",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi2347024153/?ref_=ext_shr_lnk",
+	    "cast": "Mayumi Tanaka,Kazuya Nakai... more",
+        "time":"1h 41m",
+        "subtitle":"/Anime movies/One Piece Stampede/One Piece Stampede.English.srt"
+	},
+
+    {
+	    "name": "Spirited Away",
+	    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Spirited Away/Spirited Away.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+	    "genres": "Anime,Adventure,Family,Fantasy,Mystery,Japanese,English,Hindi",
+	    "releaseDate": "2001",
+	    "trailer": "https://www.imdb.com/video/vi3619684633/?ref_=ext_shr_lnk",
+	    "cast": "Rumi Hiiragi,Miyu Irino... more",
+        "time":"2h 5m",
+        "subtitle":"/Anime movies/Spirited Away/Spirited Away.English.srt"
+	},
+
+    {
+	    "name": "Words Bubble Up Like Soda Pop",
+	    "description": "After meeting one bright, sunny day, a shy boy who expresses himself through haiku and a bubbly but self-conscious girl share a brief, magical summer.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ooISQS2rzVqgkt2aq5HNoz8n2sa.jpg",
+	    "genres": "Anime,Dramas,Music,Romance,Japanese,English",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi2852700185/?ref_=ext_shr_lnk",
+	    "cast": "Ichikawa Somegorō VIII,Hana Sugisaki... more",
+        "time":"1h 27m",
+        "subtitle":"/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.English.srt"
 	},
 
     {
@@ -1037,8 +1187,8 @@
        },
 
        {
-        "name": "Super CrooksJohnny Bolt recruits a group of ragtag supervillains for one last heist. Their target: A ruthless super-powered crime boss. What can go wrong",
-        "description": "",
+        "name": "Super Crooks",
+        "description": "Johnny Bolt recruits a group of ragtag supervillains for one last heist. Their target: A ruthless super-powered crime boss. What can go wrong",
         "ageRestriction": "16",
         "video": "/Anime/Super Crooks/season 1/s1e1.mp4",
         "series": "yes",
