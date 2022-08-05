@@ -194,6 +194,94 @@
         "time":"3h 7m",
         "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
     },
+    
+        {
+        "name": "The Sandman",
+        "description": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Sandman/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Sandman/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e1.mp4",
+                             "stitle": "1.Sleep of the Just",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/k0LvYwVcJYOq7YmABqXs41HWBEr.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e2.mp4",
+                             "stitle": "2.Imperfect Hosts",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dGsvL1VEcpSirQK9fHmv1IsjUG2.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e3.mp4",
+                             "stitle": "3.Dream a Little Dream of Me",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tge5yBQKktKmsvtqoXWBYndAwxW.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e4.mp4",
+                             "stitle": "4.A Hope in Hell",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4PUXbuhmp39jN5f7miSOWGIBq76.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e5.mp4",
+                             "stitle": "5.24/7",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fyAxCf27BFCL3eNaLPiyh44kVMv.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e6.mp4",
+                             "stitle": "6.The Sound of Her Wings",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/IpMD0EYgQ6nS23tTmoAP2lLAz0.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e7.mp4",
+                             "stitle": "7.The Doll's House",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/a0Raj4r9uG4noZNTb7hYffkmut8.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e8.mp4",
+                             "stitle": "8.Playing House",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yhaJ4kktv8zFK0D1tov78B2Xxa9.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e9.mp4",
+                             "stitle": "9.Collectors",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3AjMlbxXVnKyVvPzN2N7kJcZ7Tc.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sandman/season 1/s1e10.mp4",
+                             "stitle": "10.Lost Hearts",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/s1twJ2VTnvyUI7IbEZ0nG10YPb9.jpg",
+                             "ssubtitle":"/Hollywood series/The Sandman/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY0NDIxZDYtMWMzZS00OGQ3LTgwOGEtMWQ5ZmQxM2EwY2NjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+        "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English,Hindi,Tamil,Telugu",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1747829273/?ref_=ext_shr_lnk",
+        "cast": "Tom Sturridge,Boyd Holbrook...more"
+       },
 
     {
         "name": "Masaba Masaba",
