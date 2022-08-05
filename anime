@@ -179,6 +179,301 @@
         "time":"1h 27m",
         "subtitle":"/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.English.srt"
 	},
+	
+	    {
+        "name": "BAKI",
+        "description": "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on.",
+        "ageRestriction": "16",
+        "video": "/Anime/BAKI/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/BAKI/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e1.mp4",
+                             "stitle": "1.Synchronicity",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGRhYjEzODYtZTg4MC00ZTYzLThmYWMtMDRiYjJhZWY2MDUzXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e2.mp4",
+                             "stitle": "2.Dark Martial Arts",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWI5ZmIwYTYtYTljZi00ZWQ5LWE5MzYtNmVjYzM4ZmZkMThlXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e3.mp4",
+                             "stitle": "3.They're Finally Here",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzg1NmVmZGItMzVhOC00NjZlLThhNGUtMWNlYTAzYmJlZGQzXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e4.mp4",
+                             "stitle": "4.The Battle Begins",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzBjMTg5YjctYWU5NC00ZDc1LWJmY2UtMzI3ODRkMDQyY2FhXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e5.mp4",
+                             "stitle": "5.Want Some More",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmFmMzllNjItYTUzMy00MTQ0LWJmZjItZTYyNTgwODk2ZjRiXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e6.mp4",
+                             "stitle": "6.Sergeant Katahira's Report",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzhkMDllODEtNzE4My00ZjA1LThjODAtNmQ2ODgzYWEwODFjXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e7.mp4",
+                             "stitle": "7.A Formidable Team",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDliMTQ4ZjEtMzlmMS00M2ZiLWIxNDQtYmFlZjJlNWU0YmMwXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e8.mp4",
+                             "stitle": "8.A Match vs. a True Fight",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTA3OTMyNTEtNTUzYS00NzRiLWI1YjctMzNhNmNmOTllNGI4XkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e9.mp4",
+                             "stitle": "9.Shaken Shinshinkai",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWEzOTcxNmEtNDEyNC00NTAyLWI5NDAtOWNjNWI0NzY1MzBjXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e10.mp4",
+                             "stitle": "10.Air Duel",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDVlNjMzZDItMjdlYS00Njc5LTlhN2EtZDc1ZjZjZmU1ZTEzXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e11.mp4",
+                             "stitle": "11.Tiger Slayer",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTQ0ODgzMjEtNjYwOC00MDYxLTg4NTYtMGRhYTEwMGUyMDY4XkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e12.mp4",
+                             "stitle": "12.Candy",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjk4MDAwMmItOTU0ZC00Nzc2LTk1YmUtOTRmYWM5MzVhNTEzXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e12.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 1/s1e13.mp4",
+                             "stitle": "13.Mr. Oliva",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjRlYmY0YmItYThjYi00ZWIzLWI2MjMtYmZkNzdjMWE1ZDEyXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 1/s1e13.srt"
+                         }
+             ],
+                          [
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e1.mp4",
+                             "stitle": "1.Ungranted Freedom",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzdkMGU5ZTEtMmUyNC00YmJkLWFlOTgtZmMxN2JlZDNkMThhXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e2.mp4",
+                             "stitle": "2.Tremendous Muscular Strength",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmY0OGExNjYtZDM3MC00NjNmLTkxMzktYTQ1NzU4MmRhMjMxXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e3.mp4",
+                             "stitle": "3.Slash",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTc0MzA4MmItMGRlNy00MzQ2LTk0ZDktMmMwOTEyMDFhYjRhXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e4.mp4",
+                             "stitle": "4.Dad",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2ZjYjZmMjgtMGI5ZS00NjU3LTkwOWYtYjg1YzYwYzkyMDMzXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e5.mp4",
+                             "stitle": "5.Thanks",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTEzNWQ1ZDQtNGY2NC00ZmE2LTgwYmEtZGZiNWU4YWEwMGZkXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UY126_CR10,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e6.mp4",
+                             "stitle": "6.Admission of Defeat",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjY4MmY3YTItYzAwYi00M2IzLTg4YmYtOWQzOGEwZmM4MmZlXkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UY126_CR27,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e7.mp4",
+                             "stitle": "7.Saga",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWYzNjhiNDItZjZiNi00MDQxLWFkODEtNjg0OWUyNjg0MDA3XkEyXkFqcGdeQXVyODg3NzIzMDk@._V1_UY126_CR22,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e8.mp4",
+                             "stitle": "8.Punishment",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDE2N2M1MTEtOTAzYy00NmIyLTliZWMtZDdhZmQwNTg4YzFlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e9.mp4",
+                             "stitle": "9.Clash of the Alphas",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmRhNTI4OWQtOWViMi00ODQyLWE2YmItOGE0NjA5NWM2ZjVlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e10.mp4",
+                             "stitle": "10.The Real Attack",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDg0YTZiNTYtODMwOC00MDRlLWI4YmYtYjQ0NjgxYjlmNWRmXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e11.mp4",
+                             "stitle": "11.Defeat",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWY3MzAwZjEtYTE3ZC00NDM5LWEyZTgtZGVjNzUwN2RjYmY0XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e12.mp4",
+                             "stitle": "12.God and The Devil",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzM5OTFhY2MtODcxZS00YWNiLWJiNDctNzk2MTAwZmUxMzhiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e12.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 2/s2e13.mp4",
+                             "stitle": "13.The Centennial Tournament",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzNiZTI0ZjAtNzM2Mi00ZjUxLWIzY2ItNTY3NjdlZDAyODc0XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 2/s2e13.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e1.mp4",
+                             "stitle": "1.Begin The Centennial Tournament",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzdlMjhlOTktMjdlMi00OGI3LWFkY2UtZjhhZWFiMTNhN2NkXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e2.mp4",
+                             "stitle": "2.Turnaround",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BN2U3MzFiNGItMWUyYi00MThiLThhNjAtYjNmMjAxNzZhZTBiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e3.mp4",
+                             "stitle": "3.Revived",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDE0MjM3YWMtMjA3Yy00NmUwLWE4ZjgtOGE1YTBiMjI3ZjJhXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e4.mp4",
+                             "stitle": "4.Team Formed",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzBlN2RhYWEtMzUzZS00NTEzLWE0YTEtN2UyNzNhZTI2OGVmXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e5.mp4",
+                             "stitle": "5.Hand Pocket",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzFhMTA0ZDUtYTdhYS00NjllLWI4OTMtZTA1YzUxYzY5NTcxXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e6.mp4",
+                             "stitle": "6.Excellennnnt",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODRkMTYxNTktYzE1MC00NGQzLTg2MDgtMDkzYzlkOWViZjFlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e7.mp4",
+                             "stitle": "7.Kaioh",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjk0N2I4MDctZTIyMC00M2FiLTg5MmQtNTFhODYwNDQzNWZlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e8.mp4",
+                             "stitle": "8.The Title of the Strongest",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQ1ZjM2MjItYjBlOC00OGU5LWEzNTktMjhjNzBmNGQ0MGU4XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e8.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e9.mp4",
+                             "stitle": "9.The Master vs the Boxer",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDZhOWY2MDQtYzYyYy00YTcyLTgyOTUtYzg5NDllNTFhYjRlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e9.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e10.mp4",
+                             "stitle": "10.Stand and Fight",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmJhYmFmZWYtMWVkOC00MzIxLWE4YTQtOWIxNDE2ZDA2NjQ2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e10.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e11.mp4",
+                             "stitle": "11.Awakening",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjllNjMzNDgtZjk0OC00ODczLTgzMjYtN2E5NGMxMmFlYWNlXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e11.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e12.mp4",
+                             "stitle": "12.Completion",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmJjMDNmZGUtYTA3Ni00NDQ5LWEzOWYtOGJiNjk4ODQzMGYzXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e12.srt"
+                         },
+                         {
+                             "svideos": "/Anime/BAKI/season 3/s3e13.mp4",
+                             "stitle": "13.Revenge Tokyo",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BN2NjMDIwNDktNzNiNy00NTI3LTk1MjMtNjA1ZmY4YWRmOWY2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/BAKI/season 3/s3e13.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmQxZmRmNmUtZWUxNi00NzhiLWEwNzEtZTUyZWRhOWY5Yjg2XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1._SX320.jpg",
+        "genres": "Anime,Action,Dramas,Sport,Japanese,English,Adventure,Crime",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi3541744921/?ref_=ext_shr_lnk",
+        "cast": "Bin Shimada,Kenjiro Tsuda...more"
+       },
 
     {
         "name": "Arcane",
