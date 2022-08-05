@@ -298,5 +298,207 @@
         "cast": "Ammy Virk,Sargun Mehta,Tania,...more",
         "time":"2h 30m",
         "subtitle":"/Punjabi/Qismat 2/Qismat 2.srt"
-    }
+    },
+
+	{
+        "name": "Yaar Jigree Kasooti Degree",
+        "description": "The web series revolves around the lives of university students.",
+        "ageRestriction": "16",
+        "video": "/Punjabi series/YJKD/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Punjabi series/YJKD/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e1.mp4",
+                             "stitle": "1.New Admission",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/fXGnFq9/maxresdefault-2.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e2.mp4",
+                             "stitle": "2.Back To Basics",
+                             "stime": "27m",
+                             "simage": "https://i.ibb.co/zSBCxHs/maxresdefault-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e3.mp4",
+                             "stitle": "3.The Chase",
+                             "stime": "26m",
+                             "simage": "https://i.ibb.co/LnfJ7bc/mqdefault-2.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e4.mp4",
+                             "stitle": "4.Interconnection",
+                             "stime": "27m",
+                             "simage": "https://i.ibb.co/fvb584C/maxresdefault-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e5.mp4",
+                             "stitle": "5.PT Meeting",
+                             "stime": "32m",
+                             "simage": "https://i.ibb.co/v1mpCPC/maxresdefault-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e6.mp4",
+                             "stitle": "6.Youth Festival",
+                             "stime": "29m",
+                             "simage": "https://i.ibb.co/DYwFwW9/maxresdefault-2-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e7.mp4",
+                             "stitle": "7.Revelations",
+                             "stime": "27m",
+                             "simage": "https://i.ibb.co/cwX5TRy/maxresdefault-3-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e8.mp4",
+                             "stitle": "8.Disinegration",
+                             "stime": "35m",
+                             "simage": "https://i.ibb.co/MGkJ9mb/maxresdefault-4-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e9.mp4",
+                             "stitle": "9.Repentance",
+                             "stime": "40m",
+                             "simage": "https://i.ibb.co/C9jC11t/maxresdefault-5-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e10.mp4",
+                             "stitle": "10.Shaapa",
+                             "stime": "40m",
+                             "simage": "https://i.ibb.co/4VjGrMx/maxresdefault-6-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e11.mp4",
+                             "stitle": "11.Retaliation",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/LnrrVYh/maxresdefault-7-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e12.mp4",
+                             "stitle": "12.Attainment",
+                             "stime": "48m",
+                             "simage": "https://i.ibb.co/gS2wf8j/maxresdefault-8-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e12.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 1/s1e13.mp4",
+                             "stitle": "13.Apprehension",
+                             "stime": "1h 3m",
+                             "simage": "https://i.ibb.co/GPhymRC/maxresdefault-9-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 1/s1e13.srt"
+                         }
+             ],
+			 [
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e1.mp4",
+                             "stitle": "1.Hostel",
+                             "stime": "28m",
+                             "simage": "https://i.ibb.co/d657gsp/maxresdefault-10-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e2.mp4",
+                             "stitle": "2.Rusticate",
+                             "stime": "30m",
+                             "simage": "https://i.ibb.co/42YyKLX/maxresdefault-11-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e3.mp4",
+                             "stitle": "3.Remand",
+                             "stime": "26m",
+                             "simage": "https://i.ibb.co/27tVdwf/maxresdefault-12-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e4.mp4",
+                             "stitle": "4.Admin Block",
+                             "stime": "28m",
+                             "simage": "https://i.ibb.co/3rcNnYX/maxresdefault-13-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e5.mp4",
+                             "stitle": "5.Protest",
+                             "stime": "27m",
+                             "simage": "https://i.ibb.co/jGJzjSW/maxresdefault-14-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e6.mp4",
+                             "stitle": "6.RTI",
+                             "stime": "31m",
+                             "simage": "https://i.ibb.co/3yFPWVQ/maxresdefault-15-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e7.mp4",
+                             "stitle": "7.Old Room",
+                             "stime": "30m",
+                             "simage": "https://i.ibb.co/Htx6q5q/maxresdefault-16-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e8.mp4",
+                             "stitle": "8.Online Chat",
+                             "stime": "30m",
+                             "simage": "https://i.ibb.co/0GD1JkG/maxresdefault-17-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e9.mp4",
+                             "stitle": "9.Guftgoo",
+                             "stime": "28m",
+                             "simage": "https://i.ibb.co/yFM9Lmq/maxresdefault-18-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e10.mp4",
+                             "stitle": "10.Sach",
+                             "stime": "29m",
+                             "simage": "https://i.ibb.co/DWBYpMQ/maxresdefault-19-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e11.mp4",
+                             "stitle": "11.Allegation",
+                             "stime": "31m",
+                             "simage": "https://i.ibb.co/vmDMpgZ/maxresdefault-20-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e12.mp4",
+                             "stitle": "12.Cracked",
+                             "stime": "32m",
+                             "simage": "https://i.ibb.co/DVnYwws/maxresdefault-21-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e12.srt"
+                         },
+                         {
+                             "svideos": "/Punjabi series/YJKD/season 2/s2e13.mp4",
+                             "stitle": "13.Reunion",
+                             "stime": "45m",
+                             "simage": "https://i.ibb.co/Qc4qQ6j/maxresdefault-22-1.jpg",
+                             "ssubtitle":"/Punjabi series/YJKD/season 2/s2e13.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTM4MzEyMmItNzYyYi00MzNiLWJmOTQtMGZjNzMwYjk4NGVmXkEyXkFqcGdeQXVyNjQzMzY4NDI@._V1._SX320.jpg",
+        "genres": "Comedy,Dramas,Indian,Punjabi",
+        "releaseDate": "2018",
+        "trailer": "https://www.imdb.com/video/vi2718153241/?ref_=ext_shr_lnk",
+        "cast": "Jasmin Bajwa,Pukhraj Bhalla,Karan Sandhawalia...more"
+       }
 ]
