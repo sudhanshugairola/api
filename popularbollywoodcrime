@@ -1,5 +1,20 @@
 [   
     
+        {
+	    "name": "Darlings",
+	    "description": "Badru hopes her volatile husband will reform if he stops drinking. But when his rage goes too far, she and her mom boldly, albeit clumsily, seek revenge.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Darlings/Darlings.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+	    "genres": "Comedy,Crime,Thriller,Hindi,Indian,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3123626521/?ref_=ext_shr_lnk",
+	    "cast": "Alia Bhatt,Vijay Varma... more",
+        "time":"2h 14m",
+        "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
+	},
+	
     {
 	    "name": "Thar",
 	    "description": "A mysterious stranger arrives in a village situated in the Thar desert and crosses paths with a veteran cop investigating a case of brutal killings.",
