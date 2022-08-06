@@ -1,12 +1,26 @@
 [   
-    
-        {
+    {
+	    "name": "Carter",
+	    "description": "A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
+	    "ageRestriction": "18",
+	    "video": "/Korean Movies/Carter/Carter.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWEyOThlZTAtMzExMy00NDBhLTk4Y2QtMDg3OTRkNzgyNjEyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+	    "genres": "Action,Thriller,Korean,Hindi,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3810771481/?ref_=ext_shr_lnk",
+	    "cast": "Joo Won,Lee Sung-jae... more",
+        "time":"2h 12m",
+        "subtitle":"/Korean Movies/Carter/Carter.en.srt"
+	},
+
+    {
 	    "name": "Darlings",
 	    "description": "Badru hopes her volatile husband will reform if he stops drinking. But when his rage goes too far, she and her mom boldly, albeit clumsily, seek revenge.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Darlings/Darlings.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
 	    "genres": "Comedy,Crime,Thriller,Hindi,Indian,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3123626521/?ref_=ext_shr_lnk",
@@ -14,14 +28,14 @@
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
 	},
-	
+
     {
 	    "name": "Purple Hearts",
 	    "description": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Purple Hearts/Purple Hearts.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
 	    "genres": "Romance,Dramas,Music,Us,Hollywood,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2117845529/?ref_=ext_shr_lnk",
@@ -51,7 +65,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
 	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
@@ -66,7 +80,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Punjabi/Dakuaan Da Munda 2/Dakuaan_Da_Munda_2_2022_Punjabi_HD.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
 	    "genres": "Action,Adventure,Biography, Crime,Indian,Punjabi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
@@ -81,7 +95,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/The Gray Man/The Gray Man.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX250.jpg",
 	    "genres": "Action, Thriller,English,Hollywood",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi318292505/?ref_=ext_shr_lnk",
@@ -111,7 +125,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
 	    "genres": "Comedy, Drama, Romance,Hindi,Indian,Tamil,Telugu,South",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3621634585/?ref_=ext_shr_lnk",
@@ -156,7 +170,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1OTZlZjgtNDEzYS00MWRmLWE5ZTEtODA4NmY3YjU3ZTE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1OTZlZjgtNDEzYS00MWRmLWE5ZTEtODA4NmY3YjU3ZTE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1._SX250.jpg",
 	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1035584025/?ref_=ext_shr_lnk",
@@ -186,7 +200,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/RRR/RRR.mp4",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1._SX250.jpg",
         "genres": "Action, Dramas, History, War,Hindi,Indian,south",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
@@ -194,8 +208,8 @@
         "time":"3h 7m",
         "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
     },
-    
-        {
+
+    {
         "name": "The Sandman",
         "description": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
         "ageRestriction": "16",
@@ -276,7 +290,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY0NDIxZDYtMWMzZS00OGQ3LTgwOGEtMWQ5ZmQxM2EwY2NjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY0NDIxZDYtMWMzZS00OGQ3LTgwOGEtMWQ5ZmQxM2EwY2NjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
         "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English,Hindi,Tamil,Telugu",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1747829273/?ref_=ext_shr_lnk",
@@ -387,7 +401,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAwNDAyMGEtMzc2ZS00ZTQ2LWE4ZDAtOTFiOTVjM2RiZWRlXkEyXkFqcGdeQXVyMTE4MzIxNTMz._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAwNDAyMGEtMzc2ZS00ZTQ2LWE4ZDAtOTFiOTVjM2RiZWRlXkEyXkFqcGdeQXVyMTE4MzIxNTMz._V1._SX250.jpg",
         "genres": "Comedy,Dramas,Indian,Hindi",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi4284202521/?ref_=ext_shr_lnk",
@@ -519,7 +533,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk2ZDQ1ZmItNGE4Ni00MTNlLTkxYmQtMjY0YmQzMjczY2UwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTk2ZDQ1ZmItNGE4Ni00MTNlLTkxYmQtMjY0YmQzMjczY2UwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
         "genres": "Mexican,Teen,Dramas,Hollywood,English,Music,Comedy",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1524613913/?ref_=ext_shr_lnk",
@@ -642,7 +656,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDIzMGFhYjctNTVlZS00NjczLWI0NGItZmYxMzEzZGVjNDczXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDIzMGFhYjctNTVlZS00NjczLWI0NGItZmYxMzEzZGVjNDczXkEyXkFqcGdeQXVyMzU4OTg5NzA@._V1._SX250.jpg",
         "genres": "Italian,Family,Teen,Dramas,Hollywood,English,Comedy",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1489420825/?ref_=ext_shr_lnk",
@@ -958,7 +972,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1._SX250.jpg",
         "genres": "Dramas, Mystery,Si-Fi,Fantasy,Hollywood,English",
         "releaseDate": "2018",
         "trailer": "https://www.imdb.com/video/vi3001334553/?ref_=ext_shr_lnk",
@@ -1220,7 +1234,7 @@
         }
      ]
      ],
-      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
       "genres": "Dramas, Mystery,Si-Fi,Fantasy,Hollywood,English",
       "releaseDate": "2019",
       "trailer": "https://www.imdb.com/video/vi1386398233/?playlistId=tt4574334?ref_=ext_shr_lnk",
@@ -1338,7 +1352,7 @@
                     }
                 ]
                 ],
-             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
+             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX250.jpg",
             "genres": "Crime, Dramas,Hindi,Indian",
             "releaseDate": "2020",
             "trailer": "https://www.imdb.com/video/vi1353235993?playlistId=tt11905720?ref_=ext_shr_lnk",
@@ -1571,7 +1585,7 @@
         ]
        
        ],
-    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
    "genres": "Action,Adventure,Si-Fi, Dramas,English,Hollywood",
    "releaseDate": "2019",
    "trailer": "https://www.imdb.com/video/vi772128281/?playlistId=tt1312171?ref_=ext_shr_lnk",
@@ -1631,7 +1645,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDdjYmZlMzQtN2JmZS00N2JkLTg4MGYtMGI3OGVhMWQ1MzMyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDdjYmZlMzQtN2JmZS00N2JkLTg4MGYtMGI3OGVhMWQ1MzMyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
     "genres": "Action,Adventure,Crime,Dramas,Mystery,Korean,English",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi1860485657/?ref_=ext_shr_lnk",
@@ -1651,26 +1665,26 @@
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
                          "stitle": "1.S1 Episode 1",
                          "stime": "42m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt"
                      },
                      {
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.mp4",
                          "stitle": "2.S1 Episode 2",
                          "stime": "43m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.English.srt"
                      },
                      {
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.mp4",
                          "stitle": "3.S1 Episode 3",
                          "stime": "40m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.English.srt"
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
     "genres": "Documentary, Crime, History,Indian,Hindi",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
@@ -1950,7 +1964,7 @@
             }
         ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGZhODMyZjYtMWY2NS00MTViLWEyNjMtNTM1OWUxNTdjNmQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGZhODMyZjYtMWY2NS00MTViLWEyNjMtNTM1OWUxNTdjNmQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1._SX250.jpg",
     "genres": "Dramas, Crime,Hollywood,English",
     "releaseDate": "2013",
     "trailer": "https://www.imdb.com/video/vi4265067289/?playlistId=tt2442560?ref_=ext_shr_lnk",
@@ -2024,7 +2038,7 @@
                           }
               ]
              ],
-          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVhNzY5YjItMTBlNC00N2ZmLWE5ZGYtMTUzMDA0YjEwOGY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVhNzY5YjItMTBlNC00N2ZmLWE5ZGYtMTUzMDA0YjEwOGY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
          "genres": "Si-Fi,Fantasy, Dramas,Hollywood,English",
          "releaseDate": "2022",
          "trailer": "https://www.imdb.com/video/vi803848729/?ref_=ext_shr_lnk",
@@ -2105,7 +2119,7 @@
                              }
                  ]
                 ],
-             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1._SX320.jpg",
+             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGExOWU4YmItMjkxOC00NjdjLTk2ZWEtZGViMGM1ZGFhZmQxXkEyXkFqcGdeQXVyODQyOTY2OTA@._V1._SX250.jpg",
             "genres": "Comedy,Dramas,Hollywood,English",
             "releaseDate": "2022",
             "trailer": "https://www.imdb.com/video/vi3539649049/?ref_=ext_shr_lnk",
@@ -2295,7 +2309,7 @@
                              }
                  ]
                 ],
-             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGEzYTI2OTYtOTUwZi00YzkwLWE3OGUtODJmMjM4OTgwODhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+             "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGEzYTI2OTYtOTUwZi00YzkwLWE3OGUtODJmMjM4OTgwODhjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
             "genres": "Mexican,Teen,Dramas,Hollywood,English",
             "releaseDate": "2020",
             "trailer": "https://www.imdb.com/video/vi2050408985/?ref_=ext_shr_lnk",
