@@ -1,12 +1,12 @@
 [   
-    
-        {
+
+    {
 	    "name": "Darlings",
 	    "description": "Badru hopes her volatile husband will reform if he stops drinking. But when his rage goes too far, she and her mom boldly, albeit clumsily, seek revenge.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Darlings/Darlings.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
 	    "genres": "Comedy,Crime,Thriller,Hindi,Indian,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3123626521/?ref_=ext_shr_lnk",
@@ -14,14 +14,14 @@
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
 	},
-	
+    
     {
 	    "name": "Thar",
 	    "description": "A mysterious stranger arrives in a village situated in the Thar desert and crosses paths with a veteran cop investigating a case of brutal killings.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Thar/Thar.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY1NjE2MzUtYTVjOC00ZDUxLWIwZDUtMzk5YWQ5ODc5YTI5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY1NjE2MzUtYTVjOC00ZDUxLWIwZDUtMzk5YWQ5ODc5YTI5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
 	    "genres": "Western,Action,Thriller,Dramas,Crime,Hindi,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2074657305/?ref_=ext_shr_lnk",
@@ -31,267 +31,12 @@
 	},
 
     {
-	    "name": "Aaja Mexico Challiye",
-	    "description": "Pamma is an ambitious youngster from Punjab who wants to go abroad. But this one dream turns his life around as he becomes caught in dangerous situations. Will Pamma be able to make it out of the jungles of Mexico",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Aaja Mexico Challiye/Aaja_Mexico_Challiye_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTllOTk4MjctMGY4OS00YTE5LTg0MzItZWRjNzdkNTQwYWIzXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1._SX320.jpg",
-	    "genres": "Dramas,Indian,Punjabi,Thriller",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1937163033/?ref_=ext_shr_lnk",
-	    "cast": "Ammy Virk,Nasir Chinyoti... more",
-        "time":"2h 5m",
-        "subtitle":"/Punjabi/Aaja Mexico Challiye/Aaja_Mexico_Challiye_2022_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Babbar",
-	    "description": "Jorawar, once a mobster, lost his parents as a consequence of the booming crime wave and now wishes to have an easy going life with his brother. But fate turned him into a gang lord Babbar.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Babbar/Babbar_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWU4OTNkNWUtMGI5Yy00M2UwLTg1ZDctZDFmNzllYjljYzhkXkEyXkFqcGdeQXVyMTA4Njk3Mjcw._V1._SX320.jpg",
-	    "genres": "Action, Dramas,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3846816537/?ref_=ext_shr_lnk",
-	    "cast": "Amrit Maan,Raj Singh Jhinjar... more",
-        "time":"2h 5m",
-        "subtitle":"/Punjabi/Babbar/Babbar_2022_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Honsla Rakh",
-	    "description": "A single father attempts to find love and a mom for his 7-year-old son but crosses paths with his ex who returns to the city after a long gap.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Honsla Rakh/Honsla Rakh 2021 Punjabi HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjhlOWJlMzctNjI3Yi00NzUzLTk5MjUtYjVkZmM3NzEyMWE1XkEyXkFqcGdeQXVyMTM4MzE0MDk1._V1._SX320.jpg",
-	    "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3484009241/?ref_=ext_shr_lnk",
-	    "cast": "Diljit Dosanjh,Shehnaaz Gill... more",
-        "time":"2h 28m",
-        "subtitle":"/Punjabi/Honsla Rakh/Honsla Rakh 2021 Punjabi HD.srt"
-	},
-
-    {
-	    "name": "Jinde Meriye",
-	    "description": "Yaadi gets entangled in drug dealings in England where he meets his the love of his life, Rehmat who seems to have moved on with her life.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Jinde_Meriye/Jinde_Meriye_2020_Punjabi_720p_ESubs.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGI3ZjIyYWYtYjVlNC00ZGI5LTgzNjMtMGZhM2U2NDc1YWU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
-	    "genres": "Action, Dramas, Romance,Indian,Punjabi",
-	    "releaseDate": "2020",
-	    "trailer": "https://www.imdb.com/video/vi2238889753/?ref_=ext_shr_lnk",
-	    "cast": "Parmish Verma,Sonam Bajwa... more",
-        "time":"2h 10m",
-        "subtitle":"/Punjabi/Jinde_Meriye/Jinde_Meriye_2020_Punjabi_720p_ESubs.srt"
-	},
-
-    {
-	    "name": "Jinne Jamme Saare Nikamme",
-	    "description": "Niranjan Singh and Satwant Kaur crave a girl child after being neglected by their four sons, who don't have any time for them. The couple comes up with a plan to shocks their sons as they decide to have another child.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Jinne Jamme Saare Nikamme/Jinne Jamme Saare Nikamme.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDVlZGE5MjktZmNkZi00MmViLTgwZDYtMDg1MzJiNzE0NWMyXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1._SX320.jpg",
-	    "genres": "Comedy,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi496550681/?ref_=ext_shr_lnk",
-	    "cast": "Binnu Dhillon,Jaswinder Bhalla... more",
-        "time":"2h 12m",
-        "subtitle":"/Punjabi/Jinne Jamme Saare Nikamme/Jinne Jamme Saare Nikamme.srt"
-	},
-
-    {
-	    "name": "Kade Haan Kade Naa",
-	    "description": "Kade Haan Kade Naa movie is a romantic comedy featuring Singga and Sanjana Singh. The plot of the movie story is based on a confusing situation with the characters.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Kade_Haan_Kade_Naa/Kade_Haan_Kade_Naa_2021_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2QwZmMxMjEtNDIyMS00MDhjLTlkZjItMTc3YjRlZjFjMzQwXkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1._SX320.jpg",
-	    "genres": "Indian, Dramas, Romance,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "",
-	    "cast": "Singga,Sanjana Singh... more",
-        "time":"2h 14m",
-        "subtitle":"/Punjabi/Kade_Haan_Kade_Naa/Kade_Haan_Kade_Naa_2021_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Mera Vyah Kara Do",
-	    "description": "Film narrates the story of a girl next door who edits her matrimonial profile with bold pics and comments. The bad girl image works in her favor but also creates chaos in her life.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Mera_Vyah_Kara_Do/Mera_Vyah_Kara_Do_2022_Punjabi.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZmOTg5MmItZGE2My00NzA1LTgxMWItYzRhMDA1YmQwYzI3XkEyXkFqcGdeQXVyOTU2ODgxNjM@._V1._SX320.jpg",
-	    "genres": "Romance,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi677561113/?ref_=ext_shr_lnk",
-	    "cast": "Dilpreet Dhillon,Mandy Takhar... more",
-        "time":"2h 12m",
-        "subtitle":"/Punjabi/Mera_Vyah_Kara_Do/Mera_Vyah_Kara_Do_2022_Punjabi.srt"
-	},
-
-    {
-	    "name": "Moosa Jatt",
-	    "description": "Moosa finds out that his family died because of the Sangha, a group cheating the farmers of their farms where it follows his avenge for the family.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Moosa Jatt/Moosa Jatt.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDkyY2E4YzMtMDU4My00MjZiLWI5YjAtNjI2NWExOWIzZjg0XkEyXkFqcGdeQXVyMTMwNTU2MDMx._V1._SX320.jpg",
-	    "genres": "Action,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3886465817/?ref_=ext_shr_lnk",
-	    "cast": "Sidhu Moose Wala,Pardeep Brar... more",
-        "time":"2h",
-        "subtitle":"/Punjabi/Moosa Jatt/Moosa Jatt.srt"
-	},
-
-    {
-	    "name": "Paani Ch Madhaani",
-	    "description": "A group of musicians travel to London after finding renewed success with a new singer. They end up winning the lottery, but misplace the winning ticket.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Paani_Ch_Madhaani/Paani_Ch_Madhaani_2021_HD_Punjabi.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lHxgpwfPi7ViavWMo2KNR7RyINf.jpg",
-	    "genres": "Comedy, Romance,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi2827141913/?ref_=ext_shr_lnk",
-	    "cast": "Gippy Grewal,Neeru Bajwa... more",
-        "time":"2h 7m",
-        "subtitle":"/Punjabi/Paani_Ch_Madhaani/Paani_Ch_Madhaani_2021_HD_Punjabi.srt"
-	},
-
-    {
-	    "name": "Pinky Moge Wali 2",
-	    "description": "A complicated love story between Fateh, Pinky and Roger. While Fateh is a pure Punjabi local guy, Pinky goes to Canada for further studies. She returns after 5 years with a boyfriend, Roger. After she is back there is a drama and lots of romance between the 3, Who will she choose in the end",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Pinky moge vali 2/Pinky moge vali 2.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGM1OGI2MDktMjhiZS00ZGUzLWI5ZTUtODQ2MTIxNzUzZDE2XkEyXkFqcGdeQXVyNjc3MTM2MjY@._V1._SX320.jpg",
-	    "genres": "Dramas,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "",
-	    "cast": "Gurneet Dosanjh,Neha Malik... more",
-        "time":"2h 1m",
-        "subtitle":"/Punjabi/Pinky moge vali 2/Pinky moge vali 2.srt"
-	},
-
-    {
-	    "name": "Warning",
-	    "description": "Set in India, Action Movie Warning is about the story of multiple people that are gangsters and wanting revenge, written and produced by Gippy Grewal, by Humble Motion Pictures, Starring: Gippy Grewal, Prince Kanwaljit, and Dheeraj Kumar.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Warning/Warning_2021_HD_Punjabi.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTllYWFlYWItNzU4ZS00NjBkLTk2NmItM2QxZjA5NmE4MjFkXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1._SX320.jpg",
-	    "genres": "Action,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3287204633/?ref_=ext_shr_lnk",
-	    "cast": "Gippy Grewal,Seven Chahal... more",
-        "time":"2h 4m",
-        "subtitle":"/Punjabi/Warning/Warning_2021_HD_Punjabi"
-	},
-
-    {
-	    "name": "Yaar Anmulle Returns",
-	    "description": "Yaar Anmulle Returns is an upcoming Punjabi movie scheduled to be released on 27 Mar, 2020. The movie is directed by Harry Bhatti and will feature Harish Verma, Yuvraj Hans, Nikeet Dhillon and Rana Jung Bahadur as lead characters. Other popular actor who was roped in for Yaar Anmulle Returns is Manjit Singh.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Yaar_Anmulle_Returns/Yaar_Anmulle_Returns_2022_Punjabi.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWIxM2FiOWQtNjc2ZC00ZmMzLTg4Y2UtZjk1NjRkNDljYzhjXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1._SX320.jpg",
-	    "genres": "Drama,Comedy,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3299851801/?ref_=ext_shr_lnk",
-	    "cast": "Rana Jung Bahadur,Yuvraj Hans... more",
-        "time":"2h 10m",
-        "subtitle":"/Punjabi/Yaar_Anmulle_Returns/Yaar_Anmulle_Returns_2022_Punjabi.srt"
-	},
-
-    {
-	    "name": "Dakuaan Da Munda 2 ",
-	    "description": "An autobiography of the famous writer and teacher 'Manga Singh Antal', a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Dakuaan Da Munda 2/Dakuaan_Da_Munda_2_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX320.jpg",
-	    "genres": "Action, Adventure, Biography, Crime,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
-	    "cast": "Dev Kharoud,Japji Khaira... more",
-        "time":"2h 30m",
-        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
-	},
-
-    {
-	    "name": "Lekh",
-	    "description": "Fate draws high-school sweethearts, Rajvir and Ronak apart only to bring the star-crossed lovers eye to eye again as adults who must work out their past and get closure before fate strikes again.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Lekh/Lekh_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjkzYzViNDUtMTVlNi00MmQ3LTk1MWEtYmQ4M2E3ZGE0MTQxXkEyXkFqcGdeQXVyMTUxODU3MTAw._V1._SX320.jpg",
-	    "genres": "Drama, Romance,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2353382169/?ref_=ext_shr_lnk",
-	    "cast": "Gurnam Bhullar,Tania... more",
-        "time":"2h 27m",
-        "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Main Te Bapu",
-	    "description": "Laali's life revolves around his widowed father and girlfriend Mahi. To get married Laali needs to to move to Canada. Having to choose between them he hatches the idea of getting his father married and things start to get interesting.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Main Te Bapu/Main_Te_Bapu_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzNjN2FjZTAtODE5NC00NTA2LWE4YTEtYzM3NTZmZWUyNzMzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX320.jpg",
-	    "genres": "Comedy, Drama,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi600162841/?ref_=ext_shr_lnk",
-	    "cast": "Sukhwinder Chahal,Sunita Dhir... more",
-        "time":"1h 42m",
-        "subtitle":"/Punjabi/Lekh/Lekh_2022_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Ni Main Sass Kuttni",
-	    "description": "'Ni Mai Sass Kuttni' is a very old Punjabi Traditional Boli, which is sung on various occasions in Punjab, usually during weddings. This film is all about the sweet and sour companionship of Mothers-in-Law and Daughters-in-Law.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDc1NjUwMzQtYTc4Zi00ZWZkLTk0MDItNjA2MWU0MGI5MTQ3XkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1._SX320.jpg",
-	    "genres": "Comedy, Dramas ,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1805238809/?ref_=ext_shr_lnk",
-	    "cast": "Methab Virk,Tanvi Nagi... more",
-        "time":"2h 20m",
-        "subtitle":"/Punjabi/Ni Main Sass Kutni/Ni_Main_Sass_Kutni_2022_Punjabi_HD.srt"
-	},
-
-    {
-	    "name": "Yes I Am Student",
-	    "description": "Set in India, it shows the life and struggles of an International student in Canada.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWM0YjRiNDUtZTZiNy00NDlhLWE2ZjAtODZhYTc5MDExMzhmXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1._SX320.jpg",
-	    "genres": "Dramas,Indian,Punjabi",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi2487075609/?ref_=ext_shr_lnk",
-	    "cast": "Sidhu Moose Wala,Mandy Takhar... more",
-        "time":"1h 52m",
-        "subtitle":"/Punjabi/Yes I Am Student/Yes_I_Am_Student_2021_HD_Punjabi.srt"
-	},
-
-    {
 	    "name": "Jaadugar",
 	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
 	    "genres": "Comedy, Drama, Romance,Hindi,Indian,Tamil,Telugu,South",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3621634585/?ref_=ext_shr_lnk",
@@ -336,7 +81,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Anek/Anek.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTE0NmM5ZWMtYTJhZC00YjQ1LWI1OTgtZDQyNzI0ZWQxOGMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTE0NmM5ZWMtYTJhZC00YjQ1LWI1OTgtZDQyNzI0ZWQxOGMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
 	    "genres": "Action, Thriller,Hindi,Indian,Dramas",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3433021977/?ref_=ext_shr_lnk",
@@ -351,7 +96,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Once Again/Once Again.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjkzNGQxNzctNzhlYi00Mzc2LWIwMmYtYTgyNmQ3MWZlYWYxXkEyXkFqcGdeQXVyMjk4OTc2MTg@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjkzNGQxNzctNzhlYi00Mzc2LWIwMmYtYTgyNmQ3MWZlYWYxXkEyXkFqcGdeQXVyMjk4OTc2MTg@._V1._SX250.jpg",
 	    "genres": "Dramas, Romance,Hindi,Indian",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi514177561/?ref_=ext_shr_lnk",
@@ -366,7 +111,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Tamil/Super Deluxe/Super Deluxe.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGFhYzM1ZDYtNDYzMi00MWEyLTk2NjAtZTg5ZmZmNjljOGE5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGFhYzM1ZDYtNDYzMi00MWEyLTk2NjAtZTg5ZmZmNjljOGE5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX250.jpg",
 	    "genres": "Comedy, Thriller, Dramas,Hindi,Indian",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi4115839513/?ref_=ext_shr_lnk",
@@ -381,7 +126,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
 	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
@@ -389,51 +134,7 @@
         "time":"2h 5m",
         "subtitle":"/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.English.srt"
 	},
-   
-    {
-	    "name": "Galwakdi",
-	    "description": "Jagteshwar, a librarian, has an obsessive-compulsive personality disorder which people around him have accepted. Ideologies clash when Amberdeep, a high-spirited girl and Jagteshwar share a roof.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Galwakdi 2022/Galwakdi 2022.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmJlNTM1MzMtNzgzNi00YTQ1LWI2N2EtYjk5NzJiNDk3ZTA2XkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1._SX320.jpg",
-	    "genres": "Dramas, Comedy, Romance,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1647362841/?ref_=ext_shr_lnk",
-	    "cast": "Tarsem Jassar,Wamiqa Gabbi... more",
-        "time":"2h 10m",
-        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
-	},
-    
-    {
-	    "name": "Pushpa: The Rise - Part 1",
-	    "description": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Pushpa/Pushpa.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjA4ZDJmNmQtZTA4NS00NzhmLTg2ODktZjg3MDliZmUzYTZmXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1._SX320.jpg",
-	    "genres": "Action, Dramas, Thriller,Hindi,Indian,South",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi3325018905/?ref_=ext_shr_lnk",
-	    "cast": "Allu Arjun,Rashmika Mandanna... more",
-        "time":"2h 59m",
-        "subtitle":"/Hindi_Movies/Pushpa/Pushpa.srt"
-	},
 
-    {
-	    "name": "The Kashmir Files",
-	    "description": "Based on a true tragedy, the emotionally triggering film sheds light on the plight of Kashmiri Pandits (Hindus), a religious minority in the 1990s Kashmir valley, who were compelled to flee their homes by the Islamic militants.",
-	    "ageRestriction": "18",
-	    "video": "/Hindi_Movies/The Kashmir Files/The Kashmir Files.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzJkZDIwYTAtMGU4Mi00NzU3LWI1MWItODg0M2Q1NmIxYmNlXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1._SX320.jpg",
-	    "genres": "Thriller, History, Dramas,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3112747545/?ref_=ext_shr_lnk",
-	    "cast": "Mithun Chakraborty,Anupam Kher,Darshan Kumaar... more",
-        "time":"2h 50m",
-        "subtitle":"/Hindi_Movies/The Kashmir Files/The Kashmir Files.srt"
-	},
     
     {
 	    "name": "Check",
@@ -441,7 +142,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/check/Check 2022.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjkxMjI4YzItM2NhNy00NzUyLWIyYTctYTVjYjUyYWI3NmRiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX320.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjkxMjI4YzItM2NhNy00NzUyLWIyYTctYTVjYjUyYWI3NmRiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX250.jpg",
 	    "genres": "Crime, Thriller,Hindi,Indian,South",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi1246937369/?ref_=ext_shr_lnk",
@@ -451,42 +152,12 @@
 	},
 
     {
-        "name": "Saunkan Saunkne",
-        "description": "A couple married for more than 6 years loses hope for a child. On insistence of his wife he marries her sister. Shortly small squabbles between the two wives lead to comic situation and fun begins.",
-        "ageRestriction": "13",
-        "video": "/Punjabi/Saunkan Saunkne/Saunkan Saunkne.mkv",
-        "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMGVkN2RmZjQtN2MzZi00NjNmLTg2YTYtNzFhNGQ2MDI4YzRjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1._SX320.jpg",
-        "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi296403481/?ref_=ext_shr_lnk",
-        "cast": "Ammy Virk,Sargun Mehta... more",
-        "time":"2h 30m",
-        "subtitle":"/Punjabi/Saunkan Saunkne/Saunkan Saunkne.srt"
-    },
-
-    {
-        "name": "Qismat 2",
-        "description": "A story about unrequited love the shapes it takes, the ways it changes us, and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters – Shiv, Bani, and Majaz, on how their lives intertwine and navigate through life, love, and heartbreak.",
-        "ageRestriction": "13",
-        "video": "/Punjabi/Qismat 2/Qismat 2.mkv",
-        "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQyNzE3ODAtNmU1ZC00NWQwLWJlZWQtMmVmNjI1MjBhMGUwXkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1._SX320.jpg",
-        "genres": "Comedy, Dramas, Romance,Indian,Punjabi",
-        "releaseDate": "2021",
-        "trailer": "https://www.imdb.com/video/vi4122592025/?ref_=ext_shr_lnk",
-        "cast": "Ammy Virk,Sargun Mehta,Tania,...more",
-        "time":"2h 30m",
-        "subtitle":"/Punjabi/Qismat 2/Qismat 2.srt"
-    },
-
-    {
         "name": "Gangubai Kathiawadi",
         "description": "Young Ganga is sold to a brothel in Mumbai in the garb of becoming an actor by her lover in the 1950s. She goes on to become the feared Gangubai - the Matriarch of Kamathipura - the champion of female emancipation and advocate of rights for sex workers in a chauvinist and narrow-minded society.",
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Gangubai Kathiawadi/Gangubai Kathiawadi.mp4",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2M4NDM2NDItMzgzNy00OWRiLThhNjEtZDA2OWMyNTcwYzRjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2M4NDM2NDItMzgzNy00OWRiLThhNjEtZDA2OWMyNTcwYzRjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
         "genres": "Crime, Dramas,Indian,Hindi",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3128804121/?ref_=ext_shr_lnk",
@@ -501,43 +172,13 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Jersey/Jersey.mp4",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDQ4YmExNjctMGY5NC00N2RjLThiYjQtNGUxNTZjY2NhNTQyXkEyXkFqcGdeQXVyMTUxOTQwMzE0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDQ4YmExNjctMGY5NC00N2RjLThiYjQtNGUxNTZjY2NhNTQyXkEyXkFqcGdeQXVyMTUxOTQwMzE0._V1._SX250.jpg",
         "genres": "Dramas,Hindi,Indian",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi4038640153/?ref_=ext_shr_lnk",
         "cast": "Shahid Kapoor,Mrunal Thakur... more",
         "time":"2h 55m",
         "subtitle":"/Hindi_Movies/Jersey/Jersey.English.srt"
-    },
-
-    {
-        "name": "K.G.F: Chapter 2",
-        "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
-        "ageRestriction": "13",
-        "video": "/Hindi_Movies/Kgf chapter 2/kgf chapter 2.mkv",
-        "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1._SX320.jpg",
-        "genres": "Action, Dramas,Hindi,Indian,south",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi481411609/?playlistId=tt10698680?ref_=ext_shr_lnk",
-        "cast": "Yash,Sanjay Dutt,Srinidhi Shetty... more",
-        "time":"2h 48m",
-        "subtitle":"/Hindi_Movies/Kgf chapter 2/kgf chapter 2.en.srt"
-    },
-
-    {
-        "name": "RRR",
-        "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-        "ageRestriction": "13",
-        "video": "/Hindi_Movies/RRR/RRR.mp4",
-        "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1._SX320.jpg",
-        "genres": "Action, Dramas, History, War,Hindi,Indian,south",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
-        "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
-        "time":"3h 7m",
-        "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
     },
 
     {
@@ -606,7 +247,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Annaatthe/Annaatthe.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2NlYjI4NTAtN2M0Yy00ZmNiLTgyZjItOWI2MDYxNWVlYmY4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2NlYjI4NTAtN2M0Yy00ZmNiLTgyZjItOWI2MDYxNWVlYmY4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1._SX250.jpg",
         "genres": "Action, Family, Dramas,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1341178649?playlistId=tt11253090?ref_=ext_shr_lnk",
@@ -621,7 +262,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Badhaai_do/Badhaai Do.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
         "genres": "Comedy, Dramas,Hindi,Indian",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi3155936025?playlistId=tt11934846?ref_=ext_shr_lnk",
@@ -636,7 +277,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Bareilly_ki_barfi/Bareilly Ki Barfi.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGM4YTc0N2ItNGYyNS00MmU1LWJmMmQtY2Q2ZTQ1Mjg0MDI2XkEyXkFqcGdeQXVyNzMwNzAyNjk@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGM4YTc0N2ItNGYyNS00MmU1LWJmMmQtY2Q2ZTQ1Mjg0MDI2XkEyXkFqcGdeQXVyNzMwNzAyNjk@._V1._SX250.jpg",
         "genres": "Romance, Comedy, Dramas,Hindi,Indian",
         "releaseDate": "2017",
         "trailer": "https://www.imdb.com/video/vi1217248025?playlistId=tt6967980?ref_=ext_shr_lnk",
@@ -651,7 +292,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Chandigarh Kare Aashiqui/Chandigarh Kare Aashiqui.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDQxZmFlMWItNGU4ZS00YjcwLWJlMmMtZmQyZTFhOWNkYzg5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDQxZmFlMWItNGU4ZS00YjcwLWJlMmMtZmQyZTFhOWNkYzg5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
         "genres": "Dramas, Romance, Crime,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi3422339865?playlistId=tt12861850?ref_=ext_shr_lnk",
@@ -666,7 +307,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Class of _83/Class of _83.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjU2MzAyZWEtYjMxOS00ZGExLWIxZjgtNjY2ZWJmZWQzNWM4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjU2MzAyZWEtYjMxOS00ZGExLWIxZjgtNjY2ZWJmZWQzNWM4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1._SX250.jpg",
         "genres": "Action, Crime, Dramas,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi3612917273?playlistId=tt10230422?ref_=ext_shr_lnk",
@@ -681,7 +322,7 @@
         "ageRestriction": "7",
         "video": "/Hindi_Movies/Dasvi/Dasvi.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWQ2MTk1ODgtMmJkNy00YTM3LTk4ZmUtM2ZiOTMyM2Y0NDM3XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWQ2MTk1ODgtMmJkNy00YTM3LTk4ZmUtM2ZiOTMyM2Y0NDM3XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1._SX250.jpg",
         "genres": "Dramas, Comedy,Hindi,Indian",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi4031496985?playlistId=tt14107554?ref_=ext_shr_lnk",
@@ -696,7 +337,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Dhamaka/Dhamaka.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzUyOWU2M2MtMDU1Yy00M2E1LTg3OTktMGRjYTE2MjkzYzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzUyOWU2M2MtMDU1Yy00M2E1LTg3OTktMGRjYTE2MjkzYzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Thriller, Dramas, Crime,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1434764057?playlistId=tt13510660?ref_=ext_shr_lnk",
@@ -711,7 +352,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Etharkkum Thunindhavan/Etharkkum Thunindhavan.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMwYzUwMDUtOGRjZC00NjEzLWE0ZDktNDllOGY5Mjc0N2NjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMwYzUwMDUtOGRjZC00NjEzLWE0ZDktNDllOGY5Mjc0N2NjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1._SX250.jpg",
         "genres": "Action, Dramas, Thriller,Hindi,Indian",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi2154808089?playlistId=tt10340562?ref_=ext_shr_lnk",
@@ -726,7 +367,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Ginny Weds Sunny/Ginny Weds Sunny.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTU2Mjc4YWUtMjkzNC00ZDQ5LTkzZmYtOTMyY2NkODU4ZmU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTU2Mjc4YWUtMjkzNC00ZDQ5LTkzZmYtOTMyY2NkODU4ZmU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Romance, Comedy, Dramas, Family,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi3817914649?playlistId=tt10543680?ref_=ext_shr_lnk",
@@ -741,7 +382,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Guilty/Guilty.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDAwMzdkYTMtMGViYS00Y2E4LTllOGEtNzJjMWZhMWZjNTFlXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDAwMzdkYTMtMGViYS00Y2E4LTllOGEtNzJjMWZhMWZjNTFlXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX250.jpg",
         "genres": "Thriller, Dramas,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi3501440537?playlistId=tt10062614?ref_=ext_shr_lnk",
@@ -756,7 +397,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Gunjan Saxena_ The Kargil Girl/Gunjan Saxena_ The Kargil Girl.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2JmMjczOGEtODg3MS00MGYzLWE5OWYtOTBlNGJmODQyOTE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2JmMjczOGEtODg3MS00MGYzLWE5OWYtOTBlNGJmODQyOTE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Action, Dramas,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi3664100889?playlistId=tt10350626?ref_=ext_shr_lnk",
@@ -771,7 +412,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Haseen Dillruba/Haseen Dillruba.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWYyMzg3N2EtNTQ5MC00MWZlLWI3YWEtMmU2ZWNhZWZiNGIzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWYyMzg3N2EtNTQ5MC00MWZlLWI3YWEtMmU2ZWNhZWZiNGIzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX250.jpg",
         "genres": "Mystery, Crime, Thriller, Romance,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi993902617?playlistId=tt11027830?ref_=ext_shr_lnk",
@@ -786,7 +427,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Hey Sinamika/Hey Sinamika.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjc0NGRjY2UtNjcwYi00NTZmLTlhZTUtMzhmYmVhNTlmMWQ1XkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjc0NGRjY2UtNjcwYi00NTZmLTlhZTUtMzhmYmVhNTlmMWQ1XkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1._SX250.jpg",
         "genres": "Dramas, Romance,Hindi,Indian",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi4001022745?ref_=ext_shr_lnk",
@@ -801,7 +442,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Jagame Thandhiram/Jagame Thandhiram.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2UwNGNjMWEtMGI2My00YzI3LTljMDEtYTFhYzM3YWMyMzNmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2UwNGNjMWEtMGI2My00YzI3LTljMDEtYTFhYzM3YWMyMzNmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1._SX250.jpg",
         "genres": "Crime, Comedy,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1261879321?playlistId=tt10661848?ref_=ext_shr_lnk",
@@ -816,7 +457,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Ludo/Ludo.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTQwOTVlMzctM2I3MS00YzllLWJiNTctYzdhMjkzMzhhY2RkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTQwOTVlMzctM2I3MS00YzllLWJiNTctYzdhMjkzMzhhY2RkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Crime, Comedy,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi821674265?playlistId=tt7212754?ref_=ext_shr_lnk",
@@ -831,7 +472,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Meenakshi Sundareshwar/Meenakshi Sundareshwar.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVlNGRlZDItMzkzMC00ODNmLTkyMTYtZWU3ODRhNzQ5ZDc0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDVlNGRlZDItMzkzMC00ODNmLTkyMTYtZWU3ODRhNzQ5ZDc0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1._SX250.jpg",
         "genres": "Romance, Comedym,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi663208729?playlistId=tt13529034?ref_=ext_shr_lnk",
@@ -846,7 +487,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Mrs_Serial Killer/Mrs_Serial Killer.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzJkMjhkZDgtMjM4Yy00OWJiLWFlZmMtMjk5YTVlNDg5NDJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzJkMjhkZDgtMjM4Yy00OWJiLWFlZmMtMjk5YTVlNDg5NDJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Thriller,Crime,Dramas,Hindi,Indian",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi2012986905?playlistId=tt10230426?ref_=ext_shr_lnk",
@@ -861,7 +502,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Sardar Ka Grandson/Sardar Ka Grandson.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmFmNzA0MTQtYWRlMC00Njg0LTg0ZTYtNjlmMTVkMjMzZmI1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmFmNzA0MTQtYWRlMC00Njg0LTg0ZTYtNjlmMTVkMjMzZmI1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX250.jpg",
         "genres": "Comedy, Dramas, Romance, Family,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi702791705?playlistId=tt11213600?ref_=ext_shr_lnk",
@@ -876,7 +517,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Sooryavanshi/Sooryavanshi.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDI3M2E5ZGQtZjVlNS00NzFhLTg0NTAtZDZmOTBjODg3ZDQ1XkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDI3M2E5ZGQtZjVlNS00NzFhLTg0NTAtZDZmOTBjODg3ZDQ1XkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1._SX250.jpg",
         "genres": "Action, Crime, Thriller,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1804059417?playlistId=tt9531772?ref_=ext_shr_lnk",
@@ -891,7 +532,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Thackeray/Thackeray.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjEyNzllY2ItN2I5OC00NjU0LWI5MTAtZWJiNzA1NzNkY2IzXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjEyNzllY2ItN2I5OC00NjU0LWI5MTAtZWJiNzA1NzNkY2IzXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1._SX250.jpg",
         "genres": "Dramas, History,Hindi,Indian",
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi3605772825?playlistId=tt7777196?ref_=ext_shr_lnk",
@@ -906,7 +547,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Thalaivii/Thalaivii.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjYwOGFhZTgtODBmMi00NjUyLTk5MDUtNmQ3NDhjNmE5OWI3XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjYwOGFhZTgtODBmMi00NjUyLTk5MDUtNmQ3NDhjNmE5OWI3XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX250.jpg",
         "genres": "Dramas,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi608419865?playlistId=tt10152736?ref_=ext_shr_lnk",
@@ -921,7 +562,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/The Girl on the Train/The Girl on the Train.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTAxMTNkMjAtMWUxYi00ZjIxLTlkNGQtMDQzYmZmMDkyNDFhXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTAxMTNkMjAtMWUxYi00ZjIxLTlkNGQtMDQzYmZmMDkyNDFhXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1._SX250.jpg",
         "genres": "Crime, Dramas, Mystery, Thriller,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi3276980505?playlistId=tt8907992?ref_=ext_shr_lnk",
@@ -936,7 +577,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/The White Tiger/The White Tiger.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX250.jpg",
         "genres": "Dramas,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi3440689433?playlistId=tt6571548?ref_=ext_shr_lnk",
@@ -951,7 +592,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/_83/_83.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc0MWIzMjYtMDg4Mi00YmM3LWIxNGUtYjQ5NzBlZTM3YWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc0MWIzMjYtMDg4Mi00YmM3LWIxNGUtYjQ5NzBlZTM3YWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Dramas, History,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi869647129?playlistId=tt7518786?ref_=ext_shr_lnk",
@@ -966,7 +607,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Drive/Drive.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YjYxY2UtYzIxYS00ZjI3LWI0NWUtMDgxZjA5ZjBkZTE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YjYxY2UtYzIxYS00ZjI3LWI0NWUtMDgxZjA5ZjBkZTE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
         "genres": "Action, Thriller,Hindi,Indian",
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi754958105?playlistId=tt6593054?ref_=ext_shr_lnk",
@@ -981,7 +622,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Kurup/Kurup.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzkyOTcyMjctNTAxMC00YWJhLWJhYWUtMzY4MTBlZWNmODVkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzkyOTcyMjctNTAxMC00YWJhLWJhYWUtMzY4MTBlZWNmODVkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1._SX250.jpg",
         "genres": "Thriller, Crime,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi2885075737?playlistId=tt7026666?ref_=ext_shr_lnk",
@@ -996,7 +637,7 @@
         "ageRestriction": "16",
         "video": "/Hindi_Movies/Mimi/Mimi.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTkwMDQ4ZmEtNTdhNi00MmMzLTgwNTQtMDI1NDJjZjQ5Zjg5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTkwMDQ4ZmEtNTdhNi00MmMzLTgwNTQtMDI1NDJjZjQ5Zjg5XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX250.jpg",
         "genres": "Comedy, Dramas,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi655015961?playlistId=tt10895576?ref_=ext_shr_lnk",
@@ -1011,7 +652,7 @@
         "ageRestriction": "13",
         "video": "/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.mkv",
         "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzZkYzBhYjAtYTc1MC00NDVkLWJiY2EtNjcwNjJiMTEyYjE5XkEyXkFqcGdeQXVyMTEzMTU3MjI5._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzZkYzBhYjAtYTc1MC00NDVkLWJiY2EtNjcwNjJiMTEyYjE5XkEyXkFqcGdeQXVyMTEzMTU3MjI5._V1._SX250.jpg",
         "genres": "Dramas, Family,Hindi,Indian",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1610858777?playlistId=tt11102314?ref_=ext_shr_lnk",
@@ -1124,7 +765,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAwNDAyMGEtMzc2ZS00ZTQ2LWE4ZDAtOTFiOTVjM2RiZWRlXkEyXkFqcGdeQXVyMTE4MzIxNTMz._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAwNDAyMGEtMzc2ZS00ZTQ2LWE4ZDAtOTFiOTVjM2RiZWRlXkEyXkFqcGdeQXVyMTE4MzIxNTMz._V1._SX250.jpg",
         "genres": "Comedy,Dramas,Indian,Hindi",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi4284202521/?ref_=ext_shr_lnk",
@@ -1184,7 +825,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
         "genres": "Dramas,Indian,Hindi,Social Issue",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi524665113/?ref_=ext_shr_lnk",
@@ -1258,7 +899,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDI4MmU2NTctNTQyYy00YWY3LTgxMTQtMDYzYjJkNzRlOTAwXkEyXkFqcGdeQXVyMTM1NjQ2OTI2._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDI4MmU2NTctNTQyYy00YWY3LTgxMTQtMDYzYjJkNzRlOTAwXkEyXkFqcGdeQXVyMTM1NjQ2OTI2._V1._SX250.jpg",
     "genres": "Comedy,Dramas,Hindi,Indian",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi2486485785/?ref_=ext_shr_lnk",
@@ -1278,26 +919,26 @@
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.mp4",
                          "stitle": "1.S1 Episode 1",
                          "stime": "42m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E01_Episode 1.English.srt"
                      },
                      {
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.mp4",
                          "stitle": "2.S1 Episode 2",
                          "stime": "43m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E02_Episode 2.English.srt"
                      },
                      {
                          "svideos": "/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.mp4",
                          "stitle": "3.S1 Episode 3",
                          "stime": "40m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
                          "ssubtitle":"/Indian drama/Indian Predator_ The Butcher of Delhi/Limited Series/Indian Predator_ The Butcher of Delhi_S01E03_Episode 3.English.srt"
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODA0OGNlOTAtMTM4OS00ZjExLWE3MzktODllMjdlZDMxZmQwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
     "genres": "Documentary, Crime, History,Indian,Hindi",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi684179993/?ref_=ext_shr_lnk",
@@ -1365,7 +1006,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAzZGI0MDctMTgyYi00NDgwLWFmMjgtNTIyMmZhN2FkM2YxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjAzZGI0MDctMTgyYi00NDgwLWFmMjgtNTIyMmZhN2FkM2YxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
     "genres": "Action,Adventure,Dramas,Hindi,Indian,Based on Books,Thriller",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi1991425817/?ref_=ext_shr_lnk",
@@ -1593,7 +1234,7 @@
                      
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX250.jpg",
     "genres": "Drama, Comedy,Hindi,Indian",
     "releaseDate": "2016",
     "trailer": "https://www.imdb.com/video/vi951042841/?ref_=ext_shr_lnk",
@@ -1653,7 +1294,7 @@
                          }
               ]
         ],
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTNiNzg1ZGEtODc4YS00OWQwLWI5NDctOTkzOGIwOGM4ODJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTNiNzg1ZGEtODc4YS00OWQwLWI5NDctOTkzOGIwOGM4ODJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX250.jpg",
        "genres": "Crime, Dramas, Mystery,Indian,Hindi",
        "releaseDate": "2022",
        "trailer": "https://www.imdb.com/video/vi3897344793/?ref_=ext_shr_lnk",
@@ -1727,7 +1368,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjQ2NDVjYjItNmIxNC00NDQ1LTgzOTctM2ExMTA0ZjlhZTgxXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjQ2NDVjYjItNmIxNC00NDQ1LTgzOTctM2ExMTA0ZjlhZTgxXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1._SX250.jpg",
     "genres": "Crime, Dramas, Mystery,Hindi,Indian",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi2095956761?playlistId=tt14167344?ref_=ext_shr_lnk",
@@ -1794,7 +1435,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
     "genres": "crime,Dramas,Hindi,Indian",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
@@ -1833,7 +1474,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmVhNDY4ODEtMGY2My00MDZjLThjMmItYTE0OGYyMjJjZTkwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmVhNDY4ODEtMGY2My00MDZjLThjMmItYTE0OGYyMjJjZTkwXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1._SX250.jpg",
     "genres": "Documentary, Crime,Hindi,Indian",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi1368638233?playlistId=tt14167390?ref_=ext_shr_lnk",
@@ -1921,7 +1562,7 @@
                     }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX250.jpg",
     "genres": "Dramas,crime,Hindi,Indian",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi1157873433?playlistId=tt11150912?ref_=ext_shr_lnk",
@@ -2011,7 +1652,7 @@
             }
 ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1._SX250.jpg",
     "genres": "Comedy, Dramas,Hindi,Indian",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi2336866329?playlistId=tt9432978?ref_=ext_shr_lnk",
@@ -2144,7 +1785,7 @@
         }
   ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTMzYTQ1NzAtOGY4OC00ZGM5LThiMmUtMzgzZjgzNzNjZjJmXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTMzYTQ1NzAtOGY4OC00ZGM5LThiMmUtMzgzZjgzNzNjZjJmXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1._SX250.jpg",
     "genres": "Dramas, Crime, Action & Adventure,Hindi,Indian",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi4271749913?playlistId=tt6077448?ref_=ext_shr_lnk",
@@ -2262,7 +1903,7 @@
             }
         ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1._SX250.jpg",
     "genres": "Crime, Dramas,Hindi,Indian",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi1353235993?playlistId=tt11905720?ref_=ext_shr_lnk",
@@ -2336,7 +1977,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGUyOGFjYjEtYjU3YS00MzA3LTlmZjctMzQ2NDE1ZWM1YjdjXkEyXkFqcGdeQXVyNDE1OTM1NTE@._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGUyOGFjYjEtYjU3YS00MzA3LTlmZjctMzQ2NDE1ZWM1YjdjXkEyXkFqcGdeQXVyNDE1OTM1NTE@._V1._SX250.jpg",
     "genres": "Crime, Dramas, Mystery,Hindi,Indian",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi423215897?playlistId=tt14160712?ref_=ext_shr_lnk",
@@ -2410,7 +2051,7 @@
                      }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDYyNjYyYzItMmIyZi00ODgwLWFjMGEtNzk4Y2E4NDA3MmFkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX320.jpg",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDYyNjYyYzItMmIyZi00ODgwLWFjMGEtNzk4Y2E4NDA3MmFkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
     "genres": "Mysteries,Hindi,Dramas,Indian",
     "releaseDate": "2022",
     "trailer": "https://www.imdb.com/video/vi1617281817?playlistId=tt9447956?ref_=ext_shr_lnk",
