@@ -3294,10 +3294,68 @@
                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ms6gsaGcCdOApInjixbTlYR5aWJ.jpg",
                             "ssubtitle":"/Hollywood series/Locke and Key/season 2/Locke and Key_S02E10_Cliffhanger.English (CC).srt"
                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e1.mp4",
+                             "stitle": "1.The Snow Globe",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AjEOOvekeNnW4IeVy5eHSCCIm0f.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e2.mp4",
+                             "stitle": "2.Wedding Crashers",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vAZEXfX89iOygYxt8Nb1aH0tw3K.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e3.mp4",
+                             "stitle": "3.Five Minutes Past",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yhTNXaPVIL9c5QAyQLVill4Gw3I.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e4.mp4",
+                             "stitle": "4.Deep Cover",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/13mxdc3RAttkqY6Gzp4N2iETcW4.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e5.mp4",
+                             "stitle": "5.Siege",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3mSXFpcyQYNNaMpSAX1y5uYl97y.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e6.mp4",
+                             "stitle": "6.Free Bird",
+                             "stime": "34m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b5eLefpjvlhPGyrusXdpMdwrjaW.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e7.mp4",
+                             "stitle": "7.Curtain",
+                             "stime": "35m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nOUrsuENZB7WflqfGj5YpDpwlxJ.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Locke and Key/season 3/s3e8.mp4",
+                             "stitle": "8.Farewell",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i7sY4sDTaonLWyYOOU2u8xTczJ0.jpg",
+                             "ssubtitle":"/Hollywood series/Locke and Key/season 3/s3e8.srt"
+                         }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmYyNWNkNGYtYTgyZS00NTA5LTliMzgtZWU5NzRhOTkxMTYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
-        "genres": "Si-Fi, Fantasy, Dramas, Mystery, English,Hollywood",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+        "genres": "Si-Fi,Fantasy,Dramas,Mystery,English,Hollywood,Hindi",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi815121177/?playlistId=tt3007572?ref_=ext_shr_lnk",
         "cast": "Darby Stanchfield,Emilia Jones,Jackson Robert Scott...more"
