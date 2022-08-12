@@ -2957,11 +2957,82 @@
                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l0chqG69UYEgHN9taj3Cq0tPyWh.jpg",
                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E10_ been a perfect girl.English (CC).srt"
                      }
-         ]
-
-        ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTFlYWRhYjEtNDU3MC00ZTRiLTlmY2MtNGViODJlNDczNTA4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1._SX250.jpg",
-    "genres": "Comedy, Dramas,Hollywood,English",
+         ],
+         [
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e1.mp4",
+                             "stitle": "1....been slut-shamed",
+                             "stime": "30m",
+                             "simage": "https://ibb.co/fp0K15n",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e2.mp4",
+                             "stitle": "2....had my own troll",
+                             "stime": "30m",
+                             "simage": "https://ibb.co/5G9rF3q",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e3.mp4",
+                             "stitle": "3....had a valentine",
+                             "stime": "32m",
+                             "simage": "https://ibb.co/rwLHxDJ",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e4.mp4",
+                             "stitle": "4....made someone jealous",
+                             "stime": "27m",
+                             "simage": "https://ibb.co/JdBqx7S",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e5.mp4",
+                             "stitle": "5....been ghosted",
+                             "stime": "26m",
+                             "simage": "https://ibb.co/TKJnbMc",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e6.mp4",
+                             "stitle": "6....had a breakdown",
+                             "stime": "25m",
+                             "simage": "https://ibb.co/vZn1SZT",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e7.mp4",
+                             "stitle": "7....cheated",
+                             "stime": "27m",
+                             "simage": "https://ibb.co/727qffR",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e8.mp4",
+                             "stitle": "8....hooked up with my boyfriend",
+                             "stime": "26m",
+                             "simage": "https://ibb.co/tKRwgHC",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e9.mp4",
+                             "stitle": "9....had an Indian boyfriend",
+                             "stime": "30m",
+                             "simage": "https://ibb.co/wM7ZqGZ",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e10.mp4",
+                             "stitle": "10....lived the dream",
+                             "stime": "29m",
+                             "simage": "https://ibb.co/8Yp16Dk",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e10.srt"
+                         }
+             ]
+         ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+    "genres": "Comedy,Dramas,Hollywood,English,Hindi",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi4029464601/?ref_=ext_shr_lnk",
     "cast": "Maitreyi Ramakrishnan,Poorna Jagannathan...more"
