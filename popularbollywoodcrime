@@ -1,4 +1,79 @@
 [   
+    
+    {
+	    "name": "Shamshera",
+	    "description": "Set in the 1800s, the film is about a dacoit tribe who take charge in fight for their rights and independence against the British.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Shamshera/Shamshera 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODVlNWNmN2EtYWJlYy00ZTc5LThjMTItYTQ0ZTlmZDYwN2VjXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1._SX250.jpg",
+	    "genres": "Action,Dramas,Adventure,Bollywood,Indian,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi264946201/?ref_=ext_shr_lnk",
+	    "cast": "Ranbir Kapoor,Sanjay Dutt... more",
+        "time":"2h 38m",
+        "subtitle":"/Hindi_Movies/Shamshera/Shamshera 2022.srt"
+	},
+
+    {
+	    "name": "Jug Jugg Jeeyo",
+	    "description": "Two couples from different generations confront their issues after marriage.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTg5YjlkZmItZWZjOC00ZWQ5LTk2MjctYmI2ZGYzODY0N2ZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Bollywood,Indian,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3958882841/?ref_=ext_shr_lnk",
+	    "cast": "Anil Kapoor,Neetu Singh... more",
+        "time":"2h 28m",
+        "subtitle":"/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.srt"
+	},
+
+    {
+	    "name": "Rashtra Kavach Om",
+	    "description": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Action,Thriller,Dramas,Bollywood,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1089454617/?ref_=ext_shr_lnk",
+	    "cast": "Aditya Roy Kapur,Sanjana Sanghi... more",
+        "time":"2h 15m",
+        "subtitle":"/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.srt"
+	},
+    
+    {
+	    "name": "Shabaash Mithu",
+	    "description": "From child prodigy to trailblazing captain, Indian women's cricket icon Mithali Raj navigates highs and lows of professional career. A story of a young girl's determination and stance against discrimination, about her spirit, passion, courage, and her dreams.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Shabaash Mithu/Shabaash Mithu.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTkzOWU0YzYtOTNkOS00N2JhLWI0ZDItNmRmMTZjMjUwZjAxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Biography,Dramas,Sport,Indian,Hindi,Bollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi4013081113/?ref_=ext_shr_lnk",
+	    "cast": "Taapsee Pannu,Vijay Raaz... more",
+        "time":"2h 27m",
+        "subtitle":"/Hindi_Movies/Shabaash Mithu/Shabaash Mithu.mkv"
+	},
+    
+    {
+	    "name": "Psycho",
+	    "description": "Based on the Buddhist tale of Angulimala, a dreaded serial killer, Psycho tells the story of a blind man who gets involved in a murder mystery.",
+	    "ageRestriction": "16",
+	    "video": "/Tamil/Psycho/Psycho.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2Y0OTc3MTMtZGE2Zi00YjFiLTg0ZWUtYTVmZjhiY2FiMDhjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1._SX250.jpg",
+	    "genres": "Crime, Thriller,Dramas,South,Indian,Tamil,Telugu",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi745520921/?ref_=ext_shr_lnk",
+	    "cast": "Udhayanidhi Stalin,Aditi Rao Hydari... more",
+        "time":"2h 14m",
+        "subtitle":"/Tamil/Psycho/Psycho.srt"
+	},
 
     {
 	    "name": "Darlings",
@@ -13,21 +88,6 @@
 	    "cast": "Alia Bhatt,Vijay Varma... more",
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
-	},
-	
-	    {
-	    "name": "Psycho",
-	    "description": "Based on the Buddhist tale of Angulimala, a dreaded serial killer, Psycho tells the story of a blind man who gets involved in a murder mystery.",
-	    "ageRestriction": "16",
-	    "video": "/Tamil/Psycho/Psycho.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2Y0OTc3MTMtZGE2Zi00YjFiLTg0ZWUtYTVmZjhiY2FiMDhjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1._SX250.jpg",
-	    "genres": "Crime, Thriller,Dramas,South,Indian,Tamil,Telugu",
-	    "releaseDate": "2020",
-	    "trailer": "https://www.imdb.com/video/vi745520921/?ref_=ext_shr_lnk",
-	    "cast": "Udhayanidhi Stalin,Aditi Rao Hydari... more",
-        "time":"2h 14m",
-        "subtitle":"/Tamil/Psycho/Psycho.srt"
 	},
     
     {
@@ -675,8 +735,8 @@
         "time":"1h 35m",
         "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
     },
-    
-        {
+
+    {
         "name": "Crash Course",
         "description": "The story of two warring coaching institutes, and the consequences of their rivalry on the students who come there to study. A journey of friendship, first love, heartbreak, peer pressure and the loss of innocence of youth.",
         "ageRestriction": "16",
