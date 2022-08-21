@@ -1,4 +1,65 @@
 [   
+
+    {
+	    "name": "Shamshera",
+	    "description": "Set in the 1800s, the film is about a dacoit tribe who take charge in fight for their rights and independence against the British.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Shamshera/Shamshera 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODVlNWNmN2EtYWJlYy00ZTc5LThjMTItYTQ0ZTlmZDYwN2VjXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1._SX250.jpg",
+	    "genres": "Action,Dramas,Adventure,Bollywood,Indian,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi264946201/?ref_=ext_shr_lnk",
+	    "cast": "Ranbir Kapoor,Sanjay Dutt... more",
+        "time":"2h 38m",
+        "subtitle":"/Hindi_Movies/Shamshera/Shamshera 2022.srt"
+	},
+
+    {
+	    "name": "Jug Jugg Jeeyo",
+	    "description": "Two couples from different generations confront their issues after marriage.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTg5YjlkZmItZWZjOC00ZWQ5LTk2MjctYmI2ZGYzODY0N2ZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Bollywood,Indian,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3958882841/?ref_=ext_shr_lnk",
+	    "cast": "Anil Kapoor,Neetu Singh... more",
+        "time":"2h 28m",
+        "subtitle":"/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.srt"
+	},
+
+    {
+	    "name": "Rashtra Kavach Om",
+	    "description": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Action,Thriller,Dramas,Bollywood,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1089454617/?ref_=ext_shr_lnk",
+	    "cast": "Aditya Roy Kapur,Sanjana Sanghi... more",
+        "time":"2h 15m",
+        "subtitle":"/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.srt"
+	},
+
+    {
+	    "name": "Lover",
+	    "description": "Lally is madly in love with his schoolmate Heer. Things take an interesting turn when Heer and Lally are separated from each other.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Lover/Lover 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWE4MWNlZWYtNzk2MS00MjFkLWEyZTktNWE3ZTY3YWJjOGRhXkEyXkFqcGdeQXVyMTI3NTM5NzQ3._V1._SX250.jpg",
+	    "genres": "Dramas,Romance,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi432783897/?ref_=ext_shr_lnk",
+	    "cast": "Guri,Ronak Joshi... more",
+        "time":"2h 15m",
+        "subtitle":"/Punjabi/Aaja Mexico Challiye/Aaja_Mexico_Challiye_2022_Punjabi_HD.srt"
+	},
+
     {
 	    "name": "Carter",
 	    "description": "A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
@@ -208,240 +269,314 @@
         "time":"3h 7m",
         "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
     },
-    
-        {
-    "name": "Never Have I Ever",
-    "description": "After a traumatic year, all an Indian-American teen wants is to go from pariah to popular -- but friends, family and feeling won't make it easy on her.",
-    "ageRestriction": "16",
-    "video": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.mp4",
-    "series": "yes",
-    "subtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.English (CC).srt",
-     "seriess":[
-         [
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.mp4",
-                         "stitle": "1.Pilot",
-                         "stime": "28m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BNDhkMzY1ZDgtODNmZS00OGVmLTgzMzEtYzY5NDc4YzE3ZWVhXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E02_ had sex with Paxton Hall-Yoshida.mp4",
-                         "stitle": "2.had sex with Paxton Hall-Yoshida",
-                         "stime": "30m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BMGRlODRjNWYtZDMwZC00N2FhLThlM2EtMTA3NjVlNmNmMDMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E02_ had sex with Paxton Hall-Yoshida.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E03_ gotten drunk with the popular kids.mp4",
-                         "stitle": "3.gotten drunk with the popular kids",
-                         "stime": "30m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BMDlhNmNlZGYtODI4ZS00ZjM0LTgyMWYtZjhiYjM2MWNhNzNlXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E03_ gotten drunk with the popular kids.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E04_ felt super Indian.mp4",
-                         "stitle": "4.felt super Indian",
-                         "stime": "22m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BMTliNzQ0M2YtYjhlNy00NDZlLWE2NjQtMzNiNDM3OGRiYjQzXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E04_ felt super Indian.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E05_ started a nuclear war.mp4",
-                         "stitle": "5.started a nuclear war",
-                         "stime": "30m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BNzBkNDNiOTctMDhhYi00YzEyLWE1MTgtNTg0ZDZlYjRjM2I2XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E05_ started a nuclear war.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E06_ been the loneliest boy in the world.mp4",
-                         "stitle": "6.been the loneliest boy in the world",
-                         "stime": "23m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BMGM0Yjk2ODQtNjQzYi00ZTliLWE1MjQtM2U1ZDZhOTA4YWNhXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E06_ been the loneliest boy in the world.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E07_ been a big, fat liar.mp4",
-                         "stitle": "7.been a big, fat liar",
-                         "stime": "29m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BMWUyNzllODUtZDU4OC00MDU1LTg4MDUtODIxZjQwMWI5YWM5XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E07_ been a big, fat liar.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E08_ pissed off everyone I know.mp4",
-                         "stitle": "8.pissed off everyone I know",
-                         "stime": "29m",
-                         "simage": "https://m.media-amazon.com/images/M/MV5BZDA1OWIwMmUtM2IyZi00ZTBlLTgxMTUtMGRiZjNmYWJkODExXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E08_ pissed off everyone I know.English (CC).srt"
-                     },
-                     {
-                        "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E09_ had to be on my best behavior.mp4",
-                        "stitle": "9.had to be on my best behavior",
-                        "stime": "25m",
-                        "simage": "https://m.media-amazon.com/images/M/MV5BNDA2NzBhNGItM2NhMy00ZjYxLTgxM2EtZTdlNWQ1MjU0MzNkXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                        "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E09_ had to be on my best behavior.English (CC).srt"
-                     },
-                     {
-                        "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E10_ said I_m sorry.mp4",
-                        "stitle": "10.said I'm sorry",
-                        "stime": "29m",
-                        "simage": "https://m.media-amazon.com/images/M/MV5BODY3NjRlZjQtNDBmYy00NTEwLTg0MDktZWFkZGRhYjRkYjAzXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
-                        "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E10_ said I_m sorry.English (CC).srt"
-                     }
-         ],         
-         [
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E01_ been a playa.mp4",
-                         "stitle": "1.been a playa",
-                         "stime": "28m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ieWofRn2xVkaMgQ4H9xRY3oG6vA.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E01_ been a playa.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E02_ thrown a rager.mp4",
-                         "stitle": "2.thrown a rager",
-                         "stime": "32m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bOSLgNNqFg5gRtyd7zFlp2o6eC4.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E02_ thrown a rager.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E03_ opened a textbook.mp4",
-                         "stitle": "3.opened a textbook",
-                         "stime": "27m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mdtH9Adyi5IFgyf6cXt027HvFeu.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E03_ opened a textbook.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E04_ had an Indian frenemy.mp4",
-                         "stitle": "4.had an Indian frenemy",
-                         "stime": "28m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hTPx6paAA8RAHjpSAv90r6PZvkA.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E04_ had an Indian frenemy.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E05_ ruined someone_s life.mp4",
-                         "stitle": "5.ruined someone's life",
-                         "stime": "29m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/e4fqWTybnSHLrcLLa66besO7Zes.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E05_ ruined someone_s life.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E06_ betrayed a friend.mp4",
-                         "stitle": "6.betrayed a friend",
-                         "stime": "27m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jZwyKRPQq1936lIbYTLW8DhIn7v.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E06_ betrayed a friend.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E07_ begged for forgiveness.mp4",
-                         "stitle": "7.begged for forgiveness",
-                         "stime": "29m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r4eSm0IgHFEe8hM7gYwppd6GVoU.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E07_ begged for forgiveness.English (CC).srt"
-                     },
-                     {
-                         "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E08_ been Daisy Buchanan.mp4",
-                         "stitle": "8.been Daisy Buchanan",
-                         "stime": "28m",
-                         "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ggNTEG6akKmxwiSlYncKrkh66ZM.jpg",
-                         "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E08_ been Daisy Buchanan.English (CC).srt"
-                     },
-                     {
-                        "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E09_ stalked my own mother.mp4",
-                        "stitle": "9.stalked my own mother",
-                        "stime": "31m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mvNxCywiXwAcg80b3ppU1PjcuOG.jpg",
-                        "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E09_ stalked my own mother.English (CC).srt"
-                     },
-                     {
-                        "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E10_ been a perfect girl.mp4",
-                        "stitle": "10.been a perfect girl",
-                        "stime": "31m",
-                        "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l0chqG69UYEgHN9taj3Cq0tPyWh.jpg",
-                        "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E10_ been a perfect girl.English (CC).srt"
-                     }
-         ],
-         [
+
+    {
+        "name": "Peacemaker",
+        "description": "The continuing story of Peacemaker – a compellingly vainglorious man who believes in peace at any cost, no matter how many people he has to kill to get it – in the aftermath of the events of The Suicide Squad.",
+        "ageRestriction": "18",
+        "video": "/Hollywood series/Peacemaker/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Peacemaker/s1e1.srt",
+         "seriess":[
+             [
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e1.mp4",
-                             "stitle": "1....been slut-shamed",
-                             "stime": "30m",
-                             "simage": "https://i.ibb.co/DCK6Vy8/Screenshot-52.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e1.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e1.mkv",
+                             "stitle": "1.A Whole New Whirled",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTIzODJkYTctYWFhZC00YjRjLWIyMWYtNzhiNDk1NDZmYzZjXkEyXkFqcGdeQXVyMTEyNDE5NTkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e2.mp4",
-                             "stitle": "2....had my own troll",
-                             "stime": "30m",
-                             "simage": "https://i.ibb.co/Cmtb2yx/Screenshot-53.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e2.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e2.mkv",
+                             "stitle": "2.Best Friends, For Never",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODVlNThhZDctMWFlZC00ZmU5LWEzNzQtYjk4Mzc5YWJkZTlmXkEyXkFqcGdeQXVyNTkyNzIxOTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e3.mp4",
-                             "stitle": "3....had a valentine",
-                             "stime": "32m",
-                             "simage": "https://i.ibb.co/DR6Q90n/Screenshot-54.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e3.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e3.mkv",
+                             "stitle": "3.Better Goff Dead",
+                             "stime": "40m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGIyM2M2YjktZGM0YS00N2U5LWJlNTMtYjMyNjBkNjFiOGU3XkEyXkFqcGdeQXVyMTEyNDE5NTkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e4.mp4",
-                             "stitle": "4....made someone jealous",
-                             "stime": "27m",
-                             "simage": "https://i.ibb.co/X42DysG/Screenshot-55.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e4.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e4.mkv",
+                             "stitle": "4.The Choad Less Traveled",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODVkYTk4ZDItMTA0Ni00NWQxLWFmYjgtNzc5MWNlYWU4OGM3XkEyXkFqcGdeQXVyMTI3MjQzNDg2._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e5.mp4",
-                             "stitle": "5....been ghosted",
-                             "stime": "26m",
-                             "simage": "https://i.ibb.co/mvdYX5J/Screenshot-56.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e5.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e5.mkv",
+                             "stitle": "5.Monkey Dory",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWY4YTdkNjAtY2U4ZS00Y2U3LThmOWYtY2UxODRlNzYyOGE1XkEyXkFqcGdeQXVyNzgzNDY3ODk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e6.mp4",
-                             "stitle": "6....had a breakdown",
-                             "stime": "25m",
-                             "simage": "https://i.ibb.co/0hbqxh6/Screenshot-57.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e6.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e6.mkv",
+                             "stitle": "6.Murn After Reading",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2ZkOTJkOWYtNGFlMi00MmU2LTkyNzItMTUwOTJjNTBmNDI0XkEyXkFqcGdeQXVyMTM0MTUzNjA2._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e6.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e7.mp4",
-                             "stitle": "7....cheated",
-                             "stime": "27m",
-                             "simage": "https://i.ibb.co/XSmqQQ3/Screenshot-58.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e7.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e7.mkv",
+                             "stitle": "7.Stop Dragon My Heart Around",
+                             "stime": "39m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTk4NGEyZDUtZDcyYi00NDdhLTgyNmYtOWFiODQwZDkyZTg1XkEyXkFqcGdeQXVyMTM5MzIxNjU0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e7.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e8.mp4",
-                             "stitle": "8....hooked up with my boyfriend",
-                             "stime": "26m",
-                             "simage": "https://i.ibb.co/pwq6c1X/Screenshot-59.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e8.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e9.mp4",
-                             "stitle": "9....had an Indian boyfriend",
-                             "stime": "30m",
-                             "simage": "https://i.ibb.co/J5qWT6W/Screenshot-60.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e9.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e10.mp4",
-                             "stitle": "10....lived the dream",
-                             "stime": "29m",
-                             "simage": "https://i.ibb.co/GHLzcvm/Screenshot-61.jpg",
-                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e10.srt"
+                             "svideos": "/Hollywood series/Peacemaker/s1e8.mkv",
+                             "stitle": "8.It's Cow or Never",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDUzYmI1YjEtMTRjMy00M2NhLTllNzUtOGUyOGRjMmIwYzk2XkEyXkFqcGdeQXVyMTEyNDE5NTkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Peacemaker/s1e8.srt"
                          }
              ]
-         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
-    "genres": "Comedy,Dramas,Hollywood,English,Hindi",
-    "releaseDate": "2020",
-    "trailer": "https://www.imdb.com/video/vi4029464601/?ref_=ext_shr_lnk",
-    "cast": "Maitreyi Ramakrishnan,Poorna Jagannathan...more"
-   },
-    
-        {
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODk2NjAyOWMtM2FjZC00MjZhLTkxMjQtZTM3NjJlYTE5MDdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+        "genres": "Action,Adventure,Si-Fi,Fantasy,Comedy,Hollywood,English,Dramas",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1619116825/?ref_=ext_shr_lnk",
+        "cast": "John Cena,Danielle Brooks...more"
+       },
+
+    {
+        "name": "Never Have I Ever",
+        "description": "After a traumatic year, all an Indian-American teen wants is to go from pariah to popular -- but friends, family and feeling won't make it easy on her.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.mp4",
+                             "stitle": "1.Pilot",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDhkMzY1ZDgtODNmZS00OGVmLTgzMzEtYzY5NDc4YzE3ZWVhXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E01_Pilot.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E02_ had sex with Paxton Hall-Yoshida.mp4",
+                             "stitle": "2.had sex with Paxton Hall-Yoshida",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGRlODRjNWYtZDMwZC00N2FhLThlM2EtMTA3NjVlNmNmMDMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E02_ had sex with Paxton Hall-Yoshida.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E03_ gotten drunk with the popular kids.mp4",
+                             "stitle": "3.gotten drunk with the popular kids",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDlhNmNlZGYtODI4ZS00ZjM0LTgyMWYtZjhiYjM2MWNhNzNlXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E03_ gotten drunk with the popular kids.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E04_ felt super Indian.mp4",
+                             "stitle": "4.felt super Indian",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTliNzQ0M2YtYjhlNy00NDZlLWE2NjQtMzNiNDM3OGRiYjQzXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E04_ felt super Indian.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E05_ started a nuclear war.mp4",
+                             "stitle": "5.started a nuclear war",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzBkNDNiOTctMDhhYi00YzEyLWE1MTgtNTg0ZDZlYjRjM2I2XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E05_ started a nuclear war.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E06_ been the loneliest boy in the world.mp4",
+                             "stitle": "6.been the loneliest boy in the world",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGM0Yjk2ODQtNjQzYi00ZTliLWE1MjQtM2U1ZDZhOTA4YWNhXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E06_ been the loneliest boy in the world.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E07_ been a big, fat liar.mp4",
+                             "stitle": "7.been a big, fat liar",
+                             "stime": "29m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWUyNzllODUtZDU4OC00MDU1LTg4MDUtODIxZjQwMWI5YWM5XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E07_ been a big, fat liar.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E08_ pissed off everyone I know.mp4",
+                             "stitle": "8.pissed off everyone I know",
+                             "stime": "29m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDA1OWIwMmUtM2IyZi00ZTBlLTgxMTUtMGRiZjNmYWJkODExXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E08_ pissed off everyone I know.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E09_ had to be on my best behavior.mp4",
+                            "stitle": "9.had to be on my best behavior",
+                            "stime": "25m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDA2NzBhNGItM2NhMy00ZjYxLTgxM2EtZTdlNWQ1MjU0MzNkXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E09_ had to be on my best behavior.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E10_ said I_m sorry.mp4",
+                            "stitle": "10.said I'm sorry",
+                            "stime": "29m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODY3NjRlZjQtNDBmYy00NTEwLTg0MDktZWFkZGRhYjRkYjAzXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Never Have I Ever/season 1/Never Have I Ever_S01E10_ said I_m sorry.English (CC).srt"
+                         }
+             ],         
+             [
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E01_ been a playa.mp4",
+                             "stitle": "1.been a playa",
+                             "stime": "28m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ieWofRn2xVkaMgQ4H9xRY3oG6vA.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E01_ been a playa.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E02_ thrown a rager.mp4",
+                             "stitle": "2.thrown a rager",
+                             "stime": "32m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bOSLgNNqFg5gRtyd7zFlp2o6eC4.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E02_ thrown a rager.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E03_ opened a textbook.mp4",
+                             "stitle": "3.opened a textbook",
+                             "stime": "27m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mdtH9Adyi5IFgyf6cXt027HvFeu.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E03_ opened a textbook.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E04_ had an Indian frenemy.mp4",
+                             "stitle": "4.had an Indian frenemy",
+                             "stime": "28m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hTPx6paAA8RAHjpSAv90r6PZvkA.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E04_ had an Indian frenemy.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E05_ ruined someone_s life.mp4",
+                             "stitle": "5.ruined someone's life",
+                             "stime": "29m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/e4fqWTybnSHLrcLLa66besO7Zes.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E05_ ruined someone_s life.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E06_ betrayed a friend.mp4",
+                             "stitle": "6.betrayed a friend",
+                             "stime": "27m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jZwyKRPQq1936lIbYTLW8DhIn7v.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E06_ betrayed a friend.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E07_ begged for forgiveness.mp4",
+                             "stitle": "7.begged for forgiveness",
+                             "stime": "29m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r4eSm0IgHFEe8hM7gYwppd6GVoU.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E07_ begged for forgiveness.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E08_ been Daisy Buchanan.mp4",
+                             "stitle": "8.been Daisy Buchanan",
+                             "stime": "28m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ggNTEG6akKmxwiSlYncKrkh66ZM.jpg",
+                             "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E08_ been Daisy Buchanan.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E09_ stalked my own mother.mp4",
+                            "stitle": "9.stalked my own mother",
+                            "stime": "31m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mvNxCywiXwAcg80b3ppU1PjcuOG.jpg",
+                            "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E09_ stalked my own mother.English (CC).srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E10_ been a perfect girl.mp4",
+                            "stitle": "10.been a perfect girl",
+                            "stime": "31m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l0chqG69UYEgHN9taj3Cq0tPyWh.jpg",
+                            "ssubtitle":"/Hollywood series/Never Have I Ever/season 2/Never Have I Ever_S02E10_ been a perfect girl.English (CC).srt"
+                         }
+             ],
+             [
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e1.mp4",
+                                 "stitle": "1....been slut-shamed",
+                                 "stime": "30m",
+                                 "simage": "https://ibb.co/fp0K15n",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e1.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e2.mp4",
+                                 "stitle": "2....had my own troll",
+                                 "stime": "30m",
+                                 "simage": "https://ibb.co/5G9rF3q",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e2.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e3.mp4",
+                                 "stitle": "3....had a valentine",
+                                 "stime": "32m",
+                                 "simage": "https://ibb.co/rwLHxDJ",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e3.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e4.mp4",
+                                 "stitle": "4....made someone jealous",
+                                 "stime": "27m",
+                                 "simage": "https://ibb.co/JdBqx7S",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e4.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e5.mp4",
+                                 "stitle": "5....been ghosted",
+                                 "stime": "26m",
+                                 "simage": "https://ibb.co/TKJnbMc",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e5.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e6.mp4",
+                                 "stitle": "6....had a breakdown",
+                                 "stime": "25m",
+                                 "simage": "https://ibb.co/vZn1SZT",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e6.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e7.mp4",
+                                 "stitle": "7....cheated",
+                                 "stime": "27m",
+                                 "simage": "https://ibb.co/727qffR",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e7.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e8.mp4",
+                                 "stitle": "8....hooked up with my boyfriend",
+                                 "stime": "26m",
+                                 "simage": "https://ibb.co/tKRwgHC",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e8.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e9.mp4",
+                                 "stitle": "9....had an Indian boyfriend",
+                                 "stime": "30m",
+                                 "simage": "https://ibb.co/wM7ZqGZ",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e9.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Never Have I Ever/season 3/s3e10.mp4",
+                                 "stitle": "10....lived the dream",
+                                 "stime": "29m",
+                                 "simage": "https://ibb.co/8Yp16Dk",
+                                 "ssubtitle":"/Hollywood series/Never Have I Ever/season 3/s3e10.srt"
+                             }
+                 ]
+             ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+        "genres": "Comedy,Dramas,Hollywood,English,Hindi",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi4029464601/?ref_=ext_shr_lnk",
+        "cast": "Maitreyi Ramakrishnan,Poorna Jagannathan...more"
+    },
+
+    {
         "name": "Locke and Key ",
         "description": "Three siblings who move into their ancestral estate after their father's gruesome murder discover their new home's magical keys, which must be used in their stand against an evil creature who wants the keys and their powers.",
         "ageRestriction": "18",
@@ -746,8 +881,8 @@
         "trailer": "https://www.imdb.com/video/vi1747829273/?ref_=ext_shr_lnk",
         "cast": "Tom Sturridge,Boyd Holbrook...more"
        },
-       
-           {
+
+       {
         "name": "Crash Course",
         "description": "The story of two warring coaching institutes, and the consequences of their rivalry on the students who come there to study. A journey of friendship, first love, heartbreak, peer pressure and the loss of innocence of youth.",
         "ageRestriction": "16",
