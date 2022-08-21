@@ -1,5 +1,35 @@
 [
+    
+    {
+	    "name": "Lover",
+	    "description": "Lally is madly in love with his schoolmate Heer. Things take an interesting turn when Heer and Lally are separated from each other.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Lover/Lover 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWE4MWNlZWYtNzk2MS00MjFkLWEyZTktNWE3ZTY3YWJjOGRhXkEyXkFqcGdeQXVyMTI3NTM5NzQ3._V1._SX250.jpg",
+	    "genres": "Dramas,Romance,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi432783897/?ref_=ext_shr_lnk",
+	    "cast": "Guri,Ronak Joshi... more",
+        "time":"2h 15m",
+        "subtitle":"/Punjabi/Aaja Mexico Challiye/Aaja_Mexico_Challiye_2022_Punjabi_HD.srt"
+	},
 
+    {
+	    "name": "Qismat",
+	    "description": "A man falls in love whilst studying in Chandigarh, despite his marriage being arranged to another woman.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Qismat/Qismat.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTAxZDgxNWYtNWNjZC00NDM4LWI0OTEtY2Q4OGQxMmMyYmJiXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Romance,Punjabi,Indian",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi195279385/?ref_=ext_shr_lnk",
+	    "cast": "Ammy Virk,Sargun Mehta... more",
+        "time":"2h 20m",
+        "subtitle":"/Punjabi/Qismat/Qismat.srt"
+	},
+    
     {
 	    "name": "Aaja Mexico Challiye",
 	    "description": "Pamma is an ambitious youngster from Punjab who wants to go abroad. But this one dream turns his life around as he becomes caught in dangerous situations. Will Pamma be able to make it out of the jungles of Mexico",
