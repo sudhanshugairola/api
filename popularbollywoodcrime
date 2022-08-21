@@ -29,36 +29,6 @@
         "time":"2h 28m",
         "subtitle":"/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.srt"
 	},
-
-    {
-	    "name": "Rashtra Kavach Om",
-	    "description": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
-	    "genres": "Action,Thriller,Dramas,Bollywood,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1089454617/?ref_=ext_shr_lnk",
-	    "cast": "Aditya Roy Kapur,Sanjana Sanghi... more",
-        "time":"2h 15m",
-        "subtitle":"/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.srt"
-	},
-    
-    {
-	    "name": "Shabaash Mithu",
-	    "description": "From child prodigy to trailblazing captain, Indian women's cricket icon Mithali Raj navigates highs and lows of professional career. A story of a young girl's determination and stance against discrimination, about her spirit, passion, courage, and her dreams.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Shabaash Mithu/Shabaash Mithu.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTkzOWU0YzYtOTNkOS00N2JhLWI0ZDItNmRmMTZjMjUwZjAxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
-	    "genres": "Biography,Dramas,Sport,Indian,Hindi,Bollywood",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi4013081113/?ref_=ext_shr_lnk",
-	    "cast": "Taapsee Pannu,Vijay Raaz... more",
-        "time":"2h 27m",
-        "subtitle":"/Hindi_Movies/Shabaash Mithu/Shabaash Mithu.mkv"
-	},
     
     {
 	    "name": "Psycho",
