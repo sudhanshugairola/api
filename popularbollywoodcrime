@@ -1,4 +1,34 @@
 [   
+
+    {
+	    "name": "777 Charlie",
+	    "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/777 Charlie/777 Charlie.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1._SX250.jpg",
+	    "genres": "Adventure,Comedy,Dramas,South,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3431842329/?ref_=ext_shr_lnk",
+	    "cast": "Rakshit Shetty,Raj B Shetty... more",
+        "time":"2h 46m",
+        "subtitle":"/Hindi_Movies/777 Charlie/777 Charlie.srt"
+	},
+
+    {
+	    "name": "Sherdil",
+	    "description": "Inspired by the real events that took place in the Pilibhit Tiger Reserve where people used to leave their elderly family members for tigers to prey on, and then claim compensation from the administration.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Sherdil_ The Pilibhit Saga/Sherdil_ The Pilibhit Saga.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzZmYmUyNzUtNjNkZi00MjkwLWE5ZTktNDhlODYzZTY1NWY4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Hindi,Indian,Bollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1055244825/?ref_=ext_shr_lnk",
+	    "cast": "Pankaj Tripathi,Sayani Gupta... more",
+        "time":"2h 1m",
+        "subtitle":"/Hindi_Movies/Sherdil_ The Pilibhit Saga/Sherdil_ The Pilibhit Saga.English.srt"
+	},
     
     {
 	    "name": "Shamshera",
@@ -29,7 +59,7 @@
         "time":"2h 28m",
         "subtitle":"/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.srt"
 	},
-	
+
     {
 	    "name": "Rashtra Kavach Om",
 	    "description": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life.",
