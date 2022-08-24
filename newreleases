@@ -1,5 +1,20 @@
 [   
-   
+    
+    {
+	    "name": "The Next 365 Days",
+	    "description": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+	    "ageRestriction": "18",
+	    "video": "/Hollywood Movies/The Next 365 Days/The Next 365 Days.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGQ0ZmRkY2YtMmUxZi00Njk0LWE1ZjAtY2IzMTY3YWI3MjI5XkEyXkFqcGdeQXVyOTM1NDU0MTI@._V1._SX250.jpg",
+	    "genres": "Romance,Dramas,Hollywood,English,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1946731033/?ref_=ext_shr_lnk",
+	    "cast": "Anna-Maria Sieklucka,Michele Morrone... more",
+        "time":"1h 52m",
+        "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
+	},
+	
     {
 	    "name": "Fullmetal Alchemist: The Revenge of Scar",
 	    "description": "When a mysterious figure starts to target State Alchemists for their sins against God, Alchemist Edward Elric and his brother Alphonse are at their most vulnerable, meanwhile the homunculi begin to unveil themselves once again.",
