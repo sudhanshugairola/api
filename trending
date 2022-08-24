@@ -44,6 +44,21 @@
         "time":"2h 2m",
         "subtitle":"/Hollywood Movies/Purple Hearts/Purple Hearts.CC.en.srt"
 	},
+	
+    {
+	    "name": "Forrest Gump",
+	    "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Forest Gump/Forest Gump.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWNmNzdjYjQtZjIyOS00MDhiLTg4ZWUtZGZkZDE4ZDQwZTY1XkEyXkFqcGdeQXVyODk2ODI3MTU@._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Romance,Hollywood,English,Hindi",
+	    "releaseDate": "1994",
+	    "trailer": "https://www.imdb.com/video/vi3567517977/?ref_=ext_shr_lnk",
+	    "cast": "Tom Hanks,Robin Wright... more",
+        "time":"2h 22m",
+        "subtitle":"Hollywood Movies/Forest Gump/Forest Gump.srt"
+	},
 
     {
 	    "name": "Through My Window",
