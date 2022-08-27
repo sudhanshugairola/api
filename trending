@@ -1,4 +1,4 @@
-[    
+[   
 
     {
 	    "name": "The Next 365 Days",
@@ -15,7 +15,22 @@
         "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
 	},
 
-   {
+    {
+	    "name": "Valley of the Dead",
+	    "description": "During the Spanish Civil War, sworn enemies must work together when they encounter flesh-eating zombies created in a Nazi experiment.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Valley of the Dead/Valley of the Dead.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjIyNzIwMjQtY2Q4MS00MDg3LTk5NTgtY2Q0ZDUwZWQxNzZiXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
+	    "genres": "Action,Adventure,Fantasy,Horror,Thriller,War,English,Hollywood",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi4254974233/?ref_=ext_shr_lnk",
+	    "cast": "Aura Garrido,Miki Esparbé... more",
+        "time":"1h 41m",
+        "subtitle":"/Hollywood Movies/Valley of the Dead/Valley of the Dead.English (CC).srt"
+	},
+
+    {
 	    "name": "Day Shift",
 	    "description": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
 	    "ageRestriction": "16",
@@ -29,7 +44,8 @@
         "time":"1h 53m",
         "subtitle":"/Hollywood Movies/Day Shift/Day Shift.English (CC).srt"
 	},
-	
+    
+
     {
 	    "name": "Fullmetal Alchemist: The Revenge of Scar",
 	    "description": "When a mysterious figure starts to target State Alchemists for their sins against God, Alchemist Edward Elric and his brother Alphonse are at their most vulnerable, meanwhile the homunculi begin to unveil themselves once again.",
@@ -44,7 +60,7 @@
         "time":"2h 5m",
         "subtitle":"/Hollywood Movies/Fullmetal Alchemist The Revenge of Scar/Fullmetal Alchemist The Revenge of Scar.English (CC).srt"
 	},
-    
+
     {
 	    "name": "Purple Hearts",
 	    "description": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
@@ -59,7 +75,7 @@
         "time":"2h 2m",
         "subtitle":"/Hollywood Movies/Purple Hearts/Purple Hearts.CC.en.srt"
 	},
-	
+
     {
 	    "name": "Forrest Gump",
 	    "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
