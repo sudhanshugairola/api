@@ -14,6 +14,21 @@
         "time":"1h 52m",
         "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
 	},
+
+   {
+	    "name": "Day Shift",
+	    "description": "An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Day Shift/Day Shift.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWI2ZDRjYjEtOWJiOS00NWVjLWI1MjAtNWNiMzAwNGFmNjljXkEyXkFqcGdeQXVyODEwMTc2ODQ@.V1._SX250.jpg",
+	    "genres": "Action,Fantasy,Horror,Comedy,Tamil,Telugu,Hindi,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2470035993/?ref_=ext_shr_lnk",
+	    "cast": "Jamie Foxx,Dave Franco... more",
+        "time":"1h 53m",
+        "subtitle":"Hollywood Movies/Day Shift/Day Shift.English (CC).srt"
+	},
 	
     {
 	    "name": "Fullmetal Alchemist: The Revenge of Scar",
