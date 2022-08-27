@@ -1,5 +1,5 @@
 [   
-    
+   
     {
 	    "name": "The Next 365 Days",
 	    "description": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
@@ -14,7 +14,7 @@
         "time":"1h 52m",
         "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
 	},
-	
+    
     {
 	    "name": "Fullmetal Alchemist: The Revenge of Scar",
 	    "description": "When a mysterious figure starts to target State Alchemists for their sins against God, Alchemist Edward Elric and his brother Alphonse are at their most vulnerable, meanwhile the homunculi begin to unveil themselves once again.",
@@ -29,7 +29,7 @@
         "time":"2h 5m",
         "subtitle":"/Hollywood Movies/Fullmetal Alchemist The Revenge of Scar/Fullmetal Alchemist The Revenge of Scar.English (CC).srt"
 	},
-    
+
     {
 	    "name": "777 Charlie",
 	    "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
@@ -328,6 +328,110 @@
         "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
         "time":"3h 7m",
         "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
+    },
+
+    {
+        "name": "Delhi Crime",
+        "description": "As Delhi reels in the aftermath of a gang rape, DCP Vartika Chaturvedi leads a painstaking search for the culprits. Based on the 2012 Nirbhaya case.",
+        "ageRestriction": "16",
+        "video": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
+        "series": "yes",
+        "subtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.mkv",
+                             "stitle": "1.S1 Episode 1",
+                             "stime": "1h 4m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGJmZmRkMTEtMWJiMi00YzI4LTk5NzAtZGYzNjEzODI3ZDkwXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UY126_CR4,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.mkv",
+                             "stitle": "2.S1 Episode 2",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzJlZGU5NjEtNTQxMi00NGRkLThiZWQtZGVmOGJkMzgyNGFmXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.mkv",
+                             "stitle": "3.S1 Episode 3",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGY4NTZmNzEtYTRhMC00MzJhLWFmYzctZTBhMWIzMGJkYjAyXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.mkv",
+                             "stitle": "4.S1 Episode 4",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjY2NTEzMTQtNjEzZS00OTdkLWE5MjYtMTRmZjgxOTE2OWUzXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.mkv",
+                             "stitle": "5.S1 Episode 5",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTg2ZDFmNWQtOWQwYi00NDJmLWI2NWUtOTViNzUzMWY3ODUzXkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.mkv",
+                             "stitle": "6.S1 Episode 6",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGIyNWUwZDItZjg5ZC00OWIxLWIwYzUtMGU4M2I5ODg3MzY3XkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UY126_CR6,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E06_Episode 6.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.mkv",
+                             "stitle": "7.S1 Episode 7",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWExZWI2NjYtYjUyMC00YTVhLWFiNWMtZTJmNzRkOTliZTQ1XkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.English (CC).srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 2/s2e1.mp4",
+                             "stitle": "1.S2 Episode 1",
+                             "stime": "45m",
+                             "simage": "https://i.ibb.co/XDp0sw5/delhi-crime-season-2-review-1.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 2/s2e2.mp4",
+                             "stitle": "2.S2 Episode 2",
+                             "stime": "38m",
+                             "simage": "https://i.ibb.co/QnhTDHJ/Delhi-Crime-S2-1.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 2/s2e3.mp4",
+                             "stitle": "3.S2 Episode 3",
+                             "stime": "47m",
+                             "simage": "https://i.ibb.co/8X5DxfM/delhi-crime-season-2-review-2-1.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 2/s2e4.mp4",
+                             "stitle": "4.S2 Episode 4",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/SfbjfJ8/images.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Delhi Crime/season 2/s2e5.mp4",
+                             "stitle": "5.S2 Episode 5",
+                             "stime": "55m",
+                             "simage": "https://i.ibb.co/Kr1jSjD/AAAABUFCj-Kgrt-EUejkmud7a7m-Ju3-RJe-Z9p-Op-Fv-DYu-i8-Ar4yl24ee4-UDHHUc-Nb-RAz-N472-T7-UB-e-BGJi1-MLE.jpg",
+                             "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e5.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX350.jpg",
+        "genres": "Crime,Dramas,Hindi,Indian,English",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
+        "cast": "Shefali Shah,Rasika Dugal,Sanjay Bishnoi...more"
     },
 
     {
