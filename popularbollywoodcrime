@@ -1611,10 +1611,47 @@
                          "simage": "https://m.media-amazon.com/images/M/MV5BOWExZWI2NjYtYjUyMC00YTVhLWFiNWMtZTJmNzRkOTliZTQ1XkEyXkFqcGdeQXVyOTgzNTQ2NjQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
                          "ssubtitle":"/Indian drama/Delhi Crime/season 1/Delhi Crime_S01E07_Episode 7.English (CC).srt"
                      }
+         ],
+         [
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 2/s2e1.mp4",
+                         "stitle": "1.S2 Episode 1",
+                         "stime": "45m",
+                         "simage": "https://i.ibb.co/XDp0sw5/delhi-crime-season-2-review-1.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e1.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 2/s2e2.mp4",
+                         "stitle": "2.S2 Episode 2",
+                         "stime": "38m",
+                         "simage": "https://i.ibb.co/QnhTDHJ/Delhi-Crime-S2-1.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e2.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 2/s2e3.mp4",
+                         "stitle": "3.S2 Episode 3",
+                         "stime": "47m",
+                         "simage": "https://i.ibb.co/8X5DxfM/delhi-crime-season-2-review-2-1.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e3.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 2/s2e4.mp4",
+                         "stitle": "4.S2 Episode 4",
+                         "stime": "36m",
+                         "simage": "https://i.ibb.co/SfbjfJ8/images.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e4.srt"
+                     },
+                     {
+                         "svideos": "/Indian drama/Delhi Crime/season 2/s2e5.mp4",
+                         "stitle": "5.S2 Episode 5",
+                         "stime": "55m",
+                         "simage": "https://i.ibb.co/Kr1jSjD/AAAABUFCj-Kgrt-EUejkmud7a7m-Ju3-RJe-Z9p-Op-Fv-DYu-i8-Ar4yl24ee4-UDHHUc-Nb-RAz-N472-T7-UB-e-BGJi1-MLE.jpg",
+                         "ssubtitle":"/Indian drama/Delhi Crime/season 2/s2e5.srt"
+                     }
          ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
-    "genres": "crime,Dramas,Hindi,Indian",
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX350.jpg",
+    "genres": "Crime,Dramas,Hindi,Indian,English",
     "releaseDate": "2019",
     "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
     "cast": "Shefali Shah,Rasika Dugal,Sanjay Bishnoi...more"
