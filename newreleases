@@ -14,6 +14,21 @@
         "time":"1h 52m",
         "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
 	},
+	
+	    {
+	    "name": "Vikram",
+	    "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+	    "ageRestriction": "16",
+	    "video": "/Hindi_Movies/Vikram 2022/Vikram 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Action,Thriller,Hindi,Indian,South",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3381510681/?ref_=ext_shr_lnk",
+	    "cast": "Kamal Haasan,Fahadh Faasil,Vijay Sethupathi... more",
+        "time":"2h 54m",
+        "subtitle":"/Hindi_Movies/Vikram 2022/Vikram 2022.srt"
+	},
 
     {
 	    "name": "Day Shift",
