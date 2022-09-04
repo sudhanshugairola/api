@@ -224,6 +224,562 @@
         "time":"2h 27m",
         "subtitle":"/Hollywood Movies/R_I_P_D/R_I_P_D.English (CC).srt"
     },
+    
+        {
+        "name": "The Good Doctor",
+        "description": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Good Doctor/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Good Doctor/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e1.mkv",
+                             "stitle": "1.Burnt Food",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjJmYjE2NTItNWRiNy00NzU2LWFjODItNzc5MmI2OGJmOWUyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e2.mkv",
+                             "stitle": "2.Mount Rushmore",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDhmMWIyZTktYjk4ZC00MTQyLTk2OGItZGFjMWYwMjdiNjdlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e3.mkv",
+                             "stitle": "3.Oliver",
+                             "stime": "42m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjJmYjE2NTItNWRiNy00NzU2LWFjODItNzc5MmI2OGJmOWUyXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e4.mkv",
+                             "stitle": "4.Pipes",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWMyNzIzMzctOGJjZC00NDMxLWJjYTAtZWVhYTZlMmYxNzVlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e5.mkv",
+                             "stitle": "5.Point Three Percent",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2NkZmMwMWUtYzE5MS00MjRiLTg1MDgtYmYwNDY2YjkxMDM4XkEyXkFqcGdeQXVyNzQ0MDUyMzg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e6.mkv",
+                             "stitle": "6.Not Fake",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjQ5MWMxODItMmFmYi00NGE0LWE2ZjEtNjJhMzhhN2YyZTliXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e7.mkv",
+                             "stitle": "7.22 Steps",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGY0YzdmNDAtZDY5ZC00ZmU1LTk0MGYtNjg0NTI5YjI1ZGY2XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e8.mkv",
+                             "stitle": "8.Apple",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTM5ZjIwMWEtMTc5MS00YTZmLTliODEtMzY2NjE5NTdjYjFmXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e9.mkv",
+                             "stitle": "9.Intangibles",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDk5YThjMjYtODIxZC00ZmQ1LTgyMTgtYWJhM2ViYzJhMzJhXkEyXkFqcGdeQXVyNjE4MjIwODE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e10.mkv",
+                             "stitle": "10.Sacrifice",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTRkZWRlYWItZmI5OC00NDc1LWJmNDMtNDA5NWVjMDE0ZGJjXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e11.mkv",
+                             "stitle": "11.Islands Part One (1)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDNkN2QzZTctNDEzYS00NmJhLWJiYjYtYzhjM2U5N2QwMmI4XkEyXkFqcGdeQXVyMTE5MTg0NDI5._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 1/s1e12.mkv",
+                             "stitle": "12.Islands Part Two (2)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjcwYmVjZjMtZjE4YS00OTA0LTljNTAtYWZjZjViZTdhMTBhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e13.mkv",
+                            "stitle": "13.Seven Reasons",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGE0MzljMTItYzE3Ni00M2I5LTllNzctZTlkMzk0MTRhM2Q3XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e13.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e14.mkv",
+                            "stitle": "14.She",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmEzNzYxNzQtZWIxOS00MTkyLWJiOTktNmQxZWNjNTgyNjM4XkEyXkFqcGdeQXVyNzk5ODIwMzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e14.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e15.mkv",
+                            "stitle": "15.Heartfelt",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BM2M4ZmQ5NzAtYTRlYS00YmE3LTk0ZDctM2ZlNzYwM2JhYzNiXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e15.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e16.mkv",
+                            "stitle": "16.Pain",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGE2MTU3OGYtZTBiNC00MjFjLTlhMzItZDQ3YzY3M2ZmMTU0XkEyXkFqcGdeQXVyNzI3MTQ3MTA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e16.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e17.mkv",
+                            "stitle": "17.Smile",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZTIwODM0M2YtN2NmMS00Y2FiLTk4ZDYtMWVhZGI4MDhkNjY0XkEyXkFqcGdeQXVyODY2NTI5MDg@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e17.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 1/s1e18.mkv",
+                            "stitle": "18.More",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BM2E4ZmE2ODItYjFkMS00ZGU0LWIzYWMtNjBiMDY2ODdkY2I3XkEyXkFqcGdeQXVyMTYxNzE2Mw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 1/s1e18.srt"
+                        }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e1.mkv",
+                             "stitle": "1.Hello",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmQyNGYwYjEtNmEyOC00ZmNiLTgxZjctNThmN2I2NTBlYmY4XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e2.mkv",
+                             "stitle": "2.Middle Ground",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWJiZGE4OWUtZTYwOS00OWIyLWE4YzktZGJmZDMzNWU2ZGYxXkEyXkFqcGdeQXVyNzczNTg4MzY@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e3.mkv",
+                             "stitle": "3.36 Hours",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjEwZDFlY2EtMGEyOC00MzgwLTliOGYtMWNhZTBkZTQ3MWQzXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e4.mkv",
+                             "stitle": "4.Tough Titmouse",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDczM2Q2MzgtYTMxZS00Njk0LWJiOTAtOWMwY2VjN2I4ZWQwXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e5.mkv",
+                             "stitle": "5.Carrots",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjM0OTA0ZTctZjAwZC00ZDcwLTllNTctYTdiMmMwMGZjMWYxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e6.mkv",
+                             "stitle": "6.Two-Ply (or Not Two-Ply)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDQ1NDNmNzUtZGQ0ZC00ZjUxLWJmYzEtN2E0MjRlYzA0MTk2XkEyXkFqcGdeQXVyNDQ0NTU4OTI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e7.mkv",
+                             "stitle": "7.Hubert",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzM0YzA0NzUtODgzNi00MjNkLTkzMDItNzcxNTQwYWFlOTg0XkEyXkFqcGdeQXVyOTUyMjEzMjg@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e8.mkv",
+                             "stitle": "8.Stories",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjliZTkwNGQtZjg3Zi00ZDE0LTk4Y2ItMTc1ODMzZmM5ODlmXkEyXkFqcGdeQXVyOTUyMjEzMjg@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e9.mkv",
+                             "stitle": "9.Empathy",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmFiYjM2NTMtODQ0Zi00ZjFlLTlkZjAtNWY2NmY0YjcyZDZlXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e10.mkv",
+                             "stitle": "10.Quarantine (1)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTQ4MWM0MWItNzY1Zi00MmJiLThhNTktN2U0Njc1YWNmMGRiXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e11.mkv",
+                             "stitle": "11.Quarantine Part Two (2)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzg0ZWRmZjUtM2Y3ZS00ZjMzLWJhYWQtYjJiZjVlZDkyYjVmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e12.mkv",
+                             "stitle": "12.Aftermath",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmYzYmJkN2ItNGUwOS00NmIxLWJmMDEtZjRjOTYxZmE5MDU3XkEyXkFqcGdeQXVyNTUzNzY5Mjc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e12.srt"
+                         },                        
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e13.mkv",
+                             "stitle": "13.Xin",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWQ3MTExNjMtNGQzNC00NmM3LThiMmUtNDAxYWExNGY2ODI2XkEyXkFqcGdeQXVyMTYzMzg5NDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e13.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e14.mkv",
+                             "stitle": "14.Faces",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzc4MGM2YmMtNzQxNy00YjJkLTkzMmEtNjQyMzI2Y2YyNjYwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e14.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e15.mkv",
+                             "stitle": "15.Risk and Reward",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzRiYjc5ZGQtNzMxMy00NDM2LWFlNGUtMzE0NzNkYmZhZTE0XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e16.mkv",
+                             "stitle": "16.Believe",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGQwMTZkZjktOWQxNi00OGUzLTk4NzktOTAzMTNmZDZkMmVlXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e16.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e17.mkv",
+                             "stitle": "17.Breakdown",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTc0NjFjMTItMWU4Yi00ZGEyLThiYmYtNWEyY2ExNWQ4NmVkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e17.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 2/s2e18.mkv",
+                             "stitle": "18.Trampoline",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzlkMTgwMTMtNzU4Yi00YzY5LTgzOTQtODM0YTgxNmQ5ZDdlXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 2/s2e18.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e1.mkv",
+                             "stitle": "1.Disaster",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTUyNzdiNjMtM2EwYy00ZjdiLWJlNmEtMDZhN2JkZjg1ZDM2XkEyXkFqcGdeQXVyNjk1NzI1NTA@._V1_UY126_CR9,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e2.mkv",
+                             "stitle": "2.Debts",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODc3YzczNWUtMGQ1OS00ZmVjLWIzNDctMDMzOGE1NmU5MzFjXkEyXkFqcGdeQXVyNDIyNjU2MTk@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e3.mkv",
+                             "stitle": "3.Claire",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQ1ZDI2MzMtYzNkZC00YzA3LTkzNDEtYWExMDhmZTg3Y2JlXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e4.mkv",
+                             "stitle": "4.Take My Hand",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2EyZTc0YjktZDdlYS00ZjA0LTg0OWUtMjZjYzVlODlhMDA1XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e5.mkv",
+                             "stitle": "5.First Case, Second Base",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjBjMmRmZmEtMzdiZS00ZGRkLWE3ZTMtNjBhOWFlNDQyNjA4XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e6.mkv",
+                             "stitle": "6.45-Degree Angle",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTQzNGVhMjMtMGM2Ny00Yzk2LWE3N2YtMjMyZTJjMjhhYmVjXkEyXkFqcGdeQXVyODUwNzM5NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e7.mkv",
+                             "stitle": "7.SFAD",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmRiOGJiZjMtMjgzMi00YmQzLThmNTQtMjZmNjdjNTJjNjliXkEyXkFqcGdeQXVyODUwNzM5NjM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 3/s3e8.mkv",
+                             "stitle": "8.Moonshot",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTkyZmFkMDQtYWFlZS00NDYzLTg4YWUtZTk3YzQ0OWFiNTUwXkEyXkFqcGdeQXVyNjUzODE3MTI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e9.mkv",
+                            "stitle": "9.Incomplete",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BN2Y3ZjkzNGEtY2Y5Yi00MDhjLWI0MjAtMWQ5YTRjNmI1NjA4XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e10.mkv",
+                            "stitle": "10.Friends and Family",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTcyYWEyNDctNWU1MS00ZDBjLWFlOWQtNDNjNWZhOGQyZmM2XkEyXkFqcGdeQXVyNDA5ODgyMjY@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e11.mkv",
+                            "stitle": "11.Fractured",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMGFjM2FlNjUtYzA5Yi00ZDk3LWI3ZGYtZTVjM2U0ZGUzOTM5XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e12.mkv",
+                            "stitle": "12.Mutations",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYTc2MzExMGQtZThlYS00N2M5LWIyYzQtODZlNzgyYzg3YWQwXkEyXkFqcGdeQXVyNjk1NTAxMjQ@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e13.mkv",
+                            "stitle": "13.Sex and Death",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDAzNmYzNDctZGM1YS00ZjllLWFlN2UtZjY2YWI2NjM5NDllXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e14.mkv",
+                            "stitle": "14.Influence",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZTQyODQ5MjAtMDBiYi00ZmE4LTgwMDAtMmU4ZWI4Njc2OGI5XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e15.mkv",
+                            "stitle": "15.Unsaid",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzg1OGFhZjItYmM5OC00MjA3LTliZTItNGMzOTQzZmQ2OWM3XkEyXkFqcGdeQXVyOTM2MzgxNDA@._V1_UY126_CR24,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e16.mkv",
+                            "stitle": "16.Autopsy",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTQ4MDJkNDktZTc0My00YzY5LWE2NDAtZGNiYmJkODEzZGJlXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e17.mkv",
+                            "stitle": "17.Fixation",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjhiNGRkNGQtMmVlYS00Yzk5LWIxZjYtOTJjYzY2ZGY4MmYzXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e18.mkv",
+                            "stitle": "18.Heartbreak",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjg3ODFhODgtZGYxMS00NTNhLTgwNzQtMTRjM2I5YTM3MzEyXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e19.mkv",
+                            "stitle": "19.Hurt (1)",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZmRmNjJkNjktMTYzZi00YTQyLTk4OTMtOTg0OTIxYzcxY2Q2XkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 3/s3e20.mkv",
+                            "stitle": "20.I Love You (2)",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMjlhZTFlNGUtYTgzZi00YmVkLTlmZjEtMjdhOTM2NzA1YTdlXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 3/s3e20.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e1.mkv",
+                             "stitle": "1.Frontline (1)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjFiYzhmZjYtZmMwZi00NDBjLWE3NTEtYWZjNDllNDJkZGViXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e2.mkv",
+                             "stitle": "2.Frontline (2)",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGNkY2U2NWItMTFhMy00ZDlmLWEwYWItNDRkNjg4ZjhkM2Q2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e3.mkv",
+                             "stitle": "3.Newbies",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGU5NmE1NDMtNmI4Zi00MjkwLTg2YTYtOTBiMDhhN2JhZGQ0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e4.mkv",
+                             "stitle": "4.Not the Same",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzdlNDUzYWQtOGY1MC00YTJhLTlhNzItYzhkZTg0ODM0MjJiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e5.mkv",
+                             "stitle": "5.Fault",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDIyYTFlOGQtZTdlNi00MzRkLTlkMWQtMTBhZmY5ZTlhYTQzXkEyXkFqcGdeQXVyMTA3NjYyOTkw._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e6.mkv",
+                             "stitle": "6.Lim",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjVkNzk0NjctNTEwYS00MDQyLTgyYTEtZjE4M2Q1YTU0MmExXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e7.mkv",
+                             "stitle": "7.The Uncertainty Principle",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGIxMDc3ZTUtN2Y3NS00MDIwLTkyMGUtZjFiN2JkMWFkMzgzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Good Doctor/season 4/s4e8.mkv",
+                             "stitle": "8.Parenting",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzBkOTgwOTQtN2RlYS00NmFjLWFjMDEtYWE4NDliYWNkMzEyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e9.mkv",
+                            "stitle": "9.Irresponsible Salad Bar Practices",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjIzNmRkNTEtMGIxNC00NTcyLTkzOGQtZDI1NTU5YmUxZjIzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e10.mkv",
+                            "stitle": "10.Decrypt",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjViMzAzYWItODYyYS00ZTAzLTk3NmMtNmVkN2EyZjkzNTM0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e11.mkv",
+                            "stitle": "11.We're All Crazy Sometimes",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDBjOThiNWQtZmViMS00YmNkLWEzOTQtNDlmZjFhNTFkMjcxXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e12.mkv",
+                            "stitle": "12.Teeny Blue Eyes",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODA4MjY0NTAtMWI2Zi00OThhLWJhNTAtOTg4NmYyYzU1NDMyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e13.mkv",
+                            "stitle": "13.Spilled Milk",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODM2MmMyY2EtNTM0NC00ODU0LThiNWYtOTIzNDY0MjE3NzVkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e13.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e14.mkv",
+                            "stitle": "14.Gender Reveal",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTNjMDkxZTUtMmZlNS00ZWRkLTk0N2MtNWRjNDU0NDhiM2E4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e14.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e15.mkv",
+                            "stitle": "15.Waiting",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDUxY2M4MWQtZDE5MC00ZjU2LTkwMWItZGQ3ZGMyMzY5ZTFhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e15.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e16.mkv",
+                            "stitle": "16.Dr. Ted",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZTM3MDEwZjctNjU3MC00MjRmLWI2NzctMDExMTg3ZjJkYWU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e16.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e17.mkv",
+                            "stitle": "17.Letting Go",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDNmY2E5MjctM2EzOS00ZjExLWIyNmEtZGRiYjFhMzFjNTFjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e17.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e18.mkv",
+                            "stitle": "18.Forgive or Forget",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTE4MGRlMTQtOWI3Ni00NDU2LTk5Y2QtZmRiMzY4N2E5OTI3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e18.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e19.mkv",
+                            "stitle": "19.Venga",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODkxOGI1OTktZDg0OS00MWRmLTk4MzUtZWQ4YzRlMGNiZjBjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e19.srt"
+                        },
+                        {
+                            "svideos": "/Hollywood series/The Good Doctor/season 4/s4e20.mkv",
+                            "stitle": "20.Vamos",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjRmYjZhMjEtZjRkNy00YTc3LTkxYTktMjlhYzhkNzlkM2Q2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/The Good Doctor/season 4/s4e20.srt"
+                        }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTViMDJlYzEtOTUxNi00ZTU5LWI5MTYtMGViNTQ4NTVkYTMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1._SX250.jpg",
+        "genres": "Dramas,Hollywood,English,Us Tv Show",
+        "releaseDate": "2017",
+        "trailer": "https://www.imdb.com/video/vi3400122137/?ref_=ext_shr_lnk",
+        "cast": "Freddie Highmore,Richard Schiff...more"
+    },
 
     {
         "name": "Friends",
