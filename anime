@@ -1,6 +1,21 @@
 [
     
     {
+	    "name": "Demon Slayer the Movie: Mugen Train",
+	    "description": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+	    "ageRestriction": "13",
+	    "video": "/Anime movies/Demon Slayer the Movie Mugen Train 2020/Demon Slayer the Movie Mugen Train 2020.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGI0ZjA4MGEtZDIzMS00ODEwLWEwMGMtYTdmNzU3NDFkMzNiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Anime,Action,Adventure,Fantasy,Japanese,English",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi359317017/?ref_=ext_shr_lnk",
+	    "cast": "Natsuki Hanae,Akari Kito... more",
+            "time":"1h 57m",
+            "subtitle":"/Anime movies/Demon Slayer the Movie Mugen Train 2020/Demon Slayer the Movie Mugen Train 2020.srt"
+    },
+	
+    {
 	    "name": "Gantz:O",
 	    "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
 	    "ageRestriction": "16",
