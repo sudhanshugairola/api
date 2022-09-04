@@ -1,5 +1,20 @@
 [   
     
+     {
+        "name": "Cuttputlli",
+        "description": "When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
+        "ageRestriction": "13",
+        "video": "/Hindi_Movies/Cuttputli/Cuttputli.mkv",
+        "series": "not",
+        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzZmYjBiMzQtYWQwMC00ZWJiLWEzZDItNGJlODRlODRkZWNmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1._SX250.jpg",
+        "genres": "Comedy,Dramas,Romance,Indian,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi4251042329/?ref_=ext_shr_lnk",
+        "cast": "Akshay Kumar,Rakul Preet Singh,Gurpreet Ghuggi,...more",
+        "time":"2h 14m",
+        "subtitle":"/Hindi_Movies/Cuttputli/Cuttputli.srt"
+    },
+    
     {
 	    "name": "Vikram",
 	    "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
