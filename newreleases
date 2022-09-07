@@ -1,5 +1,20 @@
 [   
-   
+    
+     {
+	    "name": "Khuda Haafiz Chapter 2: Agni Pariksha",
+	    "description": "Following a traumatic chapter in their lives, Sameer and Nargis try to lead a happy life by adopting Nandini, a friend's orphaned niece. But fate soon strikes back hard when Nandini goes missing.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Khuda Haafiz Chapter 2/Khuda Haafiz Chapter 2.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjdjZWJmMTAtYWRlZi00YTg4LWJlYTItMDIzOGQ4ZDVmZDIzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Indian,Hindi,Bollywood,Action,Crime,Dramas,Romance,Thriller",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3370893849/?ref_=ext_shr_lnk",
+	    "cast": "Vidyut Jammwal,Shivaleeka Oberoi... more",
+        "time":"2h 26m",
+        "subtitle":"/Hindi_Movies/Khuda Haafiz Chapter 2/Khuda Haafiz Chapter 2.srt"
+     },
+	
     {
         "name": "Cuttputlli",
         "description": "When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
