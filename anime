@@ -194,6 +194,364 @@
         "time":"1h 27m",
         "subtitle":"/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.English.srt"
 	},
+	
+	   {
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+        "ageRestriction": "16",
+        "video": "/Anime/Demon Slayer/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Anime/Demon Slayer/season 1/s1e1.ass",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e1.mkv",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e1.ass"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e9.mp4",
+                             "stitle": "9.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e10.mp4",
+                             "stitle": "10.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e10.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e11.mp4",
+                             "stitle": "11.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e11.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e12.mp4",
+                             "stitle": "12.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e1.mp4",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e9.mp4",
+                             "stitle": "9.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e10.mp4",
+                             "stitle": "10.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e11.mp4",
+                             "stitle": "11.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 2/s2e12.mp4",
+                             "stitle": "12.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e1.mp4",
+                             "stitle": "1.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e2.mp4",
+                             "stitle": "2.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e3.mp4",
+                             "stitle": "3.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e4.mp4",
+                             "stitle": "4.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e5.mp4",
+                             "stitle": "5.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e6.mp4",
+                             "stitle": "6.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e7.mp4",
+                             "stitle": "7.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 3/s3e8.mp4",
+                             "stitle": "8.",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e9.mp4",
+                            "stitle": "9.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e10.mp4",
+                            "stitle": "10.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e11.mp4",
+                            "stitle": "11.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e12.mp4",
+                            "stitle": "12.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e13.mp4",
+                            "stitle": "13.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e14.mp4",
+                            "stitle": "14.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e15.mp4",
+                            "stitle": "15.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e16.mp4",
+                            "stitle": "16.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e17.mp4",
+                            "stitle": "17.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e18.mp4",
+                            "stitle": "18.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e19.mp4",
+                            "stitle": "19.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e20.mp4",
+                            "stitle": "20.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e21.mp4",
+                            "stitle": "21.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e22.mp4",
+                            "stitle": "22.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e22.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e23.mp4",
+                            "stitle": "23.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e23.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 3/s3e24.mp4",
+                            "stitle": "24.",
+                            "stime": "m",
+                            "simage": "",
+                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e24.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzJhMDY2NzUtYzE2Ny00YWVmLWI3YjQtODk2ZWQzYmEwMzJiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1._SX250.jpg",
+        "genres": "Anime,Si-Fi,Fantasy,Action,Adventure,English,Japanese",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi2476588825/?ref_=ext_shr_lnk",
+        "cast": "Natsuki Hanae,Hiro Shimono...more"
+       },
 
     {
         "name": "BAKI",
