@@ -195,354 +195,326 @@
         "subtitle":"/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.English.srt"
 	},
 	
-	   {
+    {
         "name": "Demon Slayer: Kimetsu no Yaiba",
         "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
         "ageRestriction": "16",
         "video": "/Anime/Demon Slayer/season 1/s1e1.mkv",
         "series": "yes",
-        "subtitle":"/Anime/Demon Slayer/season 1/s1e1.ass",
+        "subtitle":"/Anime/Demon Slayer/season 1/s1e1.srt",
          "seriess":[
              [
                          {
                              "svideos": "/Anime/Demon Slayer/season 1/s1e1.mkv",
-                             "stitle": "1.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e1.ass"
+                             "stitle": "1.Cruelty",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTQ2Mzc3NzctYzg0MC00Y2Y2LWJlYzAtMjRkY2IzOTExODZmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e1.srt"
                          },
                          {
                              "svideos": "/Anime/Demon Slayer/season 1/s1e2.mkv",
-                             "stitle": "2.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e2.ass"
+                             "stitle": "2.Trainer Sakonji Urokodaki",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWFhMWE5ZWQtOGQzNi00OTY1LTgzNTgtZDNlZWI1MmQyMTllXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e2.srt"
                          },
                          {
                              "svideos": "/Anime/Demon Slayer/season 1/s1e3.mkv",
-                             "stitle": "3.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e3.ass"
+                             "stitle": "3.Sabito and Makomo",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGI5NGZlODItNjcyOC00NjRjLWI0MTktMDI3MmZiYmM4YWZiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e4.mp4",
-                             "stitle": "4.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e4.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e4.mkv",
+                             "stitle": "4.Final Selection",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWFjNTM2Y2UtYmExZi00NzNlLWI4MGUtYWNhNDQyM2I4ZWQyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e5.mp4",
-                             "stitle": "5.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e5.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e5.mkv",
+                             "stitle": "5.My Own Steel",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzBiODBmODktOWI2Yy00ZGM4LTg5ZGQtYTIyYjkxZGNhNWZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e6.mp4",
-                             "stitle": "6.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e6.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e6.mkv",
+                             "stitle": "6.Swordsman Accompanying a Demon",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTFjMDQzNmQtYmI4Ny00YzdhLWFiMmUtZGI4ZGVlZDA2NGY4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e6.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e7.mp4",
-                             "stitle": "7.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e7.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e7.mkv",
+                             "stitle": "7.Muzan Kibutsuji",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzcyZjYxYzktMWZhMi00ZGFkLTllMTEtNjJjZjU4ODdlYzRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e7.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e8.mp4",
-                             "stitle": "8.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e8.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e8.mkv",
+                             "stitle": "8.The Smell of Enchanting Blood",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTlhMDgwZGQtM2I4OC00MjI0LTk5MzEtZjNjZGVkMDcwZGRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e8.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e9.mp4",
-                             "stitle": "9.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e9.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e9.mkv",
+                             "stitle": "9.Temari Demon and Arrow Demon",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDgyZjc3ZDktZjNhNi00MWZiLWJhYzctOGI4YTkwNzIyODUyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e9.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e10.mp4",
-                             "stitle": "10.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e10.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e10.mkv",
+                             "stitle": "10.Together Forever",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTdkNTE4NjYtODRlMC00MzE3LThlNjYtOGIzMDA2MDg5OTc1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e10.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e11.mp4",
-                             "stitle": "11.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e11.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e11.mkv",
+                             "stitle": "11.Tsuzumi Mansion",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGM3N2M4MDgtNmUzYy00Y2NjLWE3ZDAtOThkN2ExYmU2M2Q3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e11.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e12.mp4",
-                             "stitle": "12.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e12.srt"
+                             "svideos": "/Anime/Demon Slayer/season 1/s1e12.mkv",
+                             "stitle": "12.The Boar Bares Its Fangs, Zenitsu Sleeps",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGMzZDEwM2ItOWIyOS00YjM5LTljODctN2U1ODM1OGU4NDY3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 1/s1e12.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e13.mkv",
+                            "stitle": "13.Something More Important Than Life",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGE3ZTBiNWUtYTE5NC00YzdjLWFkNDYtZjFhNzZjMTUwZGEyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e13.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e14.mkv",
+                            "stitle": "14.The House with the Wisteria Family Crest",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjM0Njc3NTItZmU5Zi00YWQ0LWJkZmEtMzlhYzg4ZDRjM2YyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e14.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e15.mkv",
+                            "stitle": "15.Mount Natagumo",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTNmZjg0YjEtNDM0My00YzYxLTk2Y2EtZjU1MTA2NjAwZDQ4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e15.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e16.mkv",
+                            "stitle": "16.Letting Someone Else Go First",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTdlY2E4ZjMtZDE0ZS00NDhkLTk0MjEtOWUwMzI5YTQ4MGM4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e16.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e17.mkv",
+                            "stitle": "17.You Must Master a Single Thing",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWE2Mjg1ZjItNmM1NS00NjUzLTk4MmUtZmE3NWQ1ZDVlZTY5XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e17.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e18.mkv",
+                            "stitle": "18.A Forged Bond",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTQxNzg0MzMtYzIxMy00NDE2LWFiZWYtYTRjYTg0MjEyYjAyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e18.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e19.mkv",
+                            "stitle": "19.Hinokami",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTM1YmJhNTktOTdkYS00MjM3LWJlMTktYzgwNzFkZDIwMjVlXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e19.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e20.mkv",
+                            "stitle": "20.Pretend Family",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzk4YjZlNzAtYmFjMC00MzEwLWFiNGMtNTFlYTY5YWRlZjJkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e20.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e21.mkv",
+                            "stitle": "21.Against Corps Rules",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODg5ZDVjM2QtMWNlZC00MzQ1LWIzNzktMDk0NDRiNWUwOTNmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e21.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e22.mkv",
+                            "stitle": "22.Master of the Mansion",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGM1ZTNlMWItNzA5Mi00NjdiLWE3OGYtM2Y2NDA0OTkyYWQ2XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e22.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e23.mkv",
+                            "stitle": "23.Hashira Meeting",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDdiNDZjODgtMmIyZS00ZWIyLTlkZGItZWQ0ZjFkM2Y0NWE3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e23.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e24.mkv",
+                            "stitle": "24.Rehabilitation Training",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWI3NjQ0NjYtNDY0Yi00NjYwLTllMDEtMWJkNmNlOTY1NTY5XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e24.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e25.mkv",
+                            "stitle": "25.Tsuguko, Kanao Tsuyuri",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDBhNDE4NjEtMDI2YS00ZDQxLTkwYjEtYzMxYzFhOWMxMDY4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e25.srt"
+                         },
+                         {
+                            "svideos": "/Anime/Demon Slayer/season 1/s1e26.mkv",
+                            "stitle": "26.New Mission",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDI1ZjRlNDMtYzNjYi00MGZjLWE2MzgtM2Y3YmJkYTcwMmQ2XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 1/s1e26.srt"
                          }
              ],
              [
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e1.mp4",
-                             "stitle": "1.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e1.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e1.mkv",
+                             "stitle": "1.Flame Hashira Kyojuro Rengoku",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWFmNWYwMjUtNjE0OS00NWNhLWJmMzQtYzJhZDg1ZjBmZTgzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e2.mp4",
-                             "stitle": "2.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e2.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e2.mkv",
+                             "stitle": "2.Deep Sleep",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTYwNDdiNjItYTQ3YS00YmNkLThiMWItODdmMWI3ZDc5Y2QyXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e3.mp4",
-                             "stitle": "3.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e3.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e3.mkv",
+                             "stitle": "3.Should Have Been",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTc5YTJlZmMtMzVhZC00YTM4LWFkOWItZmM3YWIwODNjOTM4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e4.mp4",
-                             "stitle": "4.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e4.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e4.mkv",
+                             "stitle": "4.Insult",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzliMjUzMTUtODM2Ni00MjA1LThmM2MtM2FhNWQzNTY1ZTdjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e5.mp4",
-                             "stitle": "5.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e5.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e5.mkv",
+                             "stitle": "5.Move Forward!",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM4Mzc2ZjAtZmYwYy00ZWE3LWJjYzAtZjg4OGZhMTU4NTE1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e6.mp4",
-                             "stitle": "6.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e6.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e6.mkv",
+                             "stitle": "6.Akaza",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTgxZGZiZmUtNzRlMi00MzIxLTg1NDEtZWZhMzNmNTkyMTNjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e6.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e7.mp4",
-                             "stitle": "7.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e7.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e8.mp4",
-                             "stitle": "8.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e8.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e9.mp4",
-                             "stitle": "9.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e9.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e10.mp4",
-                             "stitle": "10.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e10.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e11.mp4",
-                             "stitle": "11.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e11.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Control Z/season 2/s2e12.mp4",
-                             "stitle": "12.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 2/s2e12.srt"
+                             "svideos": "/Anime/Demon Slayer/season 2/s2e7.mkv",
+                             "stitle": "7.Set Your Heart Ablaze",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDE0ZmY1OTUtZjVjOC00ZjZjLTlkY2ItYTBjNWY0ZTYyNTUxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 2/s2e7.srt"
                          }
              ],
              [
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e1.mp4",
-                             "stitle": "1.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e1.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e1.mkv",
+                             "stitle": "1.Sound Hashira Tengen Uzui",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjMxNzBhMmUtODk1Ni00ZjMyLTgxM2MtZDBhOWNiZjkyNjBhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e2.mp4",
-                             "stitle": "2.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e2.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e2.mkv",
+                             "stitle": "2.Infiltrating the Entertainment District",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjFjNWM5YmItZmU3NS00NzM1LWE0ZjktOWYwYzNjN2I1YjU4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e3.mp4",
-                             "stitle": "3.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e3.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e3.mkv",
+                             "stitle": "3.What Are You",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWM2Zjk1NjQtYmJlYy00YzBiLTkzNGYtYmZlZjhkNjBkYWQ4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e4.mp4",
-                             "stitle": "4.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e4.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e4.mkv",
+                             "stitle": "4.Tonight",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjYwZmIyMDAtYTFjNy00NDgxLTk2NjQtYmNiNjZhYjFhMjFhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e5.mp4",
-                             "stitle": "5.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e5.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e5.mkv",
+                             "stitle": "5.Things Are Gonna Get Real Flashy!!",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWU0MjY5ZjQtYTAxZC00YTY5LThhNTctZmI3YmUxMzgzNDI1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e6.mp4",
-                             "stitle": "6.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e6.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e6.mkv",
+                             "stitle": "6.Layered Memories",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmVlYjA5OTMtMWY3Yi00ZjVkLWJhNGMtOTg4OWM5ZmJiMzgwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e6.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e7.mp4",
-                             "stitle": "7.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e7.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e7.mkv",
+                             "stitle": "7.Transformation",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGJlYjJlNzgtZGE0NS00MGU0LThiYzMtMGQ3NzQ0Y2Y2ODlkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e7.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 3/s3e8.mp4",
-                             "stitle": "8.",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/Control Z/season 3/s3e8.srt"
+                             "svideos": "/Anime/Demon Slayer/season 3/s3e8.mkv",
+                             "stitle": "8.Gathering",
+                             "stime": "24m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzQwYmQxM2UtMjIyMi00ZDk3LWIwZjctNWZjMDY2MzU4Y2FmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/Demon Slayer/season 3/s3e8.srt"
                          },
                          {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e9.mp4",
-                            "stitle": "9.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e9.srt"
+                            "svideos": "/Anime/Demon Slayer/season 3/s3e9.mkv",
+                            "stitle": "9.Defeating an Upper Rank Demon",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMmI3YzgzMGUtYmJjMy00NDEyLTg5NDYtYWQ5N2U4NzMzZjJkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 3/s3e9.srt"
                          },
                          {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e10.mp4",
-                            "stitle": "10.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e10.srt"
+                            "svideos": "/Anime/Demon Slayer/season 3/s3e10.mkv",
+                            "stitle": "10.Never Give Up",
+                            "stime": "24m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNWRhNDQyNGYtYjBhZC00MmNiLWFiNGQtMjk1ZmRmOWE4MjJkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 3/s3e10.srt"
                          },
                          {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e11.mp4",
-                            "stitle": "11.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e11.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e12.mp4",
-                            "stitle": "12.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e12.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e13.mp4",
-                            "stitle": "13.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e13.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e14.mp4",
-                            "stitle": "14.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e14.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e15.mp4",
-                            "stitle": "15.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e15.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e16.mp4",
-                            "stitle": "16.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e16.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e17.mp4",
-                            "stitle": "17.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e17.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e18.mp4",
-                            "stitle": "18.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e18.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e19.mp4",
-                            "stitle": "19.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e19.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e20.mp4",
-                            "stitle": "20.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e20.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e21.mp4",
-                            "stitle": "21.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e21.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e22.mp4",
-                            "stitle": "22.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e22.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e23.mp4",
-                            "stitle": "23.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e23.srt"
-                         },
-                         {
-                            "svideos": "/Hollywood series/Control Z/season 3/s3e24.mp4",
-                            "stitle": "24.",
-                            "stime": "m",
-                            "simage": "",
-                            "ssubtitle":"/Hollywood series/Control Z/season 3/s3e24.srt"
+                            "svideos": "/Anime/Demon Slayer/season 3/s3e11.mkv",
+                            "stitle": "11.No Matter How Many Lives",
+                            "stime": "32m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWJhZTcyYjQtNDc0Ni00NDMzLWIyZmMtNWFjOTJjMzM3YTE3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Anime/Demon Slayer/season 3/s3e11.srt"
                          }
              ]
             ],
