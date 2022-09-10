@@ -6756,7 +6756,7 @@
                         "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E10_December 19.English (CC).srt"
                     }
          ],
-            [
+         [
                     {
                     "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E01_Let_s Begin.mkv",
                     "stitle": "1.Let's Begin",
@@ -6827,10 +6827,82 @@
                     "simage": "https://m.media-amazon.com/images/M/MV5BNzBkZTQ1MTktM2UxYS00Y2ZiLTliMWUtOWE4MjZjMjcyMGM5XkEyXkFqcGdeQXVyMTIzMzU0MjIw._V1_UY126_CR22,0,224,126_AL_.jpg",
                     "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E10_The Rise.English (CC).srt"
                 }     
-        ]
+        ],
+        [
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e1.mp4",
+                             "stitle": "1.Long, Long Way From Home",
+                             "stime": "31m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cU8Tug99ZvLzjtYvON6PoISUVI3.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e2.mp4",
+                             "stitle": "2.Molé",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/42mZ5yM4TZmmIxIER89VFFd2Iqp.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e3.mp4",
+                             "stitle": "3.Playing With Fire",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fNAcoCksdyTCPJyYQAoIO7Zar64.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e4.mp4",
+                             "stitle": "4.Downward Spiral",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/waUx4M1N1QJYVZPlcKaH2zDIR7M.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e5.mp4",
+                             "stitle": "5.Extreme Measures",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/DEecQIjwxicm4WNJCP5hKQsvf9.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e6.mp4",
+                             "stitle": "6.Ouroboros",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nXRm0ViWpExGMae4qmyG4YULegq.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e7.mp4",
+                             "stitle": "7.Bad Eggs",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e8.mp4",
+                             "stitle": "8.Taikai",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e8.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e9.mp4",
+                             "stitle": "9.Survivors",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aCVlShqIZZLzz8mgeBlSxiA3OtU.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e9.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e10.mp4",
+                             "stitle": "10.Head of the Snake",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7s7QjjET04ZTg8yTAEBaTS5XxSu.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e10.srt"
+                         }
+             ]
              ],
      "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
-    "genres": "Dramas,comedies,us,action,Hollywood,English",
+    "genres": "Dramas,Comedies,Us,Action,Hollywood,English,Hindi",
     "releaseDate": "2021",
     "trailer": "https://www.imdb.com/video/vi1304544025?playlistId=tt7221388?ref_=ext_shr_lnk",
     "cast": "Ralph Macchio,William Zabka,Xolo Mariduena....more"
