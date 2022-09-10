@@ -389,6 +389,383 @@
         "time":"3h 7m",
         "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
     },
+    
+    {
+    "name": "Cobra Kai",
+    "description": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+    "ageRestriction": "13",
+    "video": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E01_Ace Degenerate.mkv",
+    "series": "yes",
+    "subtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E01_Ace Degenerate.English (CC).srt",
+     "seriess":[
+         [
+                         {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E01_Ace Degenerate.mkv",
+                         "stitle": "1.Ace Degenerate",
+                         "stime": "29m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNmVlNDBhOGMtM2VmNC00ZmE5LWExNzAtYzg4MDY3N2ExZjJhXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E01_Ace Degenerate.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E02_Strike First.mkv",
+                         "stitle": "2.Strike First",
+                         "stime": "28m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNTAwMmJiZmUtODE4Ni00MDFhLThhYmUtYTA4YTUyYTUzYjQ0XkEyXkFqcGdeQXVyNjkzNjQzODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E02_Strike First.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E03_Esqueleto.mkv",
+                         "stitle": "3.Esqueleto",
+                         "stime": "28m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZTJjYTEzNGItZGU1My00NTM3LWE0OGEtMmQyZmFmZDA5ODAyXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E03_Esqueleto.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E04_Cobra Kai Never Dies.mkv",
+                         "stitle": "4.Cobra Kai Never Dies",
+                         "stime": "28m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZDAzYzA3ZmItZmEzMy00MTI4LTg5ZTYtMmY3YjYzMDkyYWM1XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E04_Cobra Kai Never Dies.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E05_Counterbalance.mkv",
+                         "stitle": "5.Counterbalance",
+                         "stime": "33m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZGQ0MWRhMmMtOTZjYS00YThjLWE1OTItYjJlNmQxZTRkZGZhXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E05_Counterbalance.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E06_Quiver.mkv",
+                         "stitle": "6.Quiver",
+                         "stime": "30m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYTY4MTg4N2ItMmQxMi00Mjc3LThmNWMtZmU3NTNjYjE1ZjE0XkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E06_Quiver.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E07_All Valley.mkv",
+                         "stitle": "7.All Valley",
+                         "stime": "29m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMjA1NDQzODktY2UwYy00ZjM0LTlmMmUtY2Q1ZTM2NGQxMTNmXkEyXkFqcGdeQXVyMjQ1Mzg0MTg@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E07_All Valley.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E08_Molting.mkv",
+                         "stitle": "8.Molting",
+                         "stime": "30m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYjJmM2JmNjktMGRmYS00NDMyLThiZDMtNjEwODk0NThlN2EzXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UY126_CR2,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E08_Molting.English (CC).srt"
+                     },
+                     {
+                        "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E09_Different But Same.mkv",
+                        "stitle": "9.Different But Same",
+                        "stime": "31m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BZjhjNjgyODQtN2MxOC00ZWE0LTlmYmYtYzhhNDRiZDE1N2RlXkEyXkFqcGdeQXVyMjI4OTg3MTc@._V1_UY126_CR2,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E09_Different But Same.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E10_Mercy.mkv",
+                        "stitle": "10.Mercy",
+                        "stime": "37m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BODBjZWNkMTQtYTcxNS00N2FmLTk4MjMtNDI4ODNhMGZmZTNhXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 1/Cobra Kai_S01E10_Mercy.English (CC).srt"
+                    }
+     ],
+             [
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E01_Mercy, Part II.mkv",
+                         "stitle": "1.Mercy Part II",
+                         "stime": "36m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYTNlODBkYWYtNDk3NC00MjhmLWJjMWMtOWRmZDUxZThiYTUwXkEyXkFqcGdeQXVyMjQ3NDY4MTE@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E01_Mercy, Part II.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E02_Back in Black.mkv",
+                         "stitle": "2.Back in Black",
+                         "stime": "32m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BODAwMmFlMDktNDhlMC00ZjhlLWE4M2YtM2Y2ZDM2NWVjZDA0XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E02_Back in Black.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E03_Fire and Ice.mkv",
+                         "stitle": "3.Fire and Ice",
+                         "stime": "24m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BYTRiYzI2NzctMGRiZC00MWEzLTlmOTMtNmJjMTgyMWMwNjBlXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E03_Fire and Ice.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E04_The Moment of Truth.mkv",
+                         "stitle": "4.The Moment of Truth",
+                         "stime": "33m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BMjFhN2U1NTItNTMwOC00MTQzLWI5MDktMDQxZDZkZTBkNDA0XkEyXkFqcGdeQXVyNjYxMTE1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E04_The Moment of Truth.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E05_All In.mkv",
+                         "stitle": "5.All In",
+                         "stime": "32m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZjQ2MjIwZjktNzk0Ni00OWQxLWFlYWQtOTY3YjVkZDMxNmU3XkEyXkFqcGdeQXVyNjYxMTE1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E05_All In.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E06_Take a Right.mkv",
+                         "stitle": "6.Take a Right",
+                         "stime": "32m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BZjdhZDE3NWUtZTQ1Zi00NDNkLTljMGUtNDdkYjVmZGU4Y2M0XkEyXkFqcGdeQXVyNjYxMTE1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E06_Take a Right.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E07_Lull.mkv",
+                         "stitle": "7.Lull",
+                         "stime": "28m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNWFmNmM3M2MtNjM1MS00YTVjLWJkOGEtMWZhOGE3MGY3ZWM0XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY126_UX224_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E07_Lull.English (CC).srt"
+                     },
+                     {
+                         "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E08_Glory of Love.mkv",
+                         "stitle": "8.Glory of Love",
+                         "stime": "31m",
+                         "simage": "https://m.media-amazon.com/images/M/MV5BNGE1YTNkN2ItMTAyZS00ZTRjLWE0MTMtNmZhMTViYWIxZTFlXkEyXkFqcGdeQXVyNjYxMTE1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                         "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E08_Glory of Love.English (CC).srt"
+                     },
+                     {
+                        "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E09_Pulpo.mkv",
+                        "stitle": "9.Pulpo",
+                        "stime": "32m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BYmEwNjc1OGYtZDNhYS00NTdkLTllOTItMjU5M2EwNjUwNjE2XkEyXkFqcGdeQXVyNjYxMTE1OTM@._V1_UY126_CR2,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E09_Pulpo.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E10_No Mercy.mkv",
+                        "stitle": "10.No Mercy",
+                        "stime": "35m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BOGUzNmU4YjktYmFjOS00ZjhjLTllNDEtMmE2MDYzMDM0N2M2XkEyXkFqcGdeQXVyMTkyNzcwMjg@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 2/Cobra Kai_S02E10_No Mercy.English (CC).srt"
+                    }
+                     
+            ],
+             [
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E01_Aftermath.mkv",
+                        "stitle": "1.Aftermath",
+                        "stime": "31m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BOTRmYjg2N2YtMGZhOC00YmFhLTkxNGItMTBkODU5MDI0M2IyXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E01_Aftermath.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E02_Nature Vs_ Nurture.mkv",
+                        "stitle": "2.Nature Vs. Nurture",
+                        "stime": "37m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BYTgwNjk1YjctM2NkYi00YTc2LTllOGYtN2JlOTVkMmFiOGQyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E02_Nature Vs_ Nurture.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E03_Now You’re Gonna Pay.mkv",
+                        "stitle": "3.Now You're Gonna Pay",
+                        "stime": "32m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BYzJiNGUzMjgtNzczYi00NzI0LWFlZmYtNGZmMTE2NDNjOWMwXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E03_Now You’re Gonna Pay.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E04_The Right Path.mkv",
+                        "stitle": "4.The Right Path",
+                        "stime": "36m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BNTY4MjllZTAtYjgxNi00OGFlLWFjY2UtNWFiMGU1M2ZlMjQxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E04_The Right Path.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E05_Miyagi-Do.mkv",
+                        "stitle": "5.Miyagi-Do",
+                        "stime": "39m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BODQwNDJhZjctMGE5Zi00NGQ1LThlYWMtMzkyNGRjMjBhODY3XkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E05_Miyagi-Do.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E06_King Cobra.mkv",
+                        "stitle": "6.King Cobra",
+                        "stime": "34m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BZjJkMjFjMjQtMmFmMS00NTdmLTljZGQtZmUwOGUyZGU1NWQ2XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E06_King Cobra.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E07_Obstáculos.mkv",
+                        "stitle": "7.Obstáculos",
+                        "stime": "29m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BZDNmYWM5OTEtNGJjMC00MmFjLWIxZjktMjEwZWRmNjk1NDIyXkEyXkFqcGdeQXVyMDA5MDM3Mw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E07_Obstáculos.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E08_The Good, The Bad, and The Badass.mkv",
+                        "stitle": "8.The Good, The Bad, and The Badass",
+                        "stime": "28m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BMzVlYWE2NzctMTZhYS00MGVmLWI0ZTEtNjJjYzJkZGI5YjVlXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E08_The Good, The Bad, and The Badass.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E09_Feel the Night.mkv",
+                        "stitle": "9.Feel the Night",
+                        "stime": "30m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BNTcyNWMwNTctZDJmNS00YjJmLTk5ZjMtZTYwM2E0ODU5YTAzXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E09_Feel the Night.English (CC).srt"
+                    },
+                    {
+                        "svideos": "/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E10_December 19.mkv",
+                        "stitle": "10.December 19",
+                        "stime": "41m",
+                        "simage": "https://m.media-amazon.com/images/M/MV5BN2FkZDkwMTEtNTQxNi00MTI2LTk5MTUtZGQ1NzNlN2VlNzNmXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UY126_UX224_AL_.jpg",
+                        "ssubtitle":"/Popular on netflix/Cobra kai/season 3/Cobra Kai_S03E10_December 19.English (CC).srt"
+                    }
+         ],
+         [
+                    {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E01_Let_s Begin.mkv",
+                    "stitle": "1.Let's Begin",
+                    "stime": "36m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BN2E3NTc4YjctYWIxZS00ZWEwLWFmMmMtNTA4ODEwNDZmNjg2XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E01_Let_s Begin.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E02_First Learn Stand.mkv",
+                    "stitle": "2.First Learn Stand",
+                    "stime": "31m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BMTE3ZDU2ZTQtZDMxZC00ODUxLTk2OTQtZDAwYTljZjJhNzEyXkEyXkFqcGdeQXVyMTQ2NTQ0NDQ4._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E02_First Learn Stand.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E03_Then Learn Fly.mkv",
+                    "stitle": "3.Then Learn Fly",
+                    "stime": "34m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BMDU4ZGEwMDUtNTc0MC00MTE3LTkzOWUtNTgwMTY0MzAzMTY4XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E03_Then Learn Fly.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E04_Bicephaly.mkv",
+                    "stitle": "4.Bicephaly",
+                    "stime": "32m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BODc0ZTM1Y2UtNzAzNS00ZGExLTgzNTItZDI3NTBhYzhjY2U3XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E04_Bicephaly.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E05_Match Point.mkv",
+                    "stitle": "5.Match Point",
+                    "stime": "28m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BM2VhZDc5NWYtOGUxNC00MGFhLWE0MTMtYjNjODM3ZmM5ODg2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E05_Match Point.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E06_Kicks Get Chicks.mkv",
+                    "stitle": "6.Kicks Get Chicks",
+                    "stime": "31m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BODBiOWNiOGEtMmY4Ni00MGZhLWIzNGItNjFiYzk2YWVmZjRjXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E06_Kicks Get Chicks.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E07_Minefields.mkv",
+                    "stitle": "7.Minefields",
+                    "stime": "33m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BZTNkNWI4NWUtMzg5Yy00ZDAyLWIxMTEtYjYyY2ZlYjM2NjY1XkEyXkFqcGdeQXVyNDQ3ODAzMDM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E07_Minefields.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E08_Party Time.mkv",
+                    "stitle": "8.Party Time",
+                    "stime": "37m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BN2YzOWU4MTItZTcwMi00OGVkLWFiN2YtZWNhZjcxNzY1ZTQ4XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UY126_UX224_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E08_Party Time.English (CC).srt"
+                },
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E09_The Fall.mkv",
+                    "stitle": "9.The Fall",
+                    "stime": "29m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BZDU5Mjg4YTktYzUyYy00NjQ3LWI0ZGUtYjZjMzBhOWM4ZDM0XkEyXkFqcGdeQXVyNTgwNzg3MzY@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E09_The Fall.English (CC).srt"
+                },  
+                {
+                    "svideos": "/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E10_The Rise.mkv",
+                    "stitle": "10.The Rise",
+                    "stime": "45m",
+                    "simage": "https://m.media-amazon.com/images/M/MV5BNzBkZTQ1MTktM2UxYS00Y2ZiLTliMWUtOWE4MjZjMjcyMGM5XkEyXkFqcGdeQXVyMTIzMzU0MjIw._V1_UY126_CR22,0,224,126_AL_.jpg",
+                    "ssubtitle":"/Popular on netflix/Cobra kai/season 4/Cobra Kai_S04E10_The Rise.English (CC).srt"
+                }     
+        ],
+        [
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e1.mp4",
+                             "stitle": "1.Long, Long Way From Home",
+                             "stime": "31m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cU8Tug99ZvLzjtYvON6PoISUVI3.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e1.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e2.mp4",
+                             "stitle": "2.Molé",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/42mZ5yM4TZmmIxIER89VFFd2Iqp.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e2.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e3.mp4",
+                             "stitle": "3.Playing With Fire",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fNAcoCksdyTCPJyYQAoIO7Zar64.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e3.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e4.mp4",
+                             "stitle": "4.Downward Spiral",
+                             "stime": "36m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/waUx4M1N1QJYVZPlcKaH2zDIR7M.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e4.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e5.mp4",
+                             "stitle": "5.Extreme Measures",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/DEecQIjwxicm4WNJCP5hKQsvf9.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e5.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e6.mp4",
+                             "stitle": "6.Ouroboros",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nXRm0ViWpExGMae4qmyG4YULegq.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e6.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e7.mp4",
+                             "stitle": "7.Bad Eggs",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e7.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e8.mp4",
+                             "stitle": "8.Taikai",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e8.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e9.mp4",
+                             "stitle": "9.Survivors",
+                             "stime": "37m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aCVlShqIZZLzz8mgeBlSxiA3OtU.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e9.srt"
+                         },
+                         {
+                             "svideos": "/Popular on netflix/Cobra kai/season 5/s5e10.mp4",
+                             "stitle": "10.Head of the Snake",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7s7QjjET04ZTg8yTAEBaTS5XxSu.jpg",
+                             "ssubtitle":"/Popular on netflix/Cobra kai/season 5/s5e10.srt"
+                         }
+             ]
+             ],
+     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+    "genres": "Dramas,Comedies,Us,Action,Hollywood,English,Hindi",
+    "releaseDate": "2021",
+    "trailer": "https://www.imdb.com/video/vi1304544025?playlistId=tt7221388?ref_=ext_shr_lnk",
+    "cast": "Ralph Macchio,William Zabka,Xolo Mariduena....more"
+   },
 
     {
         "name": "Delhi Crime",
