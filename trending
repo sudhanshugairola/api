@@ -767,6 +767,87 @@
      },
      
           {
+        "name": "The Girl in the Mirror",
+        "description": "After losing her memory in a bizarre accident that kills most of her classmates, Alma tries to unravel what happened that day — and regain her identity.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e1.mp4",
+                             "stitle": "1.Fog",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8WDnw7WQXz4B6OTQTSgUSIpiA.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e2.mp4",
+                             "stitle": "2.Secrets",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rne9aNLtMPGzQOnvmnTsv3tci4R.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e3.mp4",
+                             "stitle": "3.Searching",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vEzcXPfc2DMpByfYGCwhoEiqoMG.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e4.mp4",
+                             "stitle": "4.Shadows",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ktrj1UwyIiPOOHDYra0AHMV2j1u.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e5.mp4",
+                             "stitle": "5.Lara",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/q72O3GtvsvlqMCxOHYIz083RmAz.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e6.mp4",
+                             "stitle": "6.Revelations",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8prnWkGIIdq6qK7YpXalANFONt7.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e7.mp4",
+                             "stitle": "7.Thresholds",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/r8Cg1ggRstfc2t6nXcA8talAsV0.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e8.mp4",
+                             "stitle": "8.Deva",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iwKnJtKIzHKida8u3LqJBqOkIg5.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e9.mp4",
+                             "stitle": "9.Return",
+                             "stime": "1h",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aOd4zxGrnZbZzyvtTxB9rBTCR7m.jpg",
+                             "ssubtitle":"/Hollywood series/The Girl in the Mirror/The Girl in the Mirror/s1e9.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzAwZWMxMzUtOGFmNC00ZjNkLWIwMzMtMmU0M2UzNmE2YmQyXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
+        "genres": "Dramas,Horror,Mystery,Thriller,Spanish,English,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi960348697/?ref_=ext_shr_lnk",
+        "cast": "Mireia Oriol,Álex Villazán...more"
+       },
+     
+          {
         "name": "Echoes",
         "description": "Identical twins Leni and Gina have secretly switched places for years. But when one sister disappears, both of their lives start to fall apart.",
         "ageRestriction": "16",
