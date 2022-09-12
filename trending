@@ -765,6 +765,147 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
      },
+     
+          {
+        "name": "Echoes",
+        "description": "Identical twins Leni and Gina have secretly switched places for years. But when one sister disappears, both of their lives start to fall apart.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
+                             "stitle": "1.Home",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTdmYjI0NDItNDlkMS00Y2IwLThiZGUtMzk3ZDJjYTIzYTI0XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e2.mp4",
+                             "stitle": "2.Birthday",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzg4ZDg2NWEtZjZlZS00NDEwLWEzZDItZjEyMTA4ZmZjMTEwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e3.mp4",
+                             "stitle": "3.Party",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTUzMDhjMzAtNzMxMy00ZWNmLWE3ZDMtMzYzYTY2ZWY0YjQzXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e4.mp4",
+                             "stitle": "4.Body",
+                             "stime": "42m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmE5NGExNWEtNjlkOS00Y2Q1LTk3NzAtZTViYjRkZTEwZWY5XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e5.mp4",
+                             "stitle": "5.Gina",
+                             "stime": "51m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjQ2YzlkZjUtNzY0OC00ODZlLWFlYjAtNDAzOWMwNjJhMzY1XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e6.mp4",
+                             "stitle": "6.Fire",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE3YTM1NGMtYmQwYi00NWM2LWI2ODAtYzcwMmE1NzkzNjIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e7.mp4",
+                             "stitle": "7.Falls",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDEyZjI2NTktZWJjYy00NTI5LTkzN2EtMGQxYzliYzBjMTIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e7.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMzM2QyYzctYWU4NS00NmVjLWFhNGQtYzcwMGU1MGQ5MmI1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
+        "genres": "Drama,Mystery,Thriller,English,Hindi,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi689029657/?ref_=ext_shr_lnk",
+        "cast": "Michelle Monaghan,Matt Bomer...more"
+     },
+     
+          {
+        "name": "Kleo",
+        "description": "After the fall of the Berlin Wall, a former spy killer is set free and embarks on a revenge spree against the people who conspired to betray her.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Kleo/Kleo/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Kleo/Kleo/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e1.mp4",
+                             "stitle": "1.Big Eden",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jKTh2uH2jftW3EVtgS5SjxVH4F.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e2.mp4",
+                             "stitle": "2.The Reunion",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/kRXlm9mNsvytcuLyAkCrCVcWudl.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e3.mp4",
+                             "stitle": "3.Snow in Sóller",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/59vOi7OBa3q6ZeMJ0geJwKRgfOA.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e4.mp4",
+                             "stitle": "4.The Minister",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fwF6VotUMVA96JexSysrMsKZFEp.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e5.mp4",
+                             "stitle": "5.Uwe",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gg2kVgTNIfy0pS3uQ0GdVKcIB3a.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e6.mp4",
+                             "stitle": "6.Object Else",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b2UdmpF5duINAOp7r3uGy8DWmJO.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e7.mp4",
+                             "stitle": "7.The Snipe and the Clam",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4mZ43ODSYPvOwIWFEqrp7Wpl7lg.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Kleo/Kleo/s1e8.mp4",
+                             "stitle": "8.The Purple Witch",
+                             "stime": "56m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xsyARnp2UkLIJGEKTEHlzYy06nT.jpg",
+                             "ssubtitle":"/Hollywood series/Kleo/Kleo/s1e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWZmODY4YTgtMjE3Mi00YTBkLWJjMjctMDdkMjQzMzAyMDZiXkEyXkFqcGdeQXVyNTU1MzE3NDk@._V1._SX250.jpg",
+        "genres": "Action,Crime,Dramas,Thriller,German,British,English,Hindi,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi3577659929/?ref_=ext_shr_lnk",
+        "cast": "Jella Haase,Dimitrij Schaad...more"
+       },
 
      {
         "name": "The Sandman",
