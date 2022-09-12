@@ -1,5 +1,20 @@
 [   
-
+    
+    {
+	    "name": "Seoul Vibe",
+	    "description": "Chasing speed, dreams and money, a team of drivers get involved in the slush fund investigation of a powerful figure during the 1988 Seoul Olympics.",
+	    "ageRestriction": "16",
+	    "video": "/Korean Movies/Seoul Vibe/Seoul Vibe.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDQ2ODJiOTYtM2IyNi00YTM4LWJjZjUtZWYyOWFlZTQ5NzJhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+	    "genres": "Action,Crime,Comedy,Adventure,Dramas,Korean,Hindi,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3188441625/?ref_=ext_shr_lnk",
+	    "cast": "Yoo Ah-in,Go Kyung-pyo... more",
+        "time":"2h 20m",
+        "subtitle":"/Korean Movies/Seoul Vibe/Seoul Vibe.English (CC).srt"
+    },
+	
     {
 	    "name": "Carter",
 	    "description": "A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
