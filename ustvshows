@@ -226,6 +226,1244 @@
     },
     
         {
+        "name": "Seinfeld",
+        "description": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Seinfeld/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Seinfeld/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 1/s1e1.mkv",
+                             "stitle": "1.Seinfeld",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmYwY2ZlNGEtMGFhYS00M2ZkLWEwNTctMzA3MmFkNWRmMjRhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 1/s1e2.mkv",
+                             "stitle": "2.The Stake Out",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzI4OGU3ODUtYTgxNy00YzZhLWJiODMtMTYyNWNjNGM2YWUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 1/s1e3.mkv",
+                             "stitle": "3.The Robbery",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGFlZmIxMjYtNmQwMS00ODQ0LWJkM2MtZDM1ODY0NDFmMDMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 1/s1e4.mkv",
+                             "stitle": "4.Male Unbonding",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTU1MDc1ZTUtOWJlOC00OWU0LTg2YzMtNDgzZTc5ZWFkM2E0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 1/s1e5.mkv",
+                             "stitle": "5.The Stock Tip",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODJlNmRhNTMtOTc5NS00NjM4LTg1MjQtNTEzYzQwYWRjNTJlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 1/s1e5.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e1.mkv",
+                             "stitle": "1.The Ex-Girlfriend",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDY3ZDNhNmYtZWRmMC00NWE2LTkxNWItZmRkY2UzYjc2YjFjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e2.mkv",
+                             "stitle": "2.The Pony Remark",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjViODY4NTUtNzg5ZC00YmRjLTk3YjctNGI5MTEzMDAxM2U0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e3.mkv",
+                             "stitle": "3.The Jacket",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTU2YWU5ZjQtOWY3ZS00NDVmLTk5YzQtMmI5MzAxOGI1YzA1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e4.mkv",
+                             "stitle": "4.The Phone Message",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWM2ZGE5YmUtOGZlNS00MmZlLTk0NDYtZWY2ZjZkZDFlMGY5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e5.mkv",
+                             "stitle": "5.The Apartment",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZGNjYWU5OTktYTRjMy00MzIwLWEyM2QtODU4MmQ5N2YzNmQ2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e6.mkv",
+                             "stitle": "6.The Statue",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzA0ZmI2NjctNDM0NC00NjIwLTg4YmUtNGM2MjYxOWRkYTVhXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e7.mkv",
+                             "stitle": "7.The Revenge",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzFmNmQ3NDQtOTE1ZC00OGMzLThiZjAtYWUyMGMyNDJiNTA0XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e8.mkv",
+                             "stitle": "8.The Heart Attack",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTM0MzdkY2MtOTljMi00MDZmLTk0YWMtMDJmZjNhNTcwYTQ2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e9.mkv",
+                             "stitle": "9.The Deal",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2E1YTQ3MjItY2VjMC00OGQwLWJmY2ItODAyYmY2NGM0NTJmXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e10.mkv",
+                             "stitle": "10.The Baby Shower",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTkwZGQzZDMtYzNjNi00ZWMzLWE3ZGMtOTFkNDI3ZmNkYzAyXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e10.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e11.mkv",
+                             "stitle": "11.The Chinese Restaurant",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzU5YTcwNTgtOTEwNC00MzkyLTg0NWEtOTBmMDJlNjFhODc2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e11.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 2/s2e12.mkv",
+                             "stitle": "12.The Busboy",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTU4NDkzMjQtODAwOS00NWNmLWFjMmItMjMxZWI5Mjk4M2Y2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 2/s2e12.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e1.mkv",
+                             "stitle": "1.The Note",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTlkMzBlYmMtYjIwZS00Y2NmLTg2NjUtZDExMWI4OTQ3MzVlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e2.mkv",
+                             "stitle": "2.The Truth",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjBjMzdjMWMtNzgyMC00OWI4LWFiYjgtZTQ5YzFhNDZiMjk2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e3.mkv",
+                             "stitle": "3.The Pen",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2RiOGVmMzktMzU1My00YjA5LThiMDEtODdjMjA2ZjBlNTdjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e4.mkv",
+                             "stitle": "4.The Dog",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDg2ZWMyODktY2M5Yy00NzI0LWFkODctOGI1MWYxNzQ2YzI3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e5.mkv",
+                             "stitle": "5.The Library",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjRmOWY1ZTctZjJjMS00MDZkLWEyZTAtOWU0Mjc1ODQ4ZWVhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e6.mkv",
+                             "stitle": "6.The Parking Garage",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWMwNjRhMzgtMGNmNC00ZWQxLThkMDgtMTBiYmNhOTBlODMyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e7.mkv",
+                             "stitle": "7.The Cafe",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjBjNDBiMjQtZDFkZi00MGU1LTkwZWUtYmE2NDExNTJmNWRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 3/s3e8.mkv",
+                             "stitle": "8.The Tape",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTNhYTI3ZmEtMjkyOC00ZTBlLTk2OGUtMzgyMTQ3NjFlNTVmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e9.mkv",
+                            "stitle": "9.The Nose Job",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTAzZTJiYmYtN2RhZS00NzRhLWJiN2YtNmM2NTA0MjEyNWYyL2ltYWdlXkEyXkFqcGdeQXVyNDQ4NjQxNA@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e10.mkv",
+                            "stitle": "10.The Stranded",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDYxYWYxYzItNDc3My00YzJhLWE5ZmUtZDdmNzY4ZTI5NDVhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e11.mkv",
+                            "stitle": "11.The Alternate Side",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDdiYzMxYmEtMGRlOS00NGQ5LTg4MjAtZDBiNDlkZTQ4MzFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e12.mkv",
+                            "stitle": "12.The Red Dot",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzY5Y2E0NjYtYTMxZS00MTZlLTkxYWQtYzA2MjI4NGFhNzk5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e13.mkv",
+                            "stitle": "13.The Subway",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYTQzZjcyNjUtOWE3ZC00OGNlLWFmNDktMjQ3MGU1ZjYxMzNjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e14.mkv",
+                            "stitle": "14.The Pez Dispenser",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTdmOTAzMmEtNjcxNi00YmI1LThhNmUtMzUzYTg2ZDcwNDRiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e15.mkv",
+                            "stitle": "15.The Suicide",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BY2U5N2NmMjgtY2ZlNi00NDk2LTgxNWYtODFkY2JhYjY0N2JiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e16.mkv",
+                            "stitle": "16.The Fix Up",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWZkNzVmZmEtOGRkYS00OGRiLTgwYTgtNTQ3NjRjNzNjZDEzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e17.mkv",
+                            "stitle": "17.The Boyfriend",
+                            "stime": "46m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmZiM2U1ZmItYjE4Yy00YjdiLWEwNjEtYTVlNmQyNGE3Mjc3XkEyXkFqcGdeQXVyNjc1NDEzMTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e18.mkv",
+                            "stitle": "18.The Limo",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDBmZWVlNTItOTQ5Yy00ZGJiLWJjNWUtYjRmNjI4MWE0NGFmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e19.mkv",
+                            "stitle": "19.The Good Samaritan",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNmFjY2ZhMTAtODRiYS00YjA4LTk0MjItOTIyYmJiN2QzN2QwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e20.mkv",
+                            "stitle": "20.The Letter",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGI5ODhiZjMtZWI5Ny00ZDBlLTk0MjUtZWI1Zjk1NzhhYTdiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e21.mkv",
+                            "stitle": "21.The Parking Space",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZmEyNGY3YjEtYzUwYS00OTYyLWIwZTctOTY3NGZkMGQzMjY4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 3/s3e22.mkv",
+                            "stitle": "22.The Keys",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMjkyZTZhNGEtYjI5My00NWNlLTk3MzctYWQ3NGJhNTVmNjcwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 3/s3e22.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e1.mp4",
+                             "stitle": "1.The Trip: Part 1",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTEyZDE5ZTItMDI5YS00ZTI3LTg5YmEtYmVkYjM4NjlhYmNjXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e2.mp4",
+                             "stitle": "2.The Trip: Part 2",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTA4ZDNjMmUtMmIxYi00NGU4LWE3NWItOGM1YmU4OGIxYTkwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e3.mp4",
+                             "stitle": "3.The Pitch/Ticket",
+                             "stime": "46m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjM5M2Q3MDAtZTJkYS00Y2VjLWJlMjQtZDRlOTRmNGEyZDdlXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e4.mp4",
+                             "stitle": "4.The Wallet",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTlhMjBhYzMtNWE1Zi00NTQ0LThmODEtZjNlN2QzODIxOTJhXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e5.mp4",
+                             "stitle": "5.The Watch",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDM5YWFmNzYtOWIwNC00ZWM3LTk1MDUtYmNhMjY2MjNmYmE0XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e6.mp4",
+                             "stitle": "6.The Bubble Boy",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTY5YWNhNzQtOWZiMS00MTg2LTgwOTAtZTNkN2E0ZGJiZDdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e7.mp4",
+                             "stitle": "7.The Cheever Letters",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWFmYTZhMTctY2JmYy00MjJlLTg5MmMtZDU4MGIxZGM5OGVhXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 4/s4e8.mp4",
+                             "stitle": "8.The Opera",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWJmZDI0MzYtYmU0OC00ZWU2LWJhOWMtYzhjNDgzZGM2YWNmXkEyXkFqcGdeQXVyMzA5MDg4MTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e9.mp4",
+                            "stitle": "9.The Virgin",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTk5NjY5NGYtZGVmMC00Y2QyLTk2NjYtYThkNjZlNzUyNGY5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e10.mp4",
+                            "stitle": "10.The Contest",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzJmM2UwYmEtN2EzYi00NGI1LThlOGEtOTAwYTRiNTY5YTQxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e11.mp4",
+                            "stitle": "11.The Airport",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjRkYmMwMDQtZTAzYS00NmIyLWIyMWItZjZkN2I0OWNmNGY3XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e12.mp4",
+                            "stitle": "12.The Pick",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDVjM2U5NzAtMDgxNS00ZTg4LWE0NmMtY2M2Yzc0NmRmZWExXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e13.mp4",
+                            "stitle": "13.The Movie",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNjgzNzIyMDMtZWNmNS00ZGMzLWE0M2ItMDVmMDM0ZTVlMjdlXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e14.mp4",
+                            "stitle": "14.The Visa",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZmI1MGY0M2MtYmYxZi00YTZkLWExYmEtZmE5NjBiYWZiNWUyXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e15.mp4",
+                            "stitle": "15.The Shoes",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYzlhMTczNTctNGNmYi00OGU5LWFhMGUtZTExNGE3ZTUxOTMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e16.mp4",
+                            "stitle": "16.The Outing",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTI0MTU0MDMtYjUyOC00YzMzLTg2ZDEtZjJhM2ExMWYyYmJiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e17.mp4",
+                            "stitle": "17.The Old Man",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzUxYWM5MTItMWUzZC00ODRhLWFjZjktMjk1OWY5ZGY0ZDhiXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e18.mp4",
+                            "stitle": "18.The Implant",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmQ0YzQ5NjItYTA1Ny00NWNkLWJhNjgtMDg3MTI4OTVkNjgzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e19.mp4",
+                            "stitle": "19.The Junior Mint",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzk1NzRiZmItM2U4NS00MjgxLTk5NzMtNDk4MGFmOGNlYzk3XkEyXkFqcGdeQXVyNTgzMjQ1NDg@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e20.mp4",
+                            "stitle": "20.The Smelly Car",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BY2ZlZDk1OWYtYzdkNi00YWQ0LTk5NTgtYTE0ZmRhZTNkNzBhXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e21.mp4",
+                            "stitle": "21.The Handicap Spot",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTg1Y2YzMTUtZTExYS00YmY2LWI2MmMtYzdjZDJlMTY0Mzk0XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 4/s4e22.mp4",
+                            "stitle": "22.The Pilot",
+                            "stime": "45m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTNkYjc0NDMtZDVmMC00OWEwLWJkM2UtNmJmMDQ1YWFiNmRkXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 4/s4e22.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e1.mp4",
+                             "stitle": "1.The Mango",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWI0NmZkYWMtMjAyZC00ZjNhLWI0MWMtMGQyOGIzYjEzZjhiXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e2.mp4",
+                             "stitle": "2.The Puffy Shirt",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE1NjQ5NDEtZGI0My00NGVmLWFjZTItMjVhNjdkNjNjNDlhXkEyXkFqcGdeQXVyNTgzMjQ1NDg@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e3.mp4",
+                             "stitle": "3.The Glasses",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmQyZTM2NWYtNTk3NS00MzU3LTg5NTktMzQ3MTY2NjdkNDg5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e4.mp4",
+                             "stitle": "4.The Sniffing Accountant",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmI2MGIyM2QtZDNlMi00MWE3LTg1NmMtZDgxNzRhYzM4MzJlXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e5.mp4",
+                             "stitle": "5.The Bris",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDhiZTNiZTUtYjBhMS00N2I4LWE0NGQtY2JmM2U3NjI4NGJlXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e6.mp4",
+                             "stitle": "6.The Lip Reader",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDRkMjVhYWUtMTNlYS00ODQ2LWFkNjQtOWYxNDk1ZGYwMDc1XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e7.mp4",
+                             "stitle": "7.The Non-Fat Yogurt",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjJkNjZhZjUtMDkwYS00YjE2LWI1OGMtYmQ4MjZjMzFlYzU2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 5/s5e8.mp4",
+                             "stitle": "8.The Barber",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2Y1NjFhYmYtZTA4MC00MTMwLWI1N2ItNmQzNjU0NTNhMzg2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e9.mp4",
+                            "stitle": "9.The Masseuse",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDNmZmU5MmMtNzMyNS00YjBjLTgzZTQtMmQ5YTE3OWE5MjIzXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e10.mp4",
+                            "stitle": "10.The Cigar Store Indian",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYWMxOTM0YjUtZTIzNS00NGYxLWEwNDItMjhlMGFjNWExNjRjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e11.mp4",
+                            "stitle": "11.The Conversion",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYWZjYzJkNjEtMmE4YS00NTg1LWFhYTItNWY4NTljZWVlZWJmXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e12.mp4",
+                            "stitle": "12.The Stall",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMjMyNmRhNzgtNGM0Yi00ZGY2LTg1N2ItYzFkMzUwZDk0ZmU0XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e13.mp4",
+                            "stitle": "13.The Dinner Party",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDM5OWIzYTYtM2M2Ny00Mzk4LWIxNDYtOGM5MGUwODgwMjYyXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e14.mp4",
+                            "stitle": "14.The Marine Biologist",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDkzM2ZkMTAtOGM5NC00ZjFjLWE0NzMtZWIxNmJkNDg3NGNiXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e15.mp4",
+                            "stitle": "15.The Pie",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGRiYTQzNzgtZjc0ZC00ZmYyLWE2NzgtOWE1MDA1NTBiNDY4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e16.mp4",
+                            "stitle": "16.The Stand-In",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BY2I1ZTFiNmMtYjhkZS00NjE1LWEwODAtZGFiNTdiYzg5ZmJkXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e17.mp4",
+                            "stitle": "17.The Wife",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWEzN2I4YjAtM2MyNC00ZjlkLWE0NmUtYWQ4MzE2MDVkNDA1XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e18.mp4",
+                            "stitle": "18.The Raincoats (1)",
+                            "stime": "42m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzhkMTdlMmItOTYyOC00M2JlLThlN2YtZWZjYzA1YTlhMGU3XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e19.mp4",
+                            "stitle": "19.The Raincoats (2)",
+                            "stime": "21m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYWRhMWViMjEtZGFlNi00NGFjLWFmZDAtNzc0MzI4M2JhM2ZlXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR2,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e20.mp4",
+                            "stitle": "20.The Fire",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMWFjODgzODctNTBhNS00MGNlLWI2OTQtNzQwYWFmM2JjZDFmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e21.mp4",
+                            "stitle": "21.The Hamptons",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMjRhMTNhNjctZmUwMi00M2U3LTgwOTktYjk4ZWI3MWExZjExXkEyXkFqcGdeQXVyNTgzMjQ1NDg@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 5/s5e22.mp4",
+                            "stitle": "22.The Opposite",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmY3YjczYmUtYzNjOS00MGM2LWI2NzAtYWUwMGQzMWYyNDFjXkEyXkFqcGdeQXVyMzkyOTg1MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 5/s5e22.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e1.mp4",
+                             "stitle": "1.The Chaperone",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGZjZTRlYTQtM2Y0ZC00NGMzLWI0MGItZTlhNmRlNmQwY2E0XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e2.mp4",
+                             "stitle": "2.The Big Salad",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzViMWNmZGItY2YxMy00NGYzLThmN2ItNzhmNmRhYmM0ZGE3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e3.mp4",
+                             "stitle": "3.The Pledge Drive",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWNlMjc3MGMtYzRiOS00Y2U5LWI0NjktMmU1YTAzMTM2OGM1XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e4.mp4",
+                             "stitle": "4.The Chinese Woman",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDM0MGE2ZTgtMmNiYy00YmM4LWIxYmMtMGQ1OTlmMzZiYzZmXkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e5.mp4",
+                             "stitle": "5.The Couch",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODc3NDdkNzgtNjVjOS00ZjBkLThmYjUtNTM5NTMwMDQwMjNmXkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e6.mp4",
+                             "stitle": "6.The Gymnast",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmQ0OGM3ZDUtMmJmNy00M2M4LTgzZWEtNDJjZGU2NjhjZjg4XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e7.mp4",
+                             "stitle": "7.The Soup",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWZiMDZkY2UtYTQ2OC00OWVlLWJiNDYtNjhlMjY4ZGM1NTg1XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 6/s6e8.mp4",
+                             "stitle": "8.The Mom and Pop Store",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjdlMmIwZmQtODc3Yi00YmQ5LWIxODAtMGJkM2Y2OWFiMmY5XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e9.mp4",
+                            "stitle": "9.The Secretary",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDlhOTUwZjUtY2Q3ZS00YjZlLThkYmUtODE1YTJmZDEzZjk3XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e10.mp4",
+                            "stitle": "10.The Race",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMGMwZDE3MmMtNzJhOC00NmRhLTg0NGQtNDhjZmVlM2Q4MmFjXkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e11.mp4",
+                            "stitle": "11.The Switch",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMmUwNjdjZDItNmUyYy00MDM2LWI2ZTctNTMyNTI2ZjZkZWM2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e12.mp4",
+                            "stitle": "12.The Label Maker",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjJlY2ZjYTMtZDQ1ZS00MGYyLWJkZjUtY2M1MWNkZGI1YTA3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e13.mp4",
+                            "stitle": "13.The Scofflaw",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGI4NWE4N2MtNWEzZS00NDYxLThhMzEtYzI0YjA3NThlMzk2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e14.mp4",
+                            "stitle": "14.Highlights of a Hundred",
+                            "stime": "44m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGQzYzI2NzctMWQ3My00NGZlLWJjNDMtOTJiOGNjMjAxYWU4XkEyXkFqcGdeQXVyNjkwNzgzNTQ@._V1_UY126_CR12,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e15.mp4",
+                            "stitle": "15.The Beard",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDM4MDQxN2EtMzZhMC00OTdhLWJhM2UtZjhlMWQ3MGZmNzRmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e16.mp4",
+                            "stitle": "16.The Kiss Hello",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWY2OWY1YjktYjQxOC00YWY1LTllZGEtZDU0MjRhM2U0NzcyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e17.mp4",
+                            "stitle": "17.The Doorman",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODM2NzljMDQtMTJhNC00MmFhLThjZmQtYTVmNGI5OGFjY2FkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e18.mp4",
+                            "stitle": "18.The Jimmy",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTMwMzUzODEtMDEyOS00MzIzLWJkYjAtNjljNmI2M2UwNjVjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e19.mp4",
+                            "stitle": "19.The Doodle",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYTY2MjI0NzAtNTJmOS00YTcxLWE0ZGUtOTBiZDlmNTZmN2RmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e20.mp4",
+                            "stitle": "20.The Fusilli Jerry",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGY5Y2E5YTItNTE1NS00ZjRkLTg0OGItYTQ3OWRhZWY5ODYwXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e21.mp4",
+                            "stitle": "21.The Diplomat's Club",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzk4ZDhiM2QtNTc3My00Nzk3LWIxYjktMWU5NDA0MWJiNTEzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e19.mp4",
+                            "stitle": "22.The Face Painter",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMmZjN2U3ZGItYTJlZC00YjEwLWEyNzctMzcyNWY0NGY3NTUzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e22.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 6/s6e23.mp4",
+                            "stitle": "23.The Understudy",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNGM5NTdiMzgtM2ExOS00YjYyLThkMjQtMmE4NWI4ODI2YTllXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 6/s6e23.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e1.mp4",
+                             "stitle": "1.The Engagement",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDljM2E5ODUtYjU2OC00OGIxLTk0NDctMmU5MDAyNDJlN2M0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e2.mp4",
+                             "stitle": "2.The Postponement",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmQyNTRlZTUtNWIzZS00MTMwLWE5YzQtNGJjMzA4ZDM4M2ZiXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e3.mp4",
+                             "stitle": "3.The Maestro",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDQzY2MxMTQtNzNmNS00NTI5LWE1ZGMtYjE2MTE0N2Y2MDQ2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e4.mp4",
+                             "stitle": "4.The Wink",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTMwMTc3MzMtMjc4ZS00ZTk0LWFkOWQtYjU1N2ZmYzQ0ZWYxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e5.mp4",
+                             "stitle": "5.The Hot Tub",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjc1ODJmMWYtN2VlOS00MmZhLThkOTAtMTI5YjhlZjgyZDdjXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e6.mp4",
+                             "stitle": "6.The Soup Nazi",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFjYjA2YmYtZjVhMC00Y2VkLWE5MmEtMjY4OWM1MTg2ZGI0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e7.mp4",
+                             "stitle": "7.The Secret Code",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDFmYWU0MTAtMGQxMS00ZGRkLWIxMGEtYWYzMzQxZGI1MTQwXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 7/s7e8.mp4",
+                             "stitle": "8.The Pool Guy",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTRmYjk1NTItODBmMS00MTY1LThjOWEtOTQ3MzE0OGZhODI5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e9.mp4",
+                            "stitle": "9.The Sponge",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMGFkNzA5NzItOWM5MS00NTA0LWIxYmItNDg5ODJjOWVlY2U0XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e10.mp4",
+                            "stitle": "10.The Gum",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWUwNzQyY2EtMzhmMy00YTI3LTk2OWItNTViZWFkYjgxNzIxXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e11.mp4",
+                            "stitle": "11.The Rye",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYjM3YTVlYzQtYmM5My00NmU1LTkxMjYtYmRkZTI3NDMzNzk4XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e12.mp4",
+                            "stitle": "12.The Caddy",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNTZhOWM3MzQtYjc3NC00NzY1LWJjNjEtYWM4YmUzNTk2NTdiXkEyXkFqcGdeQXVyMTE1MTIzMDM1._V1_UY126_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e13.mp4",
+                            "stitle": "13.The Seven",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMThkZDc2NDctNTNlYi00Zjg5LWFiYTgtNmQ3MjRiYWMwNTU0XkEyXkFqcGdeQXVyNzQ2NTg4NzI@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e14.mp4",
+                            "stitle": "14.The Cadillac",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGZiNzUxYTEtOWQ1ZS00OTdlLWFmZWItZTRhMmQzZDY1ZjZmXkEyXkFqcGdeQXVyMzkyOTg1MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e15.mp4",
+                            "stitle": "15.The Shower Head",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTk4MGU3NmItNWVjYy00MjA3LWFjN2MtZjgzNTU5N2MxNjE3XkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_UY126_UX224_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e16.mp4",
+                            "stitle": "16.The Doll",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODhlOTM5ZmQtNzRhMC00M2ExLWI2ZTgtZWYxYmE3NTA5YjljXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e17.mp4",
+                            "stitle": "17.The Friars Club",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMWJkNDBjMGItZjE5ZS00OTEyLTkwNGItMjE4NWRlNjk5NTE0XkEyXkFqcGdeQXVyNDY3NDY4Mzg@._V1_UY126_CR4,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e18.mp4",
+                            "stitle": "18.The Wig Master",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmY5MzFiN2UtYWEwMC00ZjFhLTkwNGMtOWU0ZDZmZTBjNmJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzc5NzUxMzM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e19.mp4",
+                            "stitle": "19.The Calzone",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZGQ3NjlkMjktMTFhNC00OGJmLTg0ZDctYjViMWM4OWNkNmExXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e20.mp4",
+                            "stitle": "20.The Bottle Deposit",
+                            "stime": "41m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMzg5MzA3ZDUtZGNjOS00NWFmLTkzMzQtMDAwMDI4MzJmNTg4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e21.mp4",
+                            "stitle": "21.The Wait Out",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMDdiODRiZmEtYjkzOC00NTkxLTgzNWUtYzBiOWI0Mjk2YzBjXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 7/s7e19.mp4",
+                            "stitle": "22.The Invitations",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWY3MzI0YjQtODUxNS00Yzc3LWI5YTMtNDA0MTg4OTE1NmM0XkEyXkFqcGdeQXVyMDIxNTEyMQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 7/s7e22.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e1.mp4",
+                             "stitle": "1.The Foundation",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTYwNDUyZDYtODRjYS00NWQ1LWJjYjEtY2RiZmY4N2UxOWY2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e2.mp4",
+                             "stitle": "2.The Soul Mate",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQwMzRlYmYtZTI3Yy00ODMxLWJhYjctYTM5YTdmYTAxZDg4XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e3.mp4",
+                             "stitle": "3.The Bizarro Jerry",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDAxODE0NDUtNjA0Ny00MWY3LTg1NWEtNWQ5NjFmNzBjMTEzXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e4.mp4",
+                             "stitle": "4.The Little Kicks",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmUzOWU5YmMtOGY5Yi00MDNlLTg3MTEtZmQwNGZjODNmODZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e5.mp4",
+                             "stitle": "5.The Package",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDczNmY2ZjItMzVkZS00MzFjLTlmNDItNTgwZTdjYjZkOTcwXkEyXkFqcGdeQXVyMzQ4NjI4MDM@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e6.mp4",
+                             "stitle": "6.The Fatigues",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmI5OTUzMmQtNmJlNi00ODMyLWE1NjQtOWFmN2IwMGU2OGY2XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e7.mp4",
+                             "stitle": "7.The Checks",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWJhNWM2MDktZGMwMC00MmMxLWFjYzctYzA0Zjk3ZTdiNTVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Seinfeld/season 8/s8e8.mp4",
+                             "stitle": "8.The Chicken Roaster",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTc5YjgwMTgtZDY0YS00N2U1LTg1NmUtOTJkMjcxODgzMGNmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 8/s8e9.mp4",
+                            "stitle": "9.The Abstinence",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOTY2MDMwNmMtNjA3Ni00NWJlLWEyY2UtMjRjM2VmYzg4ZTg2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 8/s8e10.mp4",
+                            "stitle": "10.The Andrea Doria",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZGVkMzFiZDYtYTZkMi00N2YxLTlkYjEtNTRmMWYxYzgxOTJmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Seinfeld/season 8/s8e11.mp4",
+                            "stitle": "11.The Little Jerry",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BY2U4NzRmNmMtNGQ4OC00OTdmLTg0YTAtMGNiODc2OTExYWVkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Seinfeld/season 8/s8e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e12.mp4",
+                            "stitle": "12.The Money",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmI5M2ZiOTAtOTRiZS00YzJiLWE0YzItYjQ2NjUyZTNmYThkXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e13.mp4",
+                            "stitle": "13.The Comeback",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNWJkMDI5ZGYtNmIxYS00MDMwLTkzMWEtMDE5NmI2MjY1ZmVmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e14.mp4",
+                            "stitle": "14.The Van Buren Boys",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMTkyMjIxYmYtYTAzNC00NDg5LTgxYzctMzlhY2MzMDljZTE2XkEyXkFqcGdeQXVyMzkyOTg1MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e15.mp4",
+                            "stitle": "15.The Susie",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWMwYzk3YzMtYjhlNS00ODdlLThjMGQtZDA2YmNkMzA5MGZhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e16.mp4",
+                            "stitle": "16.The Pothole",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzE0NDA1MDUtMDhiZC00ODIzLTg3ODEtNTJiNDljNzIyNGE4XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e17.mp4",
+                            "stitle": "17.The English Patient",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZDZmZjA4YzctZjhiZC00MGYzLTliMDktYWEzYzZhY2IxZjUyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e18.mp4",
+                            "stitle": "18.The Nap",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYzBhNmQ4YmMtNDFiYi00NDkyLWE1ZTEtODNjYmY0ZjgzMzYyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e19.mp4",
+                            "stitle": "19.The Yada Yada",
+                            "stime": "26m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMWRkZmQ2NWYtN2FmNy00MWY3LTk0ZjEtOTZjNGZhYjU0ZDU4XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e20.mp4",
+                            "stitle": "20.The Millennium",
+                            "stime": "20m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNWE4MWJmYjktMmI2Mi00N2E5LThmNjAtZTAwMDg1MmJjMzg2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e21.mp4",
+                            "stitle": "21.The Muffin Tops",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZjI1ZjVmYmItYTIxYS00MjE1LTllZTktM2UwMmMwMzgzMjIyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 8/s8e19.mp4",
+                            "stitle": "22.The Summer of George",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDViNzMyMzMtZTNiMC00ODYzLTk3YjktYzY5NDg0YTdmYmQ4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 8/s8e22.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e1.mp4",
+                             "stitle": "1.The Butter Shave",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTlmNmI5Y2YtZDk3OC00Mjg2LWE1YmQtNDFlYWJhMDVjMmY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e2.mp4",
+                             "stitle": "2.The Voice",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjMyNzUzMmYtMWM3Mi00MDlmLTgxNzktNTI0MGNmYTc2MmRkXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e3.mp4",
+                             "stitle": "3.The Serenity Now",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGJkM2I4ZjUtMDQwMS00MDNiLWI2NzktM2QwMmI1ZjdlOWQ4XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e4.mp4",
+                             "stitle": "4.The Blood",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDdkZjJlNGYtMTI2My00MTY3LTllMGItMTVkNTlkOGMyNjBmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e5.mp4",
+                             "stitle": "5.The Junk Mail",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTA0YjU2N2MtZjA5Mi00ZWYzLWIzNzUtZGRkMWM5YjI3YmY2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e6.mp4",
+                             "stitle": "6.The Merv Griffin Show",
+                             "stime": "22m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzI3NTkwOGQtMjFlMy00YmRlLWI5ZmMtNDBjYzE3NDNkYjc5XkEyXkFqcGdeQXVyNTgzMjQ1NDg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e7.mp4",
+                             "stitle": "7.The Slicer",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmI4NjIzMGUtYmNhNy00OGRjLThiNDEtODY1ZTAwOGU3ODMyXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 9/s9e8.mp4",
+                             "stitle": "8.The Betrayal",
+                             "stime": "23m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmNlZWU2NDYtYzljNC00NWUyLWE0ODItMGRjNGY0YmFiNmI2XkEyXkFqcGdeQXVyNTgzMjQ1NDg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 9/s9e8.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e9.mp4",
+                            "stitle": "9.The Apology",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOGI1ZTZiNDYtNWM5MS00ZTJhLTk0ODMtOWY4NDBhMDM4NzIxXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e9.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e10.mp4",
+                            "stitle": "10.The Strike",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BN2ZjZDQzOWQtZTBkMy00ZGUyLWIzOTAtYjJkYmJkMzIyNzNlXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e10.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e11.mp4",
+                            "stitle": "11.The Dealership",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmE2M2NhMTItMjEwOS00ZWEyLTgyZTgtZWRmZDkyOTJmYTUwXkEyXkFqcGdeQXVyMDIyMzQzNw@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e11.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e12.mp4",
+                            "stitle": "12.The Reverse Peephole",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWFkNjY1YjMtYzJjOC00NTc2LWI3YmMtNmJlOWFlMGI2YjI5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e12.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e13.mp4",
+                            "stitle": "13.The Cartoon",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYmI5YWMwNTktYjM1YS00YjhhLWJiM2YtM2JmMmUzNzY3YTljXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e13.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e14.mp4",
+                            "stitle": "14.The Strongbox",
+                            "stime": "23m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzBiMDlmMjAtMmViNy00YjY2LWFjNzgtODdmYjA0ZDkxMTQ2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e14.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e15.mp4",
+                            "stitle": "15.The Wizard",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZWZlMGEwNjAtNmFjNy00MzBmLTg0MzctYmNhNGU0OWNlODc2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e15.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e16.mp4",
+                            "stitle": "16.The Burning",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BZTE1ZWQxYmYtYmNkMy00MWNlLWI2NDYtMTQ1OWJkYzY2MWQ5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e16.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e17.mp4",
+                            "stitle": "17.The Bookstore",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BMmRjNDg2NjMtYWEzMC00MGY0LWE2MTMtYmZhYWVlMzRkOTBjXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e17.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e18.mp4",
+                            "stitle": "18.The Frogger",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BOWU3ZDdlNDctMjI1OC00MDgyLTg5MTYtOTU0ZGM3OGMzOTI5XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e18.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e19.mp4",
+                            "stitle": "19.The Maid",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNmNhNzVjOWItNTE2Mi00ZmRjLWEwYTItY2Y1ZGIyOTdiZDY2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e19.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e20.mp4",
+                            "stitle": "20.The Puerto Rican Day",
+                            "stime": "22m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BYTNlY2E2NTAtZjlmMC00MWQ4LTg1MGYtOGU5MjU0NjY1ZWQxXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e20.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e21.mp4",
+                            "stitle": "21.The Chronicle",
+                            "stime": "43m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BODhkZjQyOGQtNTQxOC00NDAzLThjM2EtODU1MmNhZTQ5OWI2XkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e21.srt"
+                         },
+                         {
+                            "svideos": "/Hollywood series/Control Z/season 9/s9e19.mp4",
+                            "stitle": "22.The Finale",
+                            "stime": "55m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNzQ4ODkyYmMtODQwMy00ZDViLTg4ZmItYmU1MDdkMzA4OGNiXkEyXkFqcGdeQXVyMzk0NzgwMTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Hollywood series/Control Z/season 9/s9e22.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjZjMzQ2ZmUtZWEyZC00NWJiLWFjM2UtMzhmYzZmZDcxMzllXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SX250.jpg",
+        "genres": "Comedy,Dramas,US Tv Shows,English,Hollywood",
+        "releaseDate": "1989",
+        "trailer": "https://www.imdb.com/video/vi4273980185/?ref_=ext_shr_lnk",
+        "cast": "Jerry Seinfeld,Jason Alexander...more"
+       },
+    
+        {
         "name": "The Good Doctor",
         "description": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
         "ageRestriction": "16",
