@@ -794,7 +794,7 @@
         "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
     },
     
-        {
+    {
         "name": "Criminal Justice: Adhura Sach",
         "description": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win",
         "ageRestriction": "18",
@@ -816,6 +816,20 @@
                              "stime": "46m",
                              "simage": "https://myimg.bid/images/2022/08/27/Criminal-Justice-Adhura-Sach-2022.jpg",
                              "ssubtitle":"/Indian drama/Criminal Justice/season 1/s1e2.srt"
+                         },
+                         {
+                            "svideos": "/Indian drama/Criminal Justice/season 3/s3e3.mp4",
+                            "stitle": "3.Bail Denied",
+                            "stime": "44m",
+                            "simage": "https://m.media-amazon.com/images/M/MV5BNDgwNjNmYmYtN2ZmYS00ZTU2LWE1OWEtYWNiMWRjZjNjZmJjXkEyXkFqcGdeQXVyMTU2MTQyNTk0._V1_UY126_CR25,0,224,126_AL_.jpg",
+                            "ssubtitle":"/Indian drama/Criminal Justice/season 1/s3e3.srt"
+                         },
+                         {
+                            "svideos": "/Indian drama/Criminal Justice/season 3/s3e4.mp4",
+                            "stitle": "4.Section 15",
+                            "stime": "42m",
+                            "simage": "https://myimg.bid/images/2022/08/27/Criminal-Justice-Adhura-Sach-2022.jpg",
+                            "ssubtitle":"/Indian drama/Criminal Justice/season 1/s3e4.srt"
                          }
              ]
             ],
