@@ -238,7 +238,95 @@
 	    "cast": "Alia Bhatt,Vijay Varma... more",
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
-	}
+	},
+	
+	     {
+        "name": "The Imperfects",
+        "description": "After an experimental gene therapy turns them into monsters, three twenty-somethings band together to hunt down the scientist responsible and force him to make them human again.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Imperfects/The Imperfects/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e1.mp4",
+                             "stitle": "1.Sarkov's Children",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cuyt7uuqv2WroeGKo69BaeiyYp0.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e2.mp4",
+                             "stitle": "2.Doug of the Dead",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8OHeW356J6xIS8pGSPoYSQHDCii.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e3.mp4",
+                             "stitle": "3.Portland Warehouse Massacre",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iMe9AHEXdBX71Rwt5Z99X8OlbuG.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e4.mp4",
+                             "stitle": "4.One of Us",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vhRBRyqvjdBdcjv8znOl10vVW81.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e5.mp4",
+                             "stitle": "5.Zoe Must Be Destroyed",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fs3rqwAsAEvuPoxwEAkvVoEV9Gj.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e6.mp4",
+                             "stitle": "6.Lest Ye Become a Monster",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vlbIzCrZhqFdiJ2e4qDxQtxUtOY.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e7.mp4",
+                             "stitle": "7.Cure All",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qz9XkQrOQajl8I8hwRoTjtxvZWx.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e8.mp4",
+                             "stitle": "8.The Devil You Know",
+                             "stime": "39m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5IPVVucyzSyS9VRfQlE55bWjSRd.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e9.mp4",
+                             "stitle": "9.All Monsters Attack",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5hLtIgkFUmwWEtclVDPqq9DQNQS.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Imperfects/The Imperfects/s1e10.mp4",
+                             "stitle": "10.Destroy All Monsters",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tBppu7p0OfY2RoCdK1DOfaHdTR.jpg",
+                             "ssubtitle":"/Hollywood series/The Imperfects/The Imperfects/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODJhZTM2ZTEtN2E4OC00NGQ1LTlmMGMtZTAyYWI5ZjgwMzNkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+        "genres": "Action,Adventure,Dramas,Fantasy,Mystery,Si-Fi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi74236441/?ref_=ext_shr_lnk",
+        "cast": "Italia Ricci,Iñaki Godoy...more"
+       },
     
     {
     "name": "Cobra Kai",
