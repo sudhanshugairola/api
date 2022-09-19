@@ -1,4 +1,20 @@
-[   
+[     
+
+       {
+	    "name": "Jogi",
+	    "description": "Amid tension in 1980s India, three friends of different faiths unite in a noble yet dangerous effort to save hundreds in their town.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Jogi/Jogi.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzViZDcwNmEtYWNkNS00YzczLWJiYjQtOGExNDNmOTgzMGFjXkEyXkFqcGdeQXVyMTMyMjc4MDgz._V1._SX250.jpg",
+	    "genres": "Dramas,History,Thriller,Crime,",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1231602201/?ref_=ext_shr_lnk",
+	    "cast": "Diljit Dosanjh,Kumud Mishra... more",
+        "time":"1h 56m",
+        "subtitle":"/Hindi_Movies/Jogi/Jogi.English.srt"
+	},
+	
       {
 	    "name": "Khuda Haafiz Chapter 2: Agni Pariksha",
 	    "description": "Following a traumatic chapter in their lives, Sameer and Nargis try to lead a happy life by adopting Nandini, a friend's orphaned niece. But fate soon strikes back hard when Nandini goes missing.",
