@@ -1,6 +1,36 @@
 [   
     
      {
+	    "name": "Me Time",
+	    "description": "With his family away, a devoted stay-at-home dad enjoys his first me time in years by joining his hard-partying old friend on a wild birthday adventure.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Me Time/Me Time.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTU4YWU5YTgtODhmOC00NzU2LTkwYzQtMmJhZjRhNWQwMTJkXkEyXkFqcGdeQXVyMjIzOTA2NDk@._V1._SX250.jpg",
+	    "genres": "Comedy",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3339764249/?ref_=ext_shr_lnk",
+	    "cast": "Kevin Hart,Mark Wahlberg... more",
+        "time":"1h 44m",
+        "subtitle":"/Hollywood Movies/Me Time/Me Time.English (CC).srt"
+      },
+     
+      {
+	    "name": "Jogi",
+	    "description": "Amid tension in 1980s India, three friends of different faiths unite in a noble yet dangerous effort to save hundreds in their town.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Jogi/Jogi.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzViZDcwNmEtYWNkNS00YzczLWJiYjQtOGExNDNmOTgzMGFjXkEyXkFqcGdeQXVyMTMyMjc4MDgz._V1._SX250.jpg",
+	    "genres": "Dramas,History,Thriller,Crime,",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1231602201/?ref_=ext_shr_lnk",
+	    "cast": "Diljit Dosanjh,Kumud Mishra... more",
+        "time":"1h 56m",
+        "subtitle":"/Hindi_Movies/Jogi/Jogi.English.srt"
+     },
+      
+     {
 	    "name": "Khuda Haafiz Chapter 2: Agni Pariksha",
 	    "description": "Following a traumatic chapter in their lives, Sameer and Nargis try to lead a happy life by adopting Nandini, a friend's orphaned niece. But fate soon strikes back hard when Nandini goes missing.",
 	    "ageRestriction": "13",
@@ -208,187 +238,7 @@
 	    "cast": "Alia Bhatt,Vijay Varma... more",
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
-	},
-
-    {
-	    "name": "Purple Hearts",
-	    "description": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Purple Hearts/Purple Hearts.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
-	    "genres": "Romance,Dramas,Music,Us,Hollywood,English",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2117845529/?ref_=ext_shr_lnk",
-	    "cast": "Sofia Carson,Nicholas Galitzine... more",
-        "time":"2h 2m",
-        "subtitle":"/Hollywood Movies/Purple Hearts/Purple Hearts.CC.en.srt"
-	},
-
-    {
-	    "name": "Wrath of Man",
-	    "description": "The plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Wrath of Man/Wrath of Man.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
-	    "genres": "Action,Crime,Thriller,English,Hollywood",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi772980761/?ref_=ext_shr_lnk",
-	    "cast": "Jason Statham,Holt McCallany... more",
-        "time":"1h 59m",
-        "subtitle":"/Hollywood Movies/Wrath of Man/Wrath of Man.srt"
-	},
-
-    {
-	    "name": "Bhool Bhulaiyaa 2",
-	    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWY5MWEyNzYtYjI2ZS00OWU5LWIxOTUtNjViYTVhY2YzYTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
-	    "genres": "Horror, Comedy,Dramas,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2323694105/?ref_=ext_shr_lnk",
-	    "cast": "Tabu,Kartik Aaryan,Kiara Advani... more",
-        "time":"2h 5m",
-        "subtitle":"/Hindi_Movies/Bhool Bhulaiyaa 2/Bhool Bhulaiyaa 2.English.srt"
-	},
-
-    {
-	    "name": "Dakuaan Da Munda 2 ",
-	    "description": "An autobiography of the famous writer and teacher 'Manga Singh Antal', a young Kabaddi and Volleyball player Manga became a drug addict which introduced him to crime.",
-	    "ageRestriction": "13",
-	    "video": "/Punjabi/Dakuaan Da Munda 2/Dakuaan_Da_Munda_2_2022_Punjabi_HD.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTNiNWU2NmItNDhkMi00M2Q0LTkzYTctODg3YWQyOGFiYjA4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
-	    "genres": "Action,Adventure,Biography, Crime,Indian,Punjabi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3472540185/?ref_=ext_shr_lnk",
-	    "cast": "Dev Kharoud,Japji Khaira... more",
-        "time":"2h 30m",
-        "subtitle":"/Punjabi/Galwakdi 2022/Galwakdi.srt"
-	},
-
-    {
-	    "name": "The Gray Man",
-	    "description": "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
-	    "ageRestriction": "13",
-	    "video": "/Hollywood Movies/The Gray Man/The Gray Man.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1._SX250.jpg",
-	    "genres": "Action, Thriller,English,Hollywood",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi318292505/?ref_=ext_shr_lnk",
-	    "cast": "Ryan Gosling,Chris Evans,Ana de Armas... more",
-        "time":"2h 2m",
-        "subtitle":"/Hollywood Movies/The Gray Man/The Gray Man.English (CC).srt"
-    },
-
-    {
-	    "name": "The Pirates: The Last Royal Treasure",
-	    "description": "In the Joseon era, a brave crew of pirates and bandits brave the rough waters and try to decipher the clues to find the lost royal gold before their rivals do",
-	    "ageRestriction": "13",
-	    "video": "/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xtZd4rfcOeVXs2kYEyzkt2VSPLI.jpg",
-	    "genres": "Action, Adventure, Comedy, History,Korean",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi879018777/?ref_=ext_shr_lnk",
-	    "cast": "Kang Ha-neul,Han Hyo-joo... more",
-        "time":"2h 6m",
-        "subtitle":"/K drama/The Pirates_ The Last Royal Treasure/The Pirates_ The Last Royal Treasure.English (CC).srt"
-	},
-
-    {
-	    "name": "Jaadugar",
-	    "description": "A small-time magician with zero interest in football must lead his local team to the finals of a tournament if he wishes to marry the love of his life.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Love Goals/Love Goals.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDFjYjM5YmItODJhZi00ZWZiLTliYzMtOGIyMjZhMmI5MDZlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
-	    "genres": "Comedy, Drama, Romance,Hindi,Indian,Tamil,Telugu,South",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3621634585/?ref_=ext_shr_lnk",
-	    "cast": "Jitendra Kumar,Arushi Sharma... more",
-        "time":"2h 27m",
-        "subtitle":"/Hindi_Movies/Love Goals/Love Goals.English.srt"
-	},
-
-    {
-	    "name": "Major(Hindi)",
-	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Major/Major.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://i.ibb.co/kHwDRmQ/f-G1-DHOk8y-Bm9s-MLl-Gr-EFTjv-Y4-EN.jpg",
-	    "genres": "Action, History, Drama,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2173092377/?ref_=ext_shr_lnk",
-	    "cast": "Adivi Sesh,Sobhita Dhulipala,Prakash Raj... more",
-        "time":"2h 29m",
-        "subtitle":"/Hindi_Movies/Major/Major.English.srt"
-	},
-
-    {
-	    "name": "Major(Telugu)",
-	    "description": "Based on the life of real-life Hero Major Sandeep Unnikrishnan, Major, the film, aims to show how this valiant soldier saved the lives of numerous hostages before being martyred by the terrorists who wreaked havoc in the Taj Mahal Palace Mumbai, India on the 26th of November, 2008.",
-	    "ageRestriction": "13",
-	    "video": "/Telgu/Major/Major.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://i.ibb.co/YP9YYcv/iwx7cs99p3-F7-AVYQd7z-BCn-EVALM.jpg",
-	    "genres": "Action, History, Drama,Indian,Telugu",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi2297872409/?ref_=ext_shr_lnk",
-	    "cast": "Adivi Sesh,Sobhita Dhulipala,Prakash Raj... more",
-        "time":"2h 29m",
-        "subtitle":"/Telgu/Major/Major.English.srt"
-	},
-
-    {
-	    "name": "Spider-Man: No Way Home",
-	    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWQ1OTZlZjgtNDEzYS00MWRmLWE5ZTEtODA4NmY3YjU3ZTE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1._SX250.jpg",
-	    "genres": "Action, Adventure, Science Fiction,Hollywood,English",
-	    "releaseDate": "2021",
-	    "trailer": "https://www.imdb.com/video/vi1035584025/?ref_=ext_shr_lnk",
-	    "cast": "Tom Holland,Zendaya... more",
-        "time":"2h 28m",
-        "subtitle":"/Hollywood Movies/Spider-Man_ No Way Home/Spider-Man_ No Way Home.English (CC).srt"
-    },
-
-    {
-        "name": "Raw(Hindi)",
-        "description": "After a shopping mall in Chennai is hijacked by terrorists who hold the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
-        "ageRestriction": "13",
-        "video": "/Hindi_Movies/Raw beast/Raw (Hindi).mkv",
-        "series": "not",
-        "thumbnailImageId": "https://i.ibb.co/7gDC7tv/y0ij-MJ7l-VYGUM67d-O4m4yykp-Zik.jpg",
-        "genres": "Action, Thriller, Crime,Hindi,Indian",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1757200921/?playlistId=tt11301946?ref_=ext_shr_lnk",
-        "cast": "Vijay,Pooja Hegde... more",
-        "time":"2h 42m",
-        "subtitle":"/Hindi_Movies/Raw beast/Raw (Hindi).English.srt"
-    },
-
-    {
-        "name": "RRR",
-        "description": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-        "ageRestriction": "13",
-        "video": "/Hindi_Movies/RRR/RRR.mp4",
-        "series": "not",
-        "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1._SX250.jpg",
-        "genres": "Action, Dramas, History, War,Hindi,Indian,south",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi1153549081/?playlistId=tt8178634?ref_=ext_shr_lnk",
-        "cast": "N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn... more",
-        "time":"3h 7m",
-        "subtitle":"/Hindi_Movies/RRR/RRR.en.srt"
-    },
+	}
     
     {
     "name": "Cobra Kai",
