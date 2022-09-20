@@ -3689,10 +3689,61 @@
                              "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/26ZelOlTYRzXRBukdsfzCxondYV.jpg",
                              "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E06_A Fanatic Heart.English (CC).srt"
                          }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e1.mp4",
+                             "stitle": "1.Low-Flying Panic Attack",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e2.mp4",
+                             "stitle": "2.Taken By The Wind",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6IZRH4PxqoPdaLNiMawdisscGJo.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e3.mp4",
+                             "stitle": "3.Your Newfound Popularity",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9j4LcFfSO4IZhhojQaquf2husys.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e4.mp4",
+                             "stitle": "4.An Hour Before the Devil Fell",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aeKQ5wRPABIdvo11gskgR7ixxze.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e5.mp4",
+                             "stitle": "5.Are You a Good Witch or a Bad Witch?",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mC0vhtl4ofPn6qOJOE2hPHSWnWS.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e6.mp4",
+                             "stitle": "6.Poor Unfortunate Souls",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4LyekWenS66RFkc3xVqNclbSaBl.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e7.mp4",
+                             "stitle": "7.All the Wild Witches",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b8naueyEMbq97a6mrNSQWj7ymkp.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e7.srt"
+                         }
              ]
             ],
          "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzEyYzBhODYtZjZlOC00MTM4LWIxMjQtMTRhZjA5ODM4ZWI2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1._SX250.jpg",
-        "genres": "Si-Fi,Fantasy, Dramas,Hollywood,English",
+        "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi854180377/?ref_=ext_shr_lnk",
         "cast": "Abigail Cowen,Hannah van der Westhuysen...more"
