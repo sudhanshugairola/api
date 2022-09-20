@@ -240,6 +240,117 @@
         "subtitle":"/Hindi_Movies/Darlings/Darlings.en.srt"
 	},
 	
+	           {
+        "name": "Fate: The Winx Saga",
+        "description": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E01_To the Waters and the Wild.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E01_To the Waters and the Wild.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E01_To the Waters and the Wild.mp4",
+                             "stitle": "1.To the Waters and the Wild",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eoXN0ETB4X2VP4lUbLyPtf6atJz.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E01_To the Waters and the Wild.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E02_No Strangers Here.mp4",
+                             "stitle": "2.No Strangers Here",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6cx6P9sUh9DbEyI8OoXNFcSFuMF.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E02_No Strangers Here.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E03_Heavy Mortal Hopes.mp4",
+                             "stitle": "3.Heavy Mortal Hopes",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cvk67IEtzTVVqnM5BGF3Zb9gvYS.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E03_Heavy Mortal Hopes.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E04_Some Wrecked Angel.mp4",
+                             "stitle": "4.Some Wrecked Angel",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/131QNJy91Zn9hdBlpoJ97vaMyaF.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E04_Some Wrecked Angel.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E05_Wither Into the Truth.mp4",
+                             "stitle": "5.Wither Into The Truth",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/y13DC3FbBqDx6mSoOu9QwWhAHB5.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E05_Wither Into the Truth.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E06_A Fanatic Heart.mp4",
+                             "stitle": "6.A Fanatic Heart",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/26ZelOlTYRzXRBukdsfzCxondYV.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 1/Fate_ The Winx Saga_S01E06_A Fanatic Heart.English (CC).srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e1.mp4",
+                             "stitle": "1.Low-Flying Panic Attack",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e2.mp4",
+                             "stitle": "2.Taken By The Wind",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6IZRH4PxqoPdaLNiMawdisscGJo.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e3.mp4",
+                             "stitle": "3.Your Newfound Popularity",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9j4LcFfSO4IZhhojQaquf2husys.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e4.mp4",
+                             "stitle": "4.An Hour Before the Devil Fell",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aeKQ5wRPABIdvo11gskgR7ixxze.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e5.mp4",
+                             "stitle": "5.Are You a Good Witch or a Bad Witch?",
+                             "stime": "55m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mC0vhtl4ofPn6qOJOE2hPHSWnWS.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e6.mp4",
+                             "stitle": "6.Poor Unfortunate Souls",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4LyekWenS66RFkc3xVqNclbSaBl.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Fate_ The Winx Saga/season 2/s2e7.mp4",
+                             "stitle": "7.All the Wild Witches",
+                             "stime": "53m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/b8naueyEMbq97a6mrNSQWj7ymkp.jpg",
+                             "ssubtitle":"/Hollywood series/Fate_ The Winx Saga/season 2/s2e7.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzEyYzBhODYtZjZlOC00MTM4LWIxMjQtMTRhZjA5ODM4ZWI2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1._SX250.jpg",
+        "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi854180377/?ref_=ext_shr_lnk",
+        "cast": "Abigail Cowen,Hannah van der Westhuysen...more"
+       },
+	
 	     {
         "name": "The Imperfects",
         "description": "After an experimental gene therapy turns them into monsters, three twenty-somethings band together to hunt down the scientist responsible and force him to make them human again.",
