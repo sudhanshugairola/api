@@ -13,8 +13,8 @@
 	    "cast": "Yoo Ah-in,Go Kyung-pyo... more",
         "time":"2h 20m",
         "subtitle":"/Korean Movies/Seoul Vibe/Seoul Vibe.English (CC).srt"
-    },
-	
+	},
+
     {
 	    "name": "Carter",
 	    "description": "A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
@@ -133,6 +133,66 @@
         "cast": "Park Shin-Hye,Jeon Jong-seo,Park Ho-San... more",
         "time":"2h 27m",
         "subtitle":"/K drama/The Call/The Call.English (CC).srt"
+    },
+
+    {
+        "name": "Narco-Saints",
+        "description": "An ordinary entrepreneur joins a secret government mission to capture a Korean drug lord operating in South America.",
+        "ageRestriction": "16",
+        "video": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E01_Episode 1.mp4",
+        "series": "yes",
+        "subtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E01_Episode 1.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E01_Episode 1.mp4",
+                             "stitle": "1.Episode 1",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjUwMDIzNjktN2U0My00NDAzLWE5YTktNjRlNGYxNzQxMzRmXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR33,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E01_Episode 1.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E02_Episode 2.mp4",
+                             "stitle": "2.Episode 2",
+                             "stime": "1h 1m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWMyMzc5MjktOWI1ZC00Y2Y4LTgwZjMtMWQ4M2EwZDRjZDU2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR31,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E02_Episode 2.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E03_Episode 3.mp4",
+                             "stitle": "3.Episode 3",
+                             "stime": "1h 6m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2Y3YmEyNjAtODdmNi00NDUyLTllOTctM2ViNzc0NWY5ZDkzXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR32,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E03_Episode 3.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E04_Episode 4.mp4",
+                             "stitle": "4.Episode 4",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTczMDI0YWYtNzJkYS00MGVmLTg2OTItMmZjNTA5N2VhYjY2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E04_Episode 4.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E05_Episode 5.mp4",
+                             "stitle": "5.Episode 5",
+                             "stime": "1h 9m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmMxNTU4YWMtYjQ0YS00ZTQ2LWFhYjMtMzhiZWQzMDAwYjBjXkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR35,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E05_Episode 5.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/K drama/Narco-Saints/season 1/Narco-Saints_S01E06_Episode 6.mp4",
+                             "stitle": "6.Episode 6",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjYxNmJiOWEtMjE3NC00NzE1LTk5YzQtMzQ0ZWRkODM4MzA2XkEyXkFqcGdeQXVyNTgyNDM1OTU@._V1_UY126_CR25,0,224,126_AL_.jpg",
+                             "ssubtitle":"/K drama/Narco-Saints/season 1/Narco-Saints_S01E06_Episode 6.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YTE5MWYtYmY0Yy00MzVkLWI5NGUtZWQ3ZjkwZjljY2Q3XkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1._SX250.jpg",
+        "genres": "Action,Biography,Crime,Dramas,Thriller,Korean,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi929219097/?ref_=ext_shr_lnk",
+        "cast": "Ha Jung-woo,Park Hae-soo...more"
     },
     
     {
