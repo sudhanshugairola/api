@@ -1,5 +1,35 @@
 [   
-     
+    
+    {
+	    "name": "Do Revenge",
+	    "description": "A dethroned queen bee at a posh private high school strikes a secret deal with an unassuming new student to enact revenge on one another’s enemies.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Do Revenge/Do Revenge.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjQyZDU3ZjAtOWViMi00MDUyLWIzYzUtYzY0OTlmZWE1OWQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Hollywood,English,Hindi,Us,Teen Movies",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3792290329/?ref_=ext_shr_lnk",
+	    "cast": "Camila Mendes,Austin Abrams... more",
+        "time":"1h 58m",
+        "subtitle":"/Hollywood Movies/Do Revenge/Do Revenge.English (CC).srt"
+	},
+
+    {
+	    "name": "Loving Adults",
+	    "description": "The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.",
+	    "ageRestriction": "18",
+	    "video": "/Hollywood Movies/Loving Adults/Loving Adults.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWQ1ODQ0ZTQtOGJjYi00ODZmLWFkOTAtOWMzN2E4YzE0YmVjXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
+	    "genres": "Thriller,Dramas,Crime,English,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3369976345/?ref_=ext_shr_lnk",
+	    "cast": "Dar Salim,Sonja Richter... more",
+        "time":"1h 46m",
+        "subtitle":"/Hollywood Movies/Loving Adults/Loving Adults.English (CC).srt"
+	},
+
     {
 	    "name": "Me Time",
 	    "description": "With his family away, a devoted stay-at-home dad enjoys his first me time in years by joining his hard-partying old friend on a wild birthday adventure.",
@@ -11,10 +41,10 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3339764249/?ref_=ext_shr_lnk",
 	    "cast": "Kevin Hart,Mark Wahlberg... more",
-            "time":"1h 44m",
-            "subtitle":"/Hollywood Movies/Me Time/Me Time.English (CC).srt"
-    },
-	
+        "time":"1h 44m",
+        "subtitle":"/Hollywood Movies/Me Time/Me Time.English (CC).srt"
+	},
+
     {
 	    "name": "The Next 365 Days",
 	    "description": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
@@ -28,6 +58,21 @@
 	    "cast": "Anna-Maria Sieklucka,Michele Morrone... more",
         "time":"1h 52m",
         "subtitle":"/Hollywood Movies/The Next 365 Days/The Next 365 Days.Srt"
+	},
+
+    {
+	    "name": "I Came By",
+	    "description": "A rebellious young graffiti artist, who targets the homes of the wealthy elite, discovers a shocking secret that leads him on a journey endangering himself and those closest to him.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/I Came By/I Came By.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzhjOWRmMGMtZjExNy00M2IxLWFmODQtM2I1MzBmZTcwOTgwXkEyXkFqcGdeQXVyNTg1MDQzMDU@._V1._SX250.jpg",
+	    "genres": "Thriller,Dramas,Hollywood,English,Hindi,Crime",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3172647449/?ref_=ext_shr_lnk",
+	    "cast": "George MacKay,Kelly Macdonald... more",
+        "time":"1h 50m",
+        "subtitle":"/Hollywood Movies/I Came By/I Came By.English (CC).srt"
 	},
 
     {
@@ -780,8 +825,142 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
      },
-     
-          {
+
+     {
+        "name": "Santo",
+        "description": "Two cops must learn to work together to catch the world's most-wanted drug dealer, whose face has never been revealed.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Santo/season 1/Santo_S01E01_Invisible.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Santo/season 1/Santo_S01E01_Invisible.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E01_Invisible.mp4",
+                             "stitle": "1.Invisible",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/g6CceLsyHn029wcCtNK4rHmywcM.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E01_Invisible.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E02_Eyelids.mp4",
+                             "stitle": "2.Eyelids",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zc3nwSFBI8F8yjYUHEdyrdNjkEB.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E02_Eyelids.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E03_O Pai.mp4",
+                             "stitle": "3.O Pai",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rK6rOgMWHHvhIGgBizCNEkOz3Bc.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E03_O Pai.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E04_Os Filhos.mp4",
+                             "stitle": "4.Os Filhos",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gNM6qsfUs4fmh6kVl6cMptMNeBH.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E04_Os Filhos.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E05_Guilt.mp4",
+                             "stitle": "5.Guilt",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vvrRNzuztWeNFVBTZ5QtCMn51LY.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E05_Guilt.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Santo/season 1/Santo_S01E06_The Lair.mp4",
+                             "stitle": "6.The Lair",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2cvLXj6J1UADFKswUtP0o1JFXvl.jpg",
+                             "ssubtitle":"/Hollywood series/Santo/season 1/Santo_S01E06_The Lair.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2Y4MzBjNjAtNzFmNi00NjA1LWEwYjQtMjlmMGEwM2I3YTliXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
+        "genres": "Action,Crime,Dramas,Thriller,Spanish,English,Hindi,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2221589017/?ref_=ext_shr_lnk",
+        "cast": "Raúl Arévalo,Victoria Guerra...more"
+       },
+
+     {
+        "name": "Heartbreak High",
+        "description": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E01_Map B_ch.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E01_Map B_ch.English (CC).srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E01_Map B_ch.mp4",
+                             "stitle": "1.Map B**tch",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/niIUqbnih4aRX1rk7QhCwfw7W2D.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E01_Map B_ch.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E02_Renaissance Titties.mp4",
+                             "stitle": "2.Renaissance Titties",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l1oIduG1fH9gufqWJtC5ZPzdSNm.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E02_Renaissance Titties.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E03_Eetsway.mp4",
+                             "stitle": "3.Eetsway",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7y5jabzu63T7lw3JHG87ncphbfQ.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E03_Eetsway.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E04_Rack Off.mp4",
+                             "stitle": "4.Rack Off",
+                             "stime": "47m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zFk23Nou4OYKwnUeB4RCuEaOvK1.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E04_Rack Off.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E05_Bin Chicken.mp4",
+                             "stitle": "5.Bin Chicken",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mD3wNs2vJpshdSFShaF5lQhaCgB.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E05_Bin Chicken.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E06_Angeline.mp4",
+                             "stitle": "6.Angeline",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pIGYDLkWkK23SOqaxYtNnxWJsl2.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E06_Angeline.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E07_The Sheriff.mp4",
+                             "stitle": "7.The Sheriff",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1YJuXjogzmJq9RCQ1ugOMBhILXJ.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E07_The Sheriff.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E08_Three of Swords.mp4",
+                             "stitle": "8.Three of Swords",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iVeYNHJtN5Ny5svP02MXsE1i83P.jpg",
+                             "ssubtitle":"/Hollywood series/Heartbreak High/season 1/Heartbreak High_S01E08_Three of Swords.English (CC).srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMxYWU1NDYtMjBmYy00MDI3LTg0ZGQtOTk0ZTNmZGQ3OGJmXkEyXkFqcGdeQXVyODY5OTk4MA@@._V1._SX250.jpg",
+        "genres": "Dramas,Romance,Hollywood,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2172109337/?ref_=ext_shr_lnk",
+        "cast": "Ayesha Madon,Thomas Weatherall...more"
+      },
+
+     {
         "name": "The Imperfects",
         "description": "After an experimental gene therapy turns them into monsters, three twenty-somethings band together to hunt down the scientist responsible and force him to make them human again.",
         "ageRestriction": "16",
@@ -868,8 +1047,8 @@
         "trailer": "https://www.imdb.com/video/vi74236441/?ref_=ext_shr_lnk",
         "cast": "Italia Ricci,Iñaki Godoy...more"
        },
-     
-       {
+
+     {
         "name": "The Girl in the Mirror",
         "description": "After losing her memory in a bizarre accident that kills most of her classmates, Alma tries to unravel what happened that day — and regain her identity.",
         "ageRestriction": "16",
@@ -949,75 +1128,8 @@
         "trailer": "https://www.imdb.com/video/vi960348697/?ref_=ext_shr_lnk",
         "cast": "Mireia Oriol,Álex Villazán...more"
        },
-     
-          {
-        "name": "Echoes",
-        "description": "Identical twins Leni and Gina have secretly switched places for years. But when one sister disappears, both of their lives start to fall apart.",
-        "ageRestriction": "16",
-        "video": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
-        "series": "yes",
-        "subtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
-                             "stitle": "1.Home",
-                             "stime": "48m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNTdmYjI0NDItNDlkMS00Y2IwLThiZGUtMzk3ZDJjYTIzYTI0XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e2.mp4",
-                             "stitle": "2.Birthday",
-                             "stime": "55m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNzg4ZDg2NWEtZjZlZS00NDEwLWEzZDItZjEyMTA4ZmZjMTEwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e2.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e3.mp4",
-                             "stitle": "3.Party",
-                             "stime": "45m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYTUzMDhjMzAtNzMxMy00ZWNmLWE3ZDMtMzYzYTY2ZWY0YjQzXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e3.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e4.mp4",
-                             "stitle": "4.Body",
-                             "stime": "42m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYmE5NGExNWEtNjlkOS00Y2Q1LTk3NzAtZTViYjRkZTEwZWY5XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e4.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e5.mp4",
-                             "stitle": "5.Gina",
-                             "stime": "51m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYjQ2YzlkZjUtNzY0OC00ODZlLWFlYjAtNDAzOWMwNjJhMzY1XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e5.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e6.mp4",
-                             "stitle": "6.Fire",
-                             "stime": "44m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE3YTM1NGMtYmQwYi00NWM2LWI2ODAtYzcwMmE1NzkzNjIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e6.srt"
-                         },
-                         {
-                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e7.mp4",
-                             "stitle": "7.Falls",
-                             "stime": "41m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNDEyZjI2NTktZWJjYy00NTI5LTkzN2EtMGQxYzliYzBjMTIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e7.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMzM2QyYzctYWU4NS00NmVjLWFhNGQtYzcwMGU1MGQ5MmI1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
-        "genres": "Drama,Mystery,Thriller,English,Hindi,Hollywood",
-        "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi689029657/?ref_=ext_shr_lnk",
-        "cast": "Michelle Monaghan,Matt Bomer...more"
-     },
-     
-          {
+
+     {
         "name": "Kleo",
         "description": "After the fall of the Berlin Wall, a former spy killer is set free and embarks on a revenge spree against the people who conspired to betray her.",
         "ageRestriction": "16",
@@ -1090,6 +1202,73 @@
         "trailer": "https://www.imdb.com/video/vi3577659929/?ref_=ext_shr_lnk",
         "cast": "Jella Haase,Dimitrij Schaad...more"
        },
+
+     {
+        "name": "Echoes",
+        "description": "Identical twins Leni and Gina have secretly switched places for years. But when one sister disappears, both of their lives start to fall apart.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e1.mp4",
+                             "stitle": "1.Home",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTdmYjI0NDItNDlkMS00Y2IwLThiZGUtMzk3ZDJjYTIzYTI0XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e2.mp4",
+                             "stitle": "2.Birthday",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzg4ZDg2NWEtZjZlZS00NDEwLWEzZDItZjEyMTA4ZmZjMTEwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e3.mp4",
+                             "stitle": "3.Party",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTUzMDhjMzAtNzMxMy00ZWNmLWE3ZDMtMzYzYTY2ZWY0YjQzXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e4.mp4",
+                             "stitle": "4.Body",
+                             "stime": "42m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmE5NGExNWEtNjlkOS00Y2Q1LTk3NzAtZTViYjRkZTEwZWY5XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e5.mp4",
+                             "stitle": "5.Gina",
+                             "stime": "51m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjQ2YzlkZjUtNzY0OC00ODZlLWFlYjAtNDAzOWMwNjJhMzY1XkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e6.mp4",
+                             "stitle": "6.Fire",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTE3YTM1NGMtYmQwYi00NWM2LWI2ODAtYzcwMmE1NzkzNjIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Echoes/Limited Series/s1e7.mp4",
+                             "stitle": "7.Falls",
+                             "stime": "41m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDEyZjI2NTktZWJjYy00NTI5LTkzN2EtMGQxYzliYzBjMTIwXkEyXkFqcGdeQXVyMTE5MDE5ODM0._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Echoes/Limited Series/s1e7.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWMzM2QyYzctYWU4NS00NmVjLWFhNGQtYzcwMGU1MGQ5MmI1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
+        "genres": "Drama,Mystery,Thriller,English,Hindi,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi689029657/?ref_=ext_shr_lnk",
+        "cast": "Michelle Monaghan,Matt Bomer...more"
+     },
 
      {
         "name": "The Sandman",
