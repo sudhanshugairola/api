@@ -1,6 +1,6 @@
-[     
-
-       {
+[   
+    
+    {
 	    "name": "Jogi",
 	    "description": "Amid tension in 1980s India, three friends of different faiths unite in a noble yet dangerous effort to save hundreds in their town.",
 	    "ageRestriction": "13",
@@ -14,8 +14,8 @@
         "time":"1h 56m",
         "subtitle":"/Hindi_Movies/Jogi/Jogi.English.srt"
 	},
-	
-      {
+
+    {
 	    "name": "Khuda Haafiz Chapter 2: Agni Pariksha",
 	    "description": "Following a traumatic chapter in their lives, Sameer and Nargis try to lead a happy life by adopting Nandini, a friend's orphaned niece. But fate soon strikes back hard when Nandini goes missing.",
 	    "ageRestriction": "13",
@@ -28,9 +28,9 @@
 	    "cast": "Vidyut Jammwal,Shivaleeka Oberoi... more",
         "time":"2h 26m",
         "subtitle":"/Hindi_Movies/Khuda Haafiz Chapter 2/Khuda Haafiz Chapter 2.srt"
-     },
-	
-     {
+	},
+
+    {
         "name": "Cuttputlli",
         "description": "When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
         "ageRestriction": "13",
@@ -44,21 +44,7 @@
         "time":"2h 14m",
         "subtitle":"/Hindi_Movies/Cuttputli/Cuttputli.srt"
     },
-    
-    {
-	    "name": "Vikram",
-	    "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
-	    "ageRestriction": "16",
-	    "video": "/Hindi_Movies/Vikram 2022/Vikram 2022.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
-	    "genres": "Action,Thriller,Hindi,Indian,South",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3381510681/?ref_=ext_shr_lnk",
-	    "cast": "Kamal Haasan,Fahadh Faasil,Vijay Sethupathi... more",
-        "time":"2h 54m",
-        "subtitle":"/Hindi_Movies/Vikram 2022/Vikram 2022.srt"
-	},
+
     {
 	    "name": "777 Charlie",
 	    "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
@@ -72,6 +58,21 @@
 	    "cast": "Rakshit Shetty,Raj B Shetty... more",
         "time":"2h 46m",
         "subtitle":"/Hindi_Movies/777 Charlie/777 Charlie.srt"
+	},
+
+    {
+	    "name": "Vikram",
+	    "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+	    "ageRestriction": "16",
+	    "video": "/Hindi_Movies/Vikram 2022/Vikram 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Action,Thriller,Hindi,Indian,South",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3381510681/?ref_=ext_shr_lnk",
+	    "cast": "Kamal Haasan,Fahadh Faasil,Vijay Sethupathi... more",
+        "time":"2h 54m",
+        "subtitle":"/Hindi_Movies/Vikram 2022/Vikram 2022.srt"
 	},
 
     {
@@ -809,7 +810,7 @@
         "time":"1h 35m",
         "subtitle":"/Hindi_Movies/Tribhanga - Tedhi Medhi Crazy/Tribhanga - Tedhi Medhi Crazy.English.srt"
     },
-    
+
     {
         "name": "Criminal Justice: Adhura Sach",
         "description": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win",
@@ -2042,9 +2043,67 @@
                         "simage": "https://m.media-amazon.com/images/M/MV5BYWU5NjJlYjUtMDJiYy00ZGY3LWJmNTgtMWU2ZWQ1OTY5YTg1XkEyXkFqcGdeQXVyMTEyODAwMjAx._V1_UY126_UX224_AL_.jpg",
                         "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 1/Jamtara - Sabka Number Ayega_S01E10_Episode 10.English.srt"
                     }
-         ]
+         ],
+         [
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e1.mp4",
+                             "stitle": "1.S2 Episode 1",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9pGRDbUgxpQgAlSZusOLX4XUcWs.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e2.mp4",
+                             "stitle": "2.S2 Episode 2",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/y1KkgulehtJiQQX4VJxiff7GQJi.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e3.mp4",
+                             "stitle": "3.S2 Episode 3",
+                             "stime": "38m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5r2tpWJLSSzSBKp5rrGCLfQB5mB.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e4.mp4",
+                             "stitle": "4.S2 Episode 4",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oh20GLiUfgevwwmcSGqSnq532b0.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e5.mp4",
+                             "stitle": "5.S2 Episode 5",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ehxhEL2HIiD1v5dktthTyQQoiVV.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e6.mp4",
+                             "stitle": "6.S2 Episode 6",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/laA56ko8FfJ7DgHK2xxYunEVhL1.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e7.mp4",
+                             "stitle": "7.S2 Episode 7",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mWtNttlhZebAxmSaWyvHP2apQR3.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e8.mp4",
+                             "stitle": "8.S2 Episode 8",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXlHoTAzPKh4IoifcutHF6kNhIC.jpg",
+                             "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e8.srt"
+                         }
+             ]
         ],
-     "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX250.jpg",
+     "thumbnailImageId": "https://www.themoviedb.org/t/p/w130_and_h195_bestv2/ewCGnOz5VBhT8CD8NTSvo9OLybW.jpg",
     "genres": "Dramas,crime,Hindi,Indian",
     "releaseDate": "2020",
     "trailer": "https://www.imdb.com/video/vi1157873433?playlistId=tt11150912?ref_=ext_shr_lnk",
