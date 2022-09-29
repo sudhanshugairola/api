@@ -1,6 +1,36 @@
 [   
     
     {
+	    "name": "Sita Ramam",
+	    "description": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Sita Ramam/Sita Ramam 2022 720p Hindi [FilmyMeet].mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2.__V1._SX250.jpg",
+	    "genres": "Action,Dramas,Mystery,Romance,South,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3090072089/?ref_=ext_shr_lnk",
+	    "cast": "Dulquer Salmaan,Mrunal Thakur,Rashmika Mandanna... more",
+        "time":"2h 38m",
+        "subtitle":"/Hindi_Movies/Sita Ramam/Sita Ramam.srt"
+	},
+
+    {
+	    "name": "Thor: Love and Thunder",
+	    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022 Hindi 720p HDRip [FilmyMeet].mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.__V1._SX250.jpg",
+	    "genres": "Fantasy,Action,Comedy,Hindi,Hollywood,Romance,Si-Fi,Dramas",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1613808153/?ref_=ext_shr_lnk",
+	    "cast": "Chris Hemsworth,Natalie Portman... more",
+        "time":"1h 59m",
+        "subtitle":"/Hollywood Movies/Thor Love and Thunder 2022/Thor Love and Thunder.srt"
+	},
+    
+    {
 	    "name": "Do Revenge",
 	    "description": "A dethroned queen bee at a posh private high school strikes a secret deal with an unassuming new student to enact revenge on one another’s enemies.",
 	    "ageRestriction": "16",
