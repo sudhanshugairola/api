@@ -1,5 +1,6 @@
 [
     
+
     {
 	    "name": "Demon Slayer the Movie: Mugen Train",
 	    "description": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
@@ -11,10 +12,10 @@
 	    "releaseDate": "2020",
 	    "trailer": "https://www.imdb.com/video/vi359317017/?ref_=ext_shr_lnk",
 	    "cast": "Natsuki Hanae,Akari Kito... more",
-            "time":"1h 57m",
-            "subtitle":"/Anime movies/Demon Slayer the Movie Mugen Train 2020/Demon Slayer the Movie Mugen Train 2020.srt"
-    },
-	
+        "time":"1h 57m",
+        "subtitle":"/Anime movies/Demon Slayer the Movie Mugen Train 2020/Demon Slayer the Movie Mugen Train 2020.srt"
+	},
+
     {
 	    "name": "Gantz:O",
 	    "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
@@ -194,7 +195,197 @@
         "time":"1h 27m",
         "subtitle":"/Anime movies/Words Bubble Up Like Soda Pop/Words Bubble Up Like Soda Pop.English.srt"
 	},
-	
+
+    {
+        "name": "DOTA: Dragon's Blood",
+        "description": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined.",
+        "ageRestriction": "16",
+        "video": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+                             "stitle": "1.What the Thunder Said",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODdjOTRjYzktYTlkNC00MTM2LWI2MjAtODBiOGFiMDI0YmUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY126_CR21,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.mp4",
+                             "stitle": "2.Princess of Nothing",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGY1Y2RhMTMtMTc2MC00MzhkLTg5M2QtYWY4OTUyNzlkOWE0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.mp4",
+                             "stitle": "3.Neverwhere Land",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQyNDNhNGUtMGU4Mi00YTQzLWE1OGQtNTg2ZGE3MzNiNzg4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.mp4",
+                             "stitle": "4.The Monster at the End of This Book",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTA0ZjVjYjUtYzlhMS00NTk0LWE3YjYtMzRhZjE5MGI5ODcxXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.mp4",
+                             "stitle": "5.The Fire Sermon",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGE5ZWYzZWYtMzYyMi00ZGY5LWE4NjAtMDIwZGI0YjBkOTBlXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.mp4",
+                             "stitle": "6.The Knight, Death and the Devil",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzExMTEwN2UtZDUyYS00NmM3LWE5ZWEtNmNiNjgwZmM4ZWFkXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.mp4",
+                             "stitle": "7.Speak the Words",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTc5OWQwZjQtYThlMC00OTBiLTk3MDgtZDI4MGE4ZDFiYmNhXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.mp4",
+                             "stitle": "8.A Game of Chess",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmQ4MTUxNzAtMjA1Mi00MDU1LWI4ZTEtYWY1MWQzMGRhMmQ3XkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.mp4",
+                             "stitle": "1.Nothing with Nothing",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzE4OTZiNDUtZDlhYS00YmQxLWFjMWEtOGY4YmJiZTAzN2FjXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.mp4",
+                             "stitle": "2.My Sword, My Life",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRhMWY1MjYtNDcwMy00Yjk0LTgzYzUtMmQzODY3ZGEzMGQzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.mp4",
+                             "stitle": "3.The Lady of Situations",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmFiNjkwMDEtZTAxZi00NjY4LThmZDQtMGZjMjZhZjljMDY1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.mp4",
+                             "stitle": "4.Desolate and Empty the Sea",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjE3Mzc3NzktNDRkNS00YmNjLWI5ODUtYjI1NGM1N2ZiODk1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.mp4",
+                             "stitle": "5.The Burial of the Dead",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTA5N2U3MzItMjkwZS00MTZhLWFmYmUtMTc5ZmY3YzhlYjFiXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.mp4",
+                             "stitle": "6.The Hyacinth Girl",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFlOGFmZjEtNDgxYS00ZmYyLTk0YWUtZWU4N2E0NTA0ZjQxXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.mp4",
+                             "stitle": "7.The Violet Hour",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2RjYzNiM2MtNWM4Yy00NzcwLTkwMTEtOTRjNmMzZTIwN2VmXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.mp4",
+                             "stitle": "8.Unreal City",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjk3Njc2ZTUtYjU1NS00NWJmLThiYmEtMTk5ZGQ0MzMwZDIzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e1.mp4",
+                             "stitle": "1.The Wind Under the Door",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTc0YjM0NGItZDIzZi00YjNmLWI1YzctNWRlYTNlNmZjNjljXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e2.mp4",
+                             "stitle": "2.Hell of Hells",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWVhOTA3NzktOTU3NC00NGIwLWEzYzctMTI3N2M4NTFkNDE3XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e3.mp4",
+                             "stitle": "3.This Stranger's Life",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTQxNDgyZDItYWExMS00M2U3LTllZDgtYjRmZjU2MjA0MTQ5XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e4.mp4",
+                             "stitle": "4.The Hanged Man",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTFkOTdhMDAtMGYxMi00MWQ5LWJjM2MtODU3YzllZDBlZTNiXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e5.mp4",
+                             "stitle": "5.Summons of the Ideal",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTIxM2I1NzctODc2Yy00ZDE2LTk0ZjgtNWRhZTk4NmExZmM0XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e6.mp4",
+                             "stitle": "6.Twelve Thousand, Four Hundred and Three",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzVjNjg3ZWQtMGMyMi00YmU0LTg1OTQtN2M5ODAyNGEwN2ZlXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e7.mp4",
+                             "stitle": "7.Lunartropism",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWMwNzY5ZjQtNmM1Ni00NjgyLTkyMWYtMzYzZWZhNTQ4YjM1XkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e8.mp4",
+                             "stitle": "8.Consider Phlebas",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWMxNjEyNWItMzhlNy00Y2U3LTlkNDktNGI2ZGQ1MTVkNWFhXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+        "genres": "Si-Fi,Fantasy,Action,Adventure,Anime,English,Japanese",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi105693465/?ref_=ext_shr_lnk",
+        "cast": "Troy Baker,Yuri Lowenthal...more"
+    },
+
     {
         "name": "Demon Slayer: Kimetsu no Yaiba",
         "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
@@ -2144,138 +2335,6 @@
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1244446745/?ref_=ext_shr_lnk",
         "cast": "Yume Miyamoto,Shoya Ishige...more"
-       },
-
-       {
-        "name": "DOTA: Dragon's Blood",
-        "description": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined.",
-        "ageRestriction": "16",
-        "video": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
-        "series": "yes",
-        "subtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt",
-         "seriess":[
-             [
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
-                             "stitle": "1.What the Thunder Said",
-                             "stime": "27m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BODdjOTRjYzktYTlkNC00MTM2LWI2MjAtODBiOGFiMDI0YmUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY126_CR21,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.mp4",
-                             "stitle": "2.Princess of Nothing",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNGY1Y2RhMTMtMTc2MC00MzhkLTg5M2QtYWY4OTUyNzlkOWE0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.mp4",
-                             "stitle": "3.Neverwhere Land",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQyNDNhNGUtMGU4Mi00YTQzLWE1OGQtNTg2ZGE3MzNiNzg4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.mp4",
-                             "stitle": "4.The Monster at the End of This Book",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMTA0ZjVjYjUtYzlhMS00NTk0LWE3YjYtMzRhZjE5MGI5ODcxXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.mp4",
-                             "stitle": "5.The Fire Sermon",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BOGE5ZWYzZWYtMzYyMi00ZGY5LWE4NjAtMDIwZGI0YjBkOTBlXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.mp4",
-                             "stitle": "6.The Knight, Death and the Devil",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMzExMTEwN2UtZDUyYS00NmM3LWE5ZWEtNmNiNjgwZmM4ZWFkXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.mp4",
-                             "stitle": "7.Speak the Words",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZTc5OWQwZjQtYThlMC00OTBiLTk3MDgtZDI4MGE4ZDFiYmNhXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.mp4",
-                             "stitle": "8.A Game of Chess",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYmQ4MTUxNzAtMjA1Mi00MDU1LWI4ZTEtYWY1MWQzMGRhMmQ3XkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.srt"
-                         }
-             ],
-             [
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.mp4",
-                             "stitle": "1.Nothing with Nothing",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNzE4OTZiNDUtZDlhYS00YmQxLWFjMWEtOGY4YmJiZTAzN2FjXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.mp4",
-                             "stitle": "2.My Sword, My Life",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRhMWY1MjYtNDcwMy00Yjk0LTgzYzUtMmQzODY3ZGEzMGQzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.mp4",
-                             "stitle": "3.The Lady of Situations",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNmFiNjkwMDEtZTAxZi00NjY4LThmZDQtMGZjMjZhZjljMDY1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.mp4",
-                             "stitle": "4.Desolate and Empty the Sea",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYjE3Mzc3NzktNDRkNS00YmNjLWI5ODUtYjI1NGM1N2ZiODk1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.mp4",
-                             "stitle": "5.The Burial of the Dead",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BOTA5N2U3MzItMjkwZS00MTZhLWFmYmUtMTc5ZmY3YzhlYjFiXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.mp4",
-                             "stitle": "6.The Hyacinth Girl",
-                             "stime": "25m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFlOGFmZjEtNDgxYS00ZmYyLTk0YWUtZWU4N2E0NTA0ZjQxXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.mp4",
-                             "stitle": "7.The Violet Hour",
-                             "stime": "26m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BM2RjYzNiM2MtNWM4Yy00NzcwLTkwMTEtOTRjNmMzZTIwN2VmXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.srt"
-                         },
-                         {
-                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.mp4",
-                             "stitle": "8.Unreal City",
-                             "stime": "27m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYjk3Njc2ZTUtYjU1NS00NWJmLThiYmEtMTk5ZGQ0MzMwZDIzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.srt"
-                         }
-             ]
-            ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
-        "genres": "Si-Fi,Fantasy,Action,Adventure,Anime",
-        "releaseDate": "2021",
-        "trailer": "https://www.imdb.com/video/vi105693465/?ref_=ext_shr_lnk",
-        "cast": "Troy Baker,Yuri Lowenthal...more"
        },
 
        {
