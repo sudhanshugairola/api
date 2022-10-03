@@ -1,6 +1,21 @@
 [   
     
     {
+	    "name": "Lou",
+	    "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Lou/Lou.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@.__V1._SX250.jpg",
+	    "genres": "Action,Crime,Dramas,Mystery,Thriller,Hindi,English,Tamil,Hollywood,Us",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi25084441/?ref_=ext_shr_lnk",
+	    "cast": "Allison Janney,Logan Marshall-Green... more",
+        "time":"1h 47m",
+        "subtitle":"/Hollywood Movies/Lou/Lou.English (CC).srt"
+	},
+
+    {
 	    "name": "Sita Ramam",
 	    "description": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
 	    "ageRestriction": "13",
@@ -29,7 +44,7 @@
         "time":"1h 59m",
         "subtitle":"/Hollywood Movies/Thor Love and Thunder 2022/Thor Love and Thunder.srt"
 	},
-    
+
     {
 	    "name": "Do Revenge",
 	    "description": "A dethroned queen bee at a posh private high school strikes a secret deal with an unassuming new student to enact revenge on one another’s enemies.",
@@ -254,6 +269,453 @@
         "time":"2h 15m",
         "subtitle":"/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.srt"
 	},
+
+    {
+        "name": "Dahmer",
+        "description": "This series follows the Serial killer, rapist, necrophiliac and Paedophile Jeffery Dahmer who targeted primarily young Black and Asian men in between 1978–1991 with his youngest victim being 14 years old the series follows his actions in graphic detail including the decapitation and necrophilia Dahmer performed on his victims while also dealing with the failure and racism that is prevalent within the police department.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Dahmer/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Dahmer/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e1.mp4",
+                             "stitle": "1.Episode One",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDljM2FlYmYtODA2Ny00Yjc1LTljNzgtMDIzYzQxZGY0N2ZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e2.mp4",
+                             "stitle": "2.Please Don't Go",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTE1NmFjM2UtMTM1Ni00ZDUzLWFkOTYtZGM1OGJiOWY0ZTVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e3.mp4",
+                             "stitle": "3.Doin' A Dahmer",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzY4MzkwNzQtZTQzYy00ZTg0LThkYjEtYzA2Y2U1MTgwNzcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e4.mp4",
+                             "stitle": "4.The Good Boy Box",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDk1NDc1ZjEtODA5OC00OTZhLWJkOWQtYzU4ODFlODIyNjU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e5.mp4",
+                             "stitle": "5.Blood On Their Hands",
+                             "stime": "1h",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODkyZmY4N2ItMDliNS00MjE2LWJkYzItNTYyYmMwY2QyYTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e6.mp4",
+                             "stitle": "6.Silenced",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmNmMjBjZGQtNjQ1Yy00ZDhiLTk1ZmMtMjA0MGJiMGEzMDBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e7.mp4",
+                             "stitle": "7.Cassandra",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmJhNDkyNWYtMjkzNC00NzQwLWE3ZTAtNzI5MmUyOTZhNWYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e8.mp4",
+                             "stitle": "8.Lionel",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTI4ZDFkOTEtYjg5OS00ODc4LTg0ZDQtNzM5MzRmZjM2NTExXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e9.mp4",
+                             "stitle": "9.The Bogeyman",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTBjN2E5NGQtYjA1YS00MGE0LWFjMDEtYWU5MmY5YTAxNmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e10.mp4",
+                             "stitle": "10.God of Forgiveness, God of Vengeance",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGE0NDkyNTctOTNkOC00YjMxLWE3YTgtODVjYzc5ODZhZWUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.__V1._SX250.jpg",
+        "genres": "Biography,Crime,Dramas,Thriller,Hollywood,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi861717017/?ref_=ext_shr_lnk",
+        "cast": "Evan Peters,Richard Jenkins...more"
+    },
+
+    {
+        "name": "Dahan: Raakan Ka Rahasya",
+        "description": "A disgraced IAS Officer sets out to vindicate herself and takes up a strange case in Shilaspura,a land with occult practices.",
+        "ageRestriction": "16",
+        "video": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e1.mkv",
+                             "stitle": "1.Pramukhji Chahte Kya Hain?",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tBGg4KgMGZ0nXlp9jCH8mpD0F0p.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e2.mkv",
+                             "stitle": "2.Yahan Kabhi Barsaat Nahi Hoti...",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mm410r2snd7nboZXM9N42ChmnpQ.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e3.mkv",
+                             "stitle": "3.Main Hi Nigal Gayi Apne Khasam Ko",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/14Ev7KSjkeh5YPd8v9Dfe2UQJx2.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e4.mkv",
+                             "stitle": "4.Pehle Shila Tooti Ya Vishwas?",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/6EIZynU8PUsTEtd6lXerCcE5X8J.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e5.mkv",
+                             "stitle": "5.Chaar Ho Gayo Parimal",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/c0B1r5aqUgPjxWIaSvFKkGIqGmz.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e6.mkv",
+                             "stitle": "6.Raakan-Raakan, Ridhiyakan",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/A5QidviI0JNsYoKOJpuC96znnIP.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e7.mkv",
+                             "stitle": "7.Sota Mayavi Ne Jagaavegi",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/l85er7l8LuhxLDR4Nusfkocvw68.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e8.mkv",
+                             "stitle": "8.Aur Tu Seedhe Jageyi Paatal Lok",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dXNDJwQWPcgVEZ2R7qYSmYsAVwW.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e9.mkv",
+                             "stitle": "9.Ussko Rokna Padega, Avani!",
+                             "stime": "52m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xqxcnjWnbNuPUgKBuPy4gAjdjly.jpg",
+                             "ssubtitle":"/Indian drama/Dahan Raakan Ka Rahasya 2022/season 1/s1e9.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://myimg.bid/images/2022/09/17/Dahan-Raakan-Ka-Rahasya-2022.jpg",
+        "genres": "Mystery,Hindi,Indian,Dramas,Thriller",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1265156633/?ref_=ext_shr_lnk",
+        "cast": "Tisca Chopra,Rajesh Tailang...more"
+    },
+
+    {
+        "name": "House of the Dragon",
+        "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/House of the dragon/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/House of the dragon/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e1.mkv",
+                             "stitle": "1.The Heirs of the Dragon",
+                             "stime": "1h 6m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7gHqMO96iyTEBh6fCL3GUHxbhKZ.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e2.mkv",
+                             "stitle": "2.The Rogue Prince",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uyWlPCKMPcjxjiKY6xFKtdbkFSR.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e3.mkv",
+                             "stitle": "3.Second of His Name",
+                             "stime": "1h 3m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fP1HCPFgwfXCcGHhjhgf0sndWAH.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e4.mkv",
+                             "stitle": "4.King of the Narrow Sea",
+                             "stime": "1h 3m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mW2a20R8VZqENHAmz47x21FCoYV.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e5.mkv",
+                             "stitle": "5.We Light the Way",
+                             "stime": "1h",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xee6kQm6uMiGKHMCKZpFGVIAGe7.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e6.mkv",
+                             "stitle": "6.The Princess and the Queen",
+                             "stime": "1h 7m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lcBTDoCkBTJAdi8VagMQdzB6RYi.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e7.mkv",
+                             "stitle": "7.Driftmark",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xA7nljMF7gkV4YMvnuOlsenFuSl.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e8.mkv",
+                             "stitle": "8.cooming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e9.mkv",
+                             "stitle": "9.coming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e10.mkv",
+                             "stitle": "10.coming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX250.jpg",
+        "genres": "Action,Adventure,Dramas,Fantasy,Romance,English,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1637073689/?ref_=ext_shr_lnk",
+        "cast": "Paddy Considine,Olivia Cooke...more"
+    },
+
+    {
+        "name": "DOTA: Dragon's Blood",
+        "description": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined.",
+        "ageRestriction": "16",
+        "video": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.mp4",
+                             "stitle": "1.What the Thunder Said",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODdjOTRjYzktYTlkNC00MTM2LWI2MjAtODBiOGFiMDI0YmUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY126_CR21,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.mp4",
+                             "stitle": "2.Princess of Nothing",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGY1Y2RhMTMtMTc2MC00MzhkLTg5M2QtYWY4OTUyNzlkOWE0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.mp4",
+                             "stitle": "3.Neverwhere Land",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMGQyNDNhNGUtMGU4Mi00YTQzLWE1OGQtNTg2ZGE3MzNiNzg4XkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.mp4",
+                             "stitle": "4.The Monster at the End of This Book",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTA0ZjVjYjUtYzlhMS00NTk0LWE3YjYtMzRhZjE5MGI5ODcxXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.mp4",
+                             "stitle": "5.The Fire Sermon",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOGE5ZWYzZWYtMzYyMi00ZGY5LWE4NjAtMDIwZGI0YjBkOTBlXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.mp4",
+                             "stitle": "6.The Knight, Death and the Devil",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzExMTEwN2UtZDUyYS00NmM3LWE5ZWEtNmNiNjgwZmM4ZWFkXkEyXkFqcGdeQXVyNDQxMjI4MTg@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.mp4",
+                             "stitle": "7.Speak the Words",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTc5OWQwZjQtYThlMC00OTBiLTk3MDgtZDI4MGE4ZDFiYmNhXkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.mp4",
+                             "stitle": "8.A Game of Chess",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYmQ4MTUxNzAtMjA1Mi00MDU1LWI4ZTEtYWY1MWQzMGRhMmQ3XkEyXkFqcGdeQXVyMjQ3MjU3NTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.mp4",
+                             "stitle": "1.Nothing with Nothing",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzE4OTZiNDUtZDlhYS00YmQxLWFjMWEtOGY4YmJiZTAzN2FjXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.mp4",
+                             "stitle": "2.My Sword, My Life",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWRhMWY1MjYtNDcwMy00Yjk0LTgzYzUtMmQzODY3ZGEzMGQzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.mp4",
+                             "stitle": "3.The Lady of Situations",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmFiNjkwMDEtZTAxZi00NjY4LThmZDQtMGZjMjZhZjljMDY1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.mp4",
+                             "stitle": "4.Desolate and Empty the Sea",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjE3Mzc3NzktNDRkNS00YmNjLWI5ODUtYjI1NGM1N2ZiODk1XkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.mp4",
+                             "stitle": "5.The Burial of the Dead",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTA5N2U3MzItMjkwZS00MTZhLWFmYmUtMTc5ZmY3YzhlYjFiXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.mp4",
+                             "stitle": "6.The Hyacinth Girl",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFlOGFmZjEtNDgxYS00ZmYyLTk0YWUtZWU4N2E0NTA0ZjQxXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.mp4",
+                             "stitle": "7.The Violet Hour",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2RjYzNiM2MtNWM4Yy00NzcwLTkwMTEtOTRjNmMzZTIwN2VmXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.mp4",
+                             "stitle": "8.Unreal City",
+                             "stime": "27m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYjk3Njc2ZTUtYjU1NS00NWJmLThiYmEtMTk5ZGQ0MzMwZDIzXkEyXkFqcGdeQXVyMTIzNzg2Mjkz._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 2/s2e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e1.mp4",
+                             "stitle": "1.The Wind Under the Door",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTc0YjM0NGItZDIzZi00YjNmLWI1YzctNWRlYTNlNmZjNjljXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e1.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e2.mp4",
+                             "stitle": "2.Hell of Hells",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNWVhOTA3NzktOTU3NC00NGIwLWEzYzctMTI3N2M4NTFkNDE3XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e2.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e3.mp4",
+                             "stitle": "3.This Stranger's Life",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTQxNDgyZDItYWExMS00M2U3LTllZDgtYjRmZjU2MjA0MTQ5XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e3.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e4.mp4",
+                             "stitle": "4.The Hanged Man",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTFkOTdhMDAtMGYxMi00MWQ5LWJjM2MtODU3YzllZDBlZTNiXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e4.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e5.mp4",
+                             "stitle": "5.Summons of the Ideal",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTIxM2I1NzctODc2Yy00ZDE2LTk0ZjgtNWRhZTk4NmExZmM0XkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e5.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e6.mp4",
+                             "stitle": "6.Twelve Thousand, Four Hundred and Three",
+                             "stime": "25m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzVjNjg3ZWQtMGMyMi00YmU0LTg1OTQtN2M5ODAyNGEwN2ZlXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e6.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e7.mp4",
+                             "stitle": "7.Lunartropism",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWMwNzY5ZjQtNmM1Ni00NjgyLTkyMWYtMzYzZWZhNTQ4YjM1XkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e7.srt"
+                         },
+                         {
+                             "svideos": "/Anime/DOTA_ Dragon_s Blood/season 3/s3e8.mp4",
+                             "stitle": "8.Consider Phlebas",
+                             "stime": "28m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWMxNjEyNWItMzhlNy00Y2U3LTlkNDktNGI2ZGQ1MTVkNWFhXkEyXkFqcGdeQXVyMjY5OTUxNDc@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Anime/DOTA_ Dragon_s Blood/season 3/s3e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+        "genres": "Si-Fi,Fantasy,Action,Adventure,Anime,English,Japanese",
+        "releaseDate": "2021",
+        "trailer": "https://www.imdb.com/video/vi105693465/?ref_=ext_shr_lnk",
+        "cast": "Troy Baker,Yuri Lowenthal...more"
+    },
 
     {
         "name": "Jamtara – Sabka Number Ayega",
