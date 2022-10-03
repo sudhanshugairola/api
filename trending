@@ -1,6 +1,21 @@
 [   
     
     {
+	    "name": "Lou",
+	    "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Lou/Lou.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@.__V1._SX250.jpg",
+	    "genres": "Action,Crime,Dramas,Mystery,Thriller,Hindi,English,Tamil,Hollywood,Us",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi25084441/?ref_=ext_shr_lnk",
+	    "cast": "Allison Janney,Logan Marshall-Green... more",
+        "time":"1h 47m",
+        "subtitle":"/Hollywood Movies/Lou/Lou.English (CC).srt"
+	},
+
+    {
 	    "name": "Thor: Love and Thunder",
 	    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
 	    "ageRestriction": "16",
@@ -840,6 +855,94 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
      },
+
+     {
+        "name": "Dahmer",
+        "description": "This series follows the Serial killer, rapist, necrophiliac and Paedophile Jeffery Dahmer who targeted primarily young Black and Asian men in between 1978–1991 with his youngest victim being 14 years old the series follows his actions in graphic detail including the decapitation and necrophilia Dahmer performed on his victims while also dealing with the failure and racism that is prevalent within the police department.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Dahmer/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Dahmer/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e1.mp4",
+                             "stitle": "1.Episode One",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDljM2FlYmYtODA2Ny00Yjc1LTljNzgtMDIzYzQxZGY0N2ZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e2.mp4",
+                             "stitle": "2.Please Don't Go",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTE1NmFjM2UtMTM1Ni00ZDUzLWFkOTYtZGM1OGJiOWY0ZTVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e3.mp4",
+                             "stitle": "3.Doin' A Dahmer",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzY4MzkwNzQtZTQzYy00ZTg0LThkYjEtYzA2Y2U1MTgwNzcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e4.mp4",
+                             "stitle": "4.The Good Boy Box",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDk1NDc1ZjEtODA5OC00OTZhLWJkOWQtYzU4ODFlODIyNjU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e5.mp4",
+                             "stitle": "5.Blood On Their Hands",
+                             "stime": "1h",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODkyZmY4N2ItMDliNS00MjE2LWJkYzItNTYyYmMwY2QyYTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e6.mp4",
+                             "stitle": "6.Silenced",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmNmMjBjZGQtNjQ1Yy00ZDhiLTk1ZmMtMjA0MGJiMGEzMDBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e7.mp4",
+                             "stitle": "7.Cassandra",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmJhNDkyNWYtMjkzNC00NzQwLWE3ZTAtNzI5MmUyOTZhNWYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e8.mp4",
+                             "stitle": "8.Lionel",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTI4ZDFkOTEtYjg5OS00ODc4LTg0ZDQtNzM5MzRmZjM2NTExXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e9.mp4",
+                             "stitle": "9.The Bogeyman",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTBjN2E5NGQtYjA1YS00MGE0LWFjMDEtYWU5MmY5YTAxNmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Dahmer/season 1/s1e10.mp4",
+                             "stitle": "10.God of Forgiveness, God of Vengeance",
+                             "stime": "55m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGE0NDkyNTctOTNkOC00YjMxLWE3YTgtODVjYzc5ODZhZWUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Dahmer/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.__V1._SX250.jpg",
+        "genres": "Biography,Crime,Dramas,Thriller,Hollywood,English,Hindi",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi861717017/?ref_=ext_shr_lnk",
+        "cast": "Evan Peters,Richard Jenkins...more"
+    },
 
      {
         "name": "Santo",
