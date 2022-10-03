@@ -224,8 +224,96 @@
         "time":"2h 27m",
         "subtitle":"/Hollywood Movies/R_I_P_D/R_I_P_D.English (CC).srt"
     },
-    
-        {
+
+    {
+        "name": "House of the Dragon",
+        "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/House of the dragon/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/House of the dragon/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e1.mkv",
+                             "stitle": "1.The Heirs of the Dragon",
+                             "stime": "1h 6m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7gHqMO96iyTEBh6fCL3GUHxbhKZ.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e2.mkv",
+                             "stitle": "2.The Rogue Prince",
+                             "stime": "54m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uyWlPCKMPcjxjiKY6xFKtdbkFSR.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e3.mkv",
+                             "stitle": "3.Second of His Name",
+                             "stime": "1h 3m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fP1HCPFgwfXCcGHhjhgf0sndWAH.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e4.mkv",
+                             "stitle": "4.King of the Narrow Sea",
+                             "stime": "1h 3m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mW2a20R8VZqENHAmz47x21FCoYV.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e5.mkv",
+                             "stitle": "5.We Light the Way",
+                             "stime": "1h",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xee6kQm6uMiGKHMCKZpFGVIAGe7.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e6.mkv",
+                             "stitle": "6.The Princess and the Queen",
+                             "stime": "1h 7m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lcBTDoCkBTJAdi8VagMQdzB6RYi.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e7.mkv",
+                             "stitle": "7.Driftmark",
+                             "stime": "58m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xA7nljMF7gkV4YMvnuOlsenFuSl.jpg",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e8.mkv",
+                             "stitle": "8.cooming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e9.mkv",
+                             "stitle": "9.coming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/House of the dragon/season 1/s1e10.mkv",
+                             "stitle": "10.coming soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX250.jpg",
+        "genres": "Action,Adventure,Dramas,Fantasy,Romance,English,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1637073689/?ref_=ext_shr_lnk",
+        "cast": "Paddy Considine,Olivia Cooke...more"
+    },
+
+    {
         "name": "Seinfeld",
         "description": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
         "ageRestriction": "16",
@@ -1462,8 +1550,8 @@
         "trailer": "https://www.imdb.com/video/vi4273980185/?ref_=ext_shr_lnk",
         "cast": "Jerry Seinfeld,Jason Alexander...more"
        },
-    
-        {
+
+    {
         "name": "The Good Doctor",
         "description": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
         "ageRestriction": "16",
