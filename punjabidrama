@@ -1,6 +1,21 @@
 [
     
     {
+	    "name": "Yaar Mera Titliaan Warga",
+	    "description": "Yaar Mera Titliaan Warga is the story of a couple who, after 6 years of marriage, are bored with each other. To spice things up, both of them open fake Facebook accounts. But things go sideways when, accidentally, they befriend each other on FB. This Comedy of Errors takes them on a humorous as well as emotional ride.",
+	    "ageRestriction": "13",
+	    "video": "/Punjabi/Yaar Mera Titliaan Warga 2022/Yaar Mera Titliaan Warga 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGZjZjk5MTYtMTFhMy00Mjk3LWFkMWUtNTAzNzNhOTU4NDNjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Indian,Punjabi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1460388377/?ref_=ext_shr_lnk",
+	    "cast": "Gippy Grewal,Karamjit Anmol... more",
+        "time":"1h 50m",
+        "subtitle":"/Punjabi/Yaar Mera Titliaan Warga 2022/Yaar Mera Titliaan Warga 2022.srt"
+	},
+
+    {
 	    "name": "Lover",
 	    "description": "Lally is madly in love with his schoolmate Heer. Things take an interesting turn when Heer and Lally are separated from each other.",
 	    "ageRestriction": "13",
@@ -329,8 +344,8 @@
         "time":"2h 30m",
         "subtitle":"/Punjabi/Qismat 2/Qismat 2.srt"
     },
-    
-   {
+
+    {
         "name": "Zila Sangrur",
         "description": "Three friends Pargat, Goldy, and Jeeta who all are involved in illegal activities. Their lives take a gripping turn when they kill the accomplice of Balbir, a well-known man of Chandigarh, who is now after them.",
         "ageRestriction": "16",
@@ -397,7 +412,7 @@
         "cast": "Babbal Rai,Raghveer Boli...more"
     },
 
-    {
+	{
         "name": "Yaar Jigree Kasooti Degree",
         "description": "The web series revolves around the lives of university students.",
         "ageRestriction": "16",
