@@ -314,6 +314,80 @@
     },
 
     {
+        "name": "The Lord of the Rings: The Rings of Power",
+        "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Lord Of The Rings/season 1/s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e1.mkv",
+                             "stitle": "1.A Shadow of the Past",
+                             "stime": "1h 5m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjUyZTljNGYtYjZkYy00YTYwLTg2ZjItMGQyN2VmZmE3ZmQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e2.mkv",
+                             "stitle": "2.Adrift",
+                             "stime": "1h 7m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBmOTM0NzYtODc4Yi00NmViLTkxMWEtZjIzMzEwY2U5ZTRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR40,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e3.mkv",
+                             "stitle": "3.Adar",
+                             "stime": "1h 9m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNThkMDcyNzgtYzU5ZS00ZjVkLWI5MGMtNzdkMTM5NmU0NGM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e4.mkv",
+                             "stitle": "4.The Great Wave",
+                             "stime": "1h 11m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzVlNTNjZjAtYzRlZS00OGFjLWIyOWQtNzg2ZTNiMDJhZDc0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR38,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e5.mkv",
+                             "stitle": "5.Partings",
+                             "stime": "1h 12m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTAxYTIyOTYtY2Q5OS00OTAzLWFlZDQtZmFjNzQ2MWNlYmE4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR38,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e6.mkv",
+                             "stitle": "6.Udûn",
+                             "stime": "1h 9m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWU1Yzg0OTYtMmRjMy00OTZhLTkyMDktNzMyMTI3YmY2YjRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e7.mkv",
+                             "stitle": "7.Coming Soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e8.mkv",
+                             "stitle": "8.Coming Soon",
+                             "stime": "m",
+                             "simage": "",
+                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX250.jpg",
+        "genres": "Si-Fi,Action,Adventure,Dramas,Fantasy,Hollywood,Hindi,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi690799129/?ref_=ext_shr_lnk",
+        "cast": "Morfydd Clark,Robert Aramayo,Nazanin Boniadi...more"
+       },
+
+    {
         "name": "Seinfeld",
         "description": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
         "ageRestriction": "16",
