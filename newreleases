@@ -1,5 +1,34 @@
 [   
     
+    {
+	    "name": "Ranga Ranga Vaibhavanga",
+	    "description": "Two childhood sweethearts love to hate each other due to their egos. What happens when they reconcile but their families begin warring each other instead?",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/ranga-ranga-vaibhavanga/Ranga ranga vaibhavanga.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODhlMzA2MWEtODk3Ni00YjIzLWE4ZTgtNDM1ODkyY2IwNjJmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Romance,Hindi,South,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi996196889/?ref_=ext_shr_lnk",
+	    "cast": "Panja Vaisshnav Tej,Ketika Sharma... more",
+        "time":"2h 2m",
+        "subtitle":"/Hindi_Movies/ranga-ranga-vaibhavanga/Ranga ranga vaibhavanga.srt"
+	},
+
+    {
+	    "name": "Karthikeya 2",
+	    "description": "Before the Kalyug begins, Lord Krishna hands over an anklet that holds the answer to all of world’s miseries. Years later a doctor finds himself in the thick of things when the pursuit for the anklet carries on. A doctor with a curious mind, Karthikeya, aka Karthik, believes in pursuing the truth. The quest leads Karthik to discover the power of the ancient Indian belief system and the essence of Krishna.",
+	    "ageRestriction": "13",
+	    "video": "/Telgu/Karthikeya 2 2022/Karthikeya 2 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDZmYWE1ODUtZGFiNy00ZjA4LTkxZGQtNDhjYWRiNWFiNWNmXkEyXkFqcGdeQXVyMTUwNzA0MTIw._V1._SX250.jpg",
+	    "genres": "Action,Adventure,Fantasy,Mystery,Thriller,Hindi,Telugu,South,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3240935961/?ref_=ext_shr_lnk",
+	    "cast": "Nikhil Siddharth,Anupama Parameswaran... more",
+        "time":"2h 25m",
+        "subtitle":"/Telgu/Karthikeya 2 2022/Karthikeya 2 2022.srt"
+	},
     
     {
 	    "name": "Vikram Vedha 2022",
@@ -1008,56 +1037,56 @@
              ],
              [
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e1.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e1.mkv",
                                  "stitle": "1.S2 Episode 1",
                                  "stime": "43m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9pGRDbUgxpQgAlSZusOLX4XUcWs.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e1.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e2.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e2.mkv",
                                  "stitle": "2.S2 Episode 2",
                                  "stime": "38m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/y1KkgulehtJiQQX4VJxiff7GQJi.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e2.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e3.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e3.mkv",
                                  "stitle": "3.S2 Episode 3",
                                  "stime": "38m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/5r2tpWJLSSzSBKp5rrGCLfQB5mB.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e3.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e4.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e4.mkv",
                                  "stitle": "4.S2 Episode 4",
                                  "stime": "41m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oh20GLiUfgevwwmcSGqSnq532b0.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e4.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e5.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e5.mkv",
                                  "stitle": "5.S2 Episode 5",
                                  "stime": "41m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ehxhEL2HIiD1v5dktthTyQQoiVV.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e5.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e6.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e6.mkv",
                                  "stitle": "6.S2 Episode 6",
                                  "stime": "41m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/laA56ko8FfJ7DgHK2xxYunEVhL1.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e6.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e7.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e7.mkv",
                                  "stitle": "7.S2 Episode 7",
                                  "stime": "48m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mWtNttlhZebAxmSaWyvHP2apQR3.jpg",
                                  "ssubtitle":"/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e7.srt"
                              },
                              {
-                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e8.mp4",
+                                 "svideos": "/Indian drama/Jamtara Sabka Number Ayega/season 2/s2e8.mkv",
                                  "stitle": "8.S2 Episode 8",
                                  "stime": "54m",
                                  "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zXlHoTAzPKh4IoifcutHF6kNhIC.jpg",
