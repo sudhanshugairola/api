@@ -1,6 +1,21 @@
 [    
     
     {
+	    "name": "Need for Speed",
+	    "description": "The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Need for speed 2014/Need for speed 2014.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1._SX250.jpg",
+	    "genres": "Action,Crime,Dramas,Thriller,English,Hindi,Hollywood",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi676243737/?ref_=ext_shr_lnk",
+	    "cast": "Aaron Paul,Dominic Cooper... more",
+        "time":"2h 12m",
+        "subtitle":"/Hollywood Movies/Need for speed 2014/Need for speed 2014.srt"
+	},
+    
+    {
 	    "name": "Restless",
 	    "description": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
 	    "ageRestriction": "13",
