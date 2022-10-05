@@ -17,6 +17,36 @@
 	},
 
     {
+	    "name": "Ranga Ranga Vaibhavanga",
+	    "description": "Two childhood sweethearts love to hate each other due to their egos. What happens when they reconcile but their families begin warring each other instead?",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/ranga-ranga-vaibhavanga/Ranga ranga vaibhavanga.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODhlMzA2MWEtODk3Ni00YjIzLWE4ZTgtNDM1ODkyY2IwNjJmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
+	    "genres": "Comedy,Dramas,Romance,Hindi,South,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi996196889/?ref_=ext_shr_lnk",
+	    "cast": "Panja Vaisshnav Tej,Ketika Sharma... more",
+        "time":"2h 2m",
+        "subtitle":"/Hindi_Movies/ranga-ranga-vaibhavanga/Ranga ranga vaibhavanga.srt"
+	},
+
+    {
+	    "name": "Karthikeya 2",
+	    "description": "Before the Kalyug begins, Lord Krishna hands over an anklet that holds the answer to all of world’s miseries. Years later a doctor finds himself in the thick of things when the pursuit for the anklet carries on. A doctor with a curious mind, Karthikeya, aka Karthik, believes in pursuing the truth. The quest leads Karthik to discover the power of the ancient Indian belief system and the essence of Krishna.",
+	    "ageRestriction": "13",
+	    "video": "/Telgu/Karthikeya 2 2022/Karthikeya 2 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDZmYWE1ODUtZGFiNy00ZjA4LTkxZGQtNDhjYWRiNWFiNWNmXkEyXkFqcGdeQXVyMTUwNzA0MTIw._V1._SX250.jpg",
+	    "genres": "Action,Adventure,Fantasy,Mystery,Thriller,Hindi,Telugu,South,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3240935961/?ref_=ext_shr_lnk",
+	    "cast": "Nikhil Siddharth,Anupama Parameswaran... more",
+        "time":"2h 25m",
+        "subtitle":"/Telgu/Karthikeya 2 2022/Karthikeya 2 2022.srt"
+	},
+
+    {
 	    "name": "Viswasam 2019",
 	    "description": "A village ruffian, who settles disputes in his native, takes on a big shot when he tries to sort out the rough patch in his marriage after several years.",
 	    "ageRestriction": "13",
