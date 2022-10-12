@@ -46,6 +46,21 @@
 	},
 
     {
+	    "name": "Raksha Bandhan",
+	    "description": "Lala Kedarnath is blessed with 4 sisters. But his only worry is to find suitable grooms for each of them, as only then can he marry his childhood love. To what lengths will he go to succeed?",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Raksha Bandhan/Raksha Bandhan.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjI0ZWNiOTUtOTlhNy00YzY4LTg2YTAtYjQzNDQwOTZkYjUxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX100.jpg",
+	    "genres": "Comedy,Dramas,Family,Hindi,Bollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi903856665/?ref_=ext_shr_lnk",
+	    "cast": "Akshay Kumar,Bhumi Pednekar... more",
+        "time":"1h 50m",
+        "subtitle":"/Hindi_Movies/Raksha Bandhan/Raksha Bandhan.srt"
+	},
+
+    {
 	    "name": "Viswasam 2019",
 	    "description": "A village ruffian, who settles disputes in his native, takes on a big shot when he tries to sort out the rough patch in his marriage after several years.",
 	    "ageRestriction": "13",
@@ -286,155 +301,94 @@
 	},
 
     {
-	    "name": "777 Charlie",
-	    "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/777 Charlie/777 Charlie.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1._SX250.jpg",
-	    "genres": "Adventure,Comedy,Dramas,South,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3431842329/?ref_=ext_shr_lnk",
-	    "cast": "Rakshit Shetty,Raj B Shetty... more",
-        "time":"2h 46m",
-        "subtitle":"/Hindi_Movies/777 Charlie/777 Charlie.srt"
-	},
-
-    {
-	    "name": "Sherdil",
-	    "description": "Inspired by the real events that took place in the Pilibhit Tiger Reserve where people used to leave their elderly family members for tigers to prey on, and then claim compensation from the administration.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Sherdil_ The Pilibhit Saga/Sherdil_ The Pilibhit Saga.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzZmYmUyNzUtNjNkZi00MjkwLWE5ZTktNDhlODYzZTY1NWY4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
-	    "genres": "Comedy,Dramas,Hindi,Indian,Bollywood",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1055244825/?ref_=ext_shr_lnk",
-	    "cast": "Pankaj Tripathi,Sayani Gupta... more",
-        "time":"2h 1m",
-        "subtitle":"/Hindi_Movies/Sherdil_ The Pilibhit Saga/Sherdil_ The Pilibhit Saga.English.srt"
-	},
-
-    {
-	    "name": "Shamshera",
-	    "description": "Set in the 1800s, the film is about a dacoit tribe who take charge in fight for their rights and independence against the British.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Shamshera/Shamshera 2022.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODVlNWNmN2EtYWJlYy00ZTc5LThjMTItYTQ0ZTlmZDYwN2VjXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1._SX250.jpg",
-	    "genres": "Action,Dramas,Adventure,Bollywood,Indian,Hindi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi264946201/?ref_=ext_shr_lnk",
-	    "cast": "Ranbir Kapoor,Sanjay Dutt... more",
-        "time":"2h 38m",
-        "subtitle":"/Hindi_Movies/Shamshera/Shamshera 2022.srt"
-	},
-
-    {
-	    "name": "Jug Jugg Jeeyo",
-	    "description": "Two couples from different generations confront their issues after marriage.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTg5YjlkZmItZWZjOC00ZWQ5LTk2MjctYmI2ZGYzODY0N2ZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1._SX250.jpg",
-	    "genres": "Comedy,Dramas,Bollywood,Indian,Hindi",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi3958882841/?ref_=ext_shr_lnk",
-	    "cast": "Anil Kapoor,Neetu Singh... more",
-        "time":"2h 28m",
-        "subtitle":"/Hindi_Movies/JugJugg Jeeyo/JugJugg Jeeyo.srt"
-	},
-
-    {
-	    "name": "Rashtra Kavach Om",
-	    "description": "Om, a special forces para commando officer, loses his memory while fighting enemies. After recovering from amnesia, Om is on a mission to save the nation from terrorists. As he fights the challenges the mission presents, he learns a shocking truth about his life.",
-	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2E5ZGU1NzktNzg3Ny00NDAzLTgxZjgtZjNiZjdhZjAxMWFmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
-	    "genres": "Action,Thriller,Dramas,Bollywood,Hindi,Indian",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1089454617/?ref_=ext_shr_lnk",
-	    "cast": "Aditya Roy Kapur,Sanjana Sanghi... more",
-        "time":"2h 15m",
-        "subtitle":"/Hindi_Movies/Rashtra Kavach Om/Rashtra Kavach Om.srt"
-	},
-
-    {
-        "name": "The Lord of the Rings: The Rings of Power",
-        "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+        "name": "The Midnight Club",
+        "description": "At a manor with a mysterious history, the 8 members of the Midnight Club meet each night at midnight to tell sinister stories – and to look for signs of the supernatural from the beyond.",
         "ageRestriction": "16",
-        "video": "/Hollywood series/The Lord Of The Rings/season 1/s1e1.mkv",
+        "video": "/Hollywood series/The Midnight /season 1/s1e1.mp4",
         "series": "yes",
-        "subtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e1.srt",
+        "subtitle":"/Hollywood series/Control Z/season 1/s1e1.srt",
          "seriess":[
              [
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e1.mkv",
-                             "stitle": "1.A Shadow of the Past",
-                             "stime": "1h 5m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZjUyZTljNGYtYjZkYy00YTYwLTg2ZjItMGQyN2VmZmE3ZmQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR1,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e1.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e1.mp4",
+                             "stitle": "1.The Final Chapter",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTk2MzY4ZWItZTIyNi00NTViLWE5NzYtYTQ3YmE3ZWRlOTYyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e2.mkv",
-                             "stitle": "2.Adrift",
-                             "stime": "1h 7m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZTBmOTM0NzYtODc4Yi00NmViLTkxMWEtZjIzMzEwY2U5ZTRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR40,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e2.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e2.mp4",
+                             "stitle": "2.The Two Danas",
+                             "stime": "54m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDNmNmQ5MmMtNTMzNC00ZWMzLWEwMmEtYmYyZDRlMjhhZWUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e3.mkv",
-                             "stitle": "3.Adar",
-                             "stime": "1h 9m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNThkMDcyNzgtYzU5ZS00ZjVkLWI5MGMtNzdkMTM5NmU0NGM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e3.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e3.mp4",
+                             "stitle": "3.The Wicked Heart",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWU0YThkMTYtZDQ1ZS00ZWYwLTgxY2UtNGM1M2JiMmNkOTllXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e4.mkv",
-                             "stitle": "4.The Great Wave",
-                             "stime": "1h 11m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BYzVlNTNjZjAtYzRlZS00OGFjLWIyOWQtNzg2ZTNiMDJhZDc0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR38,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e4.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e4.mp4",
+                             "stitle": "4.Gimme a Kiss",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzE5MThjZGItZTU0Ni00ODQ2LWI1YTAtZjJmNzNlZDgzYjJjXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e5.mkv",
-                             "stitle": "5.Partings",
-                             "stime": "1h 12m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BOTAxYTIyOTYtY2Q5OS00OTAzLWFlZDQtZmFjNzQ2MWNlYmE4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY126_CR38,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e5.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e5.mp4",
+                             "stitle": "5.See You Later",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjA1ZGQ5NjUtZmNiNi00MDdlLTlhZmQtNTU2YmNiMGY1MzM1XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e6.mkv",
-                             "stitle": "6.Udûn",
-                             "stime": "1h 9m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMWU1Yzg0OTYtMmRjMy00OTZhLTkyMDktNzMyMTI3YmY2YjRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e6.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e6.mp4",
+                             "stitle": "6.Witch",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTIwN2Q1MzktZWFiNy00MjYzLTg4MTEtYjhjZTgwZTBjODkxXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e6.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e7.mkv",
-                             "stitle": "7.Coming Soon",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e7.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e7.mp4",
+                             "stitle": "7.Anya",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/klNfi3vkdzWRjj0cmjATpYMxSGO.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e7.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/The Lord Of The Rings/season 1/s1e8.mkv",
-                             "stitle": "8.Coming Soon",
-                             "stime": "m",
-                             "simage": "",
-                             "ssubtitle":"/Hollywood series/The Lord Of The Rings/season 1/s1e8.srt"
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e8.mp4",
+                             "stitle": "8.Road to Nowhere",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM1MDc0Y2EtNTdlZC00NWZkLWI4OTYtMDgwMGIzZTYwYjA3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR12,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e9.mp4",
+                             "stitle": "9.The Eternal Enemy",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDYzMTNiZTAtZjg2Mi00YmVmLTgyZjMtNzI3NmUzYmI0NDc5XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Control Z/season 1/s1e10.mp4",
+                             "stitle": "10.Midnight",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWRjYWRjYjAtNTU3Yy00ODRmLTliNGItN2U0MDE2NjQwMGUzXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR17,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e10.srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX250.jpg",
-        "genres": "Si-Fi,Action,Adventure,Dramas,Fantasy,Hollywood,Hindi,English",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc5OGU1YjItZmVhZi00NmE3LTk0ZWEtZDE1OGJjMTMzNDY2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX100.jpg",
+        "genres": "Dramas,Horror,Mystery,Thriller,English,Hindi,Hollywood,Spanish",
         "releaseDate": "2022",
-        "trailer": "https://www.imdb.com/video/vi690799129/?ref_=ext_shr_lnk",
-        "cast": "Morfydd Clark,Robert Aramayo,Nazanin Boniadi...more"
-       },
+        "trailer": "https://www.imdb.com/video/vi4267688473/?ref_=ext_shr_lnk",
+        "cast": "Iman Benson,Igby Rigney...more"
+    },
 
-       {
+    {
         "name": "Criminal Justice: Adhura Sach",
         "description": "Madhav Mishra is back to fight his toughest case yet nothing is simple and straightforward. Will justice win",
         "ageRestriction": "18",
@@ -494,9 +448,9 @@
                          },
                          {
                             "svideos": "/Indian drama/Criminal Justice/season 3/s3e8.mkv",
-                            "stitle": "8.coming soon",
-                            "stime": "m",
-                            "simage": "",
+                            "stitle": "8.Nothing but the Truth",
+                            "stime": "38m",
+                            "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xnfSFGy7Fc4MzGuHxJ7ojLeF12r.jpg",
                             "ssubtitle":"/Indian drama/Criminal Justice/season 1/s1e2.srt"
                          }
              ]
