@@ -1,4 +1,20 @@
 [   
+
+
+    {
+	    "name": "Plan A Plan B",
+	    "description": "When an earnest matchmaker moves into an office next to a cynical divorce attorney, their bitter conflict is complicated by a growing attraction.",
+	    "ageRestriction": "16",
+	    "video": "/Hindi_Movies/Plan A Plan B/Plan A Plan B.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjRkNTIxNzItZWNmMi00ZjI4LWI4NzgtN2U1MTI3OTAzMzRkXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX200.jpg",
+	    "genres": "Comedy,Romance,Hindi,Indian,Telugu,Tamil,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1264042521/?ref_=ext_shr_lnk",
+	    "cast": "Ritesh Deshmukh,Tamannaah Bhatia... more",
+        "time":"1h 46m",
+        "subtitle":"/Hindi_Movies/Plan A Plan B/Plan A Plan B.English.srt"
+	},
     
     {
 	    "name": "Ranga Ranga Vaibhavanga",
@@ -6,7 +22,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/ranga-ranga-vaibhavanga/Ranga ranga vaibhavanga.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODhlMzA2MWEtODk3Ni00YjIzLWE4ZTgtNDM1ODkyY2IwNjJmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODhlMzA2MWEtODk3Ni00YjIzLWE4ZTgtNDM1ODkyY2IwNjJmXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1._SX200.jpg",
 	    "genres": "Comedy,Dramas,Romance,Hindi,South,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi996196889/?ref_=ext_shr_lnk",
@@ -21,7 +37,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Telgu/Karthikeya 2 2022/Karthikeya 2 2022.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDZmYWE1ODUtZGFiNy00ZjA4LTkxZGQtNDhjYWRiNWFiNWNmXkEyXkFqcGdeQXVyMTUwNzA0MTIw._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDZmYWE1ODUtZGFiNy00ZjA4LTkxZGQtNDhjYWRiNWFiNWNmXkEyXkFqcGdeQXVyMTUwNzA0MTIw._V1._SX200.jpg",
 	    "genres": "Action,Adventure,Fantasy,Mystery,Thriller,Hindi,Telugu,South,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3240935961/?ref_=ext_shr_lnk",
@@ -36,7 +52,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hindi_Movies/Vikram Vedha 2022/Vikram Vedha 2022.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmFjMjA4ZTgtYzVhZS00ZGEzLWEzMzItMWRiNjE0ZjQxZDcyXkEyXkFqcGdeQXVyODY3NzQyNDk@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNmFjMjA4ZTgtYzVhZS00ZGEzLWEzMzItMWRiNjE0ZjQxZDcyXkEyXkFqcGdeQXVyODY3NzQyNDk@._V1._SX200.jpg",
 	    "genres": "Action,Crime,Dramas,Thriller,Indian,Bollywood,Hindi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi4266770969/?ref_=ext_shr_lnk",
@@ -66,7 +82,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Viswasam 2019/Viswasam 2019.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTQ1YzY5ZTYtYjI1YS00ZGIyLWE1NWQtNzgyNjcyNGUyNmI0XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTQ1YzY5ZTYtYjI1YS00ZGIyLWE1NWQtNzgyNjcyNGUyNmI0XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1._SX200.jpg",
 	    "genres": "Action,Dramas,Indian,South,Hindi,Tamil",
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi2619456025/?ref_=ext_shr_lnk",
@@ -81,7 +97,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Anime movies/Jujutsu Kaisen 0 2021/Jujutsu Kaisen 0 2021.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzFmMjAwMDYtNzM0Zi00NjY2LWFjMjYtMGQ1OTRiZjk5YjJkXkEyXkFqcGdeQXVyMTMwODY5NDc2.__V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzFmMjAwMDYtNzM0Zi00NjY2LWFjMjYtMGQ1OTRiZjk5YjJkXkEyXkFqcGdeQXVyMTMwODY5NDc2.__V1._SX200.jpg",
 	    "genres": "Anime,Action,Fantasy,Dramas,English,Japanese",
 	    "releaseDate": "2021",
 	    "trailer": "https://www.imdb.com/video/vi3140666137/?ref_=ext_shr_lnk",
@@ -96,7 +112,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Punjabi/Yaar Mera Titliaan Warga 2022/Yaar Mera Titliaan Warga 2022.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGZjZjk5MTYtMTFhMy00Mjk3LWFkMWUtNTAzNzNhOTU4NDNjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGZjZjk5MTYtMTFhMy00Mjk3LWFkMWUtNTAzNzNhOTU4NDNjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
 	    "genres": "Comedy,Dramas,Indian,Punjabi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1460388377/?ref_=ext_shr_lnk",
@@ -111,10 +127,10 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Lou/Lou.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@.__V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@.__V1._SX200.jpg",
 	    "genres": "Action,Crime,Dramas,Mystery,Thriller,Hindi,English,Tamil,Hollywood,Us",
 	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi25084441/?ref_=ext_shr_lnk",
+	    "trailer": "https://www.imdb.com/video/vi20084441/?ref_=ext_shr_lnk",
 	    "cast": "Allison Janney,Logan Marshall-Green... more",
         "time":"1h 47m",
         "subtitle":"/Hollywood Movies/Lou/Lou.English (CC).srt"
@@ -126,7 +142,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Sita Ramam/Sita Ramam 2022 720p Hindi [FilmyMeet].mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2.__V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2.__V1._SX200.jpg",
 	    "genres": "Action,Dramas,Mystery,Romance,South,Hindi,Indian",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3090072089/?ref_=ext_shr_lnk",
@@ -141,7 +157,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022 Hindi 720p HDRip [FilmyMeet].mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.__V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@.__V1._SX200.jpg",
 	    "genres": "Fantasy,Action,Comedy,Hindi,Hollywood,Romance,Si-Fi,Dramas",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1613808153/?ref_=ext_shr_lnk",
@@ -156,7 +172,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Do Revenge/Do Revenge.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjQyZDU3ZjAtOWViMi00MDUyLWIzYzUtYzY0OTlmZWE1OWQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjQyZDU3ZjAtOWViMi00MDUyLWIzYzUtYzY0OTlmZWE1OWQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
 	    "genres": "Comedy,Dramas,Hollywood,English,Hindi,Us,Teen Movies",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3792290329/?ref_=ext_shr_lnk",
@@ -171,7 +187,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Me Time/Me Time.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTU4YWU5YTgtODhmOC00NzU2LTkwYzQtMmJhZjRhNWQwMTJkXkEyXkFqcGdeQXVyMjIzOTA2NDk@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTU4YWU5YTgtODhmOC00NzU2LTkwYzQtMmJhZjRhNWQwMTJkXkEyXkFqcGdeQXVyMjIzOTA2NDk@._V1._SX200.jpg",
 	    "genres": "Comedy",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3339764249/?ref_=ext_shr_lnk",
@@ -186,7 +202,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Jogi/Jogi.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzViZDcwNmEtYWNkNS00YzczLWJiYjQtOGExNDNmOTgzMGFjXkEyXkFqcGdeQXVyMTMyMjc4MDgz._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYzViZDcwNmEtYWNkNS00YzczLWJiYjQtOGExNDNmOTgzMGFjXkEyXkFqcGdeQXVyMTMyMjc4MDgz._V1._SX200.jpg",
 	    "genres": "Dramas,History,Thriller,Crime,",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1231602201/?ref_=ext_shr_lnk",
@@ -201,7 +217,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hindi_Movies/Khuda Haafiz Chapter 2/Khuda Haafiz Chapter 2.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjdjZWJmMTAtYWRlZi00YTg4LWJlYTItMDIzOGQ4ZDVmZDIzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjdjZWJmMTAtYWRlZi00YTg4LWJlYTItMDIzOGQ4ZDVmZDIzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
 	    "genres": "Indian,Hindi,Bollywood,Action,Crime,Dramas,Romance,Thriller",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3370893849/?ref_=ext_shr_lnk",
@@ -216,7 +232,7 @@
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/The Next 365 Days/The Next 365 Days.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGQ0ZmRkY2YtMmUxZi00Njk0LWE1ZjAtY2IzMTY3YWI3MjI5XkEyXkFqcGdeQXVyOTM1NDU0MTI@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZGQ0ZmRkY2YtMmUxZi00Njk0LWE1ZjAtY2IzMTY3YWI3MjI5XkEyXkFqcGdeQXVyOTM1NDU0MTI@._V1._SX200.jpg",
 	    "genres": "Romance,Dramas,Hollywood,English,Hindi",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi1946731033/?ref_=ext_shr_lnk",
@@ -231,7 +247,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/I Came By/I Came By.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzhjOWRmMGMtZjExNy00M2IxLWFmODQtM2I1MzBmZTcwOTgwXkEyXkFqcGdeQXVyNTg1MDQzMDU@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzhjOWRmMGMtZjExNy00M2IxLWFmODQtM2I1MzBmZTcwOTgwXkEyXkFqcGdeQXVyNTg1MDQzMDU@._V1._SX200.jpg",
 	    "genres": "Thriller,Dramas,Hollywood,English,Hindi,Crime",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3172647449/?ref_=ext_shr_lnk",
@@ -246,7 +262,7 @@
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/Loving Adults/Loving Adults.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWQ1ODQ0ZTQtOGJjYi00ODZmLWFkOTAtOWMzN2E4YzE0YmVjXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWQ1ODQ0ZTQtOGJjYi00ODZmLWFkOTAtOWMzN2E4YzE0YmVjXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX200.jpg",
 	    "genres": "Thriller,Dramas,Crime,English,Hollywood",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3369976345/?ref_=ext_shr_lnk",
@@ -261,7 +277,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hindi_Movies/Vikram 2022/Vikram 2022.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
 	    "genres": "Action,Thriller,Hindi,Indian,South",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi3381510681/?ref_=ext_shr_lnk",
@@ -276,7 +292,7 @@
 	    "ageRestriction": "16",
 	    "video": "/Hollywood Movies/Day Shift/Day Shift.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWI2ZDRjYjEtOWJiOS00NWVjLWI1MjAtNWNiMzAwNGFmNjljXkEyXkFqcGdeQXVyODEwMTc2ODQ@.V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWI2ZDRjYjEtOWJiOS00NWVjLWI1MjAtNWNiMzAwNGFmNjljXkEyXkFqcGdeQXVyODEwMTc2ODQ@.V1._SX200.jpg",
 	    "genres": "Action,Fantasy,Horror,Comedy,Tamil,Telugu,Hindi,English",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2470035993/?ref_=ext_shr_lnk",
@@ -291,7 +307,7 @@
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Fullmetal Alchemist The Revenge of Scar/Fullmetal Alchemist The Revenge of Scar.mp4",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDJhODMyYWItY2UwNC00NDk1LTk1NTMtYjI3YWE3MWJkMTJkXkEyXkFqcGdeQXVyMTI2MjMyMzAx._V1._SX250.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNDJhODMyYWItY2UwNC00NDk1LTk1NTMtYjI3YWE3MWJkMTJkXkEyXkFqcGdeQXVyMTI2MjMyMzAx._V1._SX200.jpg",
 	    "genres": "Action,Adventure,Fantasy,Hollywood,Hindi,English,Japanese,korean,Spanish",
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2770715161/?ref_=ext_shr_lnk",
@@ -301,87 +317,205 @@
 	},
 
     {
-        "name": "The Midnight Club",
-        "description": "At a manor with a mysterious history, the 8 members of the Midnight Club meet each night at midnight to tell sinister stories – and to look for signs of the supernatural from the beyond.",
+        "name": "Mismatched",
+        "description": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program - but deeper feelings aren't far behind.",
         "ageRestriction": "16",
-        "video": "/Hollywood series/The Midnight /season 1/s1e1.mp4",
+        "video": "/Indian drama/Mismatched/Season 1/s1e1.mp4",
         "series": "yes",
-        "subtitle":"/Hollywood series/Control Z/season 1/s1e1.srt",
+        "subtitle":"/Indian drama/Mismatched/Season 1/s1e1.srt",
          "seriess":[
              [
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e1.mp4",
-                             "stitle": "1.The Final Chapter",
-                             "stime": "58m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZTk2MzY4ZWItZTIyNi00NTViLWE5NzYtYTQ3YmE3ZWRlOTYyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e1.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e1.mp4",
+                             "stitle": "1.When Dimple Met Rishi",
+                             "stime": "30m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTM4Zjc0ZWMtMTU2Ni00NjIyLWI0MDUtYmNhNzJlNDliOTI1XkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e2.mp4",
-                             "stitle": "2.The Two Danas",
-                             "stime": "54m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNDNmNmQ5MmMtNTMzNC00ZWMzLWEwMmEtYmYyZDRlMjhhZWUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e2.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e2.mp4",
+                             "stitle": "2.Hot Summer, Cold Vibes",
+                             "stime": "32m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDI3YTYyMTEtZTAyZi00NTkwLWI5YzItOWU0YjExYWU3ODg4XkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e3.mp4",
-                             "stitle": "3.The Wicked Heart",
-                             "stime": "52m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BOWU0YThkMTYtZDQ1ZS00ZWYwLTgxY2UtNGM1M2JiMmNkOTllXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e3.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e3.mp4",
+                             "stitle": "3.Message Deleted",
+                             "stime": "31m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjhhOGY1NjgtNzE2Yy00OTNhLThkMzQtYjg3MzQ4YzJhM2JjXkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e4.mp4",
-                             "stitle": "4.Gimme a Kiss",
-                             "stime": "48m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMzE5MThjZGItZTU0Ni00ODQ2LWI1YTAtZjJmNzNlZDgzYjJjXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e4.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e4.mp4",
+                             "stitle": "4.Making Moves",
+                             "stime": "33m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNzIyMjkyNWMtMmVlNy00ZGZjLWE1M2UtY2U3NzAyN2JkYjYzXkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e5.mp4",
-                             "stitle": "5.See You Later",
-                             "stime": "56m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZjA1ZGQ5NjUtZmNiNi00MDdlLTlhZmQtNTU2YmNiMGY1MzM1XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e5.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e5.mp4",
+                             "stitle": "5.It's Not a Date",
+                             "stime": "36m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMmEwMTVlOWQtNzUyNS00M2FjLWI2NmEtYmFmZmUxM2YyNGIxXkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e5.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e6.mp4",
-                             "stitle": "6.Witch",
-                             "stime": "56m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BNTIwN2Q1MzktZWFiNy00MjYzLTg4MTEtYjhjZTgwZTBjODkxXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e6.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 1/s1e6.mp4",
+                             "stitle": "6.Games We Play",
+                             "stime": "36m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BODMxYWE5Y2ItNjM0Yy00YWRlLTg0OTgtMTUxYWMzMzAxMTY1XkEyXkFqcGdeQXVyODQ4NzQ3MDU@._V1_UY126_CR1,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 1/s1e6.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e1.mp4",
+                             "stitle": "1.When Dimple Met Rishi.. Again",
+                             "stime": "40m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e1.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e7.mp4",
-                             "stitle": "7.Anya",
-                             "stime": "50m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/klNfi3vkdzWRjj0cmjATpYMxSGO.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e7.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e2.mp4",
+                             "stitle": "2.Girl in the Middle",
+                             "stime": "36m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e2.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e8.mp4",
-                             "stitle": "8.Road to Nowhere",
-                             "stime": "52m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM1MDc0Y2EtNTdlZC00NWZkLWI4OTYtMDgwMGIzZTYwYjA3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR12,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e8.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e3.mp4",
+                             "stitle": "3.100 Reasons to Hate You",
+                             "stime": "38m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e3.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e9.mp4",
-                             "stitle": "9.The Eternal Enemy",
-                             "stime": "57m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BMDYzMTNiZTAtZjg2Mi00YmVmLTgyZjMtNzI3NmUzYmI0NDc5XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e9.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e4.mp4",
+                             "stitle": "4.Heartech",
+                             "stime": "34m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e4.srt"
                          },
                          {
-                             "svideos": "/Hollywood series/Control Z/season 1/s1e10.mp4",
-                             "stitle": "10.Midnight",
-                             "stime": "57m",
-                             "simage": "https://m.media-amazon.com/images/M/MV5BZWRjYWRjYjAtNTU3Yy00ODRmLTliNGItN2U0MDE2NjQwMGUzXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR17,0,224,126_AL_.jpg",
-                             "ssubtitle":"/Hollywood series/Control Z/season 1/s1e10.srt"
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e5.mp4",
+                             "stitle": "5.Altair and Vega",
+                             "stime": "38m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e6.mp4",
+                             "stitle": "6.You’re The One",
+                             "stime": "42m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e7.mp4",
+                             "stitle": "7.It’s Not a Non-Date",
+                             "stime": "33m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Indian drama/Mismatched/Season 2/s2e8.mp4",
+                             "stitle": "8.I Love You More",
+                             "stime": "41m",
+                             "simage": "https://i.ibb.co/7kRmwS2/Mismatched-season-2.jpg",
+                             "ssubtitle":"/Indian drama/Mismatched/Season 2/s2e8.srt"
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc5OGU1YjItZmVhZi00NmE3LTk0ZWEtZDE1OGJjMTMzNDY2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX100.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTUzMTMzNTgtNmI5NS00ZTI1LTgzMjYtZTFkZWZkYTE0MWMyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1._SX200.jpg",
+        "genres": "Comedy,Dramas,Hindi,Indian,English,Romance",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi1245823513/?ref_=ext_shr_lnk",
+        "cast": "Prajakta Koli,Rohit Saraf...more"
+    },
+
+    {
+        "name": "The Midnight Club",
+        "description": "At a manor with a mysterious history, the 8 members of the Midnight Club meet each night at midnight to tell sinister stories – and to look for signs of the supernatural from the beyond.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/The Midnight Club/The Midnight Club/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e1.mp4",
+                             "stitle": "1.The Final Chapter",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTk2MzY4ZWItZTIyNi00NTViLWE5NzYtYTQ3YmE3ZWRlOTYyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e2.mp4",
+                             "stitle": "2.The Two Danas",
+                             "stime": "54m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDNmNmQ5MmMtNTMzNC00ZWMzLWEwMmEtYmYyZDRlMjhhZWUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY126_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e3.mp4",
+                             "stitle": "3.The Wicked Heart",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWU0YThkMTYtZDQ1ZS00ZWYwLTgxY2UtNGM1M2JiMmNkOTllXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e4.mp4",
+                             "stitle": "4.Gimme a Kiss",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzE5MThjZGItZTU0Ni00ODQ2LWI1YTAtZjJmNzNlZDgzYjJjXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e5.mp4",
+                             "stitle": "5.See You Later",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjA1ZGQ5NjUtZmNiNi00MDdlLTlhZmQtNTU2YmNiMGY1MzM1XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e6.mp4",
+                             "stitle": "6.Witch",
+                             "stime": "56m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTIwN2Q1MzktZWFiNy00MjYzLTg4MTEtYjhjZTgwZTBjODkxXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e7.mp4",
+                             "stitle": "7.Anya",
+                             "stime": "50m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/klNfi3vkdzWRjj0cmjATpYMxSGO.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e8.mp4",
+                             "stitle": "8.Road to Nowhere",
+                             "stime": "52m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjM1MDc0Y2EtNTdlZC00NWZkLWI4OTYtMDgwMGIzZTYwYjA3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR12,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e9.mp4",
+                             "stitle": "9.The Eternal Enemy",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDYzMTNiZTAtZjg2Mi00YmVmLTgyZjMtNzI3NmUzYmI0NDc5XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Midnight Club/The Midnight Club/s1e10.mp4",
+                             "stitle": "10.Midnight",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWRjYWRjYjAtNTU3Yy00ODRmLTliNGItN2U0MDE2NjQwMGUzXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_UY126_CR17,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Midnight Club/The Midnight Club/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTc5OGU1YjItZmVhZi00NmE3LTk0ZWEtZDE1OGJjMTMzNDY2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
         "genres": "Dramas,Horror,Mystery,Thriller,English,Hindi,Hollywood,Spanish",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi4267688473/?ref_=ext_shr_lnk",
@@ -543,7 +677,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.__V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2IwNWY2YWEtNTU4Ni00MmE2LTljZjItNWQ0NzBlNjJiMzBiXkEyXkFqcGdeQXVyMTQxNzMzNDI@.__V1._SX200.jpg",
         "genres": "Biography,Crime,Dramas,Thriller,Hollywood,English,Hindi",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi861717017/?ref_=ext_shr_lnk",
@@ -712,7 +846,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@.__V1._SX200.jpg",
         "genres": "Action,Adventure,Dramas,Fantasy,Romance,English,Hollywood",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1637073689/?ref_=ext_shr_lnk",
@@ -902,7 +1036,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjVjYmQ4N2QtNzc1Yi00MzI0LTlmNWMtZTU2MjcxYzIwYmY4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX200.jpg",
         "genres": "Si-Fi,Fantasy,Action,Adventure,Anime,English,Japanese",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi105693465/?ref_=ext_shr_lnk",
@@ -1108,7 +1242,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2Y4MzBjNjAtNzFmNi00NjA1LWEwYjQtMjlmMGEwM2I3YTliXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2Y4MzBjNjAtNzFmNi00NjA1LWEwYjQtMjlmMGEwM2I3YTliXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1._SX200.jpg",
         "genres": "Action,Crime,Dramas,Thriller,Spanish,English,Hindi,Hollywood",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi2221589017/?ref_=ext_shr_lnk",
@@ -1168,7 +1302,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YTE5MWYtYmY0Yy00MzVkLWI5NGUtZWQ3ZjkwZjljY2Q3XkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY5YTE5MWYtYmY0Yy00MzVkLWI5NGUtZWQ3ZjkwZjljY2Q3XkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1._SX200.jpg",
         "genres": "Action,Biography,Crime,Dramas,Thriller,Korean,English,Hindi",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi929219097/?ref_=ext_shr_lnk",
@@ -1242,7 +1376,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMxYWU1NDYtMjBmYy00MDI3LTg0ZGQtOTk0ZTNmZGQ3OGJmXkEyXkFqcGdeQXVyODY5OTk4MA@@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMxYWU1NDYtMjBmYy00MDI3LTg0ZGQtOTk0ZTNmZGQ3OGJmXkEyXkFqcGdeQXVyODY5OTk4MA@@._V1._SX200.jpg",
         "genres": "Dramas,Romance,Hollywood,English,Hindi",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi2172109337/?ref_=ext_shr_lnk",
@@ -1353,7 +1487,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzEyYzBhODYtZjZlOC00MTM4LWIxMjQtMTRhZjA5ODM4ZWI2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzEyYzBhODYtZjZlOC00MTM4LWIxMjQtMTRhZjA5ODM4ZWI2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1._SX200.jpg",
         "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi854180377/?ref_=ext_shr_lnk",
@@ -1441,7 +1575,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODJhZTM2ZTEtN2E4OC00NGQ1LTlmMGMtZTAyYWI5ZjgwMzNkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODJhZTM2ZTEtN2E4OC00NGQ1LTlmMGMtZTAyYWI5ZjgwMzNkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX200.jpg",
         "genres": "Action,Adventure,Dramas,Fantasy,Mystery,Si-Fi",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi74236441/?ref_=ext_shr_lnk",
@@ -1818,7 +1952,7 @@
                              }
                  ]
                  ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
         "genres": "Dramas,Comedies,Us,action,Hollywood,English,Hindi",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi1304544025?playlistId=tt7221388?ref_=ext_shr_lnk",
@@ -1922,7 +2056,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDc4MGU3ZmItODRlYi00MTYzLWFkYzAtOTIxYzMzZjRhYWQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX200.jpg",
         "genres": "Crime,Dramas,Hindi,Indian,English,Telugu,Tamil",
         "releaseDate": "2019",
         "trailer": "https://www.imdb.com/video/vi4232821273?playlistId=tt9398466?ref_=ext_shr_lnk",
@@ -1996,7 +2130,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODk2NjAyOWMtM2FjZC00MjZhLTkxMjQtZTM3NjJlYTE5MDdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BODk2NjAyOWMtM2FjZC00MjZhLTkxMjQtZTM3NjJlYTE5MDdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
         "genres": "Action,Adventure,Si-Fi,Fantasy,Comedy,Hollywood,English,Dramas",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1619116825/?ref_=ext_shr_lnk",
@@ -2228,7 +2362,7 @@
                              }
                  ]
              ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
         "genres": "Comedy,Dramas,Hollywood,English,Hindi",
         "releaseDate": "2020",
         "trailer": "https://www.imdb.com/video/vi4029464601/?ref_=ext_shr_lnk",
@@ -2446,7 +2580,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzVkOTIxZWUtMTNjOC00NWMwLWEyNDQtNTY2NzYxNjhhYTA1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
         "genres": "Si-Fi,Fantasy,Dramas,Mystery,English,Hollywood",
         "releaseDate": "2021",
         "trailer": "https://www.imdb.com/video/vi815121177/?playlistId=tt3007572?ref_=ext_shr_lnk",
@@ -2534,7 +2668,7 @@
                          }
              ]
             ],
-         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY0NDIxZDYtMWMzZS00OGQ3LTgwOGEtMWQ5ZmQxM2EwY2NjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX250.jpg",
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNGY0NDIxZDYtMWMzZS00OGQ3LTgwOGEtMWQ5ZmQxM2EwY2NjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
         "genres": "Si-Fi,Fantasy,Dramas,Hollywood,English,Hindi,Tamil,Telugu",
         "releaseDate": "2022",
         "trailer": "https://www.imdb.com/video/vi1747829273/?ref_=ext_shr_lnk",
