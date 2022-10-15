@@ -34,7 +34,7 @@
 	    "name": "Laal Singh Chaddha",
 	    "description": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots — unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
 	    "ageRestriction": "13",
-	    "video": "/Hindi_Movies/Laal singh chaddha/Laal singh chaddha.mkv",
+	    "video": "/Hindi_Movies/Laal singh chaddha/Laal singh chaddha.mp4",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1._SX200.jpg",
 	    "genres": "Comedy,Dramas,Romance,Hindi,Indian,Telugu,Tamil",
@@ -118,6 +118,21 @@
 	    "cast": "Akshay Kumar,Bhumi Pednekar... more",
         "time":"1h 50m",
         "subtitle":"/Hindi_Movies/Raksha Bandhan/Raksha Bandhan.srt"
+	},
+
+    {
+	    "name": "Ajeeb Daastaans",
+	    "description": "An anthology of four stories that explore the surprising ways in which unexpected catalysts inflame the uncomfortable emotions simmering under fractured relationships.",
+	    "ageRestriction": "16",
+	    "video": "/Hindi_Movies/Ajeeb Daastaans/Ajeeb Daastaans.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTNlMWQ0OWYtZmJjNi00YjE3LWJmM2EtNzA3MjY5NjE5NDY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX200.jpg",
+	    "genres": "Dramas,Romance,Hindi,Indian,Telugu,Tamil,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi2441855001/?ref_=ext_shr_lnk",
+	    "cast": "Konkona Sen Sharma,Shefali Shah... more",
+        "time":"2h 22m",
+        "subtitle":"/Hindi_Movies/Ajeeb Daastaans/Ajeeb Daastaans.srt"
 	},
 
     {
