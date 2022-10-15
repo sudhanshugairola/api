@@ -480,6 +480,66 @@
     },
 
     {
+        "name": "The Sound of Magic",
+        "description": "An enigmatic magician living in an abandoned amusement park introduces magic into the life of a high schooler struggling with harsh realities.",
+        "ageRestriction": "16",
+        "video": "Hollywood series/The Sound of Magic/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/The Sound of Magic/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e1.mp4",
+                             "stitle": "1.Do you... believe in magic?",
+                             "stime": "1h 9m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTBmNmZkYzEtNmUxMS00ODg3LTgwZDAtZGY1MWQ2NDA1ZGFhXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e2.mp4",
+                             "stitle": "2.Don't let me dream any longer",
+                             "stime": "1h 9m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTA0ODJmNjAtOGEyNi00OGMyLWJkYTEtZGUwMjVhOTM3ZjhkXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e3.mp4",
+                             "stitle": "3.Merry-go-round",
+                             "stime": "1h 3m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTkzYmJkNGYtOWJkZC00YjQwLTkyOWEtZDdlNmE3NjJhNjI5XkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e4.mp4",
+                             "stitle": "4.Becoming an adult",
+                             "stime": "1h 13m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWJlZWQ5ZGMtMTI4Ni00N2RlLThhNGMtODdkMjM3Y2U1YjdkXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e5.mp4",
+                             "stitle": "5.Curse of asphalt",
+                             "stime": "1h 2m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzMxNDU5OWItYmQ3Yi00OThhLThlYTEtZDYxNWRiMmIwOWE5XkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/The Sound of Magic/season 1/s1e6.mp4",
+                             "stitle": "6.The last performance",
+                             "stime": "1h 18m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjFmNTIyNDUtOTcwMi00MzI3LTgyMTItYjQzOWVjNjZjYWIwXkEyXkFqcGdeQXVyNjgyMjI1MTU@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/The Sound of Magic/season 1/s1e6.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2YxYjJjNmUtOTFhZC00YzI0LWJkNmUtMGE4YjdkNTg1YWE0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1._SX200.jpg",
+        "genres": "Dramas,Si-Fi,Fantasy,Korean,English,Music",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2830025241/?ref_=ext_shr_lnk",
+        "cast": "Ji Chang-wook,Choi Sung-eun...more"
+       },
+
+    {
         "name": "The Watcher(2022)",
         "description": "Ominous letters. Strange neighbors. Sinister threats. A family moves into their suburban dream home, only to discover they've inherited a nightmare.",
         "ageRestriction": "16",
