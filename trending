@@ -1,19 +1,4 @@
 [   
-
-    {
-	    "name": "Morbius",
-	    "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/Morbius 2022/Morbius 2022.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
-	    "genres": "Action,Adventure,Horror,Si-Fi,Thriller,Hindi,English,Tamil,Hollywood,Telugu",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi821412633/?ref_=ext_shr_lnk",
-	    "cast": "Jared Leto,Matt Smith... more",
-            "time":"1h 45m",
-            "subtitle":"/Hollywood Movies/Morbius 2022/Morbius 2022.srt"
-    },
     
     {
 	    "name": "Lou",
@@ -30,6 +15,51 @@
         "subtitle":"/Hollywood Movies/Lou/Lou.English (CC).srt"
 	},
 
+    {
+	    "name": "Fifty Shades Darker",
+	    "description": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
+	    "ageRestriction": "18",
+	    "video": "/Hollywood Movies/Fifty shades darker/Fifty shades darker.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1._SX200.jpg",
+	    "genres": "Dramas,Romance,Thriller,English,Hollywood",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi723564057/?ref_=ext_shr_lnk",
+	    "cast": "Dakota Johnson,Jamie Dornan... more",
+        "time":"1h 58m",
+        "subtitle":"/Hollywood Movies/Fifty shades darker/Fifty shades darker.srt"
+	},
+
+    {
+	    "name": "Fifty Shades Freed",
+	    "description": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+	    "ageRestriction": "18",
+	    "video": "/Hollywood Movies/Fifty shades freed/Fifty shades freed.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1._SX200.jpg",
+	    "genres": "Dramas,Romance,Thriller,English,Hollywood",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi3202201625/?ref_=ext_shr_lnk",
+	    "cast": "Dakota Johnson,Jamie Dornan... more",
+        "time":"1h 45m",
+        "subtitle":"/Hollywood Movies/Fifty shades freed/Fifty shades freed.srt"
+	},
+
+    {
+	    "name": "Morbius",
+	    "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Morbius 2022/Morbius 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Horror,Si-Fi,Thriller,Hindi,English,Tamil,Hollywood,Telugu",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi821412633/?ref_=ext_shr_lnk",
+	    "cast": "Jared Leto,Matt Smith... more",
+        "time":"1h 45m",
+        "subtitle":"/Hollywood Movies/Morbius 2022/Morbius 2022.srt"
+	},
+    
     {
 	    "name": "Thor: Love and Thunder",
 	    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
