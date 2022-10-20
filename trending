@@ -1,6 +1,36 @@
 [   
     
     {
+	    "name": "The Curse of Bridge Hollow",
+	    "description": "A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjUzMzMxODYtNjc1OS00NDNiLWIzMzMtNTBhMjE5NDllNzY0XkEyXkFqcGdeQXVyMzE5ODc1OA@@._V1._SX200.jpg",
+	    "genres": "Adventure,Comedy,Family,Horror,English,Hindi,Hollywood,Tamil,Telugu",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2656682521/?ref_=ext_shr_lnk",
+	    "cast": "Marlon Wayans,Marlon Wayans... more",
+        "time":"1h 29m",
+        "subtitle":"/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.English (CC).srt"
+	},
+
+    {
+	    "name": "Blackout",
+	    "description": "A man wakes in a hospital with no memory, and quickly finds himself on the run in a locked down hospital with the Cartel on his tail.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Blackout 2022/Blackout 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDE0MWJkMzMtMGMzMC00NzAzLTljZTUtZTE2OTViNDRhMTgwXkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Thriller,English,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "",
+	    "cast": "Josh Duhamel,Abbie Cornish... more",
+        "time":"1h 21m",
+        "subtitle":"Hollywood Movies/Blackout 2022/Blackout 2022.srt"
+	},
+
+    {
 	    "name": "Lou",
 	    "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
 	    "ageRestriction": "16",
@@ -16,13 +46,27 @@
 	},
 
     {
+	    "name": "Sweet Girl",
+	    "description": "A man vows to bring justice to those responsible for his wife's death while protecting the only family he has left, his daughter.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Sweet Girl/Sweet Girl.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGIzOTZiZjItNTMyYS00ODcyLWE2ZDUtYWNjZDNmNTUxYjVkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
+	    "genres": "Action,Dramas,Thriller,English,Hollywood,Hindi",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi2953035801/?ref_=ext_shr_lnk",
+	    "cast": "Jason Momoa,Isabela Merced... more",
+        "time":"1h 50m",
+        "subtitle":"/Hollywood Movies/Sweet Girl/Sweet Girl.English (CC).srt"
+	},
+    {
 	    "name": "Fifty Shades Darker",
 	    "description": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
 	    "ageRestriction": "18",
 	    "video": "/Hollywood Movies/Fifty shades darker/Fifty shades darker.mkv",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1._SX200.jpg",
-	    "genres": "Dramas,Romance,Thriller,English,Hollywood",
+	    "genres": "Dramas,Romance,Thriller,English,Hollywood,Hindi",
 	    "releaseDate": "2017",
 	    "trailer": "https://www.imdb.com/video/vi723564057/?ref_=ext_shr_lnk",
 	    "cast": "Dakota Johnson,Jamie Dornan... more",
@@ -37,7 +81,7 @@
 	    "video": "/Hollywood Movies/Fifty shades freed/Fifty shades freed.mkv",
 	    "series": "not",
 	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1._SX200.jpg",
-	    "genres": "Dramas,Romance,Thriller,English,Hollywood",
+	    "genres": "Dramas,Romance,Thriller,English,Hollywood,Hindi",
 	    "releaseDate": "2018",
 	    "trailer": "https://www.imdb.com/video/vi3202201625/?ref_=ext_shr_lnk",
 	    "cast": "Dakota Johnson,Jamie Dornan... more",
