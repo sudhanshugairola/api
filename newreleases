@@ -1,6 +1,6 @@
 [   
     
-    {
+        {
 	    "name": "The Curse of Bridge Hollow",
 	    "description": "A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.",
 	    "ageRestriction": "13",
@@ -11,11 +11,26 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2656682521/?ref_=ext_shr_lnk",
 	    "cast": "Marlon Wayans,Marlon Wayans... more",
-        "time":"1h 29m",
-        "subtitle":"/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.English (CC).srt"
+            "time":"1h 29m",
+            "subtitle":"/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.English (CC).srt"
+	},
+	
+	{
+	    "name": "The School for Good and Evil",
+	    "description": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/John Wick/John wick 2014/John Wick 2014.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1._SX200.jpg",
+	    "genres": "Action,Comedy,Dramas,Fantasy,,English,Hindi,Tamil,Telugu,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi509133337/?ref_=ext_shr_lnk",
+	    "cast": "Sofia Wylie,Sophia Anne Caruso... more",
+            "time":"2h 26m",
+            "subtitle":""
 	},
 
-    {
+        {
 	    "name": "Blackout",
 	    "description": "A man wakes in a hospital with no memory, and quickly finds himself on the run in a locked down hospital with the Cartel on his tail.",
 	    "ageRestriction": "16",
@@ -26,8 +41,8 @@
 	    "releaseDate": "2022",
 	    "trailer": "",
 	    "cast": "Josh Duhamel,Abbie Cornish... more",
-        "time":"1h 21m",
-        "subtitle":"Hollywood Movies/Blackout 2022/Blackout 2022.srt"
+            "time":"1h 21m",
+            "subtitle":"Hollywood Movies/Blackout 2022/Blackout 2022.srt"
 	},
 
     {
