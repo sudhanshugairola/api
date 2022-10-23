@@ -1,6 +1,36 @@
 [   
     
-        {
+    {
+	    "name": "20th Century Girl",
+	    "description": "In 1999, a teen with a heart of gold begins keeping close tabs on a popular classmate as a favor to her smitten best friend.",
+	    "ageRestriction": "16",
+	    "video": "/Korean Movies/20th Century Girl/20th Century Girl.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTMxZmVlMGQtNTc3Zi00MjU2LTkzYTEtOGY5NDlkNzkwZTVmXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1._SX200.jpg",
+	    "genres": "Romance,Dramas,Teen Movies,Korean,Hindi,Korean,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1773323545/?ref_=ext_shr_lnk",
+	    "cast": "Kim You-jung,Byeon Woo-seok... more",
+        "time":"1h 59m",
+        "subtitle":"/Korean Movies/20th Century Girl/20th Century Girl.English (CC).srt"
+	},
+
+    {
+	    "name": "The School for Good and Evil",
+	    "description": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The School for Good and Evil/The School for Good and Evil.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1._SX200.jpg",
+	    "genres": "Action,Comedy,Dramas,Fantasy,,English,Hindi,Tamil,Telugu,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi509133337/?ref_=ext_shr_lnk",
+	    "cast": "Sofia Wylie,Sophia Anne Caruso... more",
+        "time":"2h 26m",
+        "subtitle":"/Hollywood Movies/The School for Good and Evil/The School for Good and Evil.English (CC).srt"
+	},
+
+    {
 	    "name": "The Curse of Bridge Hollow",
 	    "description": "A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.",
 	    "ageRestriction": "13",
@@ -11,26 +41,11 @@
 	    "releaseDate": "2022",
 	    "trailer": "https://www.imdb.com/video/vi2656682521/?ref_=ext_shr_lnk",
 	    "cast": "Marlon Wayans,Marlon Wayans... more",
-            "time":"1h 29m",
-            "subtitle":"/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.English (CC).srt"
-	},
-	
-	{
-	    "name": "The School for Good and Evil",
-	    "description": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
-	    "ageRestriction": "16",
-	    "video": "/Hollywood Movies/John Wick/John wick 2014/John Wick 2014.mkv",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1._SX200.jpg",
-	    "genres": "Action,Comedy,Dramas,Fantasy,,English,Hindi,Tamil,Telugu,Hollywood",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi509133337/?ref_=ext_shr_lnk",
-	    "cast": "Sofia Wylie,Sophia Anne Caruso... more",
-            "time":"2h 26m",
-            "subtitle":""
+        "time":"1h 29m",
+        "subtitle":"/Hollywood Movies/The Curse of Bridge Hollow/The Curse of Bridge Hollow.English (CC).srt"
 	},
 
-        {
+    {
 	    "name": "Blackout",
 	    "description": "A man wakes in a hospital with no memory, and quickly finds himself on the run in a locked down hospital with the Cartel on his tail.",
 	    "ageRestriction": "16",
@@ -41,8 +56,8 @@
 	    "releaseDate": "2022",
 	    "trailer": "",
 	    "cast": "Josh Duhamel,Abbie Cornish... more",
-            "time":"1h 21m",
-            "subtitle":"Hollywood Movies/Blackout 2022/Blackout 2022.srt"
+        "time":"1h 21m",
+        "subtitle":"Hollywood Movies/Blackout 2022/Blackout 2022.srt"
 	},
 
     {
@@ -479,6 +494,110 @@
         "time":"2h 5m",
         "subtitle":"/Hollywood Movies/Fullmetal Alchemist The Revenge of Scar/Fullmetal Alchemist The Revenge of Scar.English (CC).srt"
 	},
+
+    {
+        "name": "Barbarians",
+        "description": "Three people's fates are interwoven in the Battle of the Teutoburg Forest in 9 A.D., during which Germanic warriors halt the spread of the Roman Empire.",
+        "ageRestriction": "18",
+        "video": "/Hollywood series/Barbarians/season 1/Barbarians_S01E01_Wolf and Eagle.mkv",
+        "series": "yes",
+        "subtitle": "/Hollywood series/Barbarians/season 1/Barbarians_S01E01_Wolf and Eagle.English (CC).srt",
+         "seriess":[
+             [
+                        {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E01_Wolf and Eagle.mkv",
+                             "stitle": "1.Wolf and Eagle",
+                             "stime": "51m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/svaMcuUIhQ41m3GIhFoEMDd0DIi.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E01_Wolf and Eagle.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E02_Vengeance.mkv",
+                             "stitle": "2.Vengeance",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7u5Ze3tYGA23eCQcxQLLqhnKgw5.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E02_Vengeance.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E03_On the Edge.mkv",
+                             "stitle": "3.On the Edge",
+                             "stime": "43m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/zh5Qa7qAqep2s6poMtMek1fnVOe.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E03_On the Edge.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E04_A New Reik.mkv",
+                             "stitle": "4.A New Reik",
+                             "stime": "48m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/x2tSVhtcHL1sZQ6sNHuaApG7os4.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E04_A New Reik.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E05_Treason.mkv",
+                             "stitle": "5.Treason",
+                             "stime": "46m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fJrMniDIkTeiCIjMncW8G5oiNdu.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E05_Treason.English (CC).srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Barbarians/season 1/Barbarians_S01E06_The Battle.mkv",
+                             "stitle": "6.The Battle",
+                             "stime": "49m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tfDHMtSg0sXPzhDJJuouWJY7asL.jpg",
+                             "ssubtitle":"/Hollywood series/Barbarians/season 1/Barbarians_S01E06_The Battle.English (CC).srt"
+                         }
+             ],      
+             [
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e1.mp4",
+                                 "stitle": "1.New Legions",
+                                 "stime": "48m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2xq3op2xyiODys56bQyvMgPUVcL.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e1.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e2.mp4",
+                                 "stitle": "2.Captured",
+                                 "stime": "43m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qOoCRGnin9g66WKg4JF7TgYAa0y.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e2.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e3.mp4",
+                                 "stitle": "3.Fathers",
+                                 "stime": "47m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hx4pKwZy1RIC05udJwrPyt8889L.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e3.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e4.mp4",
+                                 "stitle": "4.The Oath",
+                                 "stime": "54m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lO2xGa2soobLBNTDEjMvmus5jIw.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e4.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e5.mp4",
+                                 "stitle": "5.Doomed",
+                                 "stime": "51m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aacGW8lvArqFJFEq7UaaERbsBif.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e5.srt"
+                             },
+                             {
+                                 "svideos": "/Hollywood series/Barbarians/season 2/s2e6.mp4",
+                                 "stitle": "6.The Price",
+                                 "stime": "44m",
+                                 "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cOWNB650OxXXtBk2i9SevA1u6aR.jpg",
+                                 "ssubtitle":"/Hollywood series/Barbarians/season 2/s2e6.srt"
+                             }
+               ]
+               ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTVkNjZhOGUtODBmYi00MDY5LTgxMTgtMDhjMzg4MmVhOWY3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1._SX200.jpg",
+        "genres": "Action,Adventure, Dramas,Hollywood,English,Hindi",
+        "releaseDate": "2020",
+        "trailer": "https://www.imdb.com/video/vi3331178777/?playlistId=tt9184986?ref_=ext_shr_lnk",
+        "cast": "Laurence Rupp,Jeanne Goursaud...more"
+       },
 
     {
         "name": "Mismatched",
