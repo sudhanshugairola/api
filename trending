@@ -1,6 +1,96 @@
 [   
     
+        {
+	    "name": "Spider-Man 2002",
+	    "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/Spider Man 2002.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2002",
+	    "trailer": "https://www.imdb.com/video/vi1376109081/?ref_=ext_shr_lnk",
+	    "cast": "Tobey Maguire,Willem Dafoe,Kirsten Dunst... more",
+            "time":"2h 1m",
+            "subtitle":"/Hollywood Movies/Spider Man/Spider Man 2002.srt"
+    },
+
     {
+	    "name": "Spider-Man 2 2004",
+	    "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/Spider Man 2004.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2004",
+	    "trailer": "https://www.imdb.com/video/vi629801241/?ref_=ext_shr_lnk",
+	    "cast": "Tobey Maguire,Rosemary Harris... more",
+            "time":"2h 7m",
+            "subtitle":"/Hollywood Movies/Spider Man/Spider Man 2004.srt"
+    },
+
+    {
+	    "name": "Spider-Man 3 2007",
+	    "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/Spider Man 2007.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2007",
+	    "trailer": "https://www.imdb.com/video/vi1939784217/?ref_=ext_shr_lnk",
+	    "cast": "Tobey Maguire,Thomas Haden Church... more",
+            "time":"2h 19m",
+            "subtitle":"/Hollywood Movies/Spider Man/Spider Man 2007.srt"
+    },
+
+    {
+	    "name": "The Amazing Spider-Man 2012",
+	    "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/The Amazing Spider Man 2012.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2012",
+	    "trailer": "https://www.imdb.com/video/vi2647890969/?ref_=ext_shr_lnk",
+	    "cast": "Andrew Garfield,Emma Stone... more",
+            "time":"2h 16m",
+            "subtitle":"/Hollywood Movies/Spider Man/The Amazing Spider Man 2012.srt"
+     },
+
+    {
+	    "name": "The Amazing Spider-Man 2 2014",
+	    "description": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/The Amazing Spider Man 2 2014.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2014",
+	    "trailer": "https://www.imdb.com/video/vi1965008921/?ref_=ext_shr_lnk",
+	    "cast": "Andrew Garfield,Felicity Jones... more",
+            "time":"2h 22m",
+            "subtitle":"/Hollywood Movies/Spider Man/The Amazing Spider Man 2 2014.srt"
+    },
+
+    {
+	    "name": "Spider-Man: Homecoming",
+	    "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Spider Man/Spider Man Homecoming 2017.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOGQ5YTM3YzctOTVmMC00OGIyLWFkZTYtMWYwOWZhMjA2MWMwXkEyXkFqcGdeQXVyMjUyMTE5MA@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Fantasy,Hollywood, English,Hindi,Dramas",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi584431897/?ref_=ext_shr_lnk",
+	    "cast": "Tom Holland,Michael Keaton... more",
+            "time":"2h 13m",
+            "subtitle":"/Hollywood Movies/Spider Man/Spider Man Homecoming 2017.srt"
+	},
+	
+       {
 	    "name": "John Wick: Chapter 3 - Parabellum",
 	    "description": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
 	    "ageRestriction": "13",
@@ -11,8 +101,8 @@
 	    "releaseDate": "2019",
 	    "trailer": "https://www.imdb.com/video/vi3978017305/?ref_=ext_shr_lnk",
 	    "cast": "Keanu Reeves,Halle Berry,Laurence Fishburne... more",
-        "time":"2h 10m",
-        "subtitle":"/Hollywood Movies/John Wick/John Wick 2019/John Wick 2019.srt"
+            "time":"2h 10m",
+            "subtitle":"/Hollywood Movies/John Wick/John Wick 2019/John Wick 2019.srt"
 	},
 
     {
