@@ -16,6 +16,36 @@
 	},
 
     {
+	    "name": "Bullet Train",
+	    "description": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Bullet Train 2022/Bullet Train 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
+	    "genres": "Action,Comedy,Thriller,English,Hollywood,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1743438361/?ref_=ext_shr_lnk",
+	    "cast": "Brad Pitt,Joey King... more",
+        "time":"2h 7m",
+        "subtitle":"/Hollywood Movies/Bullet Train 2022/Bullet Train 2022.srt"
+	},
+
+    {
+	    "name": "The Northman",
+	    "description": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Northman 2022/The Northman 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,DramaS,Fantasy,History,Thriller,Hindi,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi4188717593/?ref_=ext_shr_lnk",
+	    "cast": "Alexander Skarsgård,Nicole Kidman... more",
+        "time":"2h 17m",
+        "subtitle":"/Hollywood Movies/The Northman 2022/The Northman 2022.srt"
+	},
+
+    {
 	    "name": "The School for Good and Evil",
 	    "description": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.",
 	    "ageRestriction": "16",
@@ -1188,70 +1218,70 @@
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e1.mkv",
                              "stitle": "1.The Heirs of the Dragon",
                              "stime": "1h 6m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7gHqMO96iyTEBh6fCL3GUHxbhKZ.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMThlY2Q1ODktMjEwMS00NmE1LWIxNjctYjA5MzdjNTAyZTk5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e1.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e2.mkv",
                              "stitle": "2.The Rogue Prince",
                              "stime": "54m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uyWlPCKMPcjxjiKY6xFKtdbkFSR.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDU2ZTBmNDMtYjkwNS00MjFhLWFiYzQtYWE2MGE1MWE0ZjI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e2.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e3.mkv",
                              "stitle": "3.Second of His Name",
                              "stime": "1h 3m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fP1HCPFgwfXCcGHhjhgf0sndWAH.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZWFhZjZhMWMtY2JjOS00MDNhLWFjNjItNDdiOGUzNzc3NmE5XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e3.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e4.mkv",
                              "stitle": "4.King of the Narrow Sea",
                              "stime": "1h 3m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/mW2a20R8VZqENHAmz47x21FCoYV.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTdkN2Q0ZTctZmY2Zi00NzI0LTk3M2ItOTM5ZWJhNzMwOTMxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e4.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e5.mkv",
                              "stitle": "5.We Light the Way",
                              "stime": "1h",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xee6kQm6uMiGKHMCKZpFGVIAGe7.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDU4NzcyZGItZTE0NS00NzkxLTljZTMtZjFmNDI1YjliMGIwXkEyXkFqcGdeQXVyMTAzMjg5NDQ3._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e5.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e6.mkv",
                              "stitle": "6.The Princess and the Queen",
                              "stime": "1h 7m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lcBTDoCkBTJAdi8VagMQdzB6RYi.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNGUzMDIzZGYtNWM5Yi00NDhlLTkxOTktYmMzYjVmMzQ0OGU0XkEyXkFqcGdeQXVyMTAzMjg5NDQ3._V1_UY126_UX224_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e6.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e7.mkv",
                              "stitle": "7.Driftmark",
                              "stime": "58m",
-                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/xA7nljMF7gkV4YMvnuOlsenFuSl.jpg",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZDlkY2Y5MWYtMzYzNi00MWM3LWIyYzktMDM3ZDAzNDdkODJkXkEyXkFqcGdeQXVyMTAzMjg5NDQ3._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e7.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e8.mkv",
-                             "stitle": "8.cooming soon",
-                             "stime": "m",
-                             "simage": "",
+                             "stitle": "8.The Lord of the Tides",
+                             "stime": "1h 8m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BY2E2YTQ5OTgtYjFjNi00NzQwLThkOGEtYTEzMWVkMzZhMjQ2XkEyXkFqcGdeQXVyNzg5MjYxOTU@._V1_UX224_CR0,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e8.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e9.mkv",
-                             "stitle": "9.coming soon",
-                             "stime": "m",
-                             "simage": "",
+                             "stitle": "9.The Green Council",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjA3NDIyNzgtNmRiNi00NmFkLWEwZjUtMDMyZTA0MGNiNjk4XkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_UY126_CR12,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e9.srt"
                          },
                          {
                              "svideos": "/Hollywood series/House of the dragon/season 1/s1e10.mkv",
-                             "stitle": "10.coming soon",
-                             "stime": "m",
-                             "simage": "",
+                             "stitle": "10.The Black Queen",
+                             "stime": "57m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMzllY2ZhOGItNGQ4My00MWIyLTgyYjQtM2ZiZWNkODdiZjYzXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_UY126_CR13,0,224,126_AL_.jpg",
                              "ssubtitle":"/Hollywood series/House of the dragon/season 1/s1e10.srt"
                          }
              ]
