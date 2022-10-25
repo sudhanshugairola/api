@@ -136,6 +136,36 @@
 	},
 
     {
+	    "name": "Ishq Express",
+	    "description": "Ishq Express is Aarav (Ritvik) and Tanya’s (Gayatrii) love story where two individuals go on an unguarded exploration in their youth on a journey called life. They meet while boarding a train to their hometown. What follows is a cute love story with the duo entangled in mutual, yet unspoken feelings for each other without any pretense, judgement, or inhibitions.",
+	    "ageRestriction": "16",
+	    "video": "/Indian drama/Ishq Express/season 1/Ishq Express.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzI4NjFkZTgtZTNjYi00OTQ0LWFkZDAtZDljZWU1YTQ3NzA5XkEyXkFqcGdeQXVyNjI1Njg5ODI@._V1._SX200.jpg",
+	    "genres": "Romance,Dramas,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1891942937/?ref_=ext_shr_lnk",
+	    "cast": "Ritwik Sahore,Gayatri Bhardwaj... more",
+        "time":"1h 25m",
+        "subtitle":"/Indian drama/Ishq Express/season 1/Ishq Express.srt"
+	},
+
+    {
+	    "name": "Lust Stories",
+	    "description": "An anthology of four stories that sheds light on modern relationships from the viewpoint of the Indian woman.",
+	    "ageRestriction": "18",
+	    "video": "/Hindi_Movies/Lust Stories/Lust Stories.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTgwNTQ4NDAyN15BMl5BanBnXkFtZTgwNjMwMzQ3NTM@._V1._SX200.jpg",
+	    "genres": "Dramas,Romance,Hindi,Indian,Telugu,Tamil,English",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi3633756953/?ref_=ext_shr_lnk",
+	    "cast": "Radhika Apte,Akash Thosar... more",
+        "time":"2h",
+        "subtitle":"/Hindi_Movies/Lust Stories/Lust Stories.English (CC).srt"
+	},
+
+    {
 	    "name": "Ajeeb Daastaans",
 	    "description": "An anthology of four stories that explore the surprising ways in which unexpected catalysts inflame the uncomfortable emotions simmering under fractured relationships.",
 	    "ageRestriction": "16",
