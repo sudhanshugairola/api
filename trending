@@ -46,12 +46,117 @@
 	},
 
     {
+	    "name": "Ant-Man and the Wasp",
+	    "description": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Ant man 2018/Ant man 2018.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi1264498713/?ref_=ext_shr_lnk",
+	    "cast": "Paul Rudd,Evangeline Lilly... more",
+        "time":"1h 59m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Ant man 2018/Ant man 2018.srt"
+	},
+
+    {
+	    "name": "Avengers: Endgame",
+	    "description": "Avengers: Endgame",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Avengers Endgame 2019/Avengers Endgame 2019.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi3250240537/?ref_=ext_shr_lnk",
+	    "cast": "Robert Downey Jr,Scarlett Johansson... more",
+        "time":"3h 1m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Avengers Endgame 2019/Avengers Endgame 2019.srt"
+	},
+
+    {
+	    "name": "Black Panther",
+	    "description": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Black Panther 2018/Black Panther 2018.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2018",
+	    "trailer": "https://www.imdb.com/video/vi2320939289/?ref_=ext_shr_lnk",
+	    "cast": "Chadwick Boseman,Lupita Nyong'o... more",
+        "time":"2h 15m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Black Panther 2018/Black Panther 2018.srt"
+	},
+
+    {
+	    "name": "Black Widow",
+	    "description": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Black Widow 2021/Black Widow 2021.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi645185561/?ref_=ext_shr_lnk",
+	    "cast": "Scarlett Johansson,Florence Pugh... more",
+        "time":"2h 14m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Black Widow 2021/Black Widow 2021.srt"
+	},
+
+    {
+	    "name": "Captain Marvel",
+	    "description": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Captain Marvel 2019/Captain Marvel 2019.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2019",
+	    "trailer": "https://www.imdb.com/video/vi4235180569/?ref_=ext_shr_lnk",
+	    "cast": "Brie Larson,Samuel L. Jackson... more",
+        "time":"2h 4m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Captain Marvel 2019/Captain Marvel 2019.srt"
+	},
+
+    {
+	    "name": "Doctor Strange in the Multiverse of Madness",
+	    "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Doctor Strange in the Multiverse 2022/Doctor Strange in the Multiverse 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1050657305/?ref_=ext_shr_lnk",
+	    "cast": "Benedict Cumberbatch,Elizabeth Olsen... more",
+        "time":"2h 6m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Doctor Strange in the Multiverse 2022/Doctor Strange in the Multiverse 2022.srt"
+	},
+
+    {
+	    "name": "Thor: Ragnarok",
+	    "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Thor Ragnarok 2017/Thor Ragnarok 2017.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Si-Fi,Hindi,Hollywood,English,Comedy",
+	    "releaseDate": "2017",
+	    "trailer": "https://www.imdb.com/video/vi3993418009/?ref_=ext_shr_lnk",
+	    "cast": "Chris Hemsworth,Tom Hiddleston,Cate Blanchett... more",
+        "time":"2h 11m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Thor Ragnarok 2017/Thor Ragnarok 2017.srt"
+	},
+
+    {
 	    "name": "Daredevil",
 	    "description": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
 	    "ageRestriction": "13",
 	    "video": "/Hollywood Movies/Daredevil 2003/Daredevil 2003.mkv",
 	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjYwZDNhMTgtNjEwNS00Y2Y0LTkxYjMtY2MyYTM0NDE1N2ZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX200.jpg1_FMjpg_UX1000_.jpg",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjYwZDNhMTgtNjEwNS00Y2Y0LTkxYjMtY2MyYTM0NDE1N2ZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1._SX200.jpg",
 	    "genres": "Action,Crime,Fantasy,Hollywood,English,Hindi",
 	    "releaseDate": "2003",
 	    "trailer": "https://www.imdb.com/video/vi2778726681/?ref_=ext_shr_lnk",
