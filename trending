@@ -1,5 +1,50 @@
-[   
+[  
     
+    {
+	    "name": "Thor: Love and Thunder",
+	    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Comedy,Fantasy,Romance,Si-Fi,Hindi,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1613808153/?ref_=ext_shr_lnk",
+	    "cast": "Chris Hemsworth,Natalie Portman... more",
+        "time":"1h 59m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022.srt"
+	},
+
+    {
+	    "name": "Shang-Chi and the Legend of the Ten Rings",
+	    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Marvel Movies/Shang chi 2021/Shang chi 2021.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Fantasy,Si-Fi,Hindi,English,Chinese",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi558809113/?ref_=ext_shr_lnk",
+	    "cast": "Simu Liu,Awkwafina... more",
+        "time":"2h 12m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Shang chi 2021/Shang chi 2021.srt"
+	},
+
+    {
+	    "name": "Eternals",
+	    "description": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Marvel Movies/Eternals 2021/Eternals 2021.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BY2Y1ODBhYTItYmJiZi00NjU2LWI2NjktNTcwM2U2NGQ2ZTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Fantasy,Si-Fi,Hindi,English,Hollywood",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi2072625945/?ref_=ext_shr_lnk",
+	    "cast": "Gemma Chan,Richard Madden... more",
+        "time":"2h 36m",
+        "subtitle":"/Hollywood Movies/Marvel Movies/Eternals 2021/Eternals 2021.srt"
+	},
+
     {
 	    "name": "Daredevil",
 	    "description": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
@@ -73,6 +118,81 @@
 	    "cast": "Timothée Chalamet,Joel Edgerton... more",
         "time":"2h 20m",
         "subtitle":"/Hollywood Movies/The King/The King.English (CC).srt"
+	},
+
+    {
+	    "name": "A Jazzman's Blues",
+	    "description": "A tale of forbidden love and family drama unravels 40 years of secrets and lies against a soundtrack of juke joint blues in the Deep South.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/A Jazzman_s Blues/A Jazzman_s Blues.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjczOGRjMDctZWVlMS00NWE3LTkxMGEtNmVjYjYyYjdkNDA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1._SX200.jpg",
+	    "genres": "Dramas,Romance,Spanish,Hollywood",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi981451289/?ref_=ext_shr_lnk",
+	    "cast": "Joshua Boone,Amirah Vann... more",
+        "time":"2h 7m",
+        "subtitle":"/Hollywood Movies/A Jazzman_s Blues/A Jazzman_s Blues.English (CC).srt"
+	},
+
+    {
+	    "name": "Black Crab",
+	    "description": "To end an apocalyptic war and save her daughter, a reluctant soldier embarks on a desperate mission to cross a frozen sea carrying a top-secret cargo.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Black Crab/Black Crab.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjMzZmIyNjUtNWE3Zi00NjIyLWIyZTUtYzhmY2NlNWU3NTU3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1._SX200.jpg",
+	    "genres": "Action,Adventure,Dramas,Si-Fi,Thriller,War,English,Hollywood,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi593675033/?ref_=ext_shr_lnk",
+	    "cast": "Noomi Rapace,Jakob Oftebro... more",
+        "time":"1h 49m",
+        "subtitle":"/Hollywood Movies/Black Crab/Black Crab.English (CC).srt"
+	},
+
+    {
+	    "name": "Broad Peak",
+	    "description": "After climbing Broad Peak mountain, Maciej Berbeka learns his journey to the summit is incomplete. 25 years later, he sets out to finish what he started.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Broad Peak/Broad Peak.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjI0ZWVmY2MtMzEwYS00ZDE3LWExZDktNWJlZDhhNjAxNTJjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX200.jpg",
+	    "genres": "Adventure,Biography,Dramas,Thriller,English,Hollywood,Spanish",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi694338073/?ref_=ext_shr_lnk",
+	    "cast": "Ireneusz Czop,Maja Ostaszewska... more",
+        "time":"1h 41m",
+        "subtitle":"/Hollywood Movies/Broad Peak/Broad Peak.English (CC).srt"
+	},
+
+    {
+	    "name": "Luckiest Girl Alive",
+	    "description": "A successful woman in New York City finds her life upended when she is forced to confront a dark truth that threatens to unravel her meticulously crafted life.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/Luckiest Girl Alive/Luckiest Girl Alive.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BNzJlMTE3ODEtODRjOS00Zjg4LWE0ZTYtODAwMWMwNjFmZmQyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1._SX200.jpg",
+	    "genres": "Dramas,Mystery,Thriller,English,Hollywood,Hindi",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3109077529/?ref_=ext_shr_lnk",
+	    "cast": "Mila Kunis,Finn Wittrock... more",
+        "time":"1h 53m",
+        "subtitle":"/Hollywood Movies/Luckiest Girl Alive/Luckiest Girl Alive.English (CC).srt"
+	},
+
+    {
+	    "name": "The Hand of God",
+	    "description": "In 1980s Naples, Italy, an awkward Italian teen struggling to find his place experiences heartbreak and liberation after he's inadvertently saved from a freak accident by football legend Diego Maradona.",
+	    "ageRestriction": "16",
+	    "video": "/Hollywood Movies/The Hand of God/The Hand of God.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZmE4NzM4YmItOTRkYS00NTEyLThlNDItNzJjMTNlMTgwMzEyXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1._SX200.jpg",
+	    "genres": "Dramas,Spanish,Italian,Hollywood",
+	    "releaseDate": "2021",
+	    "trailer": "https://www.imdb.com/video/vi3084960537/?ref_=ext_shr_lnk",
+	    "cast": "Filippo Scotti,Teresa Saponangelo... more",
+        "time":"2h 10m",
+        "subtitle":"/Hollywood Movies/The Hand of God/The Hand of God.English (CC).srt"
 	},
 
     {
@@ -1244,6 +1364,226 @@
         "time":"1h 37m",
         "subtitle":"/Hollywood Movies/Venom_ Let There Be Carnage/Venom_ Let There Be Carnage.English (CC).srt"
      },
+
+     {
+        "name": "Black Summer",
+        "description": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Black Summer/season 1/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Black Summer/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e1.mp4",
+                             "stitle": "1.Human Flow",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzNhZjhjMDAtMjEyMS00OTQ5LWE3ZmYtNmQ5MzRlNzllOGFmXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e2.mp4",
+                             "stitle": "2.Drive",
+                             "stime": "35m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZjE4NDdjYmUtZWM4Yi00NDRmLTkyNTEtMzE3NzhlOTYyMDY1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e3.mp4",
+                             "stitle": "3.Summer School",
+                             "stime": "40m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNmNlYmM5Y2UtOGFkNS00YTQ4LTg1NTUtNDQ4MTkyNjQzYWI0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e4.mp4",
+                             "stitle": "4.Alone",
+                             "stime": "39m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTY4YTViOTUtZTUzZi00MjgxLTg4NzUtYjc1YzNlZDY3Zjc1XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e5.mp4",
+                             "stitle": "5.Diner",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOTM5OTYyMmUtNTY3Ni00MmIzLWJhODktZjllNTdhNzc1MGM5XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e6.mp4",
+                             "stitle": "6.Heist",
+                             "stime": "34m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BM2JjZWE2OTctNGY3Ni00NTZhLWJkYjEtNTU4ZGU1ZWZmN2E3XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e7.mp4",
+                             "stitle": "7.The Tunnel",
+                             "stime": "26m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzRmNmE1ZTAtYTEwMi00N2MzLWE0YzMtOTg5NDJjYzc4MTZjXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY126_UX224_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 1/s1e8.mp4",
+                             "stitle": "8.The Stadium",
+                             "stime": "21m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTk2MmVhOTktZGUxOC00ZmFiLWJmMGYtNzk3YWJiNjZlNmY5XkEyXkFqcGdeQXVyMTA4OTg1Mzc1._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 1/s1e8.srt"
+                         }
+             ],
+             [
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e1.mp4",
+                             "stitle": "1.The Cold",
+                             "stime": "44m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BOWEwMjcyM2MtOThmOC00NDM4LWIxNTQtZDIyNjUxYmE0YjYyXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e2.mp4",
+                             "stitle": "2.Prelude",
+                             "stime": "43m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTM3NmQ2NmYtZjk3ZS00MjBkLThhNjctM2UwNWUwYjgxNzZjXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e3.mp4",
+                             "stitle": "3.Card Game",
+                             "stime": "45m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYWVjMjYxNTUtM2U1NC00ZmQyLWEwZmEtZTRkMGFmMmM3Y2JjXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e4.mp4",
+                             "stitle": "4.Cold War",
+                             "stime": "34m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYzFiOTc1MzgtOThmMS00MmZiLWEyYmItZWYzZDg5MjBjZGRkXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e5.mp4",
+                             "stitle": "5.White Horse",
+                             "stime": "47m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNTIyMTQ1MTEtNTI1NC00NWVhLTgzZDItNjg1M2I0Y2FiMGRmXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e6.mp4",
+                             "stitle": "6.Currency",
+                             "stime": "33m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BN2VhM2U4NDAtMWE4ZC00NDk4LWI4NjUtNTI1ZmVlM2VkMjhjXkEyXkFqcGdeQXVyNjk4MjIwNTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer/season 2/s2e7.mp4",
+                             "stitle": "7.The Lodge",
+                             "stime": "58m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMTE3Y2FiMDAtNGNlZi00MDk1LTliYmUtMDllNDMxOWY1MmM3XkEyXkFqcGdeQXVyOTM4OTEwNzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer\/season 2/s2e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Black Summer\/season 2/s2e8.mp4",
+                             "stitle": "8.The Plane",
+                             "stime": "42m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZTczYWZjZjEtNjA3My00YjY5LTg1OTItOWU5NDE2ZWYwMDViXkEyXkFqcGdeQXVyNjk4MjIwNTQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Black Summer/season 2/s2e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1._SX200.jpg",
+        "genres": "Action,Dramas,Horror,Thriller,English,Hollywood,Si-Fi,Fantasy,Adventure",
+        "releaseDate": "2019",
+        "trailer": "https://www.imdb.com/video/vi771013913/?ref_=ext_shr_lnk",
+        "cast": "Jaime King,Kelsey Flower...more"
+       },
+
+       {
+        "name": "Partner Track",
+        "description": "At an elite NYC law firm, Ingrid Yun fights to make partner — and hold onto her principles — while balancing romance, friends and family expectations.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Partner Track/Partner Track/s1e1.mp4",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e1.mp4",
+                             "stitle": "1.Material Adverse Change",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nLU2m1YNMHnu48kc0Sw0W2bNTD6.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e2.mp4",
+                             "stitle": "2.Meta-Strategy",
+                             "stime": "41m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/Z81Qdbk9z1PYzJt1hHhhh55AX3.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e3.mp4",
+                             "stitle": "3.Change of Venue",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/h4vsO8YZHRhchIoRQbABRl1AqmD.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e4.mp4",
+                             "stitle": "4.Due Diligence",
+                             "stime": "44m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tezVNWzpCSbf2VKEtzutZm5Xy25.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e5.mp4",
+                             "stitle": "5.Out of Office",
+                             "stime": "42m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vQyBvPWFwecZY7jPWMLZDYihJRl.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e6.mp4",
+                             "stitle": "6.Client Relations",
+                             "stime": "40m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pansv8CnNBM3bdvGrsBEtImQAet.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e7.mp4",
+                             "stitle": "7.Talking Points",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nyNBM7pLRqnx7i9ELTHxHEudSbY.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e8.mp4",
+                             "stitle": "8.Consequential Damages",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aC3qglct5mILPh3OWCGiHQuWz5f.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e8.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e9.mp4",
+                             "stitle": "9.Pro Forma",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/crkrc6V0fKbLou5bidNeNrKLScp.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e9.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Partner Track/Partner Track/season 1/s1e10.mp4",
+                             "stitle": "10.Dawn Raid",
+                             "stime": "45m",
+                             "simage": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jMBnTVcHbt8fyaFOTH6019CG9JP.jpg",
+                             "ssubtitle":"/Hollywood series/Partner Track/Partner Track/season 1/s1e10.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMjRhZGNjMWQtNWE2YS00MzlhLWI3Y2MtMjY5MjA5MWFlOGM4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1._SX200.jpg",
+        "genres": "Dramas,,Hindi,English,Hollywood",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi2031534617/?ref_=ext_shr_lnk",
+        "cast": "Arden Cho,Bradley Gibson...more"
+       },
 
      {
         "name": "The Haunting of Bly Manor",
