@@ -14,6 +14,21 @@
         "time":"1h 59m",
         "subtitle":"/Hollywood Movies/Marvel Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022.srt"
 	},
+	
+	    {
+	    "name": "Enola Holmes 2",
+	    "description": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDI1NWM1ZDItNDFhMi00YWRhLTg1YzItNTNhY2M2N2QzY2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+	    "genres": "Action, Adventure, Crime, Drama, Mystery,Hindi,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1883619865/?ref_=ext_shr_lnk",
+	    "cast": "Millie Bobby Brown,Henry Cavill... more",
+        "time":"2h 27m",
+        "subtitle":"/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.CC.en.srt"
+	},
 
     {
 	    "name": "Shang-Chi and the Legend of the Ten Rings",
