@@ -1,5 +1,36 @@
 [   
     
+
+    {
+	    "name": "Brahmāstra Part One: Shiva",
+	    "description": "The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/Brahmastra Part One/Brahmastra Part One.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjY2MmI1ZWItNmU0Yy00NTdkLWJiYmQtNzFlZWNlMzkxZTZjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1._SX200.jpg",
+	    "genres": "Action, Adventure, Fantasy,Bollywood,Hindi,Indian",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi2004861465/?ref_=ext_shr_lnk",
+	    "cast": "Ranbir Kapoor,Alia Bhatt... more",
+        "time":"2h 49m",
+        "subtitle":"/Hindi_Movies/Brahmastra Part One/Brahmastra Part One.srt"
+	},
+
+    {
+	    "name": "The Ghost",
+	    "description": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+	    "ageRestriction": "13",
+	    "video": "/Hindi_Movies/The Ghost (Hindi)/The Ghost (Hindi).mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1._SX200.jpg",
+	    "genres": "Action, Drama, Thriller,Hindi,Indian        ",
+	    "releaseDate": "2002",
+	    "trailer": "https://www.imdb.com/video/vi1281606169/?ref_=ext_shr_lnk",
+	    "cast": "Nagarjuna Akkineni,Sonal Chauhan... more",
+        "time":"2h 18m",
+        "subtitle":"/Hindi_Movies/The Ghost (Hindi)/The Ghost (Hindi).en.srt"
+	},
+    
     {
 	    "name": "Plan A Plan B",
 	    "description": "When an earnest matchmaker moves into an office next to a cynical divorce attorney, their bitter conflict is complicated by a growing attraction.",
