@@ -1,5 +1,36 @@
 [  
     
+
+    {
+	    "name": "Enola Holmes 2",
+	    "description": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDI1NWM1ZDItNDFhMi00YWRhLTg1YzItNTNhY2M2N2QzY2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
+	    "genres": "Action, Adventure, Crime, Drama, Mystery,Hindi,Hollywood,English",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi1883619865/?ref_=ext_shr_lnk",
+	    "cast": "Millie Bobby Brown,Henry Cavill... more",
+        "time":"2h 27m",
+        "subtitle":"/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.CC.en.srt"
+	},
+
+    {
+	    "name": "Enola Holmes",
+	    "description": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Enola Holmes 2/Enola Holmes.mp4",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BZjNkNzk0ZjEtM2M1ZC00MmMxLTlmOWEtNWRlZTc1ZTUyNzY4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1._SX200.jpg",
+	    "genres": "Action, Adventure, Mystery, Comedy, Crime,Hollywood,English,Hindi",
+	    "releaseDate": "2020",
+	    "trailer": "https://www.imdb.com/video/vi1481096729/?ref_=ext_shr_lnk",
+	    "cast": "Millie Bobby,Henry Cavill... more",
+        "time":"2h 3m",
+        "subtitle":"/Hollywood Movies/Enola Holmes 2/Enola Holmes.CC.en.srt"
+	},
+
     {
 	    "name": "Thor: Love and Thunder",
 	    "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
@@ -13,21 +44,6 @@
 	    "cast": "Chris Hemsworth,Natalie Portman... more",
         "time":"1h 59m",
         "subtitle":"/Hollywood Movies/Marvel Movies/Thor Love and Thunder 2022/Thor Love and Thunder 2022.srt"
-	},
-	
-	    {
-	    "name": "Enola Holmes 2",
-	    "description": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.",
-	    "ageRestriction": "13",
-	    "video": "/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.mp4",
-	    "series": "not",
-	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BMDI1NWM1ZDItNDFhMi00YWRhLTg1YzItNTNhY2M2N2QzY2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
-	    "genres": "Action, Adventure, Crime, Drama, Mystery,Hindi,Hollywood,English",
-	    "releaseDate": "2022",
-	    "trailer": "https://www.imdb.com/video/vi1883619865/?ref_=ext_shr_lnk",
-	    "cast": "Millie Bobby Brown,Henry Cavill... more",
-        "time":"2h 27m",
-        "subtitle":"/Hollywood Movies/Enola Holmes 2/Enola Holmes 2.CC.en.srt"
 	},
 
     {
