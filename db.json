@@ -1,6 +1,6 @@
 [
     {
-		"title": "Planet Cloud Gaming",
+		"title": "Planet Cloud Server",
 		"description": "A Indian cloud gaming is here with Planet Cloud Gaming. Have you ever imagined playing Gta 5, Cyberpunk 2077, RDR2 etc High end graphic on your smartphone? Now that’s possible, Planet Cloud Gaming is a cloud gaming platform you can actually play on, PC games are hosted and streamed by Planet Cloud Gaming. They’re playable instantly, on android, soon for ios and smart tv , with no downloads required.",
 		"price": 50.0,
 		"discount": 40.0,
@@ -14,7 +14,7 @@
 		"info": "LT1FyaNFFkc"
 	},
 	{
-		"title": "Planet Cloud Gaming",
+		"title": "Planet Cloud Server",
 		"description": "A Indian cloud gaming is here with Planet Cloud Gaming. Have you ever imagined playing Gta 5, Cyberpunk 2077, RDR2 etc High end graphic on your smartphone? Now that’s possible, Planet Cloud Gaming is a cloud gaming platform you can actually play on, PC games are hosted and streamed by Planet Cloud Gaming. They’re playable instantly, on android, soon for ios and smart tv , with no downloads required.",
 		"price": 170.0,
 		"discount": 160.0,
@@ -28,8 +28,8 @@
 		"info": "LT1FyaNFFkc"
 	},
 	{
-		"title": "Parsec Gaming",
-		"description": "Parsec Gaming on Gaming GPU server provide by us, you can choose for which time period you want to use this is for PC and Android Gamepad Users, our dream to provide best to you, after payment complete we provide you credential in Order Section within 15~30 minutes.",
+		"title": "Parsec GPU Server",
+		"description": "Parsec on based GPU server provide by us, you can choose for which time period you want to use this is for PC and Android Gamepad Users, our dream to provide best to you, after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 3100,
 		"image": "https://i.ibb.co/nLBq8n8/parsec.png",
 		"stock": "Stock",
@@ -39,8 +39,20 @@
 		"coin": 75000,
 		"info": "SlF4SGLK16o"
 	},
+        {
+		"title": "Web Hosting",
+		"description": "Web hosting server provide by us, you can choose for which time period you want to use this is for web design, host your backend and frontend server, our dream to provide best to you, after payment complete we provide you credential in Order Section within 15~30 minutes.",
+		"price": 1500,
+		"image": "https://i.ibb.co/nLBq8n8/parsec.png",
+		"stock": "Stock",
+		"id": 9,
+		"type": "Yearly",
+		"color": "blue",
+		"coin": 105000,
+		"info": "SlF4SGLK16o"
+	},
 	{
-		"title": "Azure Normal RDP",
+		"title": "Azure Basic Virtual Machine",
 		"description": "Azure Cloud Computing RDP for 1 month and our warrenty for replacement is 14 days and other services pay as you go for 1 month only after end up of rdp you can renew it, In pay as you go you can use according your need you pay to azure only what you use for how much time, next price may extented which server you want to use, this is normal rdp price, after purchase change your details include password, username etc and after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 780.0,
 		"discount": 777.0,
@@ -54,7 +66,7 @@
 		"info": ""
 	},
 	{
-		"title": "AWS Portal",
+		"title": "AWS Cloud Services",
 		"description": "AWS Cloud Computing With 1 year Subscription, it come with limit 1 vcpu and 1 gb ram or if you want to use more than given limit so you lose your AWS cloud in between 7 to 14 days around or you should pay for what you use from prevent to termination of account, after purchase change your details include password etc and after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 430.0,
 		"discount": 427.0,
@@ -82,7 +94,7 @@
 		"info": ""
 	},
 	{
-		"title": "Shadow Cloud",
+		"title": "Shadow Cloud Server",
 		"description": "Shadow Cloud Gaming With 1 Month Play-Time, Shadow provides you user GUI interface with windows it is full brutal gaming server rather than others provider you can play unlimited hours (day and night) with all software are pre-installed so your work only to play, after purchase change your details include password etc and after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 3250.0,
 		"discount": 3000.0,
@@ -96,7 +108,7 @@
 		"info": ""
 	},
 	{
-		"title": "Google Cloud Platform",
+		"title": "Google Cloud Platform Server",
 		"description": "Google Cloud Computing With 90 Days Subscription Rewarded with 300 dollar credit, this is one of most trending and full resources cloud service which provide cheap resources then others, you can use every resources for normal instance you want to request to google for approving, after purchase change your details include password etc and after payment complete we provide you credential in Order Section within 15~30 minutes.",
 		"price": 3500.0,
 		"image": "https://i.ibb.co/rw0dKR4/google.png",
@@ -106,45 +118,6 @@
 		"type": "Annual",
 		"coin": 55000,
 		"color": "orange",
-		"info": ""
-	},
-	{
-		"title": "Netflix 1 Month",
-		"description": "Netflix Streaming Subscription With 1 Month Subscription with 4 Screens 4k HD With No Email Password Change, This is one of most popular platform for movies and TV shows, after purchase change your details include password etc and after payment complete we provide you credential in Order Section within 15~30 minutes.",
-		"price": 450.0,
-		"image": "https://i.ibb.co/H2wjGBk/netflix.png",
-		"stock": "Stock",
-		"id": 9,
-		"type": "Monthly",
-		"category": "Entertainment",
-		"coin": 5000,
-		"color": "red",
-		"info": ""
-	},
-	{
-		"title": "Prime Video 1 Month",
-		"description": "Prime Video Streaming With 1 Month Subscription with 4 Screens 4k HD, This is one of most popular platform for movies and TV shows, after purchase change your details include password etc and after complete the payment we will provide your account credential in Order Section within 15~30 minutes.",
-		"price": 60.0,
-		"image": "https://i.ibb.co/JKhDy3z/prime.png",
-		"stock": "Stock",
-		"id": 10,
-		"type": "Monthly",
-		"category": "Entertainment",
-		"coin": 1200,
-		"color": "blue",
-		"info": ""
-	},
-	{
-		"title": "Prime Video 6 months",
-		"description": "Prime Video Streaming With 6 months Subscription with 4 Screens 4k HD, This is one of most popular platform for movies and TV shows, after purchase change your details include password etc and after complete the payment we will provide your account credential in Order Section within 15~30 minutes.",
-		"price": 260.0,
-		"image": "https://i.ibb.co/JKhDy3z/prime.png",
-		"stock": "Stock",
-		"category": "Entertainment",
-		"id": 11,
-		"type": "Semi-annual",
-		"coin": 4500,
-		"color": "blue",
 		"info": ""
 	},
 	{
