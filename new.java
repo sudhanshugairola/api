@@ -15,8 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingQueue;
-import android.text.TextUtils;
-import android.util.Base64;
+
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -29,6 +28,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+
 import com.planet.binding.PlatformBinding;
 import com.planet.binding.crypto.AndroidCryptoProvider;
 import com.planet.computers.ComputerManagerListener;
@@ -68,6 +68,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
 import android.preference.PreferenceManager;
+import android.text.TextUtils;
+import android.util.Base64;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.Menu;
@@ -93,22 +95,25 @@ import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
 public class PcView extends Activity implements AdapterFragmentCallbacks {
-    private RelativeLayout noPcFoundLayout;
-    private PcGridAdapter pcGridAdapter;
-    private ShortcutHelper shortcutHelper;
     TextView logout;
     ImageButton refresh;
     private FirebaseAuth mAuth;
-    private Thread addThread;
-    HashMap<String, String> timeMap=new HashMap<String, String>();
-    private final LinkedBlockingQueue<String> computersToAdd = new LinkedBlockingQueue<>();
-    List<String> list = new ArrayList<>();
+    private RelativeLayout noPcFoundLayout;
+    private PcGridAdapter pcGridAdapter;
+    private ShortcutHelper shortcutHelper;
     private ComputerManagerService.ComputerManagerBinder managerBinder;
     private boolean freezeUpdates, runningPolling, inForeground, completeOnCreateCalled;
+    private final LinkedBlockingQueue<String> computersToAdd = new LinkedBlockingQueue<>();
+    List<String> list = new ArrayList<>();
+    HashMap<String, String> timeMap=new HashMap<String, String>();
+    private Thread addThread;
     private final ServiceConnection serviceConnection = new ServiceConnection() {
         public void onServiceConnected(ComponentName className, IBinder binder) {
             final ComputerManagerService.ComputerManagerBinder localBinder =
                     ((ComputerManagerService.ComputerManagerBinder)binder);
+
+
+
 
             // Wait in a separate thread to avoid stalling the UI
             new Thread() {
@@ -121,6 +126,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                     managerBinder = localBinder;
 
                     // Start updates
+
                     //startComputerUpdates();
                     startAddThread();
 
@@ -131,6 +137,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         }
 
         public void onServiceDisconnected(ComponentName className) {
+            joinAddThread();
             managerBinder = null;
         }
     };
@@ -147,6 +154,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         // in the main thread.
         if (completeOnCreateCalled) {
             // Reinitialize views just in case orientation changed
+
             initializeViews();
         }
     }
@@ -166,28 +174,22 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
 
         UiHelper.notifyNewRootView(this);
 
-        // Allow floating expanded PiP overlays while browsing PCs
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            setShouldDockBigOverlays(false);
-        }
-
         // Set default preferences if we've never been run
         PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
 
         // Set the correct layout for the PC grid
         pcGridAdapter.updateLayoutWithPreferences(this, PreferenceConfiguration.readPreferences(this));
 
+        // Setup the list view
+        ImageButton settingsButton = findViewById(R.id.settingsButton);
+        ImageButton addComputerButton = findViewById(R.id.manuallyAddPc);
         logout=findViewById(R.id.logout_main);
         refresh=findViewById(R.id.refresh_btn);
+
         mAuth = FirebaseAuth.getInstance();
 
         FirebaseUser currentUser = mAuth.getCurrentUser();
         assert currentUser != null;
-        // Setup the list view
-        ImageButton settingsButton = findViewById(R.id.settingsButton);
-        ImageButton addComputerButton = findViewById(R.id.manuallyAddPc);
-//        ImageButton addComputerButton = findViewById(R.id.manuallyAddPc);
-//        ImageButton helpButton = findViewById(R.id.helpButton);
 
         settingsButton.setOnClickListener(new OnClickListener() {
             @Override
@@ -195,7 +197,6 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 startActivity(new Intent(PcView.this, StreamSettings.class));
             }
         });
-
         addComputerButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -217,26 +218,10 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 refresh();
             }
         });
-//        addComputerButton.setOnClickListener(new OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent i = new Intent(PcView.this, AddComputerManually.class);
-//                startActivity(i);
-//            }
-//        });
-//        helpButton.setOnClickListener(new OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                HelpLauncher.launchSetupGuide(PcView.this);
-//            }
-//        });
-//
-//        // Amazon review didn't like the help button because the wiki was not entirely
-//        // navigable via the Fire TV remote (though the relevant parts were). Let's hide
-//        // it on Fire TV.
-//        if (getPackageManager().hasSystemFeature("amazon.hardware.fire_tv")) {
-//            helpButton.setVisibility(View.GONE);
-//        }
+
+        // Amazon review didn't like the help button because the wiki was not entirely
+        // navigable via the Fire TV remote (though the relevant parts were). Let's hide
+        // it on Fire TV.
 
         getFragmentManager().beginTransaction()
             .replace(R.id.pcFragmentContainer, new AdapterFragment())
@@ -249,13 +234,15 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         else {
             noPcFoundLayout.setVisibility(View.INVISIBLE);
         }
+
         pcGridAdapter.notifyDataSetChanged();
+
     }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         // Assume we're in the foreground when created to avoid a race
         // between binding to CMS and onResume()
         inForeground = true;
@@ -298,20 +285,9 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
             completeOnCreate();
         }
     }
-    void logout(){
-        FirebaseAuth.getInstance().signOut();
 
-        GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken(getString(R.string.default_web_client_id))
-                .requestEmail()
-                .build();
 
-        GoogleSignIn.getClient(getApplicationContext(), gso).signOut();
-        Toast.makeText(getApplicationContext(),"Logout successfully",Toast.LENGTH_SHORT).show();
-        Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK|Intent.FLAG_ACTIVITY_CLEAR_TASK);
-        startActivity(intent);
-    }
+
     private void completeOnCreate() {
         completeOnCreateCalled = true;
 
@@ -323,14 +299,15 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         bindService(new Intent(PcView.this, ComputerManagerService.class), serviceConnection,
                 Service.BIND_AUTO_CREATE);
 
-//        pcGridAdapter = new PcGridAdapter(this, PreferenceConfiguration.readPreferences(this));
-//
-//        initializeViews();
-
         getTimer();
+
+
+
+
     }
 
     private void startComputerUpdates() {
+
         // Only allow polling to start if we're bound to CMS, polling is not already running,
         // and our activity is in the foreground.
         if (managerBinder != null && !runningPolling && inForeground) {
@@ -370,6 +347,20 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         }
     }
 
+     void logout(){
+        FirebaseAuth.getInstance().signOut();
+
+        GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                .requestIdToken(getString(R.string.default_web_client_id))
+                .requestEmail()
+                .build();
+
+        GoogleSignIn.getClient(getApplicationContext(), gso).signOut();
+        Toast.makeText(getApplicationContext(),"Logout successfully",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK|Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(intent);
+    }
     @Override
     public void onDestroy() {
         super.onDestroy();
@@ -413,6 +404,8 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         super.onCreateContextMenu(menu, v, menuInfo);
                 
         AdapterContextMenuInfo info = (AdapterContextMenuInfo) menuInfo;
+
+
         ComputerObject computer = (ComputerObject) pcGridAdapter.getItem(info.position);
 
         // Add a header with PC status details
@@ -450,10 +443,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
 
             menu.add(Menu.NONE, FULL_APP_LIST_ID, 4, getResources().getString(R.string.pcview_menu_app_list));
         }
-
-        menu.add(Menu.NONE, TEST_NETWORK_ID, 5, getResources().getString(R.string.pcview_menu_test_network));
-        menu.add(Menu.NONE, DELETE_ID, 6, getResources().getString(R.string.pcview_menu_delete_pc));
-        menu.add(Menu.NONE, VIEW_DETAILS_ID, 7,  getResources().getString(R.string.pcview_menu_details));
+        menu.add(Menu.NONE, DELETE_ID, 5, getResources().getString(R.string.pcview_menu_delete_pc));
     }
 
     @Override
@@ -465,8 +455,13 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
     }
 
     private void doPair(final ComputerDetails computer) {
-        if (computer.state == ComputerDetails.State.OFFLINE || computer.activeAddress == null) {
+        if (computer.state == ComputerDetails.State.OFFLINE ||
+                ServerHelper.getCurrentAddressFromComputer(computer) == null) {
             Toast.makeText(PcView.this, getResources().getString(R.string.pair_pc_offline), Toast.LENGTH_SHORT).show();
+            return;
+        }
+        if (computer.runningGameId != 0) {
+            Toast.makeText(PcView.this, getResources().getString(R.string.pair_pc_ingame), Toast.LENGTH_LONG).show();
             return;
         }
         if (managerBinder == null) {
@@ -485,15 +480,21 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                     // Stop updates and wait while pairing
                     stopComputerUpdates(true);
 
+                    Log.d("connect","connect_____________1");
                     httpConn = new NvHTTP(ServerHelper.getCurrentAddressFromComputer(computer),
-                            computer.httpsPort, managerBinder.getUniqueId(), computer.serverCert,
+                            managerBinder.getUniqueId(),
+                            computer.serverCert,
                             PlatformBinding.getCryptoProvider(PcView.this));
+                    Log.d("connect","connect_____________2");
                     if (httpConn.getPairState() == PairState.PAIRED) {
                         // Don't display any toast, but open the app list
+                        Log.d("connect","connect_____________3");
+
                         message = null;
                         success = true;
                     }
                     else {
+                        Log.d("connect","connect_____________4");
                         final String pinStr = "0000";
 
                         // Spin the dialog off in a thread because it blocks
@@ -502,22 +503,22 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
 
                         PairingManager pm = httpConn.getPairingManager();
 
-                        PairState pairState = pm.pair(httpConn.getServerInfo(true), pinStr);
+                        PairState pairState = pm.pair(httpConn.getServerInfo(), pinStr);
                         if (pairState == PairState.PIN_WRONG) {
+                            Log.d("connect","connect_____________5");
                             message = getResources().getString(R.string.pair_incorrect_pin);
                         }
                         else if (pairState == PairState.FAILED) {
-                            if (computer.runningGameId != 0) {
-                                message = getResources().getString(R.string.pair_pc_ingame);
-                            }
-                            else {
-                                message = getResources().getString(R.string.pair_fail);
-                            }
+                            Log.d("connect","connect_____________6");
+                            message = getResources().getString(R.string.pair_fail);
                         }
                         else if (pairState == PairState.ALREADY_IN_PROGRESS) {
+                            Log.d("connect","connect_____________7");
                             message = getResources().getString(R.string.pair_already_in_progress);
                         }
                         else if (pairState == PairState.PAIRED) {
+
+                            Log.d("connect","connect_____________8");
                             // Just navigate to the app view without displaying a toast
                             message = null;
                             success = true;
@@ -530,6 +531,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                             managerBinder.invalidateStateForComputer(computer.uuid);
                         }
                         else {
+                            Log.d("connect","connect_____________9");
                             // Should be no other values
                             message = null;
                         }
@@ -557,8 +559,10 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                         if (toastSuccess) {
                             // Open the app list after a successful pairing attempt
                             String timestamp=String.valueOf(System.currentTimeMillis());
-                            postTimer(String.valueOf(computer.manualAddress),timestamp);
+                            postTimer(computer.manualAddress,timestamp);
                             Log.d("connect","connect_____________10  "+computer.manualAddress);
+                            //computer.time=String.valueOf(System.currentTimeMillis());
+
                             updateComputer(computer);
                             doAppList(computer, true, false);
                         }
@@ -607,7 +611,8 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
     }
 
     private void doUnpair(final ComputerDetails computer) {
-        if (computer.state == ComputerDetails.State.OFFLINE || computer.activeAddress == null) {
+        if (computer.state == ComputerDetails.State.OFFLINE ||
+                ServerHelper.getCurrentAddressFromComputer(computer) == null) {
             Toast.makeText(PcView.this, getResources().getString(R.string.error_pc_offline), Toast.LENGTH_SHORT).show();
             return;
         }
@@ -624,7 +629,8 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 String message;
                 try {
                     httpConn = new NvHTTP(ServerHelper.getCurrentAddressFromComputer(computer),
-                            computer.httpsPort, managerBinder.getUniqueId(), computer.serverCert,
+                            managerBinder.getUniqueId(),
+                            computer.serverCert,
                             PlatformBinding.getCryptoProvider(PcView.this));
                     if (httpConn.getPairState() == PairingManager.PairState.PAIRED) {
                         httpConn.unpair();
@@ -668,9 +674,35 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
             return;
         }
 
+        boolean found=false;
+        String id="";
+        String timestamp="";
+        for(int i=0;i<array.length();i++){
+            try {
+                JSONObject obj=array.getJSONObject(i);
+
+                if(TextUtils.equals(computer.manualAddress,obj.getJSONObject("attributes").getString("ip"))){
+                    id=obj.getString("id");
+                    timestamp=obj.getJSONObject("attributes").getString("timestamp");
+                    found=true;
+                }
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
+
+        if(!found){
+            timestamp="";
+        }
+
+
         Intent i = new Intent(this, AppView.class);
         i.putExtra(AppView.NAME_EXTRA, computer.name);
         i.putExtra(AppView.UUID_EXTRA, computer.uuid);
+        i.putExtra(AppView.TIME, computer.time);
+        i.putExtra(AppView.TIMESTAMP, timestamp);
+        i.putExtra(AppView.ID, id);
+        i.putExtra(AppView.IP, computer.manualAddress);
         i.putExtra(AppView.NEW_PAIR_EXTRA, newlyPaired);
         i.putExtra(AppView.SHOW_HIDDEN_APPS_EXTRA, showHiddenGames);
         startActivity(i);
@@ -694,21 +726,25 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 return true;
 
             case DELETE_ID:
-                if (ActivityManager.isUserAMonkey()) {
-                    LimeLog.info("Ignoring delete PC request from monkey");
-                    return true;
-                }
-                UiHelper.displayDeletePcConfirmationDialog(this, computer.details, new Runnable() {
-                    @Override
-                    public void run() {
-                        if (managerBinder == null) {
-                            Toast.makeText(PcView.this, getResources().getString(R.string.error_manager_not_running), Toast.LENGTH_LONG).show();
-                            return;
-                        }
-                        removeComputer(computer.details);
-                    }
-                }, null);
+                removeComputer(computer.details); // through thisokpahele custom ek array bao ok abhi karo ge ki baad me ? work
                 return true;
+//                if (ActivityManager.isUserAMonkey()) {
+//                    LimeLog.info("Ignoring delete PC request from monkey");
+//                    return true;
+//                }
+//                UiHelper.displayDeletePcConfirmationDialog(this, computer.details, new Runnable() {
+//                    @Override
+//                    public void run() {
+////                        if (managerBinder == null) {
+////                            Toast.makeText(PcView.this, getResources().getString(R.string.error_manager_not_running), Toast.LENGTH_LONG).show();
+////                            return;
+////                        }
+////                        removeComputer(computer.details);
+////                        doUnpair(computer.details);
+//                        doUnpair(computer.details);
+//                    }
+//                }, null);
+
 
             case FULL_APP_LIST_ID:
                 doAppList(computer.details, false, true);
@@ -753,6 +789,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
     }
     
     private void removeComputer(ComputerDetails details) {
+
         managerBinder.removeComputer(details);
 
         new DiskAssetLoader(this).deleteAssetsForComputer(details.uuid);
@@ -762,6 +799,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 .edit()
                 .remove(details.uuid)
                 .apply();
+
 
         for (int i = 0; i < pcGridAdapter.getCount(); i++) {
             ComputerObject computer = (ComputerObject) pcGridAdapter.getItem(i);
@@ -785,6 +823,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
     }
     
     private void updateComputer(ComputerDetails details) {
+
         ComputerObject existingEntry = null;
 
         for (int i = 0; i < pcGridAdapter.getCount(); i++) {
@@ -805,10 +844,12 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         if (existingEntry != null) {
             // Replace the information in the existing entry
             existingEntry.details = details;
+
         }
         else {
             // Add a new entry
             pcGridAdapter.addComputer(new ComputerObject(details));
+
 
             // Remove the "Discovery in progress" view
             noPcFoundLayout.setVisibility(View.INVISIBLE);
@@ -825,6 +866,7 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
 
     @Override
     public void receiveAbsListView(AbsListView listView) {
+
         listView.setAdapter(pcGridAdapter);
         listView.setOnItemClickListener(new OnItemClickListener() {
             @Override
@@ -949,7 +991,6 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
             return false;
         }
     }
-
     private URI parseRawUserInputToUri(String rawUserInput) {
         Log.d("add ip ____",rawUserInput);
         try {
@@ -985,36 +1026,36 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         try {
             URI uri = parseRawUserInputToUri(host);
             ComputerDetails details = new ComputerDetails();
-            String checking = String.valueOf(details.manualAddress);
-            checking = host;
+            details.manualAddress = host;
 
             if (uri != null && uri.getHost() != null && !uri.getHost().isEmpty()) {
-                String hosts = uri.getHost();
+                String host = uri.getHost();
                 int port = uri.getPort();
 
                 // If a port was not specified, use the default
                 if (port == -1) {
                     port = NvHTTP.DEFAULT_HTTP_PORT;
                 }
-                if(timeMap.get(host)!=null){
-                    details.time = timeMap.get(host);
-                }else{
-                    details.time = "";
-                }
 
-                details.manualAddress = new ComputerDetails.AddressTuple(hosts, port);
+                details.manualAddress = new ComputerDetails.AddressTuple(host, port);
                 success = managerBinder.addComputerBlocking(details);
                 if (!success){
-                    wrongSiteLocal = isWrongSubnetSiteLocalAddress(hosts);
+                    wrongSiteLocal = isWrongSubnetSiteLocalAddress(host);
                 }
             } else {
                 // Invalid user input
                 success = false;
+
+            }
+
+            if(timeMap.get(host)!=null){
+                details.time = timeMap.get(host);
+            }else{
                 details.time = "";
             }
 
             success = managerBinder.addComputerBlocking(details);
-        } catch (IllegalArgumentException | InterruptedException e) {
+        } catch (IllegalArgumentException e) {
             // This can be thrown from OkHttp if the host fails to canonicalize to a valid name.
             // https://github.com/square/okhttp/blob/okhttp_27/okhttp/src/main/java/com/squareup/okhttp/HttpUrl.java#L705
             e.printStackTrace();
@@ -1126,17 +1167,17 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
                 list.remove(list.indexOf(computer.details.manualAddress));
                 n++;
             }else {
-                managerBinder.removeComputer(computer.details);
+                  managerBinder.removeComputer(computer.details);
 
-                new DiskAssetLoader(this).deleteAssetsForComputer(computer.details.uuid);
+            new DiskAssetLoader(this).deleteAssetsForComputer(computer.details.uuid);
 
-                // Delete hidden games preference value
-                getSharedPreferences(AppView.HIDDEN_APPS_PREF_FILENAME, MODE_PRIVATE)
-                        .edit()
-                        .remove(computer.details.uuid)
-                        .apply();
+            // Delete hidden games preference value
+            getSharedPreferences(AppView.HIDDEN_APPS_PREF_FILENAME, MODE_PRIVATE)
+                    .edit()
+                    .remove(computer.details.uuid)
+                    .apply();
 
-                // Disable or delete shortcuts referencing this PC
+            // Disable or delete shortcuts referencing this PC
                 shortcutHelper.disableComputerShortcut(computer.details,
                         getResources().getString(R.string.scut_deleted_pc));
 
@@ -1373,4 +1414,6 @@ public class PcView extends Activity implements AdapterFragmentCallbacks {
         vrequest.setShouldCache(false);
         vQueue.add(vrequest);
     }
+
+
 }
