@@ -1,6 +1,19 @@
 [   
     
-
+    {
+	    "name": "Avatar: The Way of Water",
+	    "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+	    "ageRestriction": "13",
+	    "video": "/Hollywood Movies/Avatar 2/Avatar 2.mkv",
+	    "series": "not",
+	    "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2VhYjIwMDQtZjY4OS00Yjk2LWI5YjktNjQxOTE0MjE4NjBkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1._SX200.jpg",
+	    "genres": "Si-Fi,Adventure,Action,English,Hindi,Hollywood ",
+	    "releaseDate": "2022",
+	    "trailer": "https://www.imdb.com/video/vi3565864217/?ref_=ext_shr_lnk",
+	    "cast": "Sam Worthington,Zoe Saldaña,Britain Dalton... more",
+        "time":"3h 12m",
+        "subtitle":"/Hollywood Movies/Avatar 2/Avatar 2.srt"
+	},
 
     {
 	    "name": "The Ghost",
@@ -571,8 +584,82 @@
         "time":"2h 5m",
         "subtitle":"/Hollywood Movies/Fullmetal Alchemist The Revenge of Scar/Fullmetal Alchemist The Revenge of Scar.English (CC).srt"
 	},
-	
-	 {
+
+    {
+        "name": "Wednesday",
+        "description": "Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago — all while navigating her new relationships.",
+        "ageRestriction": "16",
+        "video": "/Hollywood series/Wednesday/season 1/Wednesday s1e1.mkv",
+        "series": "yes",
+        "subtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e1.srt",
+         "seriess":[
+             [
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e1.mkv",
+                             "stitle": "1.Wednesday's Child Is Full of Woe",
+                             "stime": "1h",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMWU2MzU4MGMtZGVhNS00YmRkLTk4ZTgtYzVjNWExNjEzNmY1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e1.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e2.mkv",
+                             "stitle": "2.Woe Is the Loneliest Number",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNDVhMDdjZTQtYTRhYi00YWJjLWE5NzctZWIzNTJlZmY4MGRmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e2.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e3.mkv",
+                             "stitle": "3.Friend or Woe",
+                             "stime": "49m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjYzNjJhZTAtYzNiNS00YzRiLThlMTctYjE5MTk4OTQ5NjI3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e3.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e4.mkv",
+                             "stitle": "4.Woe What a Night",
+                             "stime": "50m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BZmQ0YWE0OTEtMTA0YS00MzBhLTkxZjgtOGEzOGYxODFmMDViXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e4.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e5.mkv",
+                             "stitle": "5.You Reap What You Woe",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMjEzMjEyYTgtMmRhMS00NWE2LTg1YWQtMjdkZWRkMTk4NTkxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY126_CR5,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e5.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e6.mkv",
+                             "stitle": "6.Quid Pro Woe",
+                             "stime": "51m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BMDRlMWE5MjYtOTZmMC00YzA0LThjZTAtZDM2OGEyNTMyN2MxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY126_CR5,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e6.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e7.mkv",
+                             "stitle": "7.If You Don’t Woe Me by Now",
+                             "stime": "48m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BYTgzM2MxYzQtMDAzYy00N2YyLTg3NjctNjhkYWE1MGZiNTU5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY126_CR14,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e7.srt"
+                         },
+                         {
+                             "svideos": "/Hollywood series/Wednesday/season 1/Wednesday s1e8.mkv",
+                             "stitle": "8.A Murder of Woes",
+                             "stime": "53m",
+                             "simage": "https://m.media-amazon.com/images/M/MV5BNjA3NDExZWQtNGExNy00YTgxLWE2NGMtYzM0ZmZhMzVlNDU1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UX224_CR0,0,224,126_AL_.jpg",
+                             "ssubtitle":"/Hollywood series/Wednesday/season 1/Wednesday s1e8.srt"
+                         }
+             ]
+            ],
+         "thumbnailImageId": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1._SX200.jpg",
+        "genres": "Si-Fi,Fantasy,Mystery,Comedy,Hollywood,Us,Crime,Hindi,English",
+        "releaseDate": "2022",
+        "trailer": "https://www.imdb.com/video/vi1471530265/?ref_=ext_shr_lnk",
+        "cast": "Jenna Ortega,Emma Myers,Hunter Doohan...more"
+       },
+
+    {
         "name": "FLAMES",
         "description": "The story of a young romance unfolding as a chemical reaction. There is no such love as 'First Love'.",
         "ageRestriction": "16",
